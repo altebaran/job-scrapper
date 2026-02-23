@@ -1,0 +1,129 @@
+name: 🎯 Daily Job Scrape
+
+on:
+  # ── Runs every day at 06:00 UTC (07:00 CET / 08:00 CEST) ──
+  schedule:
+    - cron: "0 6 * * *"
+
+  # ── Manual trigger from GitHub UI ──
+  workflow_dispatch:
+    inputs:
+      reset_seen:
+        description: "Reset seen jobs database (show all jobs as new)"
+        required: false
+        default: "false"
+        type: choice
+        options:
+          - "false"
+          - "true"
+
+# ── Permissions: read code, write to push seen_jobs back, deploy Pages ──
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      # ── 1. Checkout repo (with history for pushing back) ──
+      - name: 📥 Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # ── 2. Setup Python ──
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      # ── 3. Install dependencies ──
+      - name: 📦 Install dependencies
+        run: pip install -r requirements.txt
+
+      # ── 4. Optional: reset seen database ──
+      - name: 🔄 Reset seen database
+        if: github.event.inputs.reset_seen == 'true'
+        run: |
+          echo '{"seen": {}, "last_run": null}' > data/seen_jobs.json
+          echo "✅ Seen jobs database reset"
+
+      # ── 5. Run the scraper ──
+      - name: 🔍 Run job scraper
+        run: python scraper.py
+        env:
+          GITHUB_ACTIONS: "true"
+
+      # ── 6. Send email notification ──
+      - name: 📧 Send email report
+        if: hashFiles('reports/latest-report.html') != ''
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: ${{ secrets.SMTP_SERVER }}
+          server_port: ${{ secrets.SMTP_PORT }}
+          username: ${{ secrets.EMAIL_USERNAME }}
+          password: ${{ secrets.EMAIL_PASSWORD }}
+          subject: "🎯 Job Report — ${{ env.REPORT_DATE }} — ${{ env.JOB_COUNT }} new matches"
+          to: ${{ secrets.EMAIL_TO }}
+          from: ${{ secrets.EMAIL_USERNAME }}
+          html_body: file://reports/latest-report.html
+          ignore_cert: true
+        continue-on-error: true  # Don't fail the workflow if email fails
+
+      # ── 7. Commit updated seen_jobs.json + reports back to repo ──
+      - name: 💾 Persist state & reports
+        run: |
+          git config user.name "Job Scraper Bot"
+          git config user.email "bot@jobscraper.local"
+          git add data/seen_jobs.json
+          git add reports/
+          git add docs/
+          # Only commit if there are changes
+          git diff --staged --quiet || git commit -m "🤖 Daily scrape — $(date +%Y-%m-%d) — ${JOB_COUNT:-0} new jobs"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # ── 8. Upload report as downloadable artifact ──
+      - name: 📎 Upload report artifact
+        if: hashFiles('reports/latest-report.html') != ''
+        uses: actions/upload-artifact@v4
+        with:
+          name: job-report-${{ env.REPORT_DATE }}
+          path: |
+            reports/latest-report.html
+            reports/latest-report.md
+          retention-days: 30
+
+  # ── Deploy reports to GitHub Pages ──
+  deploy-pages:
+    needs: scrape
+    runs-on: ubuntu-latest
+    if: always()
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: 📥 Checkout (after scrape pushed)
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: 📄 Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: 📦 Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - name: 🚀 Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
