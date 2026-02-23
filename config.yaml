@@ -1,0 +1,401 @@
+# ============================================================
+# JOB SCRAPER CONFIGURATION
+# Tailored for: Healthcare / Pharma / Digital Health roles
+# Target: Scale-ups & Corporate Innovation Centers in Germany
+# ============================================================
+
+# --- Profile & Relevance Scoring ---
+profile:
+  target_titles:
+    # Primary targets (highest score)
+    - "Head of Strategy"
+    - "Head of Business Development"
+    - "Head of Operations"
+    - "Head of Commercial"
+    - "Head of Partnerships"
+    - "Director of Strategy"
+    - "Director of Business Development"
+    - "Director of Operations"
+    - "Associate Director"
+    - "Senior Manager Strategy"
+    - "VP Operations"
+    - "VP Business Development"
+    - "VP Commercial"
+    - "General Manager"
+    - "Chief of Staff"
+    - "Program Director"
+    - "Head of Product"
+    - "Head of Growth"
+    - "Country Manager"
+    - "Regional Director"
+    - "Head of Innovation"
+    - "Director of Innovation"
+    - "Head of Digital Health"
+    - "Director of Digital Health"
+    - "Head of New Ventures"
+
+  # Keywords that signal relevance (used in scoring)
+  positive_keywords:
+    # Industry
+    - "digital health"
+    - "healthtech"
+    - "health tech"
+    - "medtech"
+    - "biotech"
+    - "pharma"
+    - "pharmaceutical"
+    - "life sciences"
+    - "healthcare"
+    - "diagnostics"
+    - "medical device"
+    - "clinical"
+    - "patient"
+    - "therapeutic"
+    - "real world evidence"
+    - "RWE"
+    - "digital therapeutics"
+    - "DTx"
+    - "SaMD"
+    - "ehealth"
+    - "e-health"
+    - "telemedicine"
+    - "telehealth"
+
+    # Function
+    - "business development"
+    - "strategy"
+    - "commercial"
+    - "go-to-market"
+    - "partnerships"
+    - "innovation"
+    - "new ventures"
+    - "corporate development"
+    - "product management"
+    - "growth"
+    - "market access"
+    - "stakeholder management"
+    - "P&L"
+    - "revenue"
+    - "scale-up"
+    - "scaleup"
+    - "venture"
+    - "startup"
+    - "digital transformation"
+
+  # Keywords that reduce relevance
+  negative_keywords:
+    - "junior"
+    - "intern"
+    - "internship"
+    - "werkstudent"
+    - "working student"
+    - "entry level"
+    - "entry-level"
+    - "praktikum"
+    - "trainee"
+    - "nurse"
+    - "nursing"
+    - "physician"
+    - "medical doctor"
+    - "laboratory technician"
+    - "lab technician"
+    - "clinical research associate"
+    - "CRA"
+
+  # Minimum relevance score (0-100) to include in report
+  min_relevance_score: 40
+
+# --- Search Queries ---
+# Each source will cycle through these search queries
+search_queries:
+  # English queries
+  - "Head of Strategy digital health Germany"
+  - "Director Business Development healthtech Germany"
+  - "Head of Operations healthcare scaleup Germany"
+  - "Associate Director pharma digital health Germany"
+  - "Head of Commercial medtech Germany"
+  - "VP Business Development life sciences Germany"
+  - "Head of Partnerships healthcare Germany"
+  - "Head of Innovation pharma Germany"
+  - "Director Strategy healthcare Germany remote"
+  - "Head of Growth healthtech Europe remote"
+  - "Chief of Staff healthcare startup Germany"
+  - "Country Manager Germany healthtech"
+  - "General Manager digital health Germany"
+  - "Head of Product digital health Germany"
+  - "Senior Manager Strategy pharma Germany"
+  - "Program Director healthcare innovation Germany"
+  - "Head of Digital Health Germany"
+  - "Director of New Ventures pharma Germany"
+
+  # German queries
+  - "Leiter Strategie Digital Health Deutschland"
+  - "Head of Business Development Gesundheitswesen Deutschland"
+  - "Direktor Innovation Pharma Deutschland"
+
+# --- Job Board Sources ---
+sources:
+  linkedin:
+    enabled: true
+    base_url: "https://www.linkedin.com/jobs/search/"
+    # Location IDs: Germany=101282230, Frankfurt=103360925
+    params:
+      location: "Germany"
+      geoId: "101282230"
+      f_TPR: "r86400"  # Past 24 hours
+      f_E: "4,5"        # Senior & Director level
+      sortBy: "DD"       # Date posted
+
+  indeed:
+    enabled: true
+    base_url: "https://de.indeed.com/jobs"
+    params:
+      l: "Deutschland"
+      fromage: "1"       # Last 1 day
+      sort: "date"
+
+  stepstone:
+    enabled: true
+    base_url: "https://www.stepstone.de/jobs"
+    params:
+      radius: "0"        # All of Germany
+      age: "1"           # Last 1 day
+      sort: "date"
+
+  # Startup/Scale-up focused boards
+  eu_startups:
+    enabled: true
+    base_url: "https://www.eu-startups.com/job-board/"
+
+  berlinstartupjobs:
+    enabled: true
+    base_url: "https://berlinstartupjobs.com/"
+
+  germantech_jobs:
+    enabled: true
+    base_url: "https://germantechjobs.de/"
+    params:
+      category: "management"
+
+  # Healthcare-specific
+  pharmiweb:
+    enabled: true
+    base_url: "https://www.pharmiweb.jobs/"
+
+  health_eco:
+    enabled: true
+    base_url: "https://healthecojobs.com/"
+
+  # Innovation / Corporate Venture
+  glassdoor:
+    enabled: true
+    base_url: "https://www.glassdoor.de/Job/"
+    params:
+      fromAge: "1"
+
+  # Remote-friendly
+  remote_ok:
+    enabled: true
+    base_url: "https://remoteok.com/"
+
+  weworkremotely:
+    enabled: true
+    base_url: "https://weworkremotely.com/"
+
+# --- Target Companies ---
+# Scale-ups and corporate innovation centers to monitor directly
+target_companies:
+  # German/European Healthtech Scale-ups
+  scale_ups:
+    - name: "Ada Health"
+      careers_url: "https://ada.com/careers/"
+      hq: "Berlin"
+    - name: "Doctolib"
+      careers_url: "https://careers.doctolib.com/"
+      hq: "Berlin/Paris"
+    - name: "Kry/Livi"
+      careers_url: "https://www.kry.se/en/careers/"
+      hq: "Stockholm (remote DE)"
+    - name: "Clue"
+      careers_url: "https://jobs.lever.co/clue"
+      hq: "Berlin"
+    - name: "Medbelle"
+      careers_url: "https://medbelle.com/careers"
+      hq: "Berlin/London"
+    - name: "Amboss"
+      careers_url: "https://www.amboss.com/us/careers"
+      hq: "Berlin"
+    - name: "Temedica"
+      careers_url: "https://temedica.com/careers/"
+      hq: "Munich"
+    - name: "Heartbeat Medical"
+      careers_url: "https://heartbeat-med.com/careers/"
+      hq: "Berlin"
+    - name: "Klara"
+      careers_url: "https://www.klara.com/careers"
+      hq: "Berlin"
+    - name: "Infermedica"
+      careers_url: "https://infermedica.com/careers"
+      hq: "Wroclaw (remote DE)"
+    - name: "Mindable Health"
+      careers_url: "https://www.mindable.health/en/careers"
+      hq: "Berlin"
+    - name: "Oviva"
+      careers_url: "https://oviva.com/de/de/karriere/"
+      hq: "Zurich (DE offices)"
+    - name: "HMNC Brain Health"
+      careers_url: "https://hmnc.de/careers/"
+      hq: "Munich"
+    - name: "Caspar Health"
+      careers_url: "https://caspar-health.com/en/careers/"
+      hq: "Berlin"
+    - name: "Mika (Fosanis)"
+      careers_url: "https://mika-app.com/en/career/"
+      hq: "Berlin"
+    - name: "Xund"
+      careers_url: "https://www.xund.ai/careers"
+      hq: "Vienna (remote DE)"
+    - name: "Aidence"
+      careers_url: "https://www.aidence.com/careers/"
+      hq: "Amsterdam (remote DE)"
+    - name: "MedWing"
+      careers_url: "https://www.medwing.com/en/careers/"
+      hq: "Berlin"
+    - name: "LifeLink"
+      careers_url: "https://lifelink.com/careers"
+      hq: "Munich"
+    - name: "Vara (formerly Merantix Healthcare)"
+      careers_url: "https://www.vara.ai/careers"
+      hq: "Berlin"
+    - name: "Kenbi"
+      careers_url: "https://www.kenbi.de/karriere"
+      hq: "Berlin"
+    - name: "Nelly Solutions"
+      careers_url: "https://www.nelly-solutions.com/en/career"
+      hq: "Berlin"
+    - name: "HelloBetter"
+      careers_url: "https://hellobetter.de/en/career/"
+      hq: "Hamburg"
+
+  # Corporate Innovation Centers / Digital Health Units
+  corporate_innovation:
+    - name: "Roche Digital Health"
+      careers_url: "https://careers.roche.com/"
+      hq: "Basel (DE offices)"
+    - name: "Bayer G4A (Grants4Apps)"
+      careers_url: "https://career.bayer.com/"
+      hq: "Berlin"
+    - name: "Novartis Biome"
+      careers_url: "https://www.novartis.com/careers"
+      hq: "Basel (DE offices)"
+    - name: "Siemens Healthineers Digital"
+      careers_url: "https://www.siemens-healthineers.com/careers"
+      hq: "Erlangen"
+    - name: "Boehringer Ingelheim Digital Lab"
+      careers_url: "https://www.boehringer-ingelheim.com/careers"
+      hq: "Ingelheim"
+    - name: "Merck Innovation Center"
+      careers_url: "https://www.merckgroup.com/en/careers.html"
+      hq: "Darmstadt"
+    - name: "Fresenius Digital Health"
+      careers_url: "https://career.fresenius.com/"
+      hq: "Bad Homburg"
+    - name: "Sanofi Digital"
+      careers_url: "https://careers.sanofi.com/"
+      hq: "Frankfurt/Paris"
+    - name: "Philips Health Innovation"
+      careers_url: "https://www.careers.philips.com/"
+      hq: "Hamburg (DE)"
+    - name: "Johnson & Johnson Innovation"
+      careers_url: "https://jobs.jnj.com/"
+      hq: "Multiple DE locations"
+    - name: "AstraZeneca Innovation"
+      careers_url: "https://careers.astrazeneca.com/"
+      hq: "Hamburg (DE)"
+    - name: "Abbott Digital Health"
+      careers_url: "https://www.abbott.com/careers.html"
+      hq: "Wiesbaden"
+    - name: "Stryker Digital"
+      careers_url: "https://careers.stryker.com/"
+      hq: "Freiburg"
+    - name: "Dräger Digital"
+      careers_url: "https://www.draeger.com/en_career/careers"
+      hq: "Lübeck"
+    - name: "B. Braun Digital"
+      careers_url: "https://www.bbraun.com/en/career.html"
+      hq: "Melsungen"
+
+# --- Location Filters ---
+locations:
+  include:
+    - "Germany"
+    - "Deutschland"
+    - "Berlin"
+    - "Munich"
+    - "München"
+    - "Frankfurt"
+    - "Hamburg"
+    - "Cologne"
+    - "Köln"
+    - "Düsseldorf"
+    - "Stuttgart"
+    - "Heidelberg"
+    - "Darmstadt"
+    - "Erlangen"
+    - "Ingelheim"
+    - "Mannheim"
+    - "Freiburg"
+    - "Lübeck"
+    - "Remote"
+    - "Hybrid"
+    - "Europe"
+    - "DACH"
+    - "EMEA"
+  exclude:
+    - "US only"
+    - "USA only"
+    - "UK only"
+    - "must be based in US"
+
+# --- Salary Filter ---
+salary:
+  min_eur: 100000
+  # Keywords suggesting 100k+ roles
+  seniority_indicators:
+    - "head of"
+    - "director"
+    - "VP"
+    - "vice president"
+    - "C-level"
+    - "chief"
+    - "principal"
+    - "senior manager"
+    - "associate director"
+    - "general manager"
+    - "country manager"
+    - "regional"
+    - "lead"
+    - "leiter"
+    - "direktor"
+
+# --- Output ---
+output:
+  report_dir: "./reports"
+  format: "html"  # html, markdown, or both
+  max_results_per_report: 50
+  seen_jobs_db: "./data/seen_jobs.json"
+
+# --- Scheduling ---
+schedule:
+  run_time: "07:00"  # Daily at 7 AM
+  timezone: "Europe/Berlin"
+
+# --- Email Notifications (optional) ---
+email:
+  enabled: false
+  smtp_server: "smtp.gmail.com"
+  smtp_port: 587
+  sender: "your-email@gmail.com"
+  password_env_var: "EMAIL_APP_PASSWORD"  # Use app password, not main password
+  recipient: "your-email@gmail.com"
+  subject_prefix: "[JobScraper]"
