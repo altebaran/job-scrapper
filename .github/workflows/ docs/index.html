@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>🎯 Job Scraper Dashboard</title>
+<style>
+    :root { --bg: #0f172a; --card: #1e293b; --text: #e2e8f0; --muted: #94a3b8; --accent: #38bdf8; }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: 'Inter', -apple-system, system-ui, sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; display: flex; align-items: center; justify-content: center; }
+    .container { max-width: 600px; text-align: center; padding: 2rem; }
+    h1 { font-size: 2rem; margin-bottom: 1rem; background: linear-gradient(135deg, #38bdf8, #818cf8); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+    p { color: var(--muted); font-size: 1.1rem; line-height: 1.6; }
+    .waiting { margin-top: 2rem; padding: 1.5rem; background: var(--card); border-radius: 12px; border: 1px solid #334155; }
+    .pulse { animation: pulse 2s ease-in-out infinite; }
+    @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } }
+</style>
+</head>
+<body>
+<div class="container">
+    <h1>🎯 Job Scraper Dashboard</h1>
+    <p>Healthcare · Digital Health · Pharma<br>Scale-ups & Innovation Centers in Germany</p>
+    <div class="waiting">
+        <p class="pulse">⏳ Waiting for first scrape to run...</p>
+        <p style="margin-top: 0.8rem; font-size: 0.85rem;">The scraper runs daily at 07:00 CET.<br>You can also trigger it manually from the Actions tab.</p>
+    </div>
+</div>
+</body>
+</html>
