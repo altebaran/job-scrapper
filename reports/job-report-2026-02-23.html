@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Job Report — 2026-02-23</title>
+<style>
+    :root { --bg: #0f172a; --card: #1e293b; --text: #e2e8f0; --muted: #94a3b8; --accent: #38bdf8; }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: 'Inter', -apple-system, system-ui, sans-serif; background: var(--bg); color: var(--text); padding: 2rem; }
+    .container { max-width: 960px; margin: 0 auto; }
+    header { text-align: center; margin-bottom: 2rem; padding: 2rem; background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); border-radius: 16px; border: 1px solid #334155; }
+    header h1 { font-size: 1.8rem; margin-bottom: 0.5rem; background: linear-gradient(135deg, #38bdf8, #818cf8); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+    header p { color: var(--muted); font-size: 0.95rem; }
+    .stats { display: flex; gap: 1rem; justify-content: center; margin-top: 1rem; flex-wrap: wrap; }
+    .stat { background: #334155; padding: 0.5rem 1rem; border-radius: 8px; font-size: 0.85rem; }
+    .stat strong { color: var(--accent); }
+    .back-link { display: inline-block; margin-bottom: 1.5rem; color: var(--accent); text-decoration: none; font-size: 0.9rem; }
+    .back-link:hover { text-decoration: underline; }
+    table { width: 100%; border-collapse: collapse; }
+    .job-row { background: var(--card); cursor: pointer; transition: background 0.2s; }
+    .job-row:hover { background: #334155; }
+    .job-row td { padding: 1rem; border-bottom: 1px solid #334155; vertical-align: top; }
+    .rank { width: 40px; text-align: center; color: var(--muted); font-weight: 600; }
+    .title a { color: var(--accent); text-decoration: none; font-weight: 600; font-size: 1.05rem; }
+    .title a:hover { text-decoration: underline; }
+    .company { color: #f1f5f9; margin: 0.25rem 0; font-weight: 500; }
+    .meta { display: flex; flex-wrap: wrap; gap: 0.75rem; color: var(--muted); font-size: 0.8rem; margin-top: 0.4rem; }
+    .score { width: 42px; height: 42px; border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-weight: 700; font-size: 0.85rem; }
+    .reasons { display: none; margin-top: 0.6rem; font-size: 0.8rem; color: var(--muted); line-height: 1.6; }
+    .expanded .reasons { display: block; }
+    .empty { text-align: center; padding: 3rem; color: var(--muted); }
+    footer { text-align: center; margin-top: 2rem; color: var(--muted); font-size: 0.8rem; }
+</style>
+</head>
+<body>
+<div class="container">
+    <a href="index.html" class="back-link">← Dashboard</a>
+    <header>
+        <h1>🎯 Daily Job Report</h1>
+        <p>Healthcare · Digital Health · Pharma — Scale-ups & Innovation Centers</p>
+        <div class="stats">
+            <div class="stat"><strong>15</strong> new matches</div>
+            <div class="stat"><strong>2026-02-23</strong> 11:54</div>
+            <div class="stat"><strong>0</strong> high relevance</div>
+        </div>
+    </header>
+    <table>
+        <tbody>
+            
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">1</td>
+                <td>
+                    <div class="title"><a href="https://fusionpharma.com/careers/" target="_blank" rel="noopener">Fusion Pharma</a></div>
+                    <div class="company">AstraZeneca Innovation</div>
+                    <div class="meta">
+                        <span class="location">📍 Hamburg (DE)</span>
+                        <span class="source">via Direct (AstraZeneca Innovation)</span>
+                        
+                        
+                    </div>
+                    <div class="reasons">• Keywords (2): pharma, innovation<br>• Location: 'hamburg'<br>• Target company: AstraZeneca Innovation</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        45
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">2</td>
+                <td>
+                    <div class="title"><a href="https://jobs.alexion.com/" target="_blank" rel="noopener">AlexionWe expanded our scientific footprint with the acquisition of Alexion's cutting-edge work in rare disease therapeutics.</a></div>
+                    <div class="company">AstraZeneca Innovation</div>
+                    <div class="meta">
+                        <span class="location">📍 Hamburg (DE)</span>
+                        <span class="source">via Direct (AstraZeneca Innovation)</span>
+                        
+                        
+                    </div>
+                    <div class="reasons">• Keywords (2): therapeutic, innovation<br>• Location: 'hamburg'<br>• Target company: AstraZeneca Innovation</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        45
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">3</td>
+                <td>
+                    <div class="title"><a href="https://vara.jobs.personio.de/" target="_blank" rel="noopener">View Open Positions</a></div>
+                    <div class="company">Vara (formerly Merantix Healthcare)</div>
+                    <div class="meta">
+                        <span class="location">📍 Berlin</span>
+                        <span class="source">via Direct (Vara (formerly Merantix Healthcare))</span>
+                        
+                        
+                    </div>
+                    <div class="reasons">• Keywords (1): healthcare<br>• Location: 'berlin'<br>• Target company: Vara (formerly Merantix Healthcare)</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        40
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">4</td>
+                <td>
+                    <div class="title"><a href="https://www.siemens-healthineers.com/careers/careers/customer-services" target="_blank" rel="noopener">Field Service Engineering & Customer ServiceOur field service and customer service teams play a vital role in helping healthcare providers deliver top-quality care. With a strong focus on customers, they bring expert support, smart solutions, and a deep commitment to service.Learn more</a></div>
+                    <div class="company">Siemens Healthineers Digital</div>
+                    <div class="meta">
+                        <span class="location">📍 Erlangen</span>
+                        <span class="source">via Direct (Siemens Healthineers Digital)</span>
+                        
+                        
+                    </div>
+                    <div class="reasons">• Keywords (1): healthcare<br>• Location: 'erlangen'<br>• Target company: Siemens Healthineers Digital</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        40
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">5</td>
+                <td>
+                    <div class="title"><a href="https://www.siemens-healthineers.com/careers/careers/software-engineering-it-digital" target="_blank" rel="noopener">Software Engineering, Cybersecurity, and ITOur tech teams are driving the future of healthcare. Software Engineers turn complex ideas into real solutions, Cybersecurity Experts protect our digital systems, and IT Professionals build the strong infrastructure that keeps everything running smoothly.Learn more</a></div>
+                    <div class="company">Siemens Healthineers Digital</div>
+                    <div class="meta">
+                        <span class="location">📍 Erlangen</span>
+                        <span class="source">via Direct (Siemens Healthineers Digital)</span>
+                        
+                        
+                    </div>
+                    <div class="reasons">• Keywords (1): healthcare<br>• Location: 'erlangen'<br>• Target company: Siemens Healthineers Digital</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        40
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">6</td>
+                <td>
+                    <div class="title"><a href="https://www.careers.philips.com/na/en/know-your-rights" target="_blank" rel="noopener">Know your rights</a></div>
+                    <div class="company">Philips Health Innovation</div>
+                    <div class="meta">
+                        <span class="location">📍 Hamburg (DE)</span>
+                        <span class="source">via Direct (Philips Health Innovation)</span>
+                        
+                        
+                    </div>
+                    <div class="reasons">• Keywords (1): innovation<br>• Location: 'hamburg'<br>• Target company: Philips Health Innovation</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        40
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">7</td>
+                <td>
+                    <div class="title"><a href="https://job-search.astrazeneca.com" target="_blank" rel="noopener">English</a></div>
+                    <div class="company">AstraZeneca Innovation</div>
+                    <div class="meta">
+                        <span class="location">📍 Hamburg (DE)</span>
+                        <span class="source">via Direct (AstraZeneca Innovation)</span>
+                        
+                        
+                    </div>
+                    <div class="reasons">• Keywords (1): innovation<br>• Location: 'hamburg'<br>• Target company: AstraZeneca Innovation</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        40
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">8</td>
+                <td>
+                    <div class="title"><a href="https://job-search.astrazeneca.ru" target="_blank" rel="noopener">русский</a></div>
+                    <div class="company">AstraZeneca Innovation</div>
+                    <div class="meta">
+                        <span class="location">📍 Hamburg (DE)</span>
+                        <span class="source">via Direct (AstraZeneca Innovation)</span>
+                        
+                        
+                    </div>
+                    <div class="reasons">• Keywords (1): innovation<br>• Location: 'hamburg'<br>• Target company: AstraZeneca Innovation</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        40
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">9</td>
+                <td>
+                    <div class="title"><a href="https://job-search.astrazeneca.de" target="_blank" rel="noopener">Deutsch</a></div>
+                    <div class="company">AstraZeneca Innovation</div>
+                    <div class="meta">
+                        <span class="location">📍 Hamburg (DE)</span>
+                        <span class="source">via Direct (AstraZeneca Innovation)</span>
+                        
+                        
+                    </div>
+                    <div class="reasons">• Keywords (1): innovation<br>• Location: 'hamburg'<br>• Target company: AstraZeneca Innovation</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        40
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">10</td>
+                <td>
+                    <div class="title"><a href="https://job-search.astrazeneca.fr" target="_blank" rel="noopener">Français</a></div>
+                    <div class="company">AstraZeneca Innovation</div>
+                    <div class="meta">
+                        <span class="location">📍 Hamburg (DE)</span>
+                        <span class="source">via Direct (AstraZeneca Innovation)</span>
+                        
+                        
+                    </div>
+                    <div class="reasons">• Keywords (1): innovation<br>• Location: 'hamburg'<br>• Target company: AstraZeneca Innovation</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        40
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">11</td>
+                <td>
+                    <div class="title"><a href="https://job-search.astrazeneca.se" target="_blank" rel="noopener">Svenska</a></div>
+                    <div class="company">AstraZeneca Innovation</div>
+                    <div class="meta">
+                        <span class="location">📍 Hamburg (DE)</span>
+                        <span class="source">via Direct (AstraZeneca Innovation)</span>
+                        
+                        
+                    </div>
+                    <div class="reasons">• Keywords (1): innovation<br>• Location: 'hamburg'<br>• Target company: AstraZeneca Innovation</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        40
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">12</td>
+                <td>
+                    <div class="title"><a href="https://careers.alexion.com/" target="_blank" rel="noopener">Alexion</a></div>
+                    <div class="company">AstraZeneca Innovation</div>
+                    <div class="meta">
+                        <span class="location">📍 Hamburg (DE)</span>
+                        <span class="source">via Direct (AstraZeneca Innovation)</span>
+                        
+                        
+                    </div>
+                    <div class="reasons">• Keywords (1): innovation<br>• Location: 'hamburg'<br>• Target company: AstraZeneca Innovation</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        40
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">13</td>
+                <td>
+                    <div class="title"><a href="https://astrazeneca.eightfold.ai/careers/join?domain=astrazeneca.com&hl=en" target="_blank" rel="noopener">Join Talent Network</a></div>
+                    <div class="company">AstraZeneca Innovation</div>
+                    <div class="meta">
+                        <span class="location">📍 Hamburg (DE)</span>
+                        <span class="source">via Direct (AstraZeneca Innovation)</span>
+                        
+                        
+                    </div>
+                    <div class="reasons">• Keywords (1): innovation<br>• Location: 'hamburg'<br>• Target company: AstraZeneca Innovation</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        40
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">14</td>
+                <td>
+                    <div class="title"><a href="https://astrazeneca.eightfold.ai/careers" target="_blank" rel="noopener">GET MATCHED TO A JOBUPLOAD YOUR RESUME</a></div>
+                    <div class="company">AstraZeneca Innovation</div>
+                    <div class="meta">
+                        <span class="location">📍 Hamburg (DE)</span>
+                        <span class="source">via Direct (AstraZeneca Innovation)</span>
+                        
+                        
+                    </div>
+                    <div class="reasons">• Keywords (1): innovation<br>• Location: 'hamburg'<br>• Target company: AstraZeneca Innovation</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        40
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">15</td>
+                <td>
+                    <div class="title"><a href="https://careers.astrazeneca.com/candidate-privacy-notice" target="_blank" rel="noopener">Job Application Privacy Notice</a></div>
+                    <div class="company">AstraZeneca Innovation</div>
+                    <div class="meta">
+                        <span class="location">📍 Hamburg (DE)</span>
+                        <span class="source">via Direct (AstraZeneca Innovation)</span>
+                        
+                        
+                    </div>
+                    <div class="reasons">• Keywords (1): innovation<br>• Location: 'hamburg'<br>• Target company: AstraZeneca Innovation</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        40
+                    </div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <footer>
+        <p>Click any row to see match details · Auto-generated by JobScraper</p>
+    </footer>
+</div>
+</body>
+</html>

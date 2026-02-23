@@ -1,0 +1,99 @@
+{
+  "seen": {
+    "18b1e2719684332da15c170f8f5d75cc": {
+      "title": "View Open Positions",
+      "company": "Vara (formerly Merantix Healthcare)",
+      "first_seen": "2026-02-23T11:54:13.965023",
+      "score": 40.0
+    },
+    "e37fc97cb4df9186b64f2096d21ddd5c": {
+      "title": "Field Service Engineering & Customer ServiceOur field service and customer service teams play a vital role in helping healthcare providers deliver top-quality care. With a strong focus on customers, they bring expert support, smart solutions, and a deep commitment to service.Learn more",
+      "company": "Siemens Healthineers Digital",
+      "first_seen": "2026-02-23T11:54:13.965032",
+      "score": 40.0
+    },
+    "5ad56cf561b174d4b011276a8e5ae602": {
+      "title": "Software Engineering, Cybersecurity, and ITOur tech teams are driving the future of healthcare. Software Engineers turn complex ideas into real solutions, Cybersecurity Experts protect our digital systems, and IT Professionals build the strong infrastructure that keeps everything running smoothly.Learn more",
+      "company": "Siemens Healthineers Digital",
+      "first_seen": "2026-02-23T11:54:13.965035",
+      "score": 40.0
+    },
+    "08ca85ce7d0dfd21c66936528dec09fc": {
+      "title": "Know your rights",
+      "company": "Philips Health Innovation",
+      "first_seen": "2026-02-23T11:54:13.965036",
+      "score": 40.0
+    },
+    "d1324879c00c6d9af5bd00726e1bf1e5": {
+      "title": "English",
+      "company": "AstraZeneca Innovation",
+      "first_seen": "2026-02-23T11:54:13.965037",
+      "score": 40.0
+    },
+    "f6175c67e0ca69b6f015c17fc95f0589": {
+      "title": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439",
+      "company": "AstraZeneca Innovation",
+      "first_seen": "2026-02-23T11:54:13.965039",
+      "score": 40.0
+    },
+    "07d0fdac0142af92a5609f0f5a66d304": {
+      "title": "Deutsch",
+      "company": "AstraZeneca Innovation",
+      "first_seen": "2026-02-23T11:54:13.965041",
+      "score": 40.0
+    },
+    "ec34abf4980d85cd72c30e2950dffe9b": {
+      "title": "Fran\u00e7ais",
+      "company": "AstraZeneca Innovation",
+      "first_seen": "2026-02-23T11:54:13.965042",
+      "score": 40.0
+    },
+    "fbc09da1c62d43caae79f8695b67a470": {
+      "title": "Svenska",
+      "company": "AstraZeneca Innovation",
+      "first_seen": "2026-02-23T11:54:13.965043",
+      "score": 40.0
+    },
+    "011feb81124c0231e5c8e3c7f24dd87a": {
+      "title": "Alexion",
+      "company": "AstraZeneca Innovation",
+      "first_seen": "2026-02-23T11:54:13.965044",
+      "score": 40.0
+    },
+    "86824b945dccf2bf50f430bd85653e93": {
+      "title": "Fusion Pharma",
+      "company": "AstraZeneca Innovation",
+      "first_seen": "2026-02-23T11:54:13.965046",
+      "score": 45.0
+    },
+    "f01a42663821ac7374acd4ff2e91866e": {
+      "title": "Join Talent Network",
+      "company": "AstraZeneca Innovation",
+      "first_seen": "2026-02-23T11:54:13.965047",
+      "score": 40.0
+    },
+    "31c264c20683e0825dcf1cbf8791de5e": {
+      "title": "GET MATCHED TO A JOBUPLOAD YOUR RESUME",
+      "company": "AstraZeneca Innovation",
+      "first_seen": "2026-02-23T11:54:13.965049",
+      "score": 40.0
+    },
+    "f5580b78712ba466f1b9cdb32173f452": {
+      "title": "AlexionWe expanded our scientific footprint with the acquisition of Alexion's cutting-edge work in rare disease therapeutics.",
+      "company": "AstraZeneca Innovation",
+      "first_seen": "2026-02-23T11:54:13.965050",
+      "score": 45.0
+    },
+    "50bc525ab4cec884a4756a40c1cef9db": {
+      "title": "Job Application Privacy Notice",
+      "company": "AstraZeneca Innovation",
+      "first_seen": "2026-02-23T11:54:13.965052",
+      "score": 40.0
+    }
+  },
+  "last_run": "2026-02-23T11:54:13.965059",
+  "stats": {
+    "total_seen": 15,
+    "total_reported": 15
+  }
+}
