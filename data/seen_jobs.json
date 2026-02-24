@@ -89,11 +89,23 @@
       "company": "AstraZeneca Innovation",
       "first_seen": "2026-02-23T11:54:13.965052",
       "score": 40.0
+    },
+    "f8d8381a45d077c08e72f9d1284f7a44": {
+      "title": "Global MidCorp Construction Underwriting Lead",
+      "company": "Allianz Commercial",
+      "first_seen": "2026-02-24T07:11:07.421355",
+      "score": 40.0
+    },
+    "ac8953e1ffc365daafa2f11a7bada662": {
+      "title": "Global MidCorp Construction Underwriting Lead",
+      "company": "Allianz Commercial",
+      "first_seen": "2026-02-24T07:11:07.421367",
+      "score": 40.0
     }
   },
-  "last_run": "2026-02-23T11:54:13.965059",
+  "last_run": "2026-02-24T07:11:07.421375",
   "stats": {
-    "total_seen": 15,
-    "total_reported": 15
+    "total_seen": 17,
+    "total_reported": 17
   }
 }
