@@ -101,11 +101,23 @@
       "company": "Allianz Commercial",
       "first_seen": "2026-02-24T07:11:07.421367",
       "score": 40.0
+    },
+    "a12ec17a69e4b46a4cf83588d6f9e20e": {
+      "title": "Head of Business Development, Public Sector EMEA (m/f/d)",
+      "company": "Nemetschek Group",
+      "first_seen": "2026-02-25T07:13:17.028740",
+      "score": 60.0
+    },
+    "24ae068c27b340d73fc2aa8188f2d860": {
+      "title": "Head of Clinical Segment Stroke (f/m/d)",
+      "company": "Siemens Healthineers",
+      "first_seen": "2026-02-25T07:13:17.028754",
+      "score": 55.0
     }
   },
-  "last_run": "2026-02-24T07:11:07.421375",
+  "last_run": "2026-02-25T07:13:17.028761",
   "stats": {
-    "total_seen": 17,
-    "total_reported": 17
+    "total_seen": 19,
+    "total_reported": 19
   }
 }
