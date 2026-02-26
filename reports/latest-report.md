@@ -1,20 +1,33 @@
-# 🎯 Daily Job Report — 2026-02-25
+# 🎯 Daily Job Report — 2026-02-26
 
-**2** new matches | **0** high relevance
+**4** new matches | **0** high relevance
 
 ---
 
-### 1. 🟡 Head of Business Development, Public Sector EMEA (m/f/d)
-**Nemetschek Group** · 📍 Munich, Bavaria, Germany · Score: 60/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-business-development-public-sector-emea-m-f-d-at-nemetschek-group-4377149669)
-  - Title match: 'head of business development'
-  - Keywords (1): business development
+### 1. ⚪ Executive Director, Marketplace (m/f/d)
+**Redcare Pharmacy** · 📍 Berlin, Berlin, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/executive-director-marketplace-m-f-d-at-redcare-pharmacy-4376910312)
+  - Seniority match: 'director'
+  - Keywords (1): pharma
   - Location: 'germany'
 
-### 2. 🟡 Head of Clinical Segment Stroke (f/m/d)
-**Siemens Healthineers** · 📍 Forchheim, Bavaria, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-clinical-segment-stroke-f-m-d-at-siemens-healthineers-4357352623)
-  - Seniority match: 'head of'
-  - Keywords (1): clinical
+### 2. ⚪ Executive Director, Marketplace (m/f/d)
+**Redcare Pharmacy** · 📍 Cologne, North Rhine-Westphalia, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/executive-director-marketplace-m-f-d-at-redcare-pharmacy-4376798713)
+  - Seniority match: 'director'
+  - Keywords (1): pharma
   - Location: 'germany'
-  - Target company: Siemens Healthineers Digital
+
+### 3. ⚪ Careers
+**Vara (formerly Merantix Healthcare)** · 📍 Berlin · Score: 40/100
+🔗 [Direct (Vara (formerly Merantix Healthcare))](https://www.vara.ai/careers/./careers)
+  - Keywords (1): healthcare
+  - Location: 'berlin'
+  - Target company: Vara (formerly Merantix Healthcare)
+
+### 4. ⚪ See open positions
+**Vara (formerly Merantix Healthcare)** · 📍 Berlin · Score: 40/100
+🔗 [Direct (Vara (formerly Merantix Healthcare))](https://vara.jobs.personio.de/)
+  - Keywords (1): healthcare
+  - Location: 'berlin'
+  - Target company: Vara (formerly Merantix Healthcare)

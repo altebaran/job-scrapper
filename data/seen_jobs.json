@@ -113,11 +113,35 @@
       "company": "Siemens Healthineers",
       "first_seen": "2026-02-25T07:13:17.028754",
       "score": 55.0
+    },
+    "0ad28ace2e3523c2ebb87bd49e55eca8": {
+      "title": "Executive Director, Marketplace (m/f/d)",
+      "company": "Redcare Pharmacy",
+      "first_seen": "2026-02-26T07:11:19.187041",
+      "score": 40.0
+    },
+    "00edaec380209f218cb556ae5850288f": {
+      "title": "Executive Director, Marketplace (m/f/d)",
+      "company": "Redcare Pharmacy",
+      "first_seen": "2026-02-26T07:11:19.187053",
+      "score": 40.0
+    },
+    "f17232d15e9aafbf77454ee826cec2e4": {
+      "title": "Careers",
+      "company": "Vara (formerly Merantix Healthcare)",
+      "first_seen": "2026-02-26T07:11:19.187057",
+      "score": 40.0
+    },
+    "9215c9dada0457eb9371fefc8e3bc8a0": {
+      "title": "See open positions",
+      "company": "Vara (formerly Merantix Healthcare)",
+      "first_seen": "2026-02-26T07:11:19.187061",
+      "score": 40.0
     }
   },
-  "last_run": "2026-02-25T07:13:17.028761",
+  "last_run": "2026-02-26T07:11:19.187068",
   "stats": {
-    "total_seen": 19,
-    "total_reported": 19
+    "total_seen": 23,
+    "total_reported": 23
   }
 }
