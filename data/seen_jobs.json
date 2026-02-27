@@ -137,11 +137,29 @@
       "company": "Vara (formerly Merantix Healthcare)",
       "first_seen": "2026-02-26T07:11:19.187061",
       "score": 40.0
+    },
+    "6a09fd990943c6551103a4257e30b0f7": {
+      "title": "Product Management Director",
+      "company": "Cadence",
+      "first_seen": "2026-02-27T07:05:48.612896",
+      "score": 40.0
+    },
+    "b88193aa3ccafb98ed8fda2b242e12a7": {
+      "title": "Head of Medical Affairs - Cardiovascular Care (f/m/d)",
+      "company": "Siemens Healthineers",
+      "first_seen": "2026-02-27T07:05:48.612909",
+      "score": 50.0
+    },
+    "11c4fd188aa6626d8fd73847be1c54fa": {
+      "title": "Head of Strategy, Business Development & Portfolio - Cardiovascular Care (f/m/d)",
+      "company": "Siemens Healthineers",
+      "first_seen": "2026-02-27T07:05:48.612913",
+      "score": 80.0
     }
   },
-  "last_run": "2026-02-26T07:11:19.187068",
+  "last_run": "2026-02-27T07:05:48.612919",
   "stats": {
-    "total_seen": 23,
-    "total_reported": 23
+    "total_seen": 26,
+    "total_reported": 26
   }
 }
