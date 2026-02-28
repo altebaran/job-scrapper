@@ -155,11 +155,35 @@
       "company": "Siemens Healthineers",
       "first_seen": "2026-02-27T07:05:48.612913",
       "score": 80.0
+    },
+    "21bf72e7f77d16c709ea72fec77079e3": {
+      "title": "Head of Marketing - Business Line Digital & Automation (f/m/d)",
+      "company": "Siemens Healthineers",
+      "first_seen": "2026-02-28T06:51:58.120107",
+      "score": 50.0
+    },
+    "1bbfe73ad05020ae3fd8471500b50580": {
+      "title": "Business Development Director",
+      "company": "Kintiga",
+      "first_seen": "2026-02-28T06:51:58.120119",
+      "score": 40.0
+    },
+    "fd20454e78b94179c702c8b5f8bdc74c": {
+      "title": "Head of Service Line \u2013 Service Plans (f/m/d)",
+      "company": "Siemens Healthineers",
+      "first_seen": "2026-02-28T06:51:58.120123",
+      "score": 50.0
+    },
+    "b0851f6d1d639731657688b9f0c23b26": {
+      "title": "General Manager:in",
+      "company": "New Chapter Executive Search GmbH",
+      "first_seen": "2026-02-28T06:51:58.120127",
+      "score": 55.0
     }
   },
-  "last_run": "2026-02-27T07:05:48.612919",
+  "last_run": "2026-02-28T06:51:58.120134",
   "stats": {
-    "total_seen": 26,
-    "total_reported": 26
+    "total_seen": 30,
+    "total_reported": 30
   }
 }
