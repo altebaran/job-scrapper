@@ -179,11 +179,17 @@
       "company": "New Chapter Executive Search GmbH",
       "first_seen": "2026-02-28T06:51:58.120127",
       "score": 55.0
+    },
+    "a07a09bedd7e708de525a149fd8c705c": {
+      "title": "Head of Marketing Pharma Rx (m/w/d)",
+      "company": "Viatris",
+      "first_seen": "2026-03-02T07:09:02.940417",
+      "score": 40.0
     }
   },
-  "last_run": "2026-03-01T06:58:32.334304",
+  "last_run": "2026-03-02T07:09:02.940428",
   "stats": {
-    "total_seen": 30,
-    "total_reported": 30
+    "total_seen": 31,
+    "total_reported": 31
   }
 }
