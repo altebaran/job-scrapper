@@ -1,12 +1,13 @@
-# 🎯 Daily Job Report — 2026-03-17
+# 🎯 Daily Job Report — 2026-03-18
 
-**1** new matches | **0** high relevance
+**1** new matches | **1** high relevance
 
 ---
 
-### 1. ⚪ Regionalmanager (m/w/d) Süd
-**Centric Health Germany** · 📍 Oberwesel, Rhineland-Palatinate, Germany · Score: 40/100
-🔗 [LinkedIn]()
-  - Seniority match: 'regional'
-  - Keywords (1): rwe
+### 1. 🟢 Head of Business Development & Strategy
+**Oviva** · 📍 Berlin, Germany · Score: 80/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-business-development-strategy-at-oviva-4361610754)
+  - Title match: 'head of business development'
+  - Keywords (2): business development, strategy
   - Location: 'germany'
+  - Target company: Oviva
