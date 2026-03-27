@@ -1,17 +1,5 @@
 {
   "seen": {
-    "a12ec17a69e4b46a4cf83588d6f9e20e": {
-      "title": "Head of Business Development, Public Sector EMEA (m/f/d)",
-      "company": "Nemetschek Group",
-      "first_seen": "2026-02-25T07:13:17.028740",
-      "score": 60.0
-    },
-    "24ae068c27b340d73fc2aa8188f2d860": {
-      "title": "Head of Clinical Segment Stroke (f/m/d)",
-      "company": "Siemens Healthineers",
-      "first_seen": "2026-02-25T07:13:17.028754",
-      "score": 55.0
-    },
     "0ad28ace2e3523c2ebb87bd49e55eca8": {
       "title": "Executive Director, Marketplace (m/f/d)",
       "company": "Redcare Pharmacy",
@@ -215,11 +203,29 @@
       "company": "AstraZeneca Innovation",
       "first_seen": "2026-03-26T07:21:11.670903",
       "score": 40.0
+    },
+    "6744bfc1d10e94a9b7089c4914b8fbc4": {
+      "title": "Client Director Pharma / Industrial & Auto (w/m/x)",
+      "company": "IBM iX DACH",
+      "first_seen": "2026-03-27T07:19:17.393405",
+      "score": 40.0
+    },
+    "45e925eec7a595bdfd96d6ccb626c1a0": {
+      "title": "Client Director Pharma / Industrial & Auto (w/m/x)",
+      "company": "IBM iX DACH",
+      "first_seen": "2026-03-27T07:19:17.393419",
+      "score": 40.0
+    },
+    "d949ff0e50a5b59cb8391803accda08d": {
+      "title": "Clinical Development Lead (Germany)",
+      "company": "UCB",
+      "first_seen": "2026-03-27T07:19:17.393423",
+      "score": 40.0
     }
   },
-  "last_run": "2026-03-26T07:21:11.670910",
+  "last_run": "2026-03-27T07:19:17.393431",
   "stats": {
-    "total_seen": 36,
-    "total_reported": 53
+    "total_seen": 37,
+    "total_reported": 56
   }
 }
