@@ -1,47 +1,5 @@
 {
   "seen": {
-    "0ad28ace2e3523c2ebb87bd49e55eca8": {
-      "title": "Executive Director, Marketplace (m/f/d)",
-      "company": "Redcare Pharmacy",
-      "first_seen": "2026-02-26T07:11:19.187041",
-      "score": 40.0
-    },
-    "00edaec380209f218cb556ae5850288f": {
-      "title": "Executive Director, Marketplace (m/f/d)",
-      "company": "Redcare Pharmacy",
-      "first_seen": "2026-02-26T07:11:19.187053",
-      "score": 40.0
-    },
-    "f17232d15e9aafbf77454ee826cec2e4": {
-      "title": "Careers",
-      "company": "Vara (formerly Merantix Healthcare)",
-      "first_seen": "2026-02-26T07:11:19.187057",
-      "score": 40.0
-    },
-    "9215c9dada0457eb9371fefc8e3bc8a0": {
-      "title": "See open positions",
-      "company": "Vara (formerly Merantix Healthcare)",
-      "first_seen": "2026-02-26T07:11:19.187061",
-      "score": 40.0
-    },
-    "6a09fd990943c6551103a4257e30b0f7": {
-      "title": "Product Management Director",
-      "company": "Cadence",
-      "first_seen": "2026-02-27T07:05:48.612896",
-      "score": 40.0
-    },
-    "b88193aa3ccafb98ed8fda2b242e12a7": {
-      "title": "Head of Medical Affairs - Cardiovascular Care (f/m/d)",
-      "company": "Siemens Healthineers",
-      "first_seen": "2026-02-27T07:05:48.612909",
-      "score": 50.0
-    },
-    "11c4fd188aa6626d8fd73847be1c54fa": {
-      "title": "Head of Strategy, Business Development & Portfolio - Cardiovascular Care (f/m/d)",
-      "company": "Siemens Healthineers",
-      "first_seen": "2026-02-27T07:05:48.612913",
-      "score": 80.0
-    },
     "21bf72e7f77d16c709ea72fec77079e3": {
       "title": "Head of Marketing - Business Line Digital & Automation (f/m/d)",
       "company": "Siemens Healthineers",
@@ -233,11 +191,209 @@
       "company": "Infermedica",
       "first_seen": "2026-03-28T07:09:17.970966",
       "score": 50.0
+    },
+    "21a1cffb10c12a13f567f8d72ed4d803": {
+      "title": "Head of / Leitung Strategische Entwicklung Diagnostik im Gesundheitswesen (m/w/d)",
+      "company": "",
+      "first_seen": "2026-03-29T07:14:57.646614",
+      "score": 50.0
+    },
+    "27e230b88d6159a35725694df2ea850a": {
+      "title": "Senior Manager Digital Health (m/w/d)",
+      "company": "",
+      "first_seen": "2026-03-29T07:14:57.646623",
+      "score": 55.0
+    },
+    "4a1694388b62892a26aac00a625274d9": {
+      "title": "Head of Operations Germany (m/w/d)",
+      "company": "",
+      "first_seen": "2026-03-29T07:14:57.646625",
+      "score": 70.0
+    },
+    "07830c32a63b250e8728adc0f444bd4e": {
+      "title": "Director Payers & Health Economics DACH (m/w/d)",
+      "company": "",
+      "first_seen": "2026-03-29T07:14:57.646627",
+      "score": 50.0
+    },
+    "9f98d6add25825ff6da9e9f807d32c69": {
+      "title": "Head of Market Growth (f/m/x)",
+      "company": "",
+      "first_seen": "2026-03-29T07:14:57.646629",
+      "score": 55.0
+    },
+    "885d8379cbcd58242c2ac85ebcc34f12": {
+      "title": "Chief of Staff (m/w/d) to the CEO & Director of Strategy",
+      "company": "",
+      "first_seen": "2026-03-29T07:14:57.646630",
+      "score": 75.0
+    },
+    "3db0d83a8f25d9c5a7d0086c6b1a5fbe": {
+      "title": "Director Global Sales & Growth - Fitness (m/w/d)",
+      "company": "",
+      "first_seen": "2026-03-29T07:14:57.646632",
+      "score": 55.0
+    },
+    "ef93426110237ff6db2fbbd59dd4c741": {
+      "title": "Head of IT Security / Cybersecurity (m/f/d)",
+      "company": "",
+      "first_seen": "2026-03-29T07:14:57.646633",
+      "score": 50.0
+    },
+    "c3a4bd049fd3142fd7755d2e7d9c735f": {
+      "title": "Head of Marketing (m/w/d)",
+      "company": "",
+      "first_seen": "2026-03-29T07:14:57.646634",
+      "score": 50.0
+    },
+    "c1e3b971db0f8308bdfa8f5cf99db130": {
+      "title": "Director \u2013 Strategy and Corporate Development (w/m/d)",
+      "company": "",
+      "first_seen": "2026-03-29T07:14:57.646635",
+      "score": 60.0
+    },
+    "4159df645ad2d6bbd1addb1bc3eea32c": {
+      "title": "Director (f/m/d) Sales and Business Development EMEA",
+      "company": "",
+      "first_seen": "2026-03-29T07:14:57.646637",
+      "score": 55.0
+    },
+    "c2307c1927369710dcc67eb924c48225": {
+      "title": "Director Technology, Development & Innovation (gn)",
+      "company": "",
+      "first_seen": "2026-03-29T07:14:57.646639",
+      "score": 55.0
+    },
+    "9c4e05b2e1789f00b84f4b69330d15a1": {
+      "title": "Manager Business Development & Services (m/f/d)",
+      "company": "",
+      "first_seen": "2026-03-29T07:14:57.646641",
+      "score": 40.0
+    },
+    "388fcf51e72cca95cd2a2daabe7b03e6": {
+      "title": "Senior Manager Business Development/Sektorenkopplung (m/w/d)",
+      "company": "",
+      "first_seen": "2026-03-29T07:14:57.646642",
+      "score": 55.0
+    },
+    "02e7a4e829844eeed571af25304fe188": {
+      "title": "Vice President Sales, Marketing, Business Development (m/w/d)",
+      "company": "",
+      "first_seen": "2026-03-29T07:14:57.646644",
+      "score": 55.0
+    },
+    "c7fa0179888765ff23384afb09fb4249": {
+      "title": "Head of Operations (w/m/d) - dezentrale Service- und Logistikorganisation - bekannte Unternehmensgruppe",
+      "company": "",
+      "first_seen": "2026-03-29T07:14:57.646646",
+      "score": 70.0
+    },
+    "3e90a3bed081ed47928d6488315b6f95": {
+      "title": "Head of Operations (m/w/d)",
+      "company": "",
+      "first_seen": "2026-03-29T07:14:57.646649",
+      "score": 70.0
+    },
+    "0cc93a552af8f16f23eeb54840037d14": {
+      "title": "Head of Operations (m/w/d) Digitales Rezept Zentrum (DRZ)",
+      "company": "",
+      "first_seen": "2026-03-29T07:14:57.646652",
+      "score": 70.0
+    },
+    "b64ff8156616e5750ab96f364a7502ff": {
+      "title": "Head of Operations (m/w/d)",
+      "company": "",
+      "first_seen": "2026-03-29T07:14:57.646655",
+      "score": 70.0
+    },
+    "e8e3aa2743f2392cb9ac82a8dcc24125": {
+      "title": "Head of Operations (m/w/d)",
+      "company": "",
+      "first_seen": "2026-03-29T07:14:57.646658",
+      "score": 70.0
+    },
+    "77323161c0931a23b8d01e1501f9102c": {
+      "title": "Associate Director Global Regulatory Affairs (m/f/d)",
+      "company": "",
+      "first_seen": "2026-03-29T07:14:57.646660",
+      "score": 70.0
+    },
+    "d9ec2adb08d411b2d71d9795474b1c4e": {
+      "title": "Senior Regulatory Affairs Manager* (m/w/d) / Non-Profit-Pharmaunternehmen",
+      "company": "",
+      "first_seen": "2026-03-29T07:14:57.646664",
+      "score": 40.0
+    },
+    "7c49a4325db13c69b7035d3ee02dd90e": {
+      "title": "Pharmaberater/Pharmareferenten/    Fachreferenten/Regionalleiter/                                           Ass. National Sales Manager (m/w/d) im Bereich Dermatologie bundesweit gesucht",
+      "company": "",
+      "first_seen": "2026-03-29T07:14:57.646666",
+      "score": 55.0
+    },
+    "c510d2775a9fccb1efdce389e2a4964c": {
+      "title": "Global Application Manager* | Pharmaceutical Excipients",
+      "company": "",
+      "first_seen": "2026-03-29T07:14:57.646669",
+      "score": 45.0
+    },
+    "69915072cb1dc26228dca9cff5da8b15": {
+      "title": "Pharmareferent Uro/Onkologie (m/w/d)",
+      "company": "",
+      "first_seen": "2026-03-29T07:14:57.646672",
+      "score": 40.0
+    },
+    "a2fe9d019752a4f5151f2454ed5add2b": {
+      "title": "Regulatory Affairs Manager (m/f/d) in-vitro diagnostic medical devices / CDx I 80-100%",
+      "company": "",
+      "first_seen": "2026-03-29T07:14:57.646674",
+      "score": 40.0
+    },
+    "b36fd4601834313eea89c030191b29cc": {
+      "title": "Category Manager \u2013 Pharmaceutical Packaging",
+      "company": "",
+      "first_seen": "2026-03-29T07:14:57.646677",
+      "score": 45.0
+    },
+    "de995245687c174ffee12e68fc46faa6": {
+      "title": "Head of Medical Sales & Education in Paderborn (m/w/d)",
+      "company": "",
+      "first_seen": "2026-03-29T07:14:57.646680",
+      "score": 50.0
+    },
+    "3a321bdc74cb10b425826152a71cec9a": {
+      "title": "Teamlead Urology Care Germany",
+      "company": "",
+      "first_seen": "2026-03-29T07:14:57.646682",
+      "score": 50.0
+    },
+    "2e880628fd7c5f283615e1a5f46f1384": {
+      "title": "Head of Sales Germany (m/w/d)",
+      "company": "",
+      "first_seen": "2026-03-29T07:14:57.646684",
+      "score": 50.0
+    },
+    "951d4640b226c7a4ae1baae63ee6c06f": {
+      "title": "Chief Medical and Research Officer (CMO) / Member Executive Board (m/w/d)",
+      "company": "",
+      "first_seen": "2026-03-29T07:14:57.646687",
+      "score": 50.0
+    },
+    "f17232d15e9aafbf77454ee826cec2e4": {
+      "title": "Careers",
+      "company": "Vara (formerly Merantix Healthcare)",
+      "first_seen": "2026-03-29T07:14:57.646689",
+      "score": 40.0
+    },
+    "9215c9dada0457eb9371fefc8e3bc8a0": {
+      "title": "See open positions",
+      "company": "Vara (formerly Merantix Healthcare)",
+      "first_seen": "2026-03-29T07:14:57.646691",
+      "score": 40.0
     }
   },
-  "last_run": "2026-03-28T07:09:17.970971",
+  "last_run": "2026-03-29T07:14:57.646698",
   "stats": {
-    "total_seen": 39,
-    "total_reported": 58
+    "total_seen": 65,
+    "total_reported": 91
   }
 }
