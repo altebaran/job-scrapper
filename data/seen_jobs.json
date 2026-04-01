@@ -1,11 +1,5 @@
 {
   "seen": {
-    "a07a09bedd7e708de525a149fd8c705c": {
-      "title": "Head of Marketing Pharma Rx (m/w/d)",
-      "company": "Viatris",
-      "first_seen": "2026-03-02T07:09:02.940417",
-      "score": 40.0
-    },
     "5f7c334df41d99d8783a93d650d783b9": {
       "title": "Head of Business Development&Strategy",
       "company": "Oviva",
@@ -505,9 +499,9 @@
       "score": 75.0
     }
   },
-  "last_run": "2026-03-31T07:26:56.616306",
+  "last_run": "2026-04-01T07:45:18.694820",
   "stats": {
-    "total_seen": 84,
+    "total_seen": 83,
     "total_reported": 114
   }
 }
