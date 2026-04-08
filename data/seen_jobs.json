@@ -509,11 +509,23 @@
       "company": "Kintiga",
       "first_seen": "2026-04-03T07:21:33.638401",
       "score": 40.0
+    },
+    "ee2c5baec9ecccd0b253b0bf7805c143": {
+      "title": "Associate Director, Business Development, Life Sciences and Manufacturing, DACH",
+      "company": "Publicis Sapient",
+      "first_seen": "2026-04-08T07:47:03.117076",
+      "score": 65.0
+    },
+    "ebb2a3a6223f3f6ed25da86652070c0e": {
+      "title": "Associate Director, Business Development, Life Sciences and Manufacturing, DACH",
+      "company": "Publicis Sapient",
+      "first_seen": "2026-04-08T07:47:03.117091",
+      "score": 65.0
     }
   },
-  "last_run": "2026-04-07T07:30:06.649431",
+  "last_run": "2026-04-08T07:47:03.117098",
   "stats": {
-    "total_seen": 85,
-    "total_reported": 116
+    "total_seen": 87,
+    "total_reported": 118
   }
 }
