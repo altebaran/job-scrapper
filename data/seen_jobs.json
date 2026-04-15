@@ -509,11 +509,23 @@
       "company": "Jobgether",
       "first_seen": "2026-04-10T07:52:57.263818",
       "score": 65.0
+    },
+    "8eff5ba28eafd1a05c2c9022e71b1b6c": {
+      "title": "Head of DTC & Digital Growth (m/f/d)",
+      "company": "IronMaxx Nutrition",
+      "first_seen": "2026-04-15T08:00:34.030097",
+      "score": 40.0
+    },
+    "31cbd9738c019531fedcd65315570a6e": {
+      "title": "Associate Director, Investor Relations",
+      "company": "BioNTech SE",
+      "first_seen": "2026-04-15T08:00:34.030113",
+      "score": 55.0
     }
   },
-  "last_run": "2026-04-14T07:58:36.147592",
+  "last_run": "2026-04-15T08:00:34.030120",
   "stats": {
-    "total_seen": 85,
-    "total_reported": 119
+    "total_seen": 87,
+    "total_reported": 121
   }
 }
