@@ -1,11 +1,5 @@
 {
   "seen": {
-    "57acd063e18b2096f4439295f897a3eb": {
-      "title": "Regionalmanager (m/w/d) S\u00fcd",
-      "company": "Centric Health Germany",
-      "first_seen": "2026-03-17T07:14:47.476936",
-      "score": 40.0
-    },
     "a078b0226756747882d9f2b1ed3d6db1": {
       "title": "Head of Business Development & Strategy",
       "company": "Oviva",
@@ -521,11 +515,23 @@
       "company": "BioNTech SE",
       "first_seen": "2026-04-15T08:00:34.030113",
       "score": 55.0
+    },
+    "cbde8acf3661fb0f2b07ba21bc506f6f": {
+      "title": "Head of Growth Excellence (m/f/d) - With Salary Details",
+      "company": "Covestro",
+      "first_seen": "2026-04-16T08:00:16.178983",
+      "score": 60.0
+    },
+    "ce69fc03af3ad0567f78577f01ce9f61": {
+      "title": "Head of AI Strategy",
+      "company": "Arup",
+      "first_seen": "2026-04-16T08:00:16.178993",
+      "score": 40.0
     }
   },
-  "last_run": "2026-04-15T08:00:34.030120",
+  "last_run": "2026-04-16T08:00:16.178999",
   "stats": {
-    "total_seen": 87,
-    "total_reported": 121
+    "total_seen": 88,
+    "total_reported": 123
   }
 }
