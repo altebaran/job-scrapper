@@ -1,17 +1,5 @@
 {
   "seen": {
-    "58f39eaae4b9e29736d0bb2bb6204b7a": {
-      "title": "Director of Strategy & Planning (m/w/d)",
-      "company": "Wolters Kluwer",
-      "first_seen": "2026-03-21T06:57:12.818898",
-      "score": 60.0
-    },
-    "3803ab5c69d01112d0a1d7b1f4bb4f0f": {
-      "title": "Head of Operations",
-      "company": "Eucalyptus",
-      "first_seen": "2026-03-21T06:57:12.818906",
-      "score": 55.0
-    },
     "05585584b891ba6d7f2492f53be47306": {
       "title": "Head of Product",
       "company": "Barrington James",
@@ -527,11 +515,23 @@
       "company": "knuspr.de",
       "first_seen": "2026-04-17T08:00:57.911834",
       "score": 40.0
+    },
+    "6e9bd967cfa0f71d3f14905c7fe81ce0": {
+      "title": "Head of Food Innovation & Ready Meals",
+      "company": "Rohlik Group",
+      "first_seen": "2026-04-20T08:22:24.785044",
+      "score": 40.0
+    },
+    "ae53439eaf2767c9840160d16620bf4f": {
+      "title": "Head of Food Innovation & Ready Meals",
+      "company": "Rohlik Group",
+      "first_seen": "2026-04-20T08:22:24.785056",
+      "score": 40.0
     }
   },
-  "last_run": "2026-04-19T07:30:01.848415",
+  "last_run": "2026-04-20T08:22:24.785065",
   "stats": {
     "total_seen": 88,
-    "total_reported": 124
+    "total_reported": 126
   }
 }
