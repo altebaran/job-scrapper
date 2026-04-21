@@ -527,11 +527,17 @@
       "company": "Rohlik Group",
       "first_seen": "2026-04-20T08:22:24.785056",
       "score": 40.0
+    },
+    "889e0e66f9eb3ae33dcf2a44028094ca": {
+      "title": "Head of Innovation Delivery & Business Intelligence (f/m/d)",
+      "company": "Heidelberg Materials",
+      "first_seen": "2026-04-21T08:04:39.023173",
+      "score": 60.0
     }
   },
-  "last_run": "2026-04-20T08:22:24.785065",
+  "last_run": "2026-04-21T08:04:39.023192",
   "stats": {
-    "total_seen": 88,
-    "total_reported": 126
+    "total_seen": 89,
+    "total_reported": 127
   }
 }
