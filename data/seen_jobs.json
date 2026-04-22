@@ -533,11 +533,65 @@
       "company": "Heidelberg Materials",
       "first_seen": "2026-04-21T08:04:39.023173",
       "score": 60.0
+    },
+    "cc1bcf12b472569aacb1371582f3d740": {
+      "title": "Explore more",
+      "company": "Merck Innovation Center",
+      "first_seen": "2026-04-22T08:01:48.747376",
+      "score": 40.0
+    },
+    "4a50626cbaf12768d205b7a38a5f237e": {
+      "title": "Explore more",
+      "company": "Merck Innovation Center",
+      "first_seen": "2026-04-22T08:01:48.747385",
+      "score": 40.0
+    },
+    "401fa975223fb4672411a7003c5f08af": {
+      "title": "Learn more",
+      "company": "Merck Innovation Center",
+      "first_seen": "2026-04-22T08:01:48.747387",
+      "score": 40.0
+    },
+    "8b1d4e70739491cdca8e2f418f826692": {
+      "title": "Learn more",
+      "company": "Merck Innovation Center",
+      "first_seen": "2026-04-22T08:01:48.747388",
+      "score": 40.0
+    },
+    "24253381edddc8bdca984f935f6159ae": {
+      "title": "Learn more.",
+      "company": "Merck Innovation Center",
+      "first_seen": "2026-04-22T08:01:48.747390",
+      "score": 40.0
+    },
+    "e02e292ed2c5e83e4252659e90fb6b51": {
+      "title": "See more",
+      "company": "Merck Innovation Center",
+      "first_seen": "2026-04-22T08:01:48.747392",
+      "score": 40.0
+    },
+    "70444306af11eb0fe3562d537a287639": {
+      "title": "Join Talent Zone",
+      "company": "Merck Innovation Center",
+      "first_seen": "2026-04-22T08:01:48.747393",
+      "score": 40.0
+    },
+    "e5661f74abb201b9efa610484fa45c1f": {
+      "title": "Career Site Cookie Settings",
+      "company": "Merck Innovation Center",
+      "first_seen": "2026-04-22T08:01:48.747394",
+      "score": 40.0
+    },
+    "22aaffe2db53f2b49f926db028c09941": {
+      "title": "CAREERS",
+      "company": "Merck Innovation Center",
+      "first_seen": "2026-04-22T08:01:48.747396",
+      "score": 40.0
     }
   },
-  "last_run": "2026-04-21T08:04:39.023192",
+  "last_run": "2026-04-22T08:01:48.747407",
   "stats": {
-    "total_seen": 89,
-    "total_reported": 127
+    "total_seen": 98,
+    "total_reported": 136
   }
 }
