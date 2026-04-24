@@ -1,11 +1,5 @@
 {
   "seen": {
-    "05585584b891ba6d7f2492f53be47306": {
-      "title": "Head of Product",
-      "company": "Barrington James",
-      "first_seen": "2026-03-25T07:13:40.460918",
-      "score": 55.0
-    },
     "e37fc97cb4df9186b64f2096d21ddd5c": {
       "title": "Field Service Engineering & Customer ServiceOur field service and customer service teams play a vital role in helping healthcare providers deliver top-quality care. With a strong focus on customers, they bring expert support, smart solutions, and a deep commitment to service.Learn more",
       "company": "Siemens Healthineers Digital",
@@ -595,9 +589,9 @@
       "score": 80.0
     }
   },
-  "last_run": "2026-04-23T08:07:27.153805",
+  "last_run": "2026-04-24T08:15:47.724108",
   "stats": {
-    "total_seen": 99,
+    "total_seen": 98,
     "total_reported": 137
   }
 }
