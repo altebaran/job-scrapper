@@ -1,17 +1,5 @@
 {
   "seen": {
-    "c8fb3a5b42dbc50dfc796741bbfcff34": {
-      "title": "Director QC Processes and Digitization Strategy",
-      "company": "BioNTech SE",
-      "first_seen": "2026-03-28T07:09:17.970957",
-      "score": 40.0
-    },
-    "2bbf239f7f7e9bfa6ac7ac06ceaef0ea": {
-      "title": "Lead Regulatory Compliance SpecialistRemote / Polandup to 26 000 PLN + VAT/B2Bup to 22 000 PLN gross/UoP",
-      "company": "Infermedica",
-      "first_seen": "2026-03-28T07:09:17.970966",
-      "score": 50.0
-    },
     "21a1cffb10c12a13f567f8d72ed4d803": {
       "title": "Head of / Leitung Strategische Entwicklung Diagnostik im Gesundheitswesen (m/w/d)",
       "company": "",
@@ -577,9 +565,9 @@
       "score": 40.0
     }
   },
-  "last_run": "2026-04-26T07:50:18.686244",
+  "last_run": "2026-04-27T08:36:49.258073",
   "stats": {
-    "total_seen": 96,
+    "total_seen": 94,
     "total_reported": 152
   }
 }
