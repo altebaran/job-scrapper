@@ -383,11 +383,17 @@
       "company": "Philips Health Innovation",
       "first_seen": "2026-04-28T08:36:26.108530",
       "score": 40.0
+    },
+    "345cff636c5915a4fdca10f9f32e75df": {
+      "title": "(Senior) Director / Vice President Life Sciences Germany (m/w/d)",
+      "company": "Capgemini Invent",
+      "first_seen": "2026-04-29T08:30:06.357770",
+      "score": 40.0
     }
   },
-  "last_run": "2026-04-28T08:36:26.108536",
+  "last_run": "2026-04-29T08:30:06.357790",
   "stats": {
-    "total_seen": 64,
-    "total_reported": 155
+    "total_seen": 65,
+    "total_reported": 156
   }
 }
