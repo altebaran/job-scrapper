@@ -1,17 +1,5 @@
 {
   "seen": {
-    "b0355a84245f1d13c7659e38431346b9": {
-      "title": "Head of External Manufacturing Product & Project Leadership",
-      "company": "Roche",
-      "first_seen": "2026-04-03T07:21:33.638389",
-      "score": 50.0
-    },
-    "601a20db85eb56c121739338bb54879e": {
-      "title": "Business Development Director",
-      "company": "Kintiga",
-      "first_seen": "2026-04-03T07:21:33.638401",
-      "score": 40.0
-    },
     "ee2c5baec9ecccd0b253b0bf7805c143": {
       "title": "Associate Director, Business Development, Life Sciences and Manufacturing, DACH",
       "company": "Publicis Sapient",
@@ -433,9 +421,9 @@
       "score": 50.0
     }
   },
-  "last_run": "2026-05-02T07:54:01.387029",
+  "last_run": "2026-05-03T08:10:43.571283",
   "stats": {
-    "total_seen": 72,
+    "total_seen": 70,
     "total_reported": 186
   }
 }
