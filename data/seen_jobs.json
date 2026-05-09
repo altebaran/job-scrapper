@@ -407,11 +407,35 @@
       "company": "",
       "first_seen": "2026-05-02T07:54:01.387022",
       "score": 50.0
+    },
+    "e1bc7b13dbb3241031051580ff7a9054": {
+      "title": "Head of Food Innovation & Ready Meals",
+      "company": "Rohlik Group",
+      "first_seen": "2026-05-09T08:06:10.771957",
+      "score": 40.0
+    },
+    "6744bfc1d10e94a9b7089c4914b8fbc4": {
+      "title": "Client Director Pharma / Industrial & Auto (w/m/x)",
+      "company": "IBM iX DACH",
+      "first_seen": "2026-05-09T08:06:10.771968",
+      "score": 40.0
+    },
+    "45e925eec7a595bdfd96d6ccb626c1a0": {
+      "title": "Client Director Pharma / Industrial & Auto (w/m/x)",
+      "company": "IBM iX DACH",
+      "first_seen": "2026-05-09T08:06:10.771970",
+      "score": 40.0
+    },
+    "b98881861cc177364bc7a07d63545d0f": {
+      "title": "Real Estate Portfolio Management & Strategy Expert (f/m/d)",
+      "company": "Siemens Healthineers",
+      "first_seen": "2026-05-09T08:06:10.771972",
+      "score": 40.0
     }
   },
-  "last_run": "2026-05-08T07:51:50.926965",
+  "last_run": "2026-05-09T08:06:10.771978",
   "stats": {
-    "total_seen": 68,
-    "total_reported": 186
+    "total_seen": 72,
+    "total_reported": 190
   }
 }
