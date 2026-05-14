@@ -449,11 +449,17 @@
       "company": "AstraZeneca Innovation",
       "first_seen": "2026-05-12T08:51:11.252759",
       "score": 40.0
+    },
+    "e8db33002470c1bae4337ce4d4865ae3": {
+      "title": "Head of Growth Marketing and Lifecycle (d/m/f) NYC or Berlin",
+      "company": "Leapsome",
+      "first_seen": "2026-05-14T08:47:57.548510",
+      "score": 60.0
     }
   },
-  "last_run": "2026-05-13T08:54:57.905297",
+  "last_run": "2026-05-14T08:47:57.548526",
   "stats": {
-    "total_seen": 75,
-    "total_reported": 194
+    "total_seen": 76,
+    "total_reported": 195
   }
 }
