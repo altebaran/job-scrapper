@@ -1,11 +1,5 @@
 {
   "seen": {
-    "615dc654f817a985387bdffba7f892b3": {
-      "title": "Head of Food Innovation & Ready Meals",
-      "company": "knuspr.de",
-      "first_seen": "2026-04-17T08:00:57.911834",
-      "score": 40.0
-    },
     "6e9bd967cfa0f71d3f14905c7fe81ce0": {
       "title": "Head of Food Innovation & Ready Meals",
       "company": "Rohlik Group",
@@ -451,9 +445,9 @@
       "score": 50.0
     }
   },
-  "last_run": "2026-05-16T08:14:36.422066",
+  "last_run": "2026-05-17T08:30:41.493473",
   "stats": {
-    "total_seen": 75,
+    "total_seen": 74,
     "total_reported": 198
   }
 }
