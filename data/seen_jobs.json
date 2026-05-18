@@ -443,11 +443,17 @@
       "company": "Boehringer Ingelheim",
       "first_seen": "2026-05-16T08:14:36.422053",
       "score": 50.0
+    },
+    "5fec359c1eef57033a986a85015ce31b": {
+      "title": "Head of Digital Product Operations & Business Development (gn) full-time / part-time (hybrid)",
+      "company": "DKV Mobility",
+      "first_seen": "2026-05-18T10:18:38.790034",
+      "score": 40.0
     }
   },
-  "last_run": "2026-05-17T08:30:41.493473",
+  "last_run": "2026-05-18T10:18:38.790046",
   "stats": {
-    "total_seen": 74,
-    "total_reported": 198
+    "total_seen": 75,
+    "total_reported": 199
   }
 }
