@@ -449,11 +449,17 @@
       "company": "DKV Mobility",
       "first_seen": "2026-05-18T10:18:38.790034",
       "score": 40.0
+    },
+    "f70873e7841b489f0cdc0d528954a038": {
+      "title": "Head of Revenue Operations (f/m/d)",
+      "company": "Trusted Shops",
+      "first_seen": "2026-05-19T09:59:38.477970",
+      "score": 40.0
     }
   },
-  "last_run": "2026-05-18T10:18:38.790046",
+  "last_run": "2026-05-19T09:59:38.477980",
   "stats": {
-    "total_seen": 75,
-    "total_reported": 199
+    "total_seen": 76,
+    "total_reported": 200
   }
 }
