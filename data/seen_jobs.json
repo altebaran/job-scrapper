@@ -467,11 +467,77 @@
       "company": "AstraZeneca Innovation",
       "first_seen": "2026-05-25T10:22:48.170747",
       "score": 40.0
+    },
+    "f461a85ab2763fbb2e3954b4554f9678": {
+      "title": "Transformation & Efficiency (T&E) Lead (m/w/d",
+      "company": "AstraZeneca",
+      "first_seen": "2026-05-26T10:08:53.069678",
+      "score": 50.0
+    },
+    "5756cfa535c73887b9d6c250ff77c0c7": {
+      "title": "Global Business Development Director",
+      "company": "Kintiga",
+      "first_seen": "2026-05-26T10:08:53.069696",
+      "score": 40.0
+    },
+    "3a5b8220ed39ad6f4fe4699ad3f171e7": {
+      "title": "Lead Business Expert Healthcare (m/w/d)",
+      "company": "BWI GmbH",
+      "first_seen": "2026-05-26T10:08:53.069701",
+      "score": 40.0
+    },
+    "1338027d9c531f6aa3931af339cbe2f6": {
+      "title": "Head of Product",
+      "company": "Certivity",
+      "first_seen": "2026-05-26T10:08:53.069704",
+      "score": 55.0
+    },
+    "3f12fe3edb6080c8f0bce05a77c0c39a": {
+      "title": "Regional Revenue Leader DACH",
+      "company": "Darwin Recruitment",
+      "first_seen": "2026-05-26T10:08:53.069707",
+      "score": 40.0
+    },
+    "5efdc54fc29c69b9ee1fe28b20ba2b26": {
+      "title": "Business Development Manager:in",
+      "company": "Nelly Solutions",
+      "first_seen": "2026-05-26T10:08:53.069711",
+      "score": 40.0
+    },
+    "9d0357d19e6362fccef9c2e0dc632e8c": {
+      "title": "Senior Manager Supply Strategy",
+      "company": "Boehringer Ingelheim",
+      "first_seen": "2026-05-26T10:08:53.069714",
+      "score": 55.0
+    },
+    "bd78d9cad2f82ad214ca589970430c03": {
+      "title": "HEAD OF OPERATIONS \u2013\nOperations manager\n(m/w/d) in der \nSystemgastronomie\nDeutschland",
+      "company": "tastyy (Deutschland)",
+      "first_seen": "2026-05-26T10:08:53.069717",
+      "score": 55.0
+    },
+    "dcdc44adc9e60ac52f05204105856185": {
+      "title": "Head of Sales GER & BeNeLux d/f/m",
+      "company": "RWE",
+      "first_seen": "2026-05-26T10:08:53.069722",
+      "score": 40.0
+    },
+    "4e62ac5a6477a3e1654a1e4444933833": {
+      "title": "Country manager",
+      "company": "JX Executive",
+      "first_seen": "2026-05-26T10:08:53.069725",
+      "score": 55.0
+    },
+    "837b77bd39b1f246042056ebc015deac": {
+      "title": "Senior Manager Market Access DACH (f/m/d)",
+      "company": "Regeneron",
+      "first_seen": "2026-05-26T10:08:53.069727",
+      "score": 40.0
     }
   },
-  "last_run": "2026-05-25T10:22:48.170754",
+  "last_run": "2026-05-26T10:08:53.069734",
   "stats": {
-    "total_seen": 78,
-    "total_reported": 230
+    "total_seen": 89,
+    "total_reported": 241
   }
 }
