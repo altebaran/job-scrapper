@@ -1,23 +1,5 @@
 {
   "seen": {
-    "f17232d15e9aafbf77454ee826cec2e4": {
-      "title": "Careers",
-      "company": "Vara (formerly Merantix Healthcare)",
-      "first_seen": "2026-04-28T08:36:26.108515",
-      "score": 40.0
-    },
-    "9215c9dada0457eb9371fefc8e3bc8a0": {
-      "title": "See open positions",
-      "company": "Vara (formerly Merantix Healthcare)",
-      "first_seen": "2026-04-28T08:36:26.108527",
-      "score": 40.0
-    },
-    "775fa7536853d06517beffbcc236fcda": {
-      "title": "Know Your Rights",
-      "company": "Philips Health Innovation",
-      "first_seen": "2026-04-28T08:36:26.108530",
-      "score": 40.0
-    },
     "345cff636c5915a4fdca10f9f32e75df": {
       "title": "(Senior) Director / Vice President Life Sciences Germany (m/w/d)",
       "company": "Capgemini Invent",
@@ -539,11 +521,35 @@
       "company": "Siemens Healthineers",
       "first_seen": "2026-05-27T10:05:48.758895",
       "score": 55.0
+    },
+    "31cbd9738c019531fedcd65315570a6e": {
+      "title": "Associate Director, Investor Relations",
+      "company": "BioNTech SE",
+      "first_seen": "2026-05-28T10:15:55.866078",
+      "score": 55.0
+    },
+    "26bb1fb2f329f3cb3b889b84cb143f1d": {
+      "title": "Senior Manager Strategic Partnerships and M&A (f/m/d)",
+      "company": "Siemens Healthineers",
+      "first_seen": "2026-05-28T10:15:55.866090",
+      "score": 55.0
+    },
+    "f17232d15e9aafbf77454ee826cec2e4": {
+      "title": "Careers",
+      "company": "Vara (formerly Merantix Healthcare)",
+      "first_seen": "2026-05-28T10:15:55.866097",
+      "score": 40.0
+    },
+    "9215c9dada0457eb9371fefc8e3bc8a0": {
+      "title": "See open positions",
+      "company": "Vara (formerly Merantix Healthcare)",
+      "first_seen": "2026-05-28T10:15:55.866100",
+      "score": 40.0
     }
   },
-  "last_run": "2026-05-27T10:05:48.758912",
+  "last_run": "2026-05-28T10:15:55.866107",
   "stats": {
-    "total_seen": 90,
-    "total_reported": 242
+    "total_seen": 91,
+    "total_reported": 246
   }
 }
