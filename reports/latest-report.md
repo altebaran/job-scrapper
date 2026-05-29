@@ -1,33 +1,19 @@
-# 🎯 Daily Job Report — 2026-05-28
+# 🎯 Daily Job Report — 2026-05-29
 
-**4** new matches | **0** high relevance
+**2** new matches | **0** high relevance
 
 ---
 
-### 1. 🟡 Associate Director, Investor Relations
-**BioNTech SE** · 📍 Mainz, Rhineland-Palatinate, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-investor-relations-at-biontech-se-4379966913)
-  - Title match: 'associate director'
+### 1. 🟡 Head of Operations Digital Transformation
+**Allianz Partners** · 📍 Munich, Bavaria, Germany · Score: 60/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-operations-digital-transformation-at-allianz-partners-4420408425)
+  - Title match: 'head of operations'
+  - Keywords (1): digital transformation
   - Location: 'germany'
 
-### 2. 🟡 Senior Manager Strategic Partnerships and M&A (f/m/d)
-**Siemens Healthineers** · 📍 Forchheim, Bavaria, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-manager-strategic-partnerships-and-m-a-f-m-d-at-siemens-healthineers-4417261757)
-  - Seniority match: 'senior manager'
-  - Keywords (1): partnerships
+### 2. ⚪ Head of Engineering (m/f/d)
+**Teva Pharmaceuticals** · 📍 Ulm, Baden-Württemberg, Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-engineering-m-f-d-at-teva-pharmaceuticals-4420457467)
+  - Seniority match: 'head of'
+  - Keywords (2): pharma, pharmaceutical
   - Location: 'germany'
-  - Target company: Siemens Healthineers Digital
-
-### 3. ⚪ Careers
-**Vara (formerly Merantix Healthcare)** · 📍 Berlin · Score: 40/100
-🔗 [Direct (Vara (formerly Merantix Healthcare))](https://www.vara.ai/careers/./careers)
-  - Keywords (1): healthcare
-  - Location: 'berlin'
-  - Target company: Vara (formerly Merantix Healthcare)
-
-### 4. ⚪ See open positions
-**Vara (formerly Merantix Healthcare)** · 📍 Berlin · Score: 40/100
-🔗 [Direct (Vara (formerly Merantix Healthcare))](https://vara.jobs.personio.de/)
-  - Keywords (1): healthcare
-  - Location: 'berlin'
-  - Target company: Vara (formerly Merantix Healthcare)
