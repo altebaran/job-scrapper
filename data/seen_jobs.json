@@ -1,23 +1,5 @@
 {
   "seen": {
-    "5435ba18fd1a9862cf8032c2ba5d81fb": {
-      "title": "Senior Director Global Patient Engagement, Advocacy & Excellence Lead",
-      "company": "BioNTech SE",
-      "first_seen": "2026-05-01T08:23:15.521089",
-      "score": 40.0
-    },
-    "f3f41426838a499675e20dbf34c0ba7a": {
-      "title": "Chief of Staff -ALM -Senior Director",
-      "company": "PTC",
-      "first_seen": "2026-05-01T08:23:15.521100",
-      "score": 55.0
-    },
-    "c469b17996374fa8ad4e2f007da03c03": {
-      "title": "Mobile Growth Lead (m/f/d)",
-      "company": "Phiture",
-      "first_seen": "2026-05-01T08:23:15.521102",
-      "score": 40.0
-    },
     "52fb0720792213762a64ba80a84e98f8": {
       "title": "Head of Business Development & Partnership Management (all genders)",
       "company": "",
@@ -557,11 +539,83 @@
       "company": "Sonova Group",
       "first_seen": "2026-05-30T08:37:01.132186",
       "score": 45.0
+    },
+    "62958e9b30178b738b3f18907ebec65c": {
+      "title": "Market Access Lead Obesity",
+      "company": "Boehringer Ingelheim",
+      "first_seen": "2026-05-31T08:55:52.651581",
+      "score": 55.0
+    },
+    "d9c4425a8b14aa8f4e1b01a57ec2e75c": {
+      "title": "Chief of Staff / Principal to the CEO (f/m/d)",
+      "company": "Natuvion",
+      "first_seen": "2026-05-31T08:55:52.651592",
+      "score": 55.0
+    },
+    "327ccc1c3dade3e549b92075510a4f3d": {
+      "title": "General Manager (Deutschland)",
+      "company": "Fresha",
+      "first_seen": "2026-05-31T08:55:52.651595",
+      "score": 55.0
+    },
+    "28179975c6f33c1a8145933de654997e": {
+      "title": "Head of Business Development (m/w/d)",
+      "company": "KAMAX",
+      "first_seen": "2026-05-31T08:55:52.651596",
+      "score": 60.0
+    },
+    "02e664e68c7dee9ddfec5c8afeae721c": {
+      "title": "Head of Sales / First Commercial Hire (m/f/d)",
+      "company": "Blaumann & Meyer - Sports Technology UG",
+      "first_seen": "2026-05-31T08:55:52.651598",
+      "score": 40.0
+    },
+    "67d1328d9d5761d4b543c9219d2eb599": {
+      "title": "Vice President of Operations",
+      "company": "Pharmaceutical Industry News",
+      "first_seen": "2026-05-31T08:55:52.651599",
+      "score": 45.0
+    },
+    "f9ca970cc3abeda94996fcb1bf857bd8": {
+      "title": "HEAD OF OPERATIONS \u2013\nOperations manager\n(m/w/d) in der \nSystemgastronomie\nDeutschland",
+      "company": "tastyy (Deutschland)",
+      "first_seen": "2026-05-31T08:55:52.651601",
+      "score": 55.0
+    },
+    "aa2fc5d4473cf7a1ffe6f80507705025": {
+      "title": "Scientific Digital Product Lead, Assay Workflows",
+      "company": "Roche",
+      "first_seen": "2026-05-31T08:55:52.651602",
+      "score": 50.0
+    },
+    "ab5a415c6a1e6e15fae6c2b16a38c231": {
+      "title": "Senior Manager/Associate Director - Commercial Excellence (1260)",
+      "company": "Axtria - Ingenious Insights",
+      "first_seen": "2026-05-31T08:55:52.651603",
+      "score": 60.0
+    },
+    "b37ab6f4ea395f8441895a48f576a23f": {
+      "title": "Director AS&T Projects & Strategy",
+      "company": "BioNTech SE",
+      "first_seen": "2026-05-31T08:55:52.651604",
+      "score": 40.0
+    },
+    "5530df22e07bf0ea575f707196cb91d6": {
+      "title": "Head of Pharmacy Sales (m/w/d)",
+      "company": "Perrigo Company plc",
+      "first_seen": "2026-05-31T08:55:52.651606",
+      "score": 40.0
+    },
+    "1f25b489f568cfdd5b505c147416b7a3": {
+      "title": "Associate Director Field Based Market Access, Germany",
+      "company": "argenx",
+      "first_seen": "2026-05-31T08:55:52.651611",
+      "score": 60.0
     }
   },
-  "last_run": "2026-05-30T08:37:01.132207",
+  "last_run": "2026-05-31T08:55:52.651619",
   "stats": {
-    "total_seen": 93,
-    "total_reported": 249
+    "total_seen": 102,
+    "total_reported": 261
   }
 }
