@@ -665,11 +665,83 @@
       "company": "Pierre Fabre Laboratories",
       "first_seen": "2026-06-04T10:07:18.116224",
       "score": 45.0
+    },
+    "5366d9d9c96d52c3571be5e52f1c0d16": {
+      "title": "Head of Doctor Partnerships (m/w/d)",
+      "company": "TeleClinic",
+      "first_seen": "2026-06-06T08:43:52.113507",
+      "score": 40.0
+    },
+    "fe58faa0cfd9eaaa73c6f8788912214d": {
+      "title": "Senior Strategy & Operations Manager",
+      "company": "Boehringer Ingelheim",
+      "first_seen": "2026-06-06T08:43:52.113525",
+      "score": 40.0
+    },
+    "023b81b961e16cb89590b7fb2e9292d9": {
+      "title": "Sr Director, Business Development, Structural Heart Disease",
+      "company": "Edwards Lifesciences",
+      "first_seen": "2026-06-06T08:43:52.113528",
+      "score": 40.0
+    },
+    "a0a58b44ad2aede77fcca48405463f6a": {
+      "title": "Commercial Lead Clinical (m/w/d)",
+      "company": "CompuGroup Medical SE & Co. KGaA",
+      "first_seen": "2026-06-06T08:43:52.113531",
+      "score": 45.0
+    },
+    "4618f31e4b505c3ca091670927e29350": {
+      "title": "Science Lead - Digital Biomarkers & Remote Patient Management",
+      "company": "Roche",
+      "first_seen": "2026-06-06T08:43:52.113533",
+      "score": 55.0
+    },
+    "96754190509b9c3b14887f6256061e99": {
+      "title": "EMEA Associate Director, Business Development",
+      "company": "Lonza",
+      "first_seen": "2026-06-06T08:43:52.113536",
+      "score": 60.0
+    },
+    "8456f5a1ed76d9a5db414456e87253aa": {
+      "title": "General Manager",
+      "company": "Mantell Associates",
+      "first_seen": "2026-06-06T08:43:52.113539",
+      "score": 55.0
+    },
+    "3a83d64d6bce2fe6c867b483fcad578d": {
+      "title": "Director of Project Management (m/f/d)",
+      "company": "Discovery Life Sciences",
+      "first_seen": "2026-06-06T08:43:52.113541",
+      "score": 40.0
+    },
+    "6bb43a5df4dc4444bd614b9515cc2bcc": {
+      "title": "Head of Sales (m/w/d) - Biotech",
+      "company": "Lipospec GmbH",
+      "first_seen": "2026-06-06T08:43:52.113543",
+      "score": 40.0
+    },
+    "833bcff0350b3718b9dfeb67a1a45f6e": {
+      "title": "Head of Commercial Partnerships",
+      "company": "IQM Quantum Computers",
+      "first_seen": "2026-06-06T08:43:52.113545",
+      "score": 65.0
+    },
+    "1778b2fbdab0560af9a41d556177483e": {
+      "title": "Head of Growth (Fokus Partnerships)",
+      "company": "gyde",
+      "first_seen": "2026-06-06T08:43:52.113548",
+      "score": 65.0
+    },
+    "356d1e24c3eb7c841bf93a2c8c40ecaf": {
+      "title": "Group Head of Quantitative Pharmacology-Projects, Germany (all genders)",
+      "company": "Sanofi",
+      "first_seen": "2026-06-06T08:43:52.113551",
+      "score": 55.0
     }
   },
-  "last_run": "2026-06-05T10:04:36.044298",
+  "last_run": "2026-06-06T08:43:52.113558",
   "stats": {
-    "total_seen": 111,
-    "total_reported": 297
+    "total_seen": 123,
+    "total_reported": 309
   }
 }
