@@ -713,11 +713,17 @@
       "company": "Sanofi",
       "first_seen": "2026-06-06T08:43:52.113551",
       "score": 55.0
+    },
+    "1cc266b051a173b1e8e19ee723ab7dd6": {
+      "title": "Director Commercial Operations",
+      "company": "BioNTech SE",
+      "first_seen": "2026-06-09T09:57:29.360451",
+      "score": 40.0
     }
   },
-  "last_run": "2026-06-08T11:10:16.615325",
+  "last_run": "2026-06-09T09:57:29.360464",
   "stats": {
-    "total_seen": 119,
-    "total_reported": 309
+    "total_seen": 120,
+    "total_reported": 310
   }
 }
