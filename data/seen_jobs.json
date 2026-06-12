@@ -719,11 +719,29 @@
       "company": "AstraZeneca Innovation",
       "first_seen": "2026-06-11T10:49:46.922135",
       "score": 40.0
+    },
+    "b38f10162618a707e82c44381f3954b1": {
+      "title": "Director Connected Solutions & Digital Transformation - Professional Filter (m/f/d)",
+      "company": "BRITA Group",
+      "first_seen": "2026-06-12T10:25:07.079486",
+      "score": 40.0
+    },
+    "01eec42f43e4d280d04e82285fc013f0": {
+      "title": "Head of Growth Marketing and Lifecycle (d/m/f) NYC or Berlin",
+      "company": "Insight Partners for Enterprise",
+      "first_seen": "2026-06-12T10:25:07.079495",
+      "score": 60.0
+    },
+    "c5564e9a732160214752e3d96bb12a95": {
+      "title": "Head of Commercial Training & Enablement (gn) full-time/part-time (hybrid)",
+      "company": "DKV Mobility",
+      "first_seen": "2026-06-12T10:25:07.079498",
+      "score": 60.0
     }
   },
-  "last_run": "2026-06-11T10:49:46.922141",
+  "last_run": "2026-06-12T10:25:07.079503",
   "stats": {
-    "total_seen": 120,
-    "total_reported": 314
+    "total_seen": 123,
+    "total_reported": 317
   }
 }
