@@ -1,11 +1,5 @@
 {
   "seen": {
-    "b217216d1f2fc62a7860f2d5a94d485a": {
-      "title": "Head of Communications HPBU",
-      "company": "Boehringer Ingelheim",
-      "first_seen": "2026-05-16T08:14:36.422053",
-      "score": 50.0
-    },
     "5fec359c1eef57033a986a85015ce31b": {
       "title": "Head of Digital Product Operations & Business Development (gn) full-time / part-time (hybrid)",
       "company": "DKV Mobility",
@@ -739,9 +733,9 @@
       "score": 40.0
     }
   },
-  "last_run": "2026-06-14T09:46:18.939683",
+  "last_run": "2026-06-15T12:30:16.380002",
   "stats": {
-    "total_seen": 123,
+    "total_seen": 122,
     "total_reported": 320
   }
 }
