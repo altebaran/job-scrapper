@@ -1,11 +1,12 @@
-# 🎯 Daily Job Report — 2026-06-17
+# 🎯 Daily Job Report — 2026-06-18
 
 **1** new matches | **0** high relevance
 
 ---
 
-### 1. 🟡 Head of Product – Agentic Offerings
-**commercetools** · 📍 Berlin, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-product-%E2%80%93-agentic-offerings-at-commercetools-4429537664)
-  - Title match: 'head of product'
+### 1. ⚪ EMEA Commercial Operations Director (Medical Devices)
+**BSI** · 📍 Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/emea-commercial-operations-director-medical-devices-at-bsi-4428745740)
+  - Seniority match: 'director'
+  - Keywords (2): medical device, commercial
   - Location: 'germany'
