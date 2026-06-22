@@ -1,11 +1,5 @@
 {
   "seen": {
-    "67afbe37cc1521a923c5fc78dde5e66d": {
-      "title": "Director Business Development - Digital Health (w/m/d)",
-      "company": "myoncare",
-      "first_seen": "2026-05-23T08:29:01.421829",
-      "score": 45.0
-    },
     "b535f44b343d71e900c6310c2d984e18": {
       "title": "Head of Strategic Partnerships (Marketing)",
       "company": "SoTalent",
@@ -709,9 +703,9 @@
       "score": 40.0
     }
   },
-  "last_run": "2026-06-21T10:00:09.339619",
+  "last_run": "2026-06-22T12:16:24.093553",
   "stats": {
-    "total_seen": 118,
+    "total_seen": 117,
     "total_reported": 332
   }
 }
