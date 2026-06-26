@@ -1,103 +1,19 @@
-# 🎯 Daily Job Report — 2026-06-25
+# 🎯 Daily Job Report — 2026-06-26
 
-**14** new matches | **0** high relevance
+**2** new matches | **0** high relevance
 
 ---
 
-### 1. ⚪ Fusion Pharma
-**AstraZeneca Innovation** · 📍 Hamburg (DE) · Score: 45/100
-🔗 [Direct (AstraZeneca Innovation)](https://fusionpharma.com/careers/)
-  - Keywords (2): pharma, innovation
-  - Location: 'hamburg'
-  - Target company: AstraZeneca Innovation
+### 1. 🟡 Head of Business Development, Public Sector - Germany (m/f/d)
+**Nemetschek Group** · 📍 Germany · Score: 60/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-business-development-public-sector-germany-m-f-d-at-nemetschek-group-4433505830)
+  - Title match: 'head of business development'
+  - Keywords (1): business development
+  - Location: 'germany'
 
-### 2. ⚪ AlexionWe expanded our scientific footprint with the acquisition of Alexion's cutting-edge work in rare disease therapeutics.
-**AstraZeneca Innovation** · 📍 Hamburg (DE) · Score: 45/100
-🔗 [Direct (AstraZeneca Innovation)](https://jobs.alexion.com/)
-  - Keywords (2): therapeutic, innovation
-  - Location: 'hamburg'
-  - Target company: AstraZeneca Innovation
-
-### 3. ⚪ Field Service Engineering & Customer ServiceOur field service and customer service teams play a vital role in helping healthcare providers deliver top-quality care. With a strong focus on customers, they bring expert support, smart solutions, and a deep commitment to service.Learn more
-**Siemens Healthineers Digital** · 📍 Erlangen · Score: 40/100
-🔗 [Direct (Siemens Healthineers Digital)](https://www.siemens-healthineers.com/careers/careers/customer-services)
+### 2. ⚪ CareersExplore opportunities to join our team and help tackle some of healthcare’s most complex challenges.
+**Aidence** · 📍 Amsterdam (remote DE) · Score: 40/100
+🔗 [Direct (Aidence)](https://deephealth.com/careers/)
   - Keywords (1): healthcare
-  - Location: 'erlangen'
-  - Target company: Siemens Healthineers Digital
-
-### 4. ⚪ Software Engineering, Cybersecurity, and ITOur tech teams are driving the future of healthcare. Software Engineers turn complex ideas into real solutions, Cybersecurity Experts protect our digital systems, and IT Professionals build the strong infrastructure that keeps everything running smoothly.Learn more
-**Siemens Healthineers Digital** · 📍 Erlangen · Score: 40/100
-🔗 [Direct (Siemens Healthineers Digital)](https://www.siemens-healthineers.com/careers/careers/software-engineering-it-digital)
-  - Keywords (1): healthcare
-  - Location: 'erlangen'
-  - Target company: Siemens Healthineers Digital
-
-### 5. ⚪ Know your rights
-**Philips Health Innovation** · 📍 Hamburg (DE) · Score: 40/100
-🔗 [Direct (Philips Health Innovation)](https://www.careers.philips.com/na/en/know-your-rights)
-  - Keywords (1): innovation
-  - Location: 'hamburg'
-  - Target company: Philips Health Innovation
-
-### 6. ⚪ English
-**AstraZeneca Innovation** · 📍 Hamburg (DE) · Score: 40/100
-🔗 [Direct (AstraZeneca Innovation)](https://job-search.astrazeneca.com)
-  - Keywords (1): innovation
-  - Location: 'hamburg'
-  - Target company: AstraZeneca Innovation
-
-### 7. ⚪ русский
-**AstraZeneca Innovation** · 📍 Hamburg (DE) · Score: 40/100
-🔗 [Direct (AstraZeneca Innovation)](https://job-search.astrazeneca.ru)
-  - Keywords (1): innovation
-  - Location: 'hamburg'
-  - Target company: AstraZeneca Innovation
-
-### 8. ⚪ Deutsch
-**AstraZeneca Innovation** · 📍 Hamburg (DE) · Score: 40/100
-🔗 [Direct (AstraZeneca Innovation)](https://job-search.astrazeneca.de)
-  - Keywords (1): innovation
-  - Location: 'hamburg'
-  - Target company: AstraZeneca Innovation
-
-### 9. ⚪ Français
-**AstraZeneca Innovation** · 📍 Hamburg (DE) · Score: 40/100
-🔗 [Direct (AstraZeneca Innovation)](https://job-search.astrazeneca.fr)
-  - Keywords (1): innovation
-  - Location: 'hamburg'
-  - Target company: AstraZeneca Innovation
-
-### 10. ⚪ Svenska
-**AstraZeneca Innovation** · 📍 Hamburg (DE) · Score: 40/100
-🔗 [Direct (AstraZeneca Innovation)](https://job-search.astrazeneca.se)
-  - Keywords (1): innovation
-  - Location: 'hamburg'
-  - Target company: AstraZeneca Innovation
-
-### 11. ⚪ Alexion
-**AstraZeneca Innovation** · 📍 Hamburg (DE) · Score: 40/100
-🔗 [Direct (AstraZeneca Innovation)](https://careers.alexion.com/)
-  - Keywords (1): innovation
-  - Location: 'hamburg'
-  - Target company: AstraZeneca Innovation
-
-### 12. ⚪ Join Talent Network
-**AstraZeneca Innovation** · 📍 Hamburg (DE) · Score: 40/100
-🔗 [Direct (AstraZeneca Innovation)](https://astrazeneca.eightfold.ai/careers/join?domain=astrazeneca.com&hl=en)
-  - Keywords (1): innovation
-  - Location: 'hamburg'
-  - Target company: AstraZeneca Innovation
-
-### 13. ⚪ GET MATCHED TO A JOBUPLOAD YOUR RESUME
-**AstraZeneca Innovation** · 📍 Hamburg (DE) · Score: 40/100
-🔗 [Direct (AstraZeneca Innovation)](https://astrazeneca.eightfold.ai/careers)
-  - Keywords (1): innovation
-  - Location: 'hamburg'
-  - Target company: AstraZeneca Innovation
-
-### 14. ⚪ Job Application Privacy Notice
-**AstraZeneca Innovation** · 📍 Hamburg (DE) · Score: 40/100
-🔗 [Direct (AstraZeneca Innovation)](https://careers.astrazeneca.com/candidate-privacy-notice)
-  - Keywords (1): innovation
-  - Location: 'hamburg'
-  - Target company: AstraZeneca Innovation
+  - Location: 'remote'
+  - Target company: Aidence
