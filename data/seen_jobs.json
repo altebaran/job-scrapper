@@ -1,11 +1,5 @@
 {
   "seen": {
-    "0d10f01cf0676fbe30a91b706777d87c": {
-      "title": "Head of Diagnostics Collaboration Office (f/m/d)",
-      "company": "Siemens Healthineers",
-      "first_seen": "2026-05-27T10:05:48.758895",
-      "score": 55.0
-    },
     "31cbd9738c019531fedcd65315570a6e": {
       "title": "Associate Director, Investor Relations",
       "company": "BioNTech SE",
@@ -641,11 +635,35 @@
       "company": "Aidence",
       "first_seen": "2026-06-26T09:40:14.072731",
       "score": 40.0
+    },
+    "e8db33002470c1bae4337ce4d4865ae3": {
+      "title": "Head of Growth Marketing and Lifecycle (d/m/f) NYC or Berlin",
+      "company": "Leapsome",
+      "first_seen": "2026-06-27T08:46:12.223920",
+      "score": 60.0
+    },
+    "c3cc09c799d1d7264936f263fb015a4f": {
+      "title": "Associate Director, Brand Outsourcing Strategy and Offering Development",
+      "company": "IQVIA",
+      "first_seen": "2026-06-27T08:46:12.223938",
+      "score": 60.0
+    },
+    "805f07f474c1ac1744f46fd3da35d39c": {
+      "title": "Associate Director, Brand Outsourcing Strategy and Offering Development",
+      "company": "IQVIA",
+      "first_seen": "2026-06-27T08:46:12.223942",
+      "score": 60.0
+    },
+    "5a4da379460c2989941add0af286287b": {
+      "title": "Associate Director, Brand Outsourcing Strategy and Offering Development",
+      "company": "IQVIA",
+      "first_seen": "2026-06-27T08:46:12.223945",
+      "score": 60.0
     }
   },
-  "last_run": "2026-06-26T09:40:14.072736",
+  "last_run": "2026-06-27T08:46:12.223953",
   "stats": {
-    "total_seen": 107,
-    "total_reported": 348
+    "total_seen": 110,
+    "total_reported": 352
   }
 }

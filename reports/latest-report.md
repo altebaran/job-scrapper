@@ -1,19 +1,33 @@
-# 🎯 Daily Job Report — 2026-06-26
+# 🎯 Daily Job Report — 2026-06-27
 
-**2** new matches | **0** high relevance
+**4** new matches | **0** high relevance
 
 ---
 
-### 1. 🟡 Head of Business Development, Public Sector - Germany (m/f/d)
-**Nemetschek Group** · 📍 Germany · Score: 60/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-business-development-public-sector-germany-m-f-d-at-nemetschek-group-4433505830)
-  - Title match: 'head of business development'
-  - Keywords (1): business development
+### 1. 🟡 Head of Growth Marketing and Lifecycle (d/m/f) NYC or Berlin
+**Leapsome** · 📍 Berlin, Berlin, Germany · Score: 60/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-growth-marketing-and-lifecycle-d-m-f-nyc-or-berlin-at-leapsome-4392199855)
+  - Title match: 'head of growth'
+  - Keywords (1): growth
   - Location: 'germany'
 
-### 2. ⚪ CareersExplore opportunities to join our team and help tackle some of healthcare’s most complex challenges.
-**Aidence** · 📍 Amsterdam (remote DE) · Score: 40/100
-🔗 [Direct (Aidence)](https://deephealth.com/careers/)
-  - Keywords (1): healthcare
-  - Location: 'remote'
-  - Target company: Aidence
+### 2. 🟡 Associate Director, Brand Outsourcing Strategy and Offering Development
+**IQVIA** · 📍 Munich, Bavaria, Germany · Score: 60/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-brand-outsourcing-strategy-and-offering-development-at-iqvia-4433244784)
+  - Title match: 'associate director'
+  - Keywords (1): strategy
+  - Location: 'germany'
+
+### 3. 🟡 Associate Director, Brand Outsourcing Strategy and Offering Development
+**IQVIA** · 📍 Frankfurt am Main, Hesse, Germany · Score: 60/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-brand-outsourcing-strategy-and-offering-development-at-iqvia-4433241762)
+  - Title match: 'associate director'
+  - Keywords (1): strategy
+  - Location: 'germany'
+
+### 4. 🟡 Associate Director, Brand Outsourcing Strategy and Offering Development
+**IQVIA** · 📍 Berlin, Berlin, Germany · Score: 60/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-brand-outsourcing-strategy-and-offering-development-at-iqvia-4433253495)
+  - Title match: 'associate director'
+  - Keywords (1): strategy
+  - Location: 'germany'
