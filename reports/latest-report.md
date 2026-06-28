@@ -1,33 +1,33 @@
-# 🎯 Daily Job Report — 2026-06-27
+# 🎯 Daily Job Report — 2026-06-28
 
 **4** new matches | **0** high relevance
 
 ---
 
-### 1. 🟡 Head of Growth Marketing and Lifecycle (d/m/f) NYC or Berlin
-**Leapsome** · 📍 Berlin, Berlin, Germany · Score: 60/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-growth-marketing-and-lifecycle-d-m-f-nyc-or-berlin-at-leapsome-4392199855)
-  - Title match: 'head of growth'
-  - Keywords (1): growth
+### 1. 🟡 Associate Director, BioPharma Business Development (EMEA)
+**Foundation Medicine** · 📍 Penzberg, Bavaria, Germany · Score: 65/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-biopharma-business-development-emea-at-foundation-medicine-4394666873)
+  - Title match: 'associate director'
+  - Keywords (2): pharma, business development
   - Location: 'germany'
 
-### 2. 🟡 Associate Director, Brand Outsourcing Strategy and Offering Development
-**IQVIA** · 📍 Munich, Bavaria, Germany · Score: 60/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-brand-outsourcing-strategy-and-offering-development-at-iqvia-4433244784)
-  - Title match: 'associate director'
-  - Keywords (1): strategy
+### 2. 🟡 Head of Communications HPBU
+**Boehringer Ingelheim** · 📍 Ingelheim am Rhein, Rhineland-Palatinate, Germany · Score: 50/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-communications-hpbu-at-boehringer-ingelheim-4415516137)
+  - Seniority match: 'head of'
   - Location: 'germany'
+  - Target company: Boehringer Ingelheim Digital Lab
 
-### 3. 🟡 Associate Director, Brand Outsourcing Strategy and Offering Development
-**IQVIA** · 📍 Frankfurt am Main, Hesse, Germany · Score: 60/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-brand-outsourcing-strategy-and-offering-development-at-iqvia-4433241762)
-  - Title match: 'associate director'
-  - Keywords (1): strategy
-  - Location: 'germany'
+### 3. ⚪ Careers
+**Vara (formerly Merantix Healthcare)** · 📍 Berlin · Score: 40/100
+🔗 [Direct (Vara (formerly Merantix Healthcare))](https://www.vara.ai/careers/./careers)
+  - Keywords (1): healthcare
+  - Location: 'berlin'
+  - Target company: Vara (formerly Merantix Healthcare)
 
-### 4. 🟡 Associate Director, Brand Outsourcing Strategy and Offering Development
-**IQVIA** · 📍 Berlin, Berlin, Germany · Score: 60/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-brand-outsourcing-strategy-and-offering-development-at-iqvia-4433253495)
-  - Title match: 'associate director'
-  - Keywords (1): strategy
-  - Location: 'germany'
+### 4. ⚪ See open positions
+**Vara (formerly Merantix Healthcare)** · 📍 Berlin · Score: 40/100
+🔗 [Direct (Vara (formerly Merantix Healthcare))](https://vara.jobs.personio.de/)
+  - Keywords (1): healthcare
+  - Location: 'berlin'
+  - Target company: Vara (formerly Merantix Healthcare)
