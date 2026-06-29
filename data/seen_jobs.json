@@ -1,23 +1,5 @@
 {
   "seen": {
-    "819660d5b5833a5e88f2945509319247": {
-      "title": "Head of Engineering (m/f/d)",
-      "company": "Teva Pharmaceuticals",
-      "first_seen": "2026-05-29T10:06:01.496365",
-      "score": 45.0
-    },
-    "bff2c38ed152e561c1177ac2d618ddfe": {
-      "title": "Head of Operations Digital Transformation",
-      "company": "Allianz Partners",
-      "first_seen": "2026-05-29T10:06:01.496380",
-      "score": 60.0
-    },
-    "0300097b8cbbab8a55c10d861c61fc5e": {
-      "title": "Director Commercial Execution Germany - Digital Health (Silent Cloud)",
-      "company": "Sonova Group",
-      "first_seen": "2026-05-30T08:37:01.132186",
-      "score": 45.0
-    },
     "62958e9b30178b738b3f18907ebec65c": {
       "title": "Market Access Lead Obesity",
       "company": "Boehringer Ingelheim",
@@ -659,11 +641,17 @@
       "company": "Vara (formerly Merantix Healthcare)",
       "first_seen": "2026-06-28T09:21:49.113120",
       "score": 40.0
+    },
+    "ab833cc5a81f4632fc498795c4861f60": {
+      "title": "Director of Market Access",
+      "company": "Kintiga",
+      "first_seen": "2026-06-29T11:12:29.264446",
+      "score": 40.0
     }
   },
-  "last_run": "2026-06-28T09:21:49.113127",
+  "last_run": "2026-06-29T11:12:29.264458",
   "stats": {
-    "total_seen": 110,
-    "total_reported": 356
+    "total_seen": 108,
+    "total_reported": 357
   }
 }
