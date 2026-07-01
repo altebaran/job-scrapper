@@ -581,11 +581,101 @@
       "company": "Siemens Healthineers",
       "first_seen": "2026-06-30T09:51:48.439448",
       "score": 70.0
+    },
+    "5c53d66d5d141a02f12e2668d6690061": {
+      "title": "Senior Strategy Manager (f/m/d) \u2013 Corporate Strategy, Clinical and Innovation Focus (MedTech)",
+      "company": "Siemens Healthineers",
+      "first_seen": "2026-07-01T10:01:59.360323",
+      "score": 55.0
+    },
+    "1d85206bfa934e3aec0eefaea2d1d658": {
+      "title": "Senior Strategy Manager (w/m/d) \u2013 Corporate Strategy, Clinical and Innovation Focus (MedTech)",
+      "company": "Siemens Healthineers",
+      "first_seen": "2026-07-01T10:01:59.360338",
+      "score": 55.0
+    },
+    "03256a8285dff5653ce19b6ce0eecdf1": {
+      "title": "(Senior) Director / Vice President Life Sciences Germany (m/w/d)",
+      "company": "Capgemini Invent",
+      "first_seen": "2026-07-01T10:01:59.360342",
+      "score": 40.0
+    },
+    "ec0bf32e7c2b5fae0bbe56043d929c99": {
+      "title": "Head of Product und Innovation Medizintechnik / Pharmaindustrie (m/w/d)",
+      "company": "BESTMINDS GmbH Executive Search EN",
+      "first_seen": "2026-07-01T10:01:59.360345",
+      "score": 65.0
+    },
+    "60e61633252bb301f63d0d2f1d9438a1": {
+      "title": "Commercial Director (m/w/d)",
+      "company": "Johnson & Johnson",
+      "first_seen": "2026-07-01T10:01:59.360348",
+      "score": 55.0
+    },
+    "d597f568ee43355db6ce1d83a9086784": {
+      "title": "Medical Affairs & Strategy Evidence Director (m/w/d).",
+      "company": "Johnson & Johnson",
+      "first_seen": "2026-07-01T10:01:59.360350",
+      "score": 55.0
+    },
+    "4110c8f25b9c34868f5883b64793947d": {
+      "title": "Head of Commercial Services (x|f|m)",
+      "company": "Sartorius",
+      "first_seen": "2026-07-01T10:01:59.360352",
+      "score": 60.0
+    },
+    "0d8354ee56bee46d2dbfca19afba4769": {
+      "title": "Strategic Business Development Director \u2013 Life Sciences (Enterprise SaaS) (all genders - Germany)",
+      "company": "Tenthpin",
+      "first_seen": "2026-07-01T10:01:59.360355",
+      "score": 45.0
+    },
+    "8e628c853943ca4ce5fd8aabc26ddb6d": {
+      "title": "Director of Sales, Biopharma",
+      "company": "JoVE",
+      "first_seen": "2026-07-01T10:01:59.360358",
+      "score": 40.0
+    },
+    "c6cd45ca0098e167b366357396191488": {
+      "title": "Business Development Leader, DACH",
+      "company": "iGrafx",
+      "first_seen": "2026-07-01T10:01:59.360360",
+      "score": 40.0
+    },
+    "0ec49b7d1f1bd74b4ba3ecf354a425d2": {
+      "title": "Operational Excellence Lead (x/f/m)",
+      "company": "Doctolib",
+      "first_seen": "2026-07-01T10:01:59.360363",
+      "score": 50.0
+    },
+    "de9296eb4b7e017309c76ec88fd288b6": {
+      "title": "Global Head of Product Operations (m/f/d)",
+      "company": "CHEPLAPHARM",
+      "first_seen": "2026-07-01T10:01:59.360365",
+      "score": 55.0
+    },
+    "e43d724211574434521e456877f4ada6": {
+      "title": "Country Manager Germany & Northeast Europe Business Area (M/F)",
+      "company": "LIMAGRAIN EUROPE",
+      "first_seen": "2026-07-01T10:01:59.360367",
+      "score": 55.0
+    },
+    "f0a375dcf0454cce22f053b67c3181d0": {
+      "title": "Head of Partnerships (m/w/d) f\u00fcr Selfcare Company in Vollzeit gesucht",
+      "company": "Soulhouse",
+      "first_seen": "2026-07-01T10:01:59.360370",
+      "score": 60.0
+    },
+    "e76271daccbff315d9af1b3284e7c565": {
+      "title": "Head of Partnerships - (m/f/d) - Remote",
+      "company": "Xentral ERP Software",
+      "first_seen": "2026-07-01T10:01:59.360372",
+      "score": 60.0
     }
   },
-  "last_run": "2026-06-30T09:51:48.439463",
+  "last_run": "2026-07-01T10:01:59.360379",
   "stats": {
-    "total_seen": 97,
-    "total_reported": 358
+    "total_seen": 112,
+    "total_reported": 373
   }
 }
