@@ -791,11 +791,113 @@
       "company": "ahead\u00ae",
       "first_seen": "2026-07-02T09:24:27.091360",
       "score": 60.0
+    },
+    "b8052a125b10b0dfe0de6f4daf8df974": {
+      "title": "Regional Head of Technology - Electrophysiology and NeuroVascular - EMEA",
+      "company": "Johnson & Johnson",
+      "first_seen": "2026-07-03T09:30:05.891922",
+      "score": 50.0
+    },
+    "0c4b13628bb058902b9d590ae5f5121b": {
+      "title": "Director Tech Strategy & GenAI \u2013 Healthcare & Life Sciences (m/f/d)",
+      "company": "Simon-Kucher",
+      "first_seen": "2026-07-03T09:30:05.891936",
+      "score": 50.0
+    },
+    "8cf2e21d0b5d84865cd5ddee573f414d": {
+      "title": "Head of Partnerships (all genders)",
+      "company": "Avelios Medical",
+      "first_seen": "2026-07-03T09:30:05.891940",
+      "score": 60.0
+    },
+    "d871c909db2e42819335c6e4e84338e2": {
+      "title": "Director Tech Strategy & GenAI \u2013 Healthcare & Life Sciences (m/f/d)",
+      "company": "Simon-Kucher",
+      "first_seen": "2026-07-03T09:30:05.891943",
+      "score": 50.0
+    },
+    "9b55c7a5f12e75b177c545ffe034396f": {
+      "title": "Head of Product Management EMEA (m/w/d) - Endoscopy",
+      "company": "Michael Page",
+      "first_seen": "2026-07-03T09:30:05.891946",
+      "score": 60.0
+    },
+    "67d7f5ffbadd41425d885dbe57826e67": {
+      "title": "Country Manager",
+      "company": "Guided Solutions",
+      "first_seen": "2026-07-03T09:30:05.891950",
+      "score": 55.0
+    },
+    "f6b04014198a98d2be667ee140dd6432": {
+      "title": "Head of Business Development & Growth (all genders)",
+      "company": "Halion Fusion Group",
+      "first_seen": "2026-07-03T09:30:05.891952",
+      "score": 65.0
+    },
+    "832c800e8d7a764d5254de2ecd3d07a9": {
+      "title": "Associate Director, Key Accounts (Germany & Austria)",
+      "company": "TAPI",
+      "first_seen": "2026-07-03T09:30:05.891955",
+      "score": 55.0
+    },
+    "5bbfb2786c8982ce0f6b37cb5f5b4522": {
+      "title": "General Manager Germany",
+      "company": "Fresha",
+      "first_seen": "2026-07-03T09:30:05.891958",
+      "score": 55.0
+    },
+    "5de239b1b0f479471f9c1027f41c14c2": {
+      "title": "Head of Strategy and Operations \u2014 Partnerships",
+      "company": "GetYourGuide",
+      "first_seen": "2026-07-03T09:30:05.891961",
+      "score": 65.0
+    },
+    "df525a92b78df875084af1c99930d9bb": {
+      "title": "Director Scientific Competitive Intelligence & Insights - Oncology (all genders)",
+      "company": "Bayer",
+      "first_seen": "2026-07-03T09:30:05.891964",
+      "score": 50.0
+    },
+    "9ac07f94a72824df701280c8aead100d": {
+      "title": "Associate Director Health Technology Assessment (HTA) (m/w/d)",
+      "company": "BioNTech SE",
+      "first_seen": "2026-07-03T09:30:05.891966",
+      "score": 60.0
+    },
+    "f516c908a16ba3530a1e1cdb20e52917": {
+      "title": "Associate Director, Market Access AMNOG, Germany",
+      "company": "Revolution Medicines",
+      "first_seen": "2026-07-03T09:30:05.891969",
+      "score": 60.0
+    },
+    "9f476a8f8af6c7c0751701e3ded337c9": {
+      "title": "Resin Modality Commercial Leader EMEA (m/f/d) - Jobbird.com",
+      "company": "Jobster",
+      "first_seen": "2026-07-03T09:30:05.891972",
+      "score": 40.0
+    },
+    "9f9c9f9cce754e0f69692d6c5f720556": {
+      "title": "Customer Partnering Lead (m/w/d) H\u00e4mophilie",
+      "company": "Roche",
+      "first_seen": "2026-07-03T09:30:05.891974",
+      "score": 50.0
+    },
+    "de47324e277812475d7c84ba413e8cdb": {
+      "title": "Customer Partnering Lead (m/w/d) H\u00e4mophilie",
+      "company": "Roche",
+      "first_seen": "2026-07-03T09:30:05.891977",
+      "score": 50.0
+    },
+    "4ec56bd473e240bc7fba1d5725c8a9b0": {
+      "title": "Senior Principal Scientist (all genders) - Thrombosis",
+      "company": "Bayer",
+      "first_seen": "2026-07-03T09:30:05.891979",
+      "score": 50.0
     }
   },
-  "last_run": "2026-07-02T09:24:27.091365",
+  "last_run": "2026-07-03T09:30:05.891986",
   "stats": {
-    "total_seen": 132,
-    "total_reported": 394
+    "total_seen": 149,
+    "total_reported": 411
   }
 }
