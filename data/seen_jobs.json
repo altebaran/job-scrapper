@@ -1,125 +1,5 @@
 {
   "seen": {
-    "a31369af43828051f30ecf2e56a8af31": {
-      "title": "Head of Product and Strategy | ROB'E",
-      "company": "NLC Health Ventures",
-      "first_seen": "2026-06-03T11:12:07.353630",
-      "score": 65.0
-    },
-    "53d20a1c508fbcbab91444bd182d37f6": {
-      "title": "Director Product Management (m/w/d)",
-      "company": "CompuGroup Medical SE & Co. KGaA",
-      "first_seen": "2026-06-03T11:12:07.353644",
-      "score": 40.0
-    },
-    "fba0196221dd65a6c0252a9ad4a7d680": {
-      "title": "Head of Automation Healthcare Software (f/m/d)",
-      "company": "CompuGroup Medical SE & Co. KGaA",
-      "first_seen": "2026-06-03T11:12:07.353648",
-      "score": 40.0
-    },
-    "227b6167f7e704992faa8d2ca62af82f": {
-      "title": "Director, Digital, Data and AI Capability (m/w/d)",
-      "company": "Teva Pharmaceuticals",
-      "first_seen": "2026-06-03T11:12:07.353651",
-      "score": 45.0
-    },
-    "f790c475cd245bc000271b1ac0b9591b": {
-      "title": "Pricing & Access Strategy Lead (m/w/d)",
-      "company": "IGES GmbH",
-      "first_seen": "2026-06-03T11:12:07.353654",
-      "score": 40.0
-    },
-    "f7d59314f9ae92d6be0e2ef29b4c94c9": {
-      "title": "Director of Business Development, Europe",
-      "company": "Viatris",
-      "first_seen": "2026-06-03T11:12:07.353657",
-      "score": 40.0
-    },
-    "6717d4edb6f19781ec740b7b416fa4a5": {
-      "title": "Director, Strategic Enterprise Partnerships (f/m/d)",
-      "company": "adjoe",
-      "first_seen": "2026-06-03T11:12:07.353659",
-      "score": 40.0
-    },
-    "5e0b390dc450a7d8c4e8c57e4e23d9f5": {
-      "title": "Head of Patient Care Operations (d/f/m)",
-      "company": "Ottobock",
-      "first_seen": "2026-06-03T11:12:07.353662",
-      "score": 40.0
-    },
-    "9c95b46bfa996cf0fd6567244f664207": {
-      "title": "Director of Operations",
-      "company": "ARTO",
-      "first_seen": "2026-06-03T11:12:07.353664",
-      "score": 55.0
-    },
-    "e109fd1dadc3a3782b56bab935d8b9c8": {
-      "title": "General Manager (M/F/D)",
-      "company": "Catalent",
-      "first_seen": "2026-06-03T11:12:07.353667",
-      "score": 55.0
-    },
-    "859a948711a20f003bd137d2e7c22c82": {
-      "title": "Manager Commercial Operations (m/w/d)",
-      "company": "Abbott",
-      "first_seen": "2026-06-03T11:12:07.353672",
-      "score": 40.0
-    },
-    "c08e01302463343e2172e14f6fd50ea8": {
-      "title": "Head of Operations (m/w/x)",
-      "company": "metiundo GmbH",
-      "first_seen": "2026-06-03T11:12:07.353674",
-      "score": 55.0
-    },
-    "57d149c6709c1ee61765aeb48c189b4a": {
-      "title": "Director of Operations (m/w/d)",
-      "company": "QRC Group AG",
-      "first_seen": "2026-06-03T11:12:07.353677",
-      "score": 55.0
-    },
-    "6ca35a1c15a620043360b6a5942cf2ab": {
-      "title": "Clinical Development Lead CRM",
-      "company": "Boehringer Ingelheim",
-      "first_seen": "2026-06-03T11:12:07.353679",
-      "score": 55.0
-    },
-    "6c6ea5a7f97c672f23ca54919f66a0d5": {
-      "title": "Head of Business Development Central Europe (Germany, Austria, Netherlands)",
-      "company": "Qonto",
-      "first_seen": "2026-06-03T11:12:07.353682",
-      "score": 60.0
-    },
-    "8813e8816086bc22ffe2b6b72df0248e": {
-      "title": "Chief Growth Officer (Europe)",
-      "company": "Touchbase FZC",
-      "first_seen": "2026-06-03T11:12:07.353684",
-      "score": 40.0
-    },
-    "fc2448edb9151177a391f4164d67b9b2": {
-      "title": "General Manager - Germany",
-      "company": "ElevenLabs",
-      "first_seen": "2026-06-03T11:12:07.353687",
-      "score": 55.0
-    },
-    "a57e175f6bd936c117d4c58815a93d26": {
-      "title": "Head of Commercial Partnerships",
-      "company": "SoTalent",
-      "first_seen": "2026-06-03T11:12:07.353689",
-      "score": 65.0
-    },
-    "41ccf85d6d382af71d7a516cb262d883": {
-      "title": "Technical Development Leader (TDL) Large Molecules",
-      "company": "Roche",
-      "first_seen": "2026-06-03T11:12:07.353692",
-      "score": 50.0
-    },
-    "5b935698df8176432c46aa01ba88ff2f": {
-      "title": "Vice President, Safety Pharmacology and Science",
-      "company": "Labcorp",
-      "first_seen": "2026-06-03T11:12:07.353694",
-      "score": 40.0
-    },
     "bfe268db7052895881dd3efa4908aad9": {
       "title": "Brand Lead DACH",
       "company": "Karo Healthcare",
@@ -893,11 +773,17 @@
       "company": "Bayer",
       "first_seen": "2026-07-03T09:30:05.891979",
       "score": 50.0
+    },
+    "9bdee84fe3905a96a69b0bb26dd4390a": {
+      "title": "Global Head of Real Estate Operations (f/m/d)",
+      "company": "Siemens Healthineers",
+      "first_seen": "2026-07-04T08:47:51.186325",
+      "score": 50.0
     }
   },
-  "last_run": "2026-07-03T09:30:05.891986",
+  "last_run": "2026-07-04T08:47:51.186345",
   "stats": {
-    "total_seen": 149,
-    "total_reported": 411
+    "total_seen": 130,
+    "total_reported": 412
   }
 }
