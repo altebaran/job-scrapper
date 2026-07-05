@@ -1,95 +1,5 @@
 {
   "seen": {
-    "bfe268db7052895881dd3efa4908aad9": {
-      "title": "Brand Lead DACH",
-      "company": "Karo Healthcare",
-      "first_seen": "2026-06-04T10:07:18.116182",
-      "score": 40.0
-    },
-    "ab76e25d055eb86eb61c93f51c4ebfb9": {
-      "title": "Associate Vice President \u2013 Healthcare and Diagnostics (HDx) Channel \u2013 Western Europe (M/F/D)",
-      "company": "Agilent Technologies",
-      "first_seen": "2026-06-04T10:07:18.116194",
-      "score": 45.0
-    },
-    "904c59ac63b2ba420bd8ba215d99e9f8": {
-      "title": "Country Manager - Germany",
-      "company": "workfully",
-      "first_seen": "2026-06-04T10:07:18.116198",
-      "score": 55.0
-    },
-    "17da56f70c725203d44ef0501bea763c": {
-      "title": "Sr. Director, Business Development (Europe)",
-      "company": "Allucent",
-      "first_seen": "2026-06-04T10:07:18.116200",
-      "score": 40.0
-    },
-    "9581a867e295d0b7d5543e8a259ad63a": {
-      "title": "Director Global Sales & Growth - Fitness (m/w/d)",
-      "company": "seca \u2013 precision for health",
-      "first_seen": "2026-06-04T10:07:18.116202",
-      "score": 40.0
-    },
-    "97f7d1e896ce62cc4cc46c9473c7b729": {
-      "title": "Director of Business Development",
-      "company": "Vector Talent",
-      "first_seen": "2026-06-04T10:07:18.116205",
-      "score": 60.0
-    },
-    "b374f4eecf097d5a518ed51fd987bf57": {
-      "title": "Business Development Director, Clinical Supply Services",
-      "company": "Catalent",
-      "first_seen": "2026-06-04T10:07:18.116208",
-      "score": 45.0
-    },
-    "49915b4dc09ee4846a20fcf688d17517": {
-      "title": "Country Manager Germany",
-      "company": "Sentec",
-      "first_seen": "2026-06-04T10:07:18.116210",
-      "score": 55.0
-    },
-    "256f805d4b996db3fdfad68da73811bb": {
-      "title": "Director Strategic Partnerships",
-      "company": "Headmatch GmbH & Co. KG",
-      "first_seen": "2026-06-04T10:07:18.116212",
-      "score": 40.0
-    },
-    "75bc911caaacda9138dac5a5660a0b1c": {
-      "title": "Head of Operations (m/w/x)",
-      "company": "Instaffo",
-      "first_seen": "2026-06-04T10:07:18.116214",
-      "score": 55.0
-    },
-    "a30b28ac7c80b8db5c2b8b8dc7cfae65": {
-      "title": "Global Head of Operations (m/w/d)",
-      "company": "Coroplast Group",
-      "first_seen": "2026-06-04T10:07:18.116217",
-      "score": 55.0
-    },
-    "f88e15d0ab4b7755e12c363fbaf0e572": {
-      "title": "Real World Evidence Strategy Lead Solutions (Germany)",
-      "company": "UCB",
-      "first_seen": "2026-06-04T10:07:18.116219",
-      "score": 45.0
-    },
-    "617d010b71e196df6c1448da1d0e64de": {
-      "title": "Global Capture Leader/ Key Account & Business Development \u2013 Additive  (m/f/d)",
-      "company": "GE Aerospace",
-      "first_seen": "2026-06-04T10:07:18.116221",
-      "score": 40.0
-    },
-    "e47136ae08706f268f386e6f1eedc222": {
-      "title": "Senior Manager / Associate Director Global MS&T",
-      "company": "Discover International",
-      "first_seen": "2026-06-04T10:07:18.116223",
-      "score": 55.0
-    },
-    "24d39f94d16fca0b337528191b86357e": {
-      "title": "DACH Pharma Medical & Patient Affairs Director",
-      "company": "Pierre Fabre Laboratories",
-      "first_seen": "2026-06-04T10:07:18.116224",
-      "score": 45.0
-    },
     "5366d9d9c96d52c3571be5e52f1c0d16": {
       "title": "Head of Doctor Partnerships (m/w/d)",
       "company": "TeleClinic",
@@ -781,9 +691,9 @@
       "score": 50.0
     }
   },
-  "last_run": "2026-07-04T08:47:51.186345",
+  "last_run": "2026-07-05T09:15:57.669726",
   "stats": {
-    "total_seen": 130,
+    "total_seen": 115,
     "total_reported": 412
   }
 }
