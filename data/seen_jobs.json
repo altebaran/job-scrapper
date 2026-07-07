@@ -617,11 +617,107 @@
       "company": "Siemens Healthineers",
       "first_seen": "2026-07-04T08:47:51.186325",
       "score": 50.0
+    },
+    "fb211726890fcfb3abf975ebe7b58fc3": {
+      "title": "Chief of Staff to the CEO \u2013 FUTRUE Group",
+      "company": "FUTRUE",
+      "first_seen": "2026-07-07T09:53:49.120369",
+      "score": 55.0
+    },
+    "40731ef050ee9f0f9caf181708f58b68": {
+      "title": "Head of Business Strategy (m/w/d)",
+      "company": "ProBioGen AG",
+      "first_seen": "2026-07-07T09:53:49.120378",
+      "score": 40.0
+    },
+    "a48b290a7cbf0fd3b8861d25b212aa84": {
+      "title": "Strategic Lead Business Development & Alliance Management (m/f/d)",
+      "company": "HENNIG ARZNEIMITTEL GmbH & Co. KG",
+      "first_seen": "2026-07-07T09:53:49.120381",
+      "score": 40.0
+    },
+    "fdb2946fcb63163a0d1cfb62af581552": {
+      "title": "General Manager, LCT - DACH",
+      "company": "GE HealthCare",
+      "first_seen": "2026-07-07T09:53:49.120382",
+      "score": 60.0
+    },
+    "817ce55f14126dc53fce028234b0393c": {
+      "title": "Director Business Development & M&A",
+      "company": "FUTRUE",
+      "first_seen": "2026-07-07T09:53:49.120384",
+      "score": 40.0
+    },
+    "fc27a97f8eeb3c77eb962e9dc613030d": {
+      "title": "General Manager - Autoimmunity & Infectious Disease",
+      "company": "Kinara Group",
+      "first_seen": "2026-07-07T09:53:49.120385",
+      "score": 55.0
+    },
+    "6f19a355841b0859d37e124fbde2b3e5": {
+      "title": "Business Development Director (B2B, DACH region) - AI/Automation Scale-up (m/f/w)",
+      "company": "CX Alliance",
+      "first_seen": "2026-07-07T09:53:49.120387",
+      "score": 45.0
+    },
+    "9601261f8490c247cb1e3a9041dd8ecd": {
+      "title": "Head of Operations (m/w/d) - 80k - Berlin Mitte",
+      "company": "HeavenHR",
+      "first_seen": "2026-07-07T09:53:49.120388",
+      "score": 55.0
+    },
+    "87b13fd2b997a71db82f6c01e955c3bb": {
+      "title": "Team Lead/Director Clinical Operations",
+      "company": "VERTANICAL",
+      "first_seen": "2026-07-07T09:53:49.120389",
+      "score": 40.0
+    },
+    "71dfc7529b20a6e786d1cf10c35730b6": {
+      "title": "Director of Operations",
+      "company": "Blue Fox",
+      "first_seen": "2026-07-07T09:53:49.120391",
+      "score": 55.0
+    },
+    "ccbb92d17d6714184d184b024824b19a": {
+      "title": "Head of Operations",
+      "company": "EnduroSat",
+      "first_seen": "2026-07-07T09:53:49.120392",
+      "score": 55.0
+    },
+    "bf208410b780ec3bbdda2087e3afb3bc": {
+      "title": "Associate Director AI Transformation & Enablement (m/f/d)",
+      "company": "PATRIZIA SE",
+      "first_seen": "2026-07-07T09:53:49.120393",
+      "score": 55.0
+    },
+    "d948a84382be44a2c182990ab4d26ff5": {
+      "title": "Associate Director AI Transformation & Enablement (m/f/d)",
+      "company": "PATRIZIA SE",
+      "first_seen": "2026-07-07T09:53:49.120395",
+      "score": 55.0
+    },
+    "8e86bfab060a9167304825ff81abc946": {
+      "title": "Head of Medical Affairs - Stroke (w/m/d)",
+      "company": "Siemens Healthineers",
+      "first_seen": "2026-07-07T09:53:49.120396",
+      "score": 50.0
+    },
+    "b333c17a61ece9e5905a85b66232cc66": {
+      "title": "Head of Global Commercial Controlling (f/m/x)",
+      "company": "ZEISS Group",
+      "first_seen": "2026-07-07T09:53:49.120397",
+      "score": 40.0
+    },
+    "243695888edb56dffb7d8e549266898f": {
+      "title": "Head of Sales and Partnerships (m/w/d)",
+      "company": "Gateway Factory",
+      "first_seen": "2026-07-07T09:53:49.120399",
+      "score": 40.0
     }
   },
-  "last_run": "2026-07-06T10:50:31.098428",
+  "last_run": "2026-07-07T09:53:49.120403",
   "stats": {
-    "total_seen": 103,
-    "total_reported": 412
+    "total_seen": 119,
+    "total_reported": 428
   }
 }
