@@ -1,11 +1,5 @@
 {
   "seen": {
-    "1cc266b051a173b1e8e19ee723ab7dd6": {
-      "title": "Director Commercial Operations",
-      "company": "BioNTech SE",
-      "first_seen": "2026-06-09T09:57:29.360451",
-      "score": 40.0
-    },
     "db79c3c819d8f03438e969afba0731b7": {
       "title": "Head of Global Sales, Digital Health Solutions \u2013 Core Lab Diagnostics (m/f/d)",
       "company": "Abbott",
@@ -713,11 +707,155 @@
       "company": "Gateway Factory",
       "first_seen": "2026-07-07T09:53:49.120399",
       "score": 40.0
+    },
+    "555746592013989d786dc2dc6f4b3e39": {
+      "title": "Chief of Staff to CCO (m/f/d)",
+      "company": "Redcare Pharmacy",
+      "first_seen": "2026-07-10T09:47:59.890391",
+      "score": 60.0
+    },
+    "17b0b1a45cde2819c3a23bfc3f4af56c": {
+      "title": "Healthcare Ecosystem Management Lead (all genders) (Vollzeit / unbefristet)",
+      "company": "AbbVie",
+      "first_seen": "2026-07-10T09:47:59.890400",
+      "score": 40.0
+    },
+    "720d3dfaa356668afa252e0a8a59ec4c": {
+      "title": "Vice President Product Management (m/f/d)",
+      "company": "KARL STORZ",
+      "first_seen": "2026-07-10T09:47:59.890403",
+      "score": 40.0
+    },
+    "5f62e9188b5b05d0721a129c4ad2654f": {
+      "title": "Head of Product Marketing (x/f/m)",
+      "company": "Doctolib",
+      "first_seen": "2026-07-10T09:47:59.890405",
+      "score": 70.0
+    },
+    "9f8002fd4f044b591ef2cb6a5cff940a": {
+      "title": "Team Lead Product Management for Clinical Applications (f/m/d)",
+      "company": "Siemens Healthineers",
+      "first_seen": "2026-07-10T09:47:59.890413",
+      "score": 60.0
+    },
+    "cc646cd16bb6245ff833a7bb9672f956": {
+      "title": "Director, Applied AI Transformation - Life Sciences (m/f/d)",
+      "company": "EPAM Systems",
+      "first_seen": "2026-07-10T09:47:59.890416",
+      "score": 40.0
+    },
+    "864a9e441dfb3735c04a46395d9b3087": {
+      "title": "Director Global Business Development",
+      "company": "Pareto",
+      "first_seen": "2026-07-10T09:47:59.890419",
+      "score": 40.0
+    },
+    "2b789adc16791bffe5114abe07b7fd13": {
+      "title": "Director, Client Partner - Life Sciences & Pharmaceutical (m/f/d)",
+      "company": "EPAM Systems",
+      "first_seen": "2026-07-10T09:47:59.890422",
+      "score": 50.0
+    },
+    "8166c1708b1143088709928ca14e2138": {
+      "title": "Director Sales Europe Clinical Microbiology",
+      "company": "Thermo Fisher Scientific",
+      "first_seen": "2026-07-10T09:47:59.890424",
+      "score": 40.0
+    },
+    "d48e15e2d70c24e8242fd06a89a0141e": {
+      "title": "Business Development Account Director, Cell Gene Therapy",
+      "company": "Catalent",
+      "first_seen": "2026-07-10T09:47:59.890428",
+      "score": 40.0
+    },
+    "0b67b5b364b6c6ad204891ca6e23637c": {
+      "title": "Leiter:in Operations (oder Business Development) und Strategie (m/w/d)",
+      "company": "Aurivus",
+      "first_seen": "2026-07-10T09:47:59.890431",
+      "score": 40.0
+    },
+    "9e8cf436bae4a81d9580a19c73a94d0c": {
+      "title": "Senior Manager Customer Experience / Customer Service EMEAP (m/f/d)",
+      "company": "Abbott",
+      "first_seen": "2026-07-10T09:47:59.890434",
+      "score": 50.0
+    },
+    "b26f660e6fdb8b25305a5f768336f08c": {
+      "title": "Director, Commercial Operations Lead",
+      "company": "Regeneron",
+      "first_seen": "2026-07-10T09:47:59.890437",
+      "score": 40.0
+    },
+    "b0b5bb3951c57fd9394c73f5a44e034f": {
+      "title": "Associate Director, Europe Business Analytics & Insights",
+      "company": "Corcept Therapeutics",
+      "first_seen": "2026-07-10T09:47:59.890440",
+      "score": 60.0
+    },
+    "d2f28e4727cc7eecd24d3885a0cd2164": {
+      "title": "Associate Director Regulatory Affairs DACH (m/w/d)",
+      "company": "Johnson & Johnson MedTech",
+      "first_seen": "2026-07-10T09:47:59.890443",
+      "score": 60.0
+    },
+    "ce9a3cd0d73a345f054606f2601df206": {
+      "title": "Director of AI Strategy & Innovation",
+      "company": "AI Futures",
+      "first_seen": "2026-07-10T09:47:59.890446",
+      "score": 45.0
+    },
+    "8a4cbef23a6b3cecd4fac87fcab27f63": {
+      "title": "Head of Global Commercial Excellence \u2013 Data Center Logistics (m/f/x)",
+      "company": "DHL Global Forwarding",
+      "first_seen": "2026-07-10T09:47:59.890449",
+      "score": 40.0
+    },
+    "6052a0cfd750aa0e2132542a0bf264b4": {
+      "title": "Resin Modality Commercial Leader EMEA (m/f/d) - Jobbird.com",
+      "company": "Jobster",
+      "first_seen": "2026-07-10T09:47:59.890451",
+      "score": 40.0
+    },
+    "64f5cfc52bde117945646381c517982a": {
+      "title": "Leiter Vertrieb & Marketing (Medtech) m/w/d",
+      "company": "Dr. Weick Executive Search GmbH",
+      "first_seen": "2026-07-10T09:47:59.890454",
+      "score": 40.0
+    },
+    "48d4c7608a7dae0c37da2b5d76246ac0": {
+      "title": "ISD Partner Commercial Lead - Germany",
+      "company": "Microsoft",
+      "first_seen": "2026-07-10T09:47:59.890456",
+      "score": 40.0
+    },
+    "52a12e955afbd2b7be5b797c12618230": {
+      "title": "Senior Manager, Client Partner - Life Sciences & Pharmaceutical (m/f/d)",
+      "company": "EPAM Systems",
+      "first_seen": "2026-07-10T09:47:59.890459",
+      "score": 50.0
+    },
+    "699e0681f2d16d6610f8e0a036172508": {
+      "title": "Director Innovation Management (f/m/d)",
+      "company": "NXP Semiconductors",
+      "first_seen": "2026-07-10T09:47:59.890461",
+      "score": 40.0
+    },
+    "076577f1d9994a327fa6ee3971788150": {
+      "title": "Innovation Lead (Intrapreneur)",
+      "company": "Celonis",
+      "first_seen": "2026-07-10T09:47:59.890464",
+      "score": 40.0
+    },
+    "011ed066a93818a7952cde5ff3fe89aa": {
+      "title": "P&OG Consulting Lead - Diagnostics",
+      "company": "Roche",
+      "first_seen": "2026-07-10T09:47:59.890467",
+      "score": 55.0
     }
   },
-  "last_run": "2026-07-08T08:40:02.008405",
+  "last_run": "2026-07-10T09:47:59.890475",
   "stats": {
-    "total_seen": 119,
-    "total_reported": 428
+    "total_seen": 142,
+    "total_reported": 452
   }
 }
