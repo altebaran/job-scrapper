@@ -1,175 +1,187 @@
-# 🎯 Daily Job Report — 2026-07-10
+# 🎯 Daily Job Report — 2026-07-11
 
-**24** new matches | **1** high relevance
+**26** new matches | **1** high relevance
 
 ---
 
-### 1. 🟢 Head of Product Marketing (x/f/m)
-**Doctolib** · 📍 Berlin, Berlin, Germany · Score: 70/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-product-marketing-x-f-m-at-doctolib-4420936301)
-  - Title match: 'head of product'
+### 1. 🟢 Associate Director / Team Lead Computational Biology
+**Boehringer Ingelheim** · 📍 Biberach an der Riß, Baden-Württemberg, Germany · Score: 70/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-team-lead-computational-biology-at-boehringer-ingelheim-4430924839)
+  - Title match: 'associate director'
   - Location: 'germany'
-  - Target company: Doctolib
+  - Target company: Boehringer Ingelheim Digital Lab
 
-### 2. 🟡 Chief of Staff to CCO (m/f/d)
-**Redcare Pharmacy** · 📍 Cologne, North Rhine-Westphalia, Germany · Score: 60/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/chief-of-staff-to-cco-m-f-d-at-redcare-pharmacy-4435691052)
-  - Title match: 'chief of staff'
-  - Keywords (1): pharma
+### 2. 🟡 Head of Business Development
+**medtechrec** · 📍 Munich, Bavaria, Germany · Score: 65/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-business-development-at-medtechrec-4439040340)
+  - Title match: 'head of business development'
+  - Keywords (2): medtech, business development
   - Location: 'germany'
 
-### 3. 🟡 Team Lead Product Management for Clinical Applications (f/m/d)
-**Siemens Healthineers** · 📍 Forchheim, Bavaria, Germany · Score: 60/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/team-lead-product-management-for-clinical-applications-f-m-d-at-siemens-healthineers-4435910485)
+### 3. 🟡 Head of Growth (Fokus Partnerships)
+**gyde** · 📍 Stuttgart, Baden-Württemberg, Germany · Score: 65/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-growth-fokus-partnerships-at-gyde-4436643856)
+  - Title match: 'head of growth'
+  - Keywords (2): partnerships, growth
+  - Location: 'germany'
+
+### 4. 🟡 Senior Manager Strategy – Chief Commercial Office (d/f/m)
+**Sandoz in Deutschland** · 📍 Holzkirchen, Bavaria, Germany · Score: 65/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-manager-strategy-%E2%80%93-chief-commercial-office-d-f-m-at-sandoz-in-deutschland-4428379772)
+  - Title match: 'senior manager strategy'
+  - Keywords (2): strategy, commercial
+  - Location: 'germany'
+
+### 5. 🟡 Head of Business Development (m/w/d)
+**INLEAP Photonics GmbH** · 📍 Hannover, Lower Saxony, Germany · Score: 60/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-business-development-m-w-d-at-inleap-photonics-gmbh-4439381627)
+  - Title match: 'head of business development'
+  - Keywords (1): business development
+  - Location: 'germany'
+
+### 6. 🟡 Associate Director Business Excellence
+**BeOne Medicines** · 📍 Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-business-excellence-at-beone-medicines-4390488063)
+  - Title match: 'associate director'
+  - Location: 'germany'
+
+### 7. 🟡 Head of Operations (all genders)
+**yummy** · 📍 Munich, Bavaria, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-operations-all-genders-at-yummy-4435999009)
+  - Title match: 'head of operations'
+  - Location: 'germany'
+
+### 8. 🟡 Clinical Solutions Sales Lead (w/m/d) Neurovascular Care
+**Siemens Healthineers** · 📍 Forchheim, Bavaria, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/clinical-solutions-sales-lead-w-m-d-neurovascular-care-at-siemens-healthineers-4427849930)
   - Seniority match: 'lead'
-  - Keywords (2): clinical, product management
+  - Keywords (1): clinical
   - Location: 'germany'
   - Target company: Siemens Healthineers Digital
 
-### 4. 🟡 Associate Director, Europe Business Analytics & Insights
-**Corcept Therapeutics** · 📍 Munich, Bavaria, Germany · Score: 60/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-europe-business-analytics-insights-at-corcept-therapeutics-4428783219)
-  - Title match: 'associate director'
-  - Keywords (1): therapeutic
-  - Location: 'germany'
-
-### 5. 🟡 Associate Director Regulatory Affairs DACH (m/w/d)
-**Johnson & Johnson MedTech** · 📍 Umkirch, Baden-Württemberg, Germany · Score: 60/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-regulatory-affairs-dach-m-w-d-at-johnson-johnson-medtech-4438662082)
-  - Title match: 'associate director'
-  - Keywords (1): medtech
-  - Location: 'germany'
-
-### 6. 🟡 P&OG Consulting Lead - Diagnostics
-**Roche** · 📍 Mannheim, Baden-Württemberg, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/p-og-consulting-lead-diagnostics-at-roche-4438846127)
+### 9. 🟡 Clinical Solutions Sales Lead Neurovascular Care (f/m/d)
+**Siemens Healthineers** · 📍 Forchheim, Bavaria, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/clinical-solutions-sales-lead-neurovascular-care-f-m-d-at-siemens-healthineers-4427851910)
   - Seniority match: 'lead'
-  - Keywords (1): diagnostics
+  - Keywords (1): clinical
   - Location: 'germany'
-  - Target company: Roche Digital Health
+  - Target company: Siemens Healthineers Digital
 
-### 7. 🟡 Director, Client Partner - Life Sciences & Pharmaceutical (m/f/d)
-**EPAM Systems** · 📍 Frankfurt, Hesse, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-client-partner-life-sciences-pharmaceutical-m-f-d-at-epam-systems-4427365659)
+### 10. 🟡 Head of Data Operations & Data Product
+**Boehringer Ingelheim** · 📍 Ingelheim am Rhein, Rhineland-Palatinate, Germany · Score: 50/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-data-operations-data-product-at-boehringer-ingelheim-4439053079)
+  - Seniority match: 'head of'
+  - Location: 'germany'
+  - Target company: Boehringer Ingelheim Digital Lab
+
+### 11. 🟡 Supply Chain Director, CEE & Trade
+**Johnson & Johnson** · 📍 Umkirch, Baden-Württemberg, Germany · Score: 50/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/supply-chain-director-cee-trade-at-johnson-johnson-4439304391)
   - Seniority match: 'director'
-  - Keywords (3): pharma, pharmaceutical, life sciences
   - Location: 'germany'
+  - Target company: Johnson & Johnson Innovation
 
-### 8. 🟡 Senior Manager Customer Experience / Customer Service EMEAP (m/f/d)
-**Abbott** · 📍 Wiesbaden, Hesse, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-manager-customer-experience-customer-service-emeap-m-f-d-at-abbott-4438679233)
+### 12. ⚪ Senior Manager Business Development – Digital Health (m/w/d) – München oder Mobile Office
+**gesund.de** · 📍 Munich, Bavaria, Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-manager-business-development-%E2%80%93-digital-health-m-w-d-%E2%80%93-m%C3%BCnchen-oder-mobile-office-at-gesund-de-4439081285)
   - Seniority match: 'senior manager'
+  - Keywords (2): digital health, business development
   - Location: 'germany'
-  - Target company: Abbott Digital Health
 
-### 9. 🟡 Senior Manager, Client Partner - Life Sciences & Pharmaceutical (m/f/d)
-**EPAM Systems** · 📍 Frankfurt, Hesse, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-manager-client-partner-life-sciences-pharmaceutical-m-f-d-at-epam-systems-4427347751)
+### 13. ⚪ Senior Manager Business Development – Digital Health (m/w/d) – München oder Mobile Office
+**gesund.de GmbH & Co. KG** · 📍 Munich, Bavaria, Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-manager-business-development-%E2%80%93-digital-health-m-w-d-%E2%80%93-m%C3%BCnchen-oder-mobile-office-at-gesund-de-gmbh-co-kg-4435977782)
   - Seniority match: 'senior manager'
-  - Keywords (3): pharma, pharmaceutical, life sciences
+  - Keywords (2): digital health, business development
   - Location: 'germany'
 
-### 10. ⚪ Director of AI Strategy & Innovation
-**AI Futures** · 📍 Dortmund, North Rhine-Westphalia, Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-of-ai-strategy-innovation-at-ai-futures-4435689962)
+### 14. ⚪ Business Development Director (m/f/d)
+**NextPharma** · 📍 Göttingen, Lower Saxony, Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/business-development-director-m-f-d-at-nextpharma-4439311068)
   - Seniority match: 'director'
-  - Keywords (2): strategy, innovation
+  - Keywords (2): pharma, business development
   - Location: 'germany'
 
-### 11. ⚪ Healthcare Ecosystem Management Lead (all genders) (Vollzeit / unbefristet)
-**AbbVie** · 📍 Wiesbaden, Hesse, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/healthcare-ecosystem-management-lead-all-genders-vollzeit-unbefristet-at-abbvie-4401328308)
-  - Seniority match: 'lead'
-  - Keywords (1): healthcare
-  - Location: 'germany'
-
-### 12. ⚪ Vice President Product Management (m/f/d)
+### 15. ⚪ Vice President Product Management (m/w/d)
 **KARL STORZ** · 📍 Tuttlingen, Baden-Württemberg, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/vice-president-product-management-m-f-d-at-karl-storz-4420298305)
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/vice-president-product-management-m-w-d-at-karl-storz-4420400052)
   - Seniority match: 'vice president'
   - Keywords (1): product management
   - Location: 'germany'
 
-### 13. ⚪ Director, Applied AI Transformation - Life Sciences (m/f/d)
-**EPAM Systems** · 📍 Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-applied-ai-transformation-life-sciences-m-f-d-at-epam-systems-4435958559)
-  - Seniority match: 'director'
-  - Keywords (1): life sciences
-  - Location: 'germany'
-
-### 14. ⚪ Director Global Business Development
-**Pareto** · 📍 Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-global-business-development-at-pareto-4439015830)
-  - Seniority match: 'director'
-  - Keywords (1): business development
-  - Location: 'germany'
-
-### 15. ⚪ Director Sales Europe Clinical Microbiology
-**Thermo Fisher Scientific** · 📍 Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-sales-europe-clinical-microbiology-at-thermo-fisher-scientific-4427833239)
-  - Seniority match: 'director'
-  - Keywords (1): clinical
-  - Location: 'germany'
-
-### 16. ⚪ Business Development Account Director, Cell Gene Therapy
-**Catalent** · 📍 Langenfeld, North Rhine-Westphalia, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/business-development-account-director-cell-gene-therapy-at-catalent-4438841455)
-  - Seniority match: 'director'
-  - Keywords (1): business development
-  - Location: 'germany'
-
-### 17. ⚪ Leiter:in Operations (oder Business Development) und Strategie (m/w/d)
-**Aurivus** · 📍 Ulm, Baden-Württemberg, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/leiter-in-operations-oder-business-development-und-strategie-m-w-d-at-aurivus-4438644635)
-  - Seniority match: 'leiter'
-  - Keywords (1): business development
-  - Location: 'germany'
-
-### 18. ⚪ Director, Commercial Operations Lead
-**Regeneron** · 📍 Munich, Bavaria, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-commercial-operations-lead-at-regeneron-4371781624)
-  - Seniority match: 'director'
-  - Keywords (1): commercial
-  - Location: 'germany'
-
-### 19. ⚪ Head of Global Commercial Excellence – Data Center Logistics (m/f/x)
-**DHL Global Forwarding** · 📍 Bonn, North Rhine-Westphalia, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-global-commercial-excellence-%E2%80%93-data-center-logistics-m-f-x-at-dhl-global-forwarding-4410707120)
+### 16. ⚪ Head of Doctor Growth (m/f/d)
+**TeleClinic** · 📍 Munich, Bavaria, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-doctor-growth-m-f-d-at-teleclinic-4438305535)
   - Seniority match: 'head of'
-  - Keywords (1): commercial
+  - Keywords (1): growth
   - Location: 'germany'
 
-### 20. ⚪ Resin Modality Commercial Leader EMEA (m/f/d) - Jobbird.com
-**Jobster** · 📍 Düsseldorf, North Rhine-Westphalia, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/resin-modality-commercial-leader-emea-m-f-d-jobbird-com-at-jobster-4437396546)
-  - Seniority match: 'lead'
-  - Keywords (1): commercial
-  - Location: 'germany'
-
-### 21. ⚪ Leiter Vertrieb & Marketing (Medtech) m/w/d
-**Dr. Weick Executive Search GmbH** · 📍 Nagold, Baden-Württemberg, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/leiter-vertrieb-marketing-medtech-m-w-d-at-dr-weick-executive-search-gmbh-4438628733)
-  - Seniority match: 'leiter'
-  - Keywords (1): medtech
-  - Location: 'germany'
-
-### 22. ⚪ ISD Partner Commercial Lead - Germany
-**Microsoft** · 📍 Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/isd-partner-commercial-lead-germany-at-microsoft-4438629807)
-  - Seniority match: 'lead'
-  - Keywords (1): commercial
-  - Location: 'germany'
-
-### 23. ⚪ Director Innovation Management (f/m/d)
-**NXP Semiconductors** · 📍 Hamburg, Hamburg, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-innovation-management-f-m-d-at-nxp-semiconductors-4430474621)
+### 17. ⚪ Business Development Director CMC
+**Labcorp** · 📍 Münster, North Rhine-Westphalia, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/business-development-director-cmc-at-labcorp-4439545213)
   - Seniority match: 'director'
-  - Keywords (1): innovation
+  - Keywords (1): business development
   - Location: 'germany'
 
-### 24. ⚪ Innovation Lead (Intrapreneur)
-**Celonis** · 📍 Munich, Bavaria, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/innovation-lead-intrapreneur-at-celonis-4384484016)
+### 18. ⚪ Director Operations, Pharma & Consumer Health
+**Catalent** · 📍 Schorndorf, Baden-Württemberg, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-operations-pharma-consumer-health-at-catalent-4410797352)
+  - Seniority match: 'director'
+  - Keywords (1): pharma
+  - Location: 'germany'
+
+### 19. ⚪ Commercial Director, Germany
+**Genmab** · 📍 Munich, Bavaria, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/commercial-director-germany-at-genmab-4429314404)
+  - Seniority match: 'director'
+  - Keywords (1): commercial
+  - Location: 'germany'
+
+### 20. ⚪ Commercial Director, Germany
+**Genmab** · 📍 Berlin, Berlin, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/commercial-director-germany-at-genmab-4429303564)
+  - Seniority match: 'director'
+  - Keywords (1): commercial
+  - Location: 'germany'
+
+### 21. ⚪ Senior Director, Commercial Sales & Operations, Brand Outsourcing & HCP Engagement
+**IQVIA** · 📍 Munich, Bavaria, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-director-commercial-sales-operations-brand-outsourcing-hcp-engagement-at-iqvia-4437996276)
+  - Seniority match: 'director'
+  - Keywords (1): commercial
+  - Location: 'germany'
+
+### 22. ⚪ Senior Director, Commercial Sales & Operations, Brand Outsourcing & HCP Engagement
+**IQVIA** · 📍 Frankfurt am Main, Hesse, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-director-commercial-sales-operations-brand-outsourcing-hcp-engagement-at-iqvia-4437978725)
+  - Seniority match: 'director'
+  - Keywords (1): commercial
+  - Location: 'germany'
+
+### 23. ⚪ Head of Strategic Alliances & Partnerships (f/m/d)
+**Wire** · 📍 Berlin, Berlin, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-strategic-alliances-partnerships-f-m-d-at-wire-4439091304)
+  - Seniority match: 'head of'
+  - Keywords (1): partnerships
+  - Location: 'germany'
+
+### 24. ⚪ Head of Strategic Alliances & Partnerships (f/m/d)
+**Wire** · 📍 Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-strategic-alliances-partnerships-f-m-d-at-wire-4439092276)
+  - Seniority match: 'head of'
+  - Keywords (1): partnerships
+  - Location: 'germany'
+
+### 25. ⚪ Director, Consumer, Healthcare and Finance, Large Customer Sales
+**Google** · 📍 Hamburg, Hamburg, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-consumer-healthcare-and-finance-large-customer-sales-at-google-4438319926)
+  - Seniority match: 'director'
+  - Keywords (1): healthcare
+  - Location: 'germany'
+
+### 26. ⚪ Product Strategy Lead
+**CSL** · 📍 Marburg-Biedenkopf, Hesse, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/product-strategy-lead-at-csl-4439339507)
   - Seniority match: 'lead'
-  - Keywords (1): innovation
+  - Keywords (1): strategy
   - Location: 'germany'

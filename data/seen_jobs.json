@@ -1,17 +1,5 @@
 {
   "seen": {
-    "db79c3c819d8f03438e969afba0731b7": {
-      "title": "Head of Global Sales, Digital Health Solutions \u2013 Core Lab Diagnostics (m/f/d)",
-      "company": "Abbott",
-      "first_seen": "2026-06-10T10:15:43.737563",
-      "score": 60.0
-    },
-    "791ba7638bd2f5b515e5dc2795fcf942": {
-      "title": "Mobile Growth Lead (m/f/d)",
-      "company": "Phiture",
-      "first_seen": "2026-06-10T10:15:43.737576",
-      "score": 40.0
-    },
     "0f1ee0400a8c74d2483903ed56e931f7": {
       "title": "Head of Strategic Partnerships (Marketing)",
       "company": "SoTalent",
@@ -851,11 +839,167 @@
       "company": "Roche",
       "first_seen": "2026-07-10T09:47:59.890467",
       "score": 55.0
+    },
+    "1c6b99a47c9c4aa38f6df126bdece2a3": {
+      "title": "Senior Manager Business Development \u2013 Digital Health (m/w/d) \u2013 M\u00fcnchen oder Mobile Office",
+      "company": "gesund.de",
+      "first_seen": "2026-07-11T08:07:10.419267",
+      "score": 45.0
+    },
+    "8454267b84a553329a7ebbe061971b38": {
+      "title": "Senior Manager Business Development \u2013 Digital Health (m/w/d) \u2013 M\u00fcnchen oder Mobile Office",
+      "company": "gesund.de GmbH & Co. KG",
+      "first_seen": "2026-07-11T08:07:10.419277",
+      "score": 45.0
+    },
+    "868a605d52238d2b23e8cb3a4d1fb1d1": {
+      "title": "Vice President Product Management (m/w/d)",
+      "company": "KARL STORZ",
+      "first_seen": "2026-07-11T08:07:10.419279",
+      "score": 40.0
+    },
+    "300de14716ecd9d6dbaf12adabcf4785": {
+      "title": "Head of Doctor Growth (m/f/d)",
+      "company": "TeleClinic",
+      "first_seen": "2026-07-11T08:07:10.419281",
+      "score": 40.0
+    },
+    "b6c3fe55738ec27f4558b50289d17f32": {
+      "title": "Associate Director Business Excellence",
+      "company": "BeOne Medicines",
+      "first_seen": "2026-07-11T08:07:10.419282",
+      "score": 55.0
+    },
+    "6091129876c7769a7b6186bc834d9e16": {
+      "title": "Head of Data Operations & Data Product",
+      "company": "Boehringer Ingelheim",
+      "first_seen": "2026-07-11T08:07:10.419284",
+      "score": 50.0
+    },
+    "a639f099c2506224e5f63ba99029da0f": {
+      "title": "Head of Business Development",
+      "company": "medtechrec",
+      "first_seen": "2026-07-11T08:07:10.419286",
+      "score": 65.0
+    },
+    "761057880fd7726757b428837f0dee9a": {
+      "title": "Business Development Director (m/f/d)",
+      "company": "NextPharma",
+      "first_seen": "2026-07-11T08:07:10.419288",
+      "score": 45.0
+    },
+    "a48df2657d70e038dde384ff2d259f5c": {
+      "title": "Business Development Director CMC",
+      "company": "Labcorp",
+      "first_seen": "2026-07-11T08:07:10.419294",
+      "score": 40.0
+    },
+    "5ed803b8f4b6fa33ec21266bf7fe03e8": {
+      "title": "Head of Business Development (m/w/d)",
+      "company": "INLEAP Photonics GmbH",
+      "first_seen": "2026-07-11T08:07:10.419297",
+      "score": 60.0
+    },
+    "428c9062ed48842a5673ad7f095d590b": {
+      "title": "Director Operations, Pharma & Consumer Health",
+      "company": "Catalent",
+      "first_seen": "2026-07-11T08:07:10.419301",
+      "score": 40.0
+    },
+    "a46c1b88481e9f7f5e53f6b8d7714232": {
+      "title": "Head of Operations (all genders)",
+      "company": "yummy",
+      "first_seen": "2026-07-11T08:07:10.419304",
+      "score": 55.0
+    },
+    "b7ec055d54b3162c90221934bb4a0924": {
+      "title": "Supply Chain Director, CEE & Trade",
+      "company": "Johnson & Johnson",
+      "first_seen": "2026-07-11T08:07:10.419307",
+      "score": 50.0
+    },
+    "d1d7db554025a8750ad929b9c65ea37a": {
+      "title": "Commercial Director, Germany",
+      "company": "Genmab",
+      "first_seen": "2026-07-11T08:07:10.419311",
+      "score": 40.0
+    },
+    "e33d08f299f1375de7e187ca4558ce34": {
+      "title": "Commercial Director, Germany",
+      "company": "Genmab",
+      "first_seen": "2026-07-11T08:07:10.419314",
+      "score": 40.0
+    },
+    "a260c1819288755150e19dc8941957d4": {
+      "title": "Clinical Solutions Sales Lead (w/m/d) Neurovascular Care",
+      "company": "Siemens Healthineers",
+      "first_seen": "2026-07-11T08:07:10.419317",
+      "score": 55.0
+    },
+    "aeee8c9aa874dd9b76ed24b221366881": {
+      "title": "Clinical Solutions Sales Lead Neurovascular Care (f/m/d)",
+      "company": "Siemens Healthineers",
+      "first_seen": "2026-07-11T08:07:10.419321",
+      "score": 55.0
+    },
+    "8e1189417a05e36d6f401d07e4f06cb4": {
+      "title": "Senior Director, Commercial Sales & Operations, Brand Outsourcing & HCP Engagement",
+      "company": "IQVIA",
+      "first_seen": "2026-07-11T08:07:10.419324",
+      "score": 40.0
+    },
+    "56b749c7db5b556c31f696d2114bfb22": {
+      "title": "Senior Director, Commercial Sales & Operations, Brand Outsourcing & HCP Engagement",
+      "company": "IQVIA",
+      "first_seen": "2026-07-11T08:07:10.419327",
+      "score": 40.0
+    },
+    "6454ed512d16d8e953b073dc514ba257": {
+      "title": "Head of Growth (Fokus Partnerships)",
+      "company": "gyde",
+      "first_seen": "2026-07-11T08:07:10.419329",
+      "score": 65.0
+    },
+    "c5d664bdfae9a803065857234b1b13d7": {
+      "title": "Head of Strategic Alliances & Partnerships (f/m/d)",
+      "company": "Wire",
+      "first_seen": "2026-07-11T08:07:10.419332",
+      "score": 40.0
+    },
+    "0c48065bcd3cb225d9d075183e4593ba": {
+      "title": "Head of Strategic Alliances & Partnerships (f/m/d)",
+      "company": "Wire",
+      "first_seen": "2026-07-11T08:07:10.419334",
+      "score": 40.0
+    },
+    "e3926ba9adcdf3d693596e8231b8a212": {
+      "title": "Director, Consumer, Healthcare and Finance, Large Customer Sales",
+      "company": "Google",
+      "first_seen": "2026-07-11T08:07:10.419337",
+      "score": 40.0
+    },
+    "fcec4f94de49c0b08f65d424b59726f5": {
+      "title": "Product Strategy Lead",
+      "company": "CSL",
+      "first_seen": "2026-07-11T08:07:10.419339",
+      "score": 40.0
+    },
+    "be83e971bb69af82b655f823c946ab8c": {
+      "title": "Associate Director / Team Lead Computational Biology",
+      "company": "Boehringer Ingelheim",
+      "first_seen": "2026-07-11T08:07:10.419342",
+      "score": 70.0
+    },
+    "204dfceaaf2cdaf28dcf571133873174": {
+      "title": "Senior Manager Strategy \u2013 Chief Commercial Office (d/f/m)",
+      "company": "Sandoz in Deutschland",
+      "first_seen": "2026-07-11T08:07:10.419345",
+      "score": 65.0
     }
   },
-  "last_run": "2026-07-10T09:47:59.890475",
+  "last_run": "2026-07-11T08:07:10.419352",
   "stats": {
-    "total_seen": 142,
-    "total_reported": 452
+    "total_seen": 166,
+    "total_reported": 478
   }
 }
