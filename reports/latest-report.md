@@ -1,12 +1,12 @@
-# 🎯 Daily Job Report — 2026-07-12
+# 🎯 Daily Job Report — 2026-07-13
 
 **1** new matches | **0** high relevance
 
 ---
 
-### 1. ⚪ Candidate Guidance on AI Use
-**AstraZeneca Innovation** · 📍 Hamburg (DE) · Score: 40/100
-🔗 [Direct (AstraZeneca Innovation)](https://careers.astrazeneca.com/aiguidance)
-  - Keywords (1): innovation
-  - Location: 'hamburg'
-  - Target company: AstraZeneca Innovation
+### 1. ⚪ Director Commercial Execution Germany - Digital Health (Silent Cloud)
+**Sonova Group** · 📍 Berlin, Berlin, Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-commercial-execution-germany-digital-health-silent-cloud-at-sonova-group-4420987334)
+  - Seniority match: 'director'
+  - Keywords (2): digital health, commercial
+  - Location: 'germany'
