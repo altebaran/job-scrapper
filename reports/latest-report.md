@@ -1,54 +1,26 @@
-# 🎯 Daily Job Report — 2026-07-15
+# 🎯 Daily Job Report — 2026-07-16
 
-**7** new matches | **0** high relevance
+**3** new matches | **0** high relevance
 
 ---
 
-### 1. ⚪ Find jobs
-**Philips Health Innovation** · 📍 Hamburg (DE) · Score: 40/100
-🔗 [Direct (Philips Health Innovation)](https://www.careers.philips.com/na/en/search-results)
-  - Keywords (1): innovation
-  - Location: 'hamburg'
-  - Target company: Philips Health Innovation
+### 1. 🟡 Associate Director, Commercial Excellence (m/f/d)
+**Redcare Pharmacy** · 📍 Berlin, Berlin, Germany · Score: 65/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-commercial-excellence-m-f-d-at-redcare-pharmacy-4438483471)
+  - Title match: 'associate director'
+  - Keywords (2): pharma, commercial
+  - Location: 'germany'
 
-### 2. ⚪ Learn more about life at Philips
-**Philips Health Innovation** · 📍 Hamburg (DE) · Score: 40/100
-🔗 [Direct (Philips Health Innovation)](https://www.careers.philips.com/na/en/life-at-philips)
-  - Keywords (1): innovation
-  - Location: 'hamburg'
-  - Target company: Philips Health Innovation
+### 2. 🟡 Associate Director, Commercial Excellence (m/f/d)
+**Redcare Pharmacy** · 📍 Cologne, North Rhine-Westphalia, Germany · Score: 65/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-commercial-excellence-m-f-d-at-redcare-pharmacy-4438099033)
+  - Title match: 'associate director'
+  - Keywords (2): pharma, commercial
+  - Location: 'germany'
 
-### 3. ⚪ Learn more about our culture
-**Philips Health Innovation** · 📍 Hamburg (DE) · Score: 40/100
-🔗 [Direct (Philips Health Innovation)](https://www.careers.philips.com/na/en/our-culture-philips-careers)
-  - Keywords (1): innovation
-  - Location: 'hamburg'
-  - Target company: Philips Health Innovation
-
-### 4. ⚪ Join our talent community
-**Philips Health Innovation** · 📍 Hamburg (DE) · Score: 40/100
-🔗 [Direct (Philips Health Innovation)](https://www.careers.philips.com/na/en/jointalentcommunity)
-  - Keywords (1): innovation
-  - Location: 'hamburg'
-  - Target company: Philips Health Innovation
-
-### 5. ⚪ Learn more
-**Philips Health Innovation** · 📍 Hamburg (DE) · Score: 40/100
-🔗 [Direct (Philips Health Innovation)](https://www.careers.philips.com/na/en/think-you-know-philips-)
-  - Keywords (1): innovation
-  - Location: 'hamburg'
-  - Target company: Philips Health Innovation
-
-### 6. ⚪ Personal Information
-**Philips Health Innovation** · 📍 Hamburg (DE) · Score: 40/100
-🔗 [Direct (Philips Health Innovation)](https://www.careers.philips.com/na/en/emailpersonalinfo)
-  - Keywords (1): innovation
-  - Location: 'hamburg'
-  - Target company: Philips Health Innovation
-
-### 7. ⚪ Career Site Cookie Settings
-**Philips Health Innovation** · 📍 Hamburg (DE) · Score: 40/100
-🔗 [Direct (Philips Health Innovation)](https://www.careers.philips.com/na/en/cookiesettings)
-  - Keywords (1): innovation
-  - Location: 'hamburg'
-  - Target company: Philips Health Innovation
+### 3. ⚪ Global Business Development Director
+**Kintiga** · 📍 Hannover, Lower Saxony, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/global-business-development-director-at-kintiga-4440938917)
+  - Seniority match: 'director'
+  - Keywords (1): business development
+  - Location: 'germany'
