@@ -1,11 +1,5 @@
 {
   "seen": {
-    "7d2c42c229b5b0e0f99c5344a8965cc7": {
-      "title": "Senior Clinical Pharmacologist",
-      "company": "HMNC Brain Health",
-      "first_seen": "2026-06-16T11:24:51.110837",
-      "score": 45.0
-    },
     "b9879a273da12fe5b711c49a716402af": {
       "title": "Head of Product \u2013 Agentic Offerings",
       "company": "commercetools",
@@ -1151,11 +1145,17 @@
       "company": "Kintiga",
       "first_seen": "2026-07-16T08:24:48.978185",
       "score": 40.0
+    },
+    "7d2c42c229b5b0e0f99c5344a8965cc7": {
+      "title": "Senior Clinical Pharmacologist",
+      "company": "HMNC Brain Health",
+      "first_seen": "2026-07-17T08:21:35.217938",
+      "score": 45.0
     }
   },
-  "last_run": "2026-07-16T08:24:48.978189",
+  "last_run": "2026-07-17T08:21:35.217953",
   "stats": {
     "total_seen": 192,
-    "total_reported": 512
+    "total_reported": 513
   }
 }
