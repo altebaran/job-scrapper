@@ -1,11 +1,5 @@
 {
   "seen": {
-    "b9879a273da12fe5b711c49a716402af": {
-      "title": "Head of Product \u2013 Agentic Offerings",
-      "company": "commercetools",
-      "first_seen": "2026-06-17T11:09:51.952873",
-      "score": 55.0
-    },
     "ac4f2543bc414e2207f0b667a73f28f1": {
       "title": "EMEA Commercial Operations Director (Medical Devices)",
       "company": "BSI",
@@ -1151,11 +1145,125 @@
       "company": "HMNC Brain Health",
       "first_seen": "2026-07-17T08:21:35.217938",
       "score": 45.0
+    },
+    "a31369af43828051f30ecf2e56a8af31": {
+      "title": "Head of Product and Strategy | ROB'E",
+      "company": "NLC Health Ventures",
+      "first_seen": "2026-07-18T08:03:10.140543",
+      "score": 65.0
+    },
+    "cc92aeee78c10d83b2bbe144c7d2ef34": {
+      "title": "Senior Manager Corporate Development \u2013 AI & Digital Strategy (m/w/d)",
+      "company": "Fresenius Group",
+      "first_seen": "2026-07-18T08:03:10.140557",
+      "score": 45.0
+    },
+    "2899b28809fa00e62e7e0cc3709a2705": {
+      "title": "Senior Director, Head of Resource Forecasting & Analytics (all genders)",
+      "company": "Merck Healthcare",
+      "first_seen": "2026-07-18T08:03:10.140562",
+      "score": 40.0
+    },
+    "e8a2670e54c735ccfaaa75bddc455f5b": {
+      "title": "Head of Region APAC (m/f/d)",
+      "company": "Merz Therapeutics",
+      "first_seen": "2026-07-18T08:03:10.140564",
+      "score": 40.0
+    },
+    "3a55ba0230ea46905550ffb0904e3d9e": {
+      "title": "Senior Consultant Commercial Strategy & Digital Innovation \u2013 Healthcare & Life Sciences (m/w/d)",
+      "company": "Simon-Kucher",
+      "first_seen": "2026-07-18T08:03:10.140567",
+      "score": 45.0
+    },
+    "f140bbe3ebb308ef43faa8021e1dc6dd": {
+      "title": "Senior Consultant Commercial Strategy & Digital Innovation \u2013 Healthcare & Life Sciences (m/w/d)",
+      "company": "Simon-Kucher",
+      "first_seen": "2026-07-18T08:03:10.140570",
+      "score": 45.0
+    },
+    "49fb405d4848b0e372f6ba527813d74a": {
+      "title": "Digital M&S GenMed Insulin Cluster Leader - all genders",
+      "company": "Sanofi",
+      "first_seen": "2026-07-18T08:03:10.140572",
+      "score": 50.0
+    },
+    "5ee721bdaf97d925bc8e86761e9bdf84": {
+      "title": "Director Strategy & Customer Success \u2013 ISO Global Accounts, Europe and META (m/f/d)",
+      "company": "Lenovo",
+      "first_seen": "2026-07-18T08:03:10.140575",
+      "score": 40.0
+    },
+    "b98ca76c76636a398b91bc92b6fc4f70": {
+      "title": "Director of Business Development",
+      "company": "Green Life Science",
+      "first_seen": "2026-07-18T08:03:10.140577",
+      "score": 60.0
+    },
+    "dbd9d52564237c4542f02d5746fc5d47": {
+      "title": "Business Development Director (m/w/d) - excel as entrepreneur through strategy, sales, and AI",
+      "company": "Vicoland",
+      "first_seen": "2026-07-18T08:03:10.140580",
+      "score": 45.0
+    },
+    "463ec58d7fca0cbc4902dcb2c1a27931": {
+      "title": "VP, Partnerships & Managing Director",
+      "company": "Sievo",
+      "first_seen": "2026-07-18T08:03:10.140582",
+      "score": 40.0
+    },
+    "03fd14a0453b94fa7cf96d5534a9460d": {
+      "title": "Head of Business Development DACH",
+      "company": "ASSA ABLOY Group",
+      "first_seen": "2026-07-18T08:03:10.140584",
+      "score": 60.0
+    },
+    "bbc3f8ba54de34e540f781f55cd4a503": {
+      "title": "Head of Operations & Customer Service",
+      "company": "Ford Credit",
+      "first_seen": "2026-07-18T08:03:10.140586",
+      "score": 55.0
+    },
+    "079c044a8dd7df8c2c6a6181991e8099": {
+      "title": "Country Manager",
+      "company": "First Point Group",
+      "first_seen": "2026-07-18T08:03:10.140589",
+      "score": 55.0
+    },
+    "2cbf929e6071079b1a3e2843774e2fd9": {
+      "title": "Strategic Development Director / Senior Manager / Manager",
+      "company": "MatriX Innovation GmbH",
+      "first_seen": "2026-07-18T08:03:10.140591",
+      "score": 40.0
+    },
+    "8fb5c0935a53a933409fa4c6135d2d13": {
+      "title": "Patienten- und Projektmanager - Diabetes Care (m/w/d) I Region Nord-/Ost-Deutschland",
+      "company": "Abbott",
+      "first_seen": "2026-07-18T08:03:10.140593",
+      "score": 40.0
+    },
+    "1829211248689d9d9816b3acdd982348": {
+      "title": "Associate Director CMC Excellence & Strategy (Remote)",
+      "company": "Discover International",
+      "first_seen": "2026-07-18T08:03:10.140595",
+      "score": 60.0
+    },
+    "d583d485c8647eb6cb94fc37466c94c3": {
+      "title": "Research Management Director / Deputy Director / Specialist",
+      "company": "MatriX Innovation GmbH",
+      "first_seen": "2026-07-18T08:03:10.140598",
+      "score": 40.0
+    },
+    "8d4021f5f7435decdcb71f82c3e5739a": {
+      "title": "Global Vice President Product, R&D and Innovation (m/w/d)",
+      "company": "Siebenlist Personal GmbH",
+      "first_seen": "2026-07-18T08:03:10.140600",
+      "score": 40.0
     }
   },
-  "last_run": "2026-07-17T08:21:35.217953",
+  "last_run": "2026-07-18T08:03:10.140607",
   "stats": {
-    "total_seen": 192,
-    "total_reported": 513
+    "total_seen": 210,
+    "total_reported": 532
   }
 }
