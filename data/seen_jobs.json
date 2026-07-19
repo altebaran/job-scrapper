@@ -1,11 +1,5 @@
 {
   "seen": {
-    "ac4f2543bc414e2207f0b667a73f28f1": {
-      "title": "EMEA Commercial Operations Director (Medical Devices)",
-      "company": "BSI",
-      "first_seen": "2026-06-18T10:41:33.052152",
-      "score": 45.0
-    },
     "cc1bcf12b472569aacb1371582f3d740": {
       "title": "Explore more",
       "company": "Merck Innovation Center",
@@ -1259,11 +1253,53 @@
       "company": "Siebenlist Personal GmbH",
       "first_seen": "2026-07-18T08:03:10.140600",
       "score": 40.0
+    },
+    "16d2b670c4cb3fa9b83e338e17bc1eb1": {
+      "title": "Senior Consultant Commercial Strategy & Digital Innovation \u2013 Healthcare & Life Sciences (m/w/d)",
+      "company": "Simon-Kucher",
+      "first_seen": "2026-07-19T08:29:32.054930",
+      "score": 45.0
+    },
+    "6dfcede46ca2fcfd0cc95b47a5f2c560": {
+      "title": "Healthcare Solutions Principal (Healthcare & Life Sciences)",
+      "company": "Everpure",
+      "first_seen": "2026-07-19T08:29:32.054944",
+      "score": 45.0
+    },
+    "8f4a7a9eb3283629659bd64efad68df4": {
+      "title": "Business Development Director - Energy",
+      "company": "Critical Software",
+      "first_seen": "2026-07-19T08:29:32.054947",
+      "score": 40.0
+    },
+    "0c51464fafd24f68c8a62190db95c163": {
+      "title": "Director of Operations",
+      "company": "NTI Nanofilm",
+      "first_seen": "2026-07-19T08:29:32.054950",
+      "score": 55.0
+    },
+    "1df28916496b473ace889eb8f5b7dfaf": {
+      "title": "Commercial Director (m/w/d)",
+      "company": "Octopus Energy",
+      "first_seen": "2026-07-19T08:29:32.054952",
+      "score": 40.0
+    },
+    "bc5642f1ac18abe77007a65907ef75d9": {
+      "title": "Commercial Segment Lead B2B SaaS \u2013 Growth / P&L (alle Identit\u00e4ten)",
+      "company": "Caspar Health",
+      "first_seen": "2026-07-19T08:29:32.054955",
+      "score": 65.0
+    },
+    "9b38f113a138094064c99d7dcf7e3361": {
+      "title": "Director of Revenue",
+      "company": "Clera",
+      "first_seen": "2026-07-19T08:29:32.054957",
+      "score": 40.0
     }
   },
-  "last_run": "2026-07-18T08:03:10.140607",
+  "last_run": "2026-07-19T08:29:32.054964",
   "stats": {
-    "total_seen": 210,
-    "total_reported": 532
+    "total_seen": 216,
+    "total_reported": 539
   }
 }
