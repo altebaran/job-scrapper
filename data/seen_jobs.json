@@ -1373,11 +1373,101 @@
       "company": "X-Rite",
       "first_seen": "2026-07-20T09:27:12.137511",
       "score": 50.0
+    },
+    "e41a3c94c5d54bd64af079ad57228f89": {
+      "title": "Head of Portfolio and Platform Management - Advanced Therapies Business (f/m/d)",
+      "company": "Siemens Healthineers",
+      "first_seen": "2026-07-21T08:38:48.390357",
+      "score": 50.0
+    },
+    "51e66030bf7b2b7f646ccdd0f5883367": {
+      "title": "Head of Portfolio and Platform Management - Advanced Therapies Business (f/m/d)",
+      "company": "Siemens Healthineers",
+      "first_seen": "2026-07-21T08:38:48.390367",
+      "score": 50.0
+    },
+    "edacd6abba2a38722d01e45c6402b143": {
+      "title": "Industry Strategy Execution Lead - Consumer and Health - Director",
+      "company": "EY",
+      "first_seen": "2026-07-21T08:38:48.390371",
+      "score": 40.0
+    },
+    "4ab713a06058eff78cd95aa0860ba9ed": {
+      "title": "Commercial Director DACH",
+      "company": "Maternal Newborn Health Innovations, PBC",
+      "first_seen": "2026-07-21T08:38:48.390374",
+      "score": 45.0
+    },
+    "dc4771762a18d12718469a99dfbd3732": {
+      "title": "Country Manager - DACH",
+      "company": "Veracyte, Inc.",
+      "first_seen": "2026-07-21T08:38:48.390377",
+      "score": 55.0
+    },
+    "973d65e35556db36666451cbfd7e74c9": {
+      "title": "Regional General Manager (m/f/d) DACH & Benelux",
+      "company": "Abbott",
+      "first_seen": "2026-07-21T08:38:48.390380",
+      "score": 70.0
+    },
+    "53e62e7cd4a6cf264a7f9e98fb0915ed": {
+      "title": "Country Manager",
+      "company": "Guided Solutions",
+      "first_seen": "2026-07-21T08:38:48.390382",
+      "score": 55.0
+    },
+    "3cedb139fb2c645cc51fc955dcf74955": {
+      "title": "Client Director Pharma / Industrial & Auto (w/m/x)",
+      "company": "IBM iX DACH",
+      "first_seen": "2026-07-21T08:38:48.390383",
+      "score": 40.0
+    },
+    "b27fcc7549b7d055184a995a7cfca923": {
+      "title": "Associate Director Country Operations Management",
+      "company": "Alexion Pharmaceuticals, Inc.",
+      "first_seen": "2026-07-21T08:38:48.390385",
+      "score": 65.0
+    },
+    "1e2abc38d737256dc5fe59f01d40afb1": {
+      "title": "Senior Director, Manufacturing & Site Leader - Freiburg and Stetten",
+      "company": "Stryker",
+      "first_seen": "2026-07-21T08:38:48.390386",
+      "score": 50.0
+    },
+    "9b99219780949b1b29dc5964f6db7364": {
+      "title": "Director Product Management (m/w/d) - Jobbird.com",
+      "company": "Jobster",
+      "first_seen": "2026-07-21T08:38:48.390387",
+      "score": 40.0
+    },
+    "0cde95bfc254c0d48d0d354d2b1aba9d": {
+      "title": "Regionaler Verkaufsleiter Deutschland Nordost (m/w/d)",
+      "company": "Accriva Diagnostics",
+      "first_seen": "2026-07-21T08:38:48.390388",
+      "score": 40.0
+    },
+    "5d48e4dd649dea477e68e12fa721188c": {
+      "title": "Director, EMEA Data Partnerships",
+      "company": "WPP",
+      "first_seen": "2026-07-21T08:38:48.390390",
+      "score": 40.0
+    },
+    "85fbdc2b0335461682a5cd0c65f996b2": {
+      "title": "Strategic Partnerships Lead, Central and Eastern Europe",
+      "company": "Airbnb",
+      "first_seen": "2026-07-21T08:38:48.390391",
+      "score": 40.0
+    },
+    "9364e49c555b8be6c6193e5708909eaf": {
+      "title": "Global MSAT Senior/Principal DP Product Steward",
+      "company": "Roche",
+      "first_seen": "2026-07-21T08:38:48.390393",
+      "score": 50.0
     }
   },
-  "last_run": "2026-07-20T09:27:12.137518",
+  "last_run": "2026-07-21T08:38:48.390398",
   "stats": {
-    "total_seen": 229,
-    "total_reported": 552
+    "total_seen": 244,
+    "total_reported": 567
   }
 }
