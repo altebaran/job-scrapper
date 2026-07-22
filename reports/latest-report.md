@@ -1,108 +1,103 @@
-# 🎯 Daily Job Report — 2026-07-21
+# 🎯 Daily Job Report — 2026-07-22
 
-**15** new matches | **1** high relevance
+**14** new matches | **0** high relevance
 
 ---
 
-### 1. 🟢 Regional General Manager (m/f/d) DACH & Benelux
-**Abbott** · 📍 Wiesbaden, Hesse, Germany · Score: 70/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/regional-general-manager-m-f-d-dach-benelux-at-abbott-4443014523)
-  - Title match: 'general manager'
-  - Location: 'germany'
-  - Target company: Abbott Digital Health
-
-### 2. 🟡 Associate Director Country Operations Management
-**Alexion Pharmaceuticals, Inc.** · 📍 Munich, Bavaria, Germany · Score: 65/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-country-operations-management-at-alexion-pharmaceuticals-inc-4442781055)
-  - Title match: 'associate director'
-  - Keywords (2): pharma, pharmaceutical
-  - Location: 'germany'
-
-### 3. 🟡 Country Manager - DACH
-**Veracyte, Inc.** · 📍 Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/country-manager-dach-at-veracyte-inc-4438515015)
-  - Title match: 'country manager'
-  - Location: 'germany'
-
-### 4. 🟡 Country Manager
-**Guided Solutions** · 📍 Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/country-manager-at-guided-solutions-4440116809)
-  - Title match: 'country manager'
-  - Location: 'germany'
-
-### 5. 🟡 Head of Portfolio and Platform Management - Advanced Therapies Business (f/m/d)
-**Siemens Healthineers** · 📍 Erlangen, Bavaria, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-portfolio-and-platform-management-advanced-therapies-business-f-m-d-at-siemens-healthineers-4440135907)
-  - Seniority match: 'head of'
-  - Location: 'germany'
-  - Target company: Siemens Healthineers Digital
-
-### 6. 🟡 Head of Portfolio and Platform Management - Advanced Therapies Business (f/m/d)
-**Siemens Healthineers** · 📍 Forchheim, Bavaria, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-portfolio-and-platform-management-advanced-therapies-business-f-m-d-at-siemens-healthineers-4440134903)
-  - Seniority match: 'head of'
-  - Location: 'germany'
-  - Target company: Siemens Healthineers Digital
-
-### 7. 🟡 Senior Director, Manufacturing & Site Leader - Freiburg and Stetten
-**Stryker** · 📍 Freiburg, Baden-Württemberg, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-director-manufacturing-site-leader-freiburg-and-stetten-at-stryker-4442086708)
-  - Seniority match: 'director'
-  - Location: 'germany'
-  - Target company: Stryker Digital
-
-### 8. 🟡 Global MSAT Senior/Principal DP Product Steward
-**Roche** · 📍 Mannheim, Baden-Württemberg, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/global-msat-senior-principal-dp-product-steward-at-roche-4442798921)
-  - Seniority match: 'principal'
-  - Location: 'germany'
-  - Target company: Roche Digital Health
-
-### 9. ⚪ Commercial Director DACH
-**Maternal Newborn Health Innovations, PBC** · 📍 Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/commercial-director-dach-at-maternal-newborn-health-innovations-pbc-4440153834)
-  - Seniority match: 'director'
-  - Keywords (2): commercial, innovation
-  - Location: 'germany'
-
-### 10. ⚪ Industry Strategy Execution Lead - Consumer and Health - Director
-**EY** · 📍 Eschborn, Hesse, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/industry-strategy-execution-lead-consumer-and-health-director-at-ey-4431511220)
-  - Seniority match: 'director'
-  - Keywords (1): strategy
-  - Location: 'germany'
-
-### 11. ⚪ Client Director Pharma / Industrial & Auto (w/m/x)
-**IBM iX DACH** · 📍 Düsseldorf, North Rhine-Westphalia, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/client-director-pharma-industrial-auto-w-m-x-at-ibm-ix-dach-4434480354)
-  - Seniority match: 'director'
+### 1. 🟡 Chief of Staff to CCO (m/f/d)
+**Redcare Pharmacy** · 📍 Cologne, North Rhine-Westphalia, Germany · Score: 60/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/chief-of-staff-to-cco-m-f-d-at-redcare-pharmacy-4440451576)
+  - Title match: 'chief of staff'
   - Keywords (1): pharma
   - Location: 'germany'
 
-### 12. ⚪ Director Product Management (m/w/d) - Jobbird.com
-**Jobster** · 📍 Coblenz, Rhineland-Palatinate, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-product-management-m-w-d-jobbird-com-at-jobster-4442233978)
+### 2. ⚪ Director Commercial Operations
+**BioNTech SE** · 📍 Munich, Bavaria, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-commercial-operations-at-biontech-se-4425632133)
   - Seniority match: 'director'
-  - Keywords (1): product management
+  - Keywords (1): commercial
   - Location: 'germany'
 
-### 13. ⚪ Regionaler Verkaufsleiter Deutschland Nordost (m/w/d)
-**Accriva Diagnostics** · 📍 Hamburg, Hamburg, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/regionaler-verkaufsleiter-deutschland-nordost-m-w-d-at-accriva-diagnostics-4442757504)
-  - Seniority match: 'regional'
-  - Keywords (1): diagnostics
+### 3. ⚪ Principal Digital Business Development and M&A (gn) full-time/ part-time (hybrid)
+**DKV Mobility** · 📍 Ratingen, North Rhine-Westphalia, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/principal-digital-business-development-and-m-a-gn-full-time-part-time-hybrid-at-dkv-mobility-4442646173)
+  - Seniority match: 'principal'
+  - Keywords (1): business development
   - Location: 'germany'
 
-### 14. ⚪ Director, EMEA Data Partnerships
-**WPP** · 📍 Düsseldorf, North Rhine-Westphalia, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-emea-data-partnerships-at-wpp-4426460131)
+### 4. ⚪ Business Development Director
+**Zayo Europe** · 📍 Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/business-development-director-at-zayo-europe-4442622859)
   - Seniority match: 'director'
-  - Keywords (1): partnerships
+  - Keywords (1): business development
   - Location: 'germany'
 
-### 15. ⚪ Strategic Partnerships Lead, Central and Eastern Europe
-**Airbnb** · 📍 Berlin, Berlin, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/strategic-partnerships-lead-central-and-eastern-europe-at-airbnb-4439552948)
-  - Seniority match: 'lead'
-  - Keywords (1): partnerships
+### 5. ⚪ Business Development Director
+**Zayo Europe** · 📍 Frankfurt, Hesse, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/business-development-director-at-zayo-europe-4442625755)
+  - Seniority match: 'director'
+  - Keywords (1): business development
   - Location: 'germany'
+
+### 6. ⚪ Explore more
+**Merck Innovation Center** · 📍 Darmstadt · Score: 40/100
+🔗 [Direct (Merck Innovation Center)](https://careers.emdgroup.com/us/en/work-areas)
+  - Keywords (1): innovation
+  - Location: 'darmstadt'
+  - Target company: Merck Innovation Center
+
+### 7. ⚪ Explore more
+**Merck Innovation Center** · 📍 Darmstadt · Score: 40/100
+🔗 [Direct (Merck Innovation Center)](https://careers.emdgroup.com/us/en/students-and-graduates)
+  - Keywords (1): innovation
+  - Location: 'darmstadt'
+  - Target company: Merck Innovation Center
+
+### 8. ⚪ Learn more
+**Merck Innovation Center** · 📍 Darmstadt · Score: 40/100
+🔗 [Direct (Merck Innovation Center)](https://careers.emdgroup.com/us/en/it-ot-convergence)
+  - Keywords (1): innovation
+  - Location: 'darmstadt'
+  - Target company: Merck Innovation Center
+
+### 9. ⚪ Learn more
+**Merck Innovation Center** · 📍 Darmstadt · Score: 40/100
+🔗 [Direct (Merck Innovation Center)](https://careers.emdgroup.com/us/en/data-and-analytics)
+  - Keywords (1): innovation
+  - Location: 'darmstadt'
+  - Target company: Merck Innovation Center
+
+### 10. ⚪ Learn more.
+**Merck Innovation Center** · 📍 Darmstadt · Score: 40/100
+🔗 [Direct (Merck Innovation Center)](https://careers.emdgroup.com/us/en/inhouse-consulting)
+  - Keywords (1): innovation
+  - Location: 'darmstadt'
+  - Target company: Merck Innovation Center
+
+### 11. ⚪ See more
+**Merck Innovation Center** · 📍 Darmstadt · Score: 40/100
+🔗 [Direct (Merck Innovation Center)](https://careers.emdgroup.com/us/en/benefits)
+  - Keywords (1): innovation
+  - Location: 'darmstadt'
+  - Target company: Merck Innovation Center
+
+### 12. ⚪ Join Talent Zone
+**Merck Innovation Center** · 📍 Darmstadt · Score: 40/100
+🔗 [Direct (Merck Innovation Center)](https://careers.emdgroup.com/us/en/talent-zone-landing)
+  - Keywords (1): innovation
+  - Location: 'darmstadt'
+  - Target company: Merck Innovation Center
+
+### 13. ⚪ Career Site Cookie Settings
+**Merck Innovation Center** · 📍 Darmstadt · Score: 40/100
+🔗 [Direct (Merck Innovation Center)](https://careers.emdgroup.com/us/en/cookiesettings)
+  - Keywords (1): innovation
+  - Location: 'darmstadt'
+  - Target company: Merck Innovation Center
+
+### 14. ⚪ CAREERS
+**Merck Innovation Center** · 📍 Darmstadt · Score: 40/100
+🔗 [Direct (Merck Innovation Center)](https://careers.emdgroup.com/us/en)
+  - Keywords (1): innovation
+  - Location: 'darmstadt'
+  - Target company: Merck Innovation Center
