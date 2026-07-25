@@ -1577,11 +1577,95 @@
       "company": "Wellbeinn",
       "first_seen": "2026-07-24T08:36:14.764973",
       "score": 55.0
+    },
+    "4b2f2286b3fb5f3ab56258a527a57dce": {
+      "title": "Chief of Staff",
+      "company": "Vara",
+      "first_seen": "2026-07-25T08:16:00.669540",
+      "score": 70.0
+    },
+    "185fef0142d3ceab0309d56bc597f004": {
+      "title": "Director Transformation & Efficiency Office (TEO) (m/w/d).",
+      "company": "AstraZeneca",
+      "first_seen": "2026-07-25T08:16:00.669556",
+      "score": 50.0
+    },
+    "5771906215883fffecd258dd3e0edd2d": {
+      "title": "Director Transformation & Efficiency Office (TEO) (m/w/d)",
+      "company": "AstraZeneca",
+      "first_seen": "2026-07-25T08:16:00.669560",
+      "score": 50.0
+    },
+    "142868f7a321e762d137540d137e776f": {
+      "title": "Senior Manager Strategic Planning",
+      "company": "Boehringer Ingelheim",
+      "first_seen": "2026-07-25T08:16:00.669563",
+      "score": 50.0
+    },
+    "22693d9fd3b1a4f6bf35871a5acdbbc9": {
+      "title": "Head of Operations (all genders)",
+      "company": "getolo",
+      "first_seen": "2026-07-25T08:16:00.669565",
+      "score": 55.0
+    },
+    "aece8cb74a6a837b796197455715e0ec": {
+      "title": "Director, Translational Data Enablement",
+      "company": "AstraZeneca",
+      "first_seen": "2026-07-25T08:16:00.669568",
+      "score": 50.0
+    },
+    "7783110e13c8d4e3cf2539be7379bf9c": {
+      "title": "Manager / Senior Manager Inhouse Consulting - Data & AI Strategy (all genders, full-/part-time)",
+      "company": "Merck Group",
+      "first_seen": "2026-07-25T08:16:00.669570",
+      "score": 40.0
+    },
+    "cb6b6315bcba83aab5fa59fef1113610": {
+      "title": "Sales, Service and Project Execution Regional Sales Leader Critical Power DACH",
+      "company": "ABB",
+      "first_seen": "2026-07-25T08:16:00.669573",
+      "score": 50.0
+    },
+    "0452435687fae505111120dc01575bf2": {
+      "title": "VP, Services Business Development (Retail & Commerce) (Fluent in German)",
+      "company": "Mastercard",
+      "first_seen": "2026-07-25T08:16:00.669575",
+      "score": 40.0
+    },
+    "7168acd292adc0f88f67252bad734aef": {
+      "title": "Vice President Product Management (m/f/d)",
+      "company": "\u30ab\u30fc\u30eb\u30b9\u30c8\u30eb\u30c4\u30fb\u30a8\u30f3\u30c9\u30b9\u30b3\u30d4\u30fc\u30fb\u30b8\u30e3\u30d1\u30f3\uff08\u682a\uff09",
+      "first_seen": "2026-07-25T08:16:00.669578",
+      "score": 40.0
+    },
+    "5c9553790d0aae037b2301ee8c349e60": {
+      "title": "VP, Services Business Development (Retail & Commerce) (Fluent in German)",
+      "company": "Mastercard",
+      "first_seen": "2026-07-25T08:16:00.669580",
+      "score": 40.0
+    },
+    "9b71e8bbb49aefb89aecdb024ec6c191": {
+      "title": "Associate Director | High-Throughput Biology",
+      "company": "Boehringer Ingelheim",
+      "first_seen": "2026-07-25T08:16:00.669583",
+      "score": 70.0
+    },
+    "ffafba29bb6dd0c686602dc9a567458e": {
+      "title": "Head of Formulation Development & CMC Strategy (w/m/d)",
+      "company": "Progressive",
+      "first_seen": "2026-07-25T08:16:00.669585",
+      "score": 40.0
+    },
+    "d95564d04fb4c7fcae55a7a21099a401": {
+      "title": "Manager / Senior Manager Inhouse Consulting - Healthcare/Life Science (all genders, full-/part-time)",
+      "company": "Merck Group",
+      "first_seen": "2026-07-25T08:16:00.669588",
+      "score": 40.0
     }
   },
-  "last_run": "2026-07-24T08:36:14.764982",
+  "last_run": "2026-07-25T08:16:00.669595",
   "stats": {
-    "total_seen": 263,
-    "total_reported": 595
+    "total_seen": 277,
+    "total_reported": 609
   }
 }

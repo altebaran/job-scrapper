@@ -1,94 +1,102 @@
-# 🎯 Daily Job Report — 2026-07-24
+# 🎯 Daily Job Report — 2026-07-25
 
-**13** new matches | **0** high relevance
+**14** new matches | **2** high relevance
 
 ---
 
-### 1. 🟡 Director of Business Development
-**Masentó Group** · 📍 Germany · Score: 60/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-of-business-development-at-masent%C3%B3-group-4441099465)
-  - Title match: 'director of business development'
-  - Keywords (1): business development
-  - Location: 'germany'
-
-### 2. 🟡 Director of Business Development - Development Services DACH
-**Lead Candidate** · 📍 Germany · Score: 60/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-of-business-development-development-services-dach-at-lead-candidate-4444919635)
-  - Title match: 'director of business development'
-  - Keywords (1): business development
-  - Location: 'germany'
-
-### 3. 🟡 Chief of Staff
-**vialytics** · 📍 Berlin, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/chief-of-staff-at-vialytics-4444421217)
+### 1. 🟢 Chief of Staff
+**Vara** · 📍 Berlin, Berlin, Germany · Score: 70/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/chief-of-staff-at-vara-4441801391)
   - Title match: 'chief of staff'
   - Location: 'germany'
+  - Target company: Vara (formerly Merantix Healthcare)
 
-### 4. 🟡 Country Manager — Marke & Partnerschaften - Alemania
-**Wellbeinn** · 📍 Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/country-manager-%E2%80%94-marke-partnerschaften-alemania-at-wellbeinn-4444938024)
-  - Title match: 'country manager'
+### 2. 🟢 Associate Director | High-Throughput Biology
+**Boehringer Ingelheim** · 📍 Biberach, Baden-Württemberg, Germany · Score: 70/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-high-throughput-biology-at-boehringer-ingelheim-4444989820)
+  - Title match: 'associate director'
+  - Location: 'germany'
+  - Target company: Boehringer Ingelheim Digital Lab
+
+### 3. 🟡 Head of Operations (all genders)
+**getolo** · 📍 Berlin, Berlin, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-operations-all-genders-at-getolo-4444938900)
+  - Title match: 'head of operations'
   - Location: 'germany'
 
-### 5. 🟡 Regional Team Lead, RDT Onsite Services Europe
-**Roche** · 📍 Grenzach-Wyhlen, Baden-Württemberg, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/regional-team-lead-rdt-onsite-services-europe-at-roche-4444476137)
+### 4. 🟡 Director Transformation & Efficiency Office (TEO) (m/w/d).
+**AstraZeneca** · 📍 Hamburg, Hamburg, Germany · Score: 50/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-transformation-efficiency-office-teo-m-w-d-at-astrazeneca-4444927784)
+  - Seniority match: 'director'
+  - Location: 'germany'
+  - Target company: AstraZeneca Innovation
+
+### 5. 🟡 Director Transformation & Efficiency Office (TEO) (m/w/d)
+**AstraZeneca** · 📍 Hamburg, Hamburg, Germany · Score: 50/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-transformation-efficiency-office-teo-m-w-d-at-astrazeneca-4444343428)
+  - Seniority match: 'director'
+  - Location: 'germany'
+  - Target company: AstraZeneca Innovation
+
+### 6. 🟡 Senior Manager Strategic Planning
+**Boehringer Ingelheim** · 📍 Ingelheim am Rhein, Rhineland-Palatinate, Germany · Score: 50/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-manager-strategic-planning-at-boehringer-ingelheim-4445206175)
+  - Seniority match: 'senior manager'
+  - Location: 'germany'
+  - Target company: Boehringer Ingelheim Digital Lab
+
+### 7. 🟡 Director, Translational Data Enablement
+**AstraZeneca** · 📍 Munich, Bavaria, Germany · Score: 50/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-translational-data-enablement-at-astrazeneca-4444363130)
+  - Seniority match: 'director'
+  - Location: 'germany'
+  - Target company: AstraZeneca Innovation
+
+### 8. 🟡 Sales, Service and Project Execution Regional Sales Leader Critical Power DACH
+**ABB** · 📍 Sasbach, Baden-Württemberg, Germany · Score: 50/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/sales-service-and-project-execution-regional-sales-leader-critical-power-dach-at-abb-4444346123)
   - Seniority match: 'regional'
   - Location: 'germany'
-  - Target company: Roche Digital Health
+  - Target company: Abbott Digital Health
 
-### 6. 🟡 Regional Team Lead, RDT Onsite Services Europe
-**Roche** · 📍 Penzberg, Bavaria, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/regional-team-lead-rdt-onsite-services-europe-at-roche-4444467711)
-  - Seniority match: 'regional'
-  - Location: 'germany'
-  - Target company: Roche Digital Health
-
-### 7. ⚪ Director Global Business Development - Market Access
-**Carrot Recruitment** · 📍 Lower Saxony, Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-global-business-development-market-access-at-carrot-recruitment-4441523863)
-  - Seniority match: 'director'
-  - Keywords (2): business development, market access
+### 9. ⚪ Manager / Senior Manager Inhouse Consulting - Data & AI Strategy (all genders, full-/part-time)
+**Merck Group** · 📍 Darmstadt, Hesse, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/manager-senior-manager-inhouse-consulting-data-ai-strategy-all-genders-full-part-time-at-merck-group-4444967110)
+  - Seniority match: 'senior manager'
+  - Keywords (1): strategy
   - Location: 'germany'
 
-### 8. ⚪ Director, Operations, Stolberg
-**West Pharmaceutical Services** · 📍 Stolberg, North Rhine-Westphalia, Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-operations-stolberg-at-west-pharmaceutical-services-4444732428)
-  - Seniority match: 'director'
-  - Keywords (2): pharma, pharmaceutical
+### 10. ⚪ VP, Services Business Development (Retail & Commerce) (Fluent in German)
+**Mastercard** · 📍 Frankfurt, Hesse, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/vp-services-business-development-retail-commerce-fluent-in-german-at-mastercard-4433168802)
+  - Seniority match: 'vp'
+  - Keywords (1): business development
   - Location: 'germany'
 
-### 9. ⚪ (Senior) Director / Vice President Life Sciences Germany (m/w/d)
-**Capgemini Invent** · 📍 Berlin, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-director-vice-president-life-sciences-germany-m-w-d-at-capgemini-invent-4443530207)
-  - Seniority match: 'director'
-  - Keywords (1): life sciences
+### 11. ⚪ Vice President Product Management (m/f/d)
+**カールストルツ・エンドスコピー・ジャパン（株）** · 📍 Tuttlingen, Baden-Württemberg, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/vice-president-product-management-m-f-d-at-%E3%82%AB%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%88%E3%83%AB%E3%83%84%E3%83%BB%E3%82%A8%E3%83%B3%E3%83%89%E3%82%B9%E3%82%B3%E3%83%94%E3%83%BC%E3%83%BB%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%EF%BC%88%E6%A0%AA%EF%BC%89-4444958890)
+  - Seniority match: 'vice president'
+  - Keywords (1): product management
   - Location: 'germany'
 
-### 10. ⚪ Business Lead Neurovascular Germany & Austria (m/w/d)
-**Johnson & Johnson MedTech** · 📍 Hamburg, Hamburg, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/business-lead-neurovascular-germany-austria-m-w-d-at-johnson-johnson-medtech-4444400974)
-  - Seniority match: 'lead'
-  - Keywords (1): medtech
+### 12. ⚪ VP, Services Business Development (Retail & Commerce) (Fluent in German)
+**Mastercard** · 📍 Munich, Bavaria, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/vp-services-business-development-retail-commerce-fluent-in-german-at-mastercard-4433163943)
+  - Seniority match: 'vp'
+  - Keywords (1): business development
   - Location: 'germany'
 
-### 11. ⚪ Head of Digital Strategy & Business Case Advisory (m/w/d)
-**Atos** · 📍 Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-digital-strategy-business-case-advisory-m-w-d-at-atos-4432710583)
+### 13. ⚪ Head of Formulation Development & CMC Strategy (w/m/d)
+**Progressive** · 📍 Munich, Bavaria, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-formulation-development-cmc-strategy-w-m-d-at-progressive-4444937083)
   - Seniority match: 'head of'
   - Keywords (1): strategy
   - Location: 'germany'
 
-### 12. ⚪ Lead Business Development | Care (all genders welcome)
-**goodBytz** · 📍 Hamburg, Hamburg, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/lead-business-development-care-all-genders-welcome-at-goodbytz-4441509535)
-  - Seniority match: 'lead'
-  - Keywords (1): business development
-  - Location: 'germany'
-
-### 13. ⚪ Director, Commercial Lead Gene Therapy, EMEA
-**Ultragenyx** · 📍 Berlin, Berlin, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-commercial-lead-gene-therapy-emea-at-ultragenyx-4441091881)
-  - Seniority match: 'director'
-  - Keywords (1): commercial
+### 14. ⚪ Manager / Senior Manager Inhouse Consulting - Healthcare/Life Science (all genders, full-/part-time)
+**Merck Group** · 📍 Darmstadt, Hesse, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/manager-senior-manager-inhouse-consulting-healthcare-life-science-all-genders-full-part-time-at-merck-group-4444965135)
+  - Seniority match: 'senior manager'
+  - Keywords (1): healthcare
   - Location: 'germany'
