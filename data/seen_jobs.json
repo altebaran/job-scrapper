@@ -1,89 +1,5 @@
 {
   "seen": {
-    "e37fc97cb4df9186b64f2096d21ddd5c": {
-      "title": "Field Service Engineering & Customer ServiceOur field service and customer service teams play a vital role in helping healthcare providers deliver top-quality care. With a strong focus on customers, they bring expert support, smart solutions, and a deep commitment to service.Learn more",
-      "company": "Siemens Healthineers Digital",
-      "first_seen": "2026-06-25T09:35:24.387077",
-      "score": 40.0
-    },
-    "5ad56cf561b174d4b011276a8e5ae602": {
-      "title": "Software Engineering, Cybersecurity, and ITOur tech teams are driving the future of healthcare. Software Engineers turn complex ideas into real solutions, Cybersecurity Experts protect our digital systems, and IT Professionals build the strong infrastructure that keeps everything running smoothly.Learn more",
-      "company": "Siemens Healthineers Digital",
-      "first_seen": "2026-06-25T09:35:24.387086",
-      "score": 40.0
-    },
-    "08ca85ce7d0dfd21c66936528dec09fc": {
-      "title": "Know your rights",
-      "company": "Philips Health Innovation",
-      "first_seen": "2026-06-25T09:35:24.387088",
-      "score": 40.0
-    },
-    "d1324879c00c6d9af5bd00726e1bf1e5": {
-      "title": "English",
-      "company": "AstraZeneca Innovation",
-      "first_seen": "2026-06-25T09:35:24.387090",
-      "score": 40.0
-    },
-    "f6175c67e0ca69b6f015c17fc95f0589": {
-      "title": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439",
-      "company": "AstraZeneca Innovation",
-      "first_seen": "2026-06-25T09:35:24.387091",
-      "score": 40.0
-    },
-    "07d0fdac0142af92a5609f0f5a66d304": {
-      "title": "Deutsch",
-      "company": "AstraZeneca Innovation",
-      "first_seen": "2026-06-25T09:35:24.387093",
-      "score": 40.0
-    },
-    "ec34abf4980d85cd72c30e2950dffe9b": {
-      "title": "Fran\u00e7ais",
-      "company": "AstraZeneca Innovation",
-      "first_seen": "2026-06-25T09:35:24.387094",
-      "score": 40.0
-    },
-    "fbc09da1c62d43caae79f8695b67a470": {
-      "title": "Svenska",
-      "company": "AstraZeneca Innovation",
-      "first_seen": "2026-06-25T09:35:24.387095",
-      "score": 40.0
-    },
-    "011feb81124c0231e5c8e3c7f24dd87a": {
-      "title": "Alexion",
-      "company": "AstraZeneca Innovation",
-      "first_seen": "2026-06-25T09:35:24.387097",
-      "score": 40.0
-    },
-    "86824b945dccf2bf50f430bd85653e93": {
-      "title": "Fusion Pharma",
-      "company": "AstraZeneca Innovation",
-      "first_seen": "2026-06-25T09:35:24.387098",
-      "score": 45.0
-    },
-    "f01a42663821ac7374acd4ff2e91866e": {
-      "title": "Join Talent Network",
-      "company": "AstraZeneca Innovation",
-      "first_seen": "2026-06-25T09:35:24.387099",
-      "score": 40.0
-    },
-    "31c264c20683e0825dcf1cbf8791de5e": {
-      "title": "GET MATCHED TO A JOBUPLOAD YOUR RESUME",
-      "company": "AstraZeneca Innovation",
-      "first_seen": "2026-06-25T09:35:24.387101",
-      "score": 40.0
-    },
-    "f5580b78712ba466f1b9cdb32173f452": {
-      "title": "AlexionWe expanded our scientific footprint with the acquisition of Alexion's cutting-edge work in rare disease therapeutics.",
-      "company": "AstraZeneca Innovation",
-      "first_seen": "2026-06-25T09:35:24.387102",
-      "score": 45.0
-    },
-    "50bc525ab4cec884a4756a40c1cef9db": {
-      "title": "Job Application Privacy Notice",
-      "company": "AstraZeneca Innovation",
-      "first_seen": "2026-06-25T09:35:24.387103",
-      "score": 40.0
-    },
     "9373e2d092b192e117d1830e82ce8e8d": {
       "title": "Head of Business Development, Public Sector - Germany (m/f/d)",
       "company": "Nemetschek Group",
@@ -1661,11 +1577,173 @@
       "company": "Merck Group",
       "first_seen": "2026-07-25T08:16:00.669588",
       "score": 40.0
+    },
+    "1441d2cb375e20b43a9860a3667c6842": {
+      "title": "Lead Commercialization & Program Management - In-Center Digital Ecosystem (m/f/d)",
+      "company": "Fresenius Medical Care",
+      "first_seen": "2026-07-26T08:35:52.706859",
+      "score": 40.0
+    },
+    "60d03822416b12404d9722f7b063343c": {
+      "title": "Director/Senior Director - Content Strategy EU",
+      "company": "Veeva Systems",
+      "first_seen": "2026-07-26T08:35:52.706869",
+      "score": 40.0
+    },
+    "288f7a24215a4ea0fa99ef31a7e8bcf4": {
+      "title": "Projektleiter Healthcare - Business Consulting (w/m/d)",
+      "company": "EY",
+      "first_seen": "2026-07-26T08:35:52.706875",
+      "score": 40.0
+    },
+    "41fdbfc6d5b51e95d4166491a4a90291": {
+      "title": "Projektleiter Healthcare - Business Consulting (w/m/d)",
+      "company": "EY",
+      "first_seen": "2026-07-26T08:35:52.706877",
+      "score": 40.0
+    },
+    "59ae6284ef8fb1b2984d1b6adbe86e89": {
+      "title": "Associate Director of Sales \u2013 EMEA (Drug Product Services)",
+      "company": "Lonza",
+      "first_seen": "2026-07-26T08:35:52.706879",
+      "score": 55.0
+    },
+    "173d87ab01668024ba237b43a8917431": {
+      "title": "Director of Business Development (MCM)",
+      "company": "Moloco",
+      "first_seen": "2026-07-26T08:35:52.706881",
+      "score": 60.0
+    },
+    "c952924370b78bbdcefa12ae84cc1d4e": {
+      "title": "Country Manager Germany",
+      "company": "Check Point Software",
+      "first_seen": "2026-07-26T08:35:52.706883",
+      "score": 55.0
+    },
+    "dbec8fe8a520fed443b0a4bbf7836dbf": {
+      "title": "Senior Account Executive / Business Development Director",
+      "company": "Cognite",
+      "first_seen": "2026-07-26T08:35:52.706885",
+      "score": 40.0
+    },
+    "655f46af55781c26f7c0b6d6747ecce9": {
+      "title": "Associate Director Outbound Sales Operations (all genders)",
+      "company": "HelloFresh",
+      "first_seen": "2026-07-26T08:35:52.706887",
+      "score": 55.0
+    },
+    "18ff9243a92a2ebcd2f256f90348d694": {
+      "title": "HEAD OF OPERATIONS \u2013\nOperations manager\n(m/w/d) in der \nSystemgastronomie\nDeutschland",
+      "company": "tastyy (Deutschland)",
+      "first_seen": "2026-07-26T08:35:52.706889",
+      "score": 55.0
+    },
+    "a3948d9267c0609f2ac7f89cbca7ff91": {
+      "title": "Head of Unit, Digital Solutions",
+      "company": "Norwegian Refugee Council",
+      "first_seen": "2026-07-26T08:35:52.706890",
+      "score": 40.0
+    },
+    "1114d40d579cb5e5c1d60e2e4119db1a": {
+      "title": "Head of Growth (Sales & Marketing) (m/w/d), ab sofort",
+      "company": "NXTGN",
+      "first_seen": "2026-07-26T08:35:52.706892",
+      "score": 60.0
+    },
+    "cf5a614b50e94debadf7a5e1bf1e6f2c": {
+      "title": "Head of Channel Partnerships f/m/d",
+      "company": "Moss",
+      "first_seen": "2026-07-26T08:35:52.706894",
+      "score": 40.0
+    },
+    "0797a226c958786c6ca370a1f4c6fc04": {
+      "title": "Director Clinical Development and Medical Assessment (w/m/d)",
+      "company": "STADA Group",
+      "first_seen": "2026-07-26T08:35:52.706896",
+      "score": 40.0
+    },
+    "9e07e2cc377e07d327c089a37e3d1bd3": {
+      "title": "Director Additive & Advanced Manufacturing (m/w/d)- Startup Support",
+      "company": "UnternehmerTUM",
+      "first_seen": "2026-07-26T08:35:52.706898",
+      "score": 40.0
+    },
+    "08ca85ce7d0dfd21c66936528dec09fc": {
+      "title": "Know your rights",
+      "company": "Philips Health Innovation",
+      "first_seen": "2026-07-26T08:35:52.706900",
+      "score": 40.0
+    },
+    "d1324879c00c6d9af5bd00726e1bf1e5": {
+      "title": "English",
+      "company": "AstraZeneca Innovation",
+      "first_seen": "2026-07-26T08:35:52.706902",
+      "score": 40.0
+    },
+    "f6175c67e0ca69b6f015c17fc95f0589": {
+      "title": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439",
+      "company": "AstraZeneca Innovation",
+      "first_seen": "2026-07-26T08:35:52.706904",
+      "score": 40.0
+    },
+    "07d0fdac0142af92a5609f0f5a66d304": {
+      "title": "Deutsch",
+      "company": "AstraZeneca Innovation",
+      "first_seen": "2026-07-26T08:35:52.706906",
+      "score": 40.0
+    },
+    "ec34abf4980d85cd72c30e2950dffe9b": {
+      "title": "Fran\u00e7ais",
+      "company": "AstraZeneca Innovation",
+      "first_seen": "2026-07-26T08:35:52.706907",
+      "score": 40.0
+    },
+    "fbc09da1c62d43caae79f8695b67a470": {
+      "title": "Svenska",
+      "company": "AstraZeneca Innovation",
+      "first_seen": "2026-07-26T08:35:52.706909",
+      "score": 40.0
+    },
+    "011feb81124c0231e5c8e3c7f24dd87a": {
+      "title": "Alexion",
+      "company": "AstraZeneca Innovation",
+      "first_seen": "2026-07-26T08:35:52.706911",
+      "score": 40.0
+    },
+    "86824b945dccf2bf50f430bd85653e93": {
+      "title": "Fusion Pharma",
+      "company": "AstraZeneca Innovation",
+      "first_seen": "2026-07-26T08:35:52.706912",
+      "score": 45.0
+    },
+    "f01a42663821ac7374acd4ff2e91866e": {
+      "title": "Join Talent Network",
+      "company": "AstraZeneca Innovation",
+      "first_seen": "2026-07-26T08:35:52.706914",
+      "score": 40.0
+    },
+    "31c264c20683e0825dcf1cbf8791de5e": {
+      "title": "GET MATCHED TO A JOBUPLOAD YOUR RESUME",
+      "company": "AstraZeneca Innovation",
+      "first_seen": "2026-07-26T08:35:52.706916",
+      "score": 40.0
+    },
+    "f5580b78712ba466f1b9cdb32173f452": {
+      "title": "AlexionWe expanded our scientific footprint with the acquisition of Alexion's cutting-edge work in rare disease therapeutics.",
+      "company": "AstraZeneca Innovation",
+      "first_seen": "2026-07-26T08:35:52.706918",
+      "score": 45.0
+    },
+    "50bc525ab4cec884a4756a40c1cef9db": {
+      "title": "Job Application Privacy Notice",
+      "company": "AstraZeneca Innovation",
+      "first_seen": "2026-07-26T08:35:52.706919",
+      "score": 40.0
     }
   },
-  "last_run": "2026-07-25T08:16:00.669595",
+  "last_run": "2026-07-26T08:35:52.706925",
   "stats": {
-    "total_seen": 277,
-    "total_reported": 609
+    "total_seen": 290,
+    "total_reported": 636
   }
 }
