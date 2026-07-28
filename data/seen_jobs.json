@@ -1709,11 +1709,131 @@
       "company": "Aidence",
       "first_seen": "2026-07-27T10:02:26.718527",
       "score": 40.0
+    },
+    "c3b95e75aa88a240db13084fd87e0fc5": {
+      "title": "Global Lead Market Access (f/m/d)",
+      "company": "B. Braun Group",
+      "first_seen": "2026-07-28T08:44:29.573683",
+      "score": 40.0
+    },
+    "7e8c1378c283d404060b470df7d34b85": {
+      "title": "Global Lead Market Access (f/m/d)",
+      "company": "B. Braun Group",
+      "first_seen": "2026-07-28T08:44:29.573699",
+      "score": 40.0
+    },
+    "f4dc9ab2b8568a067fb7c0aa424acb9f": {
+      "title": "Regional General Manager (m/f/d) DACH & BeNeLux, Molecular Diagnostics",
+      "company": "Abbott",
+      "first_seen": "2026-07-28T08:44:29.573703",
+      "score": 75.0
+    },
+    "5363f7da93d9073ecb079f0f3b5d1afe": {
+      "title": "Head of Business Development",
+      "company": "Prosoma",
+      "first_seen": "2026-07-28T08:44:29.573706",
+      "score": 60.0
+    },
+    "051237da027be4561454bbb5ad57bfa7": {
+      "title": "Senior Business Development Director",
+      "company": "Labcorp",
+      "first_seen": "2026-07-28T08:44:29.573709",
+      "score": 40.0
+    },
+    "6dd715af5877289081ee7f169500aac0": {
+      "title": "Business Development Director",
+      "company": "Labcorp",
+      "first_seen": "2026-07-28T08:44:29.573711",
+      "score": 40.0
+    },
+    "7c420014fb54d87be9cd82d75a72ad7a": {
+      "title": "Digital Health Solutions Executive (m/f/d) DACH",
+      "company": "Abbott",
+      "first_seen": "2026-07-28T08:44:29.573714",
+      "score": 40.0
+    },
+    "d47d122b4f0672b5c242a19dbb885786": {
+      "title": "Commercial Operations Senior Manager",
+      "company": "Johnson & Johnson MedTech",
+      "first_seen": "2026-07-28T08:44:29.573716",
+      "score": 45.0
+    },
+    "20ee7b220f7a3a386a4441daa30b7f6c": {
+      "title": "Commercial Operations Senior Manager",
+      "company": "Johnson & Johnson MedTech",
+      "first_seen": "2026-07-28T08:44:29.573719",
+      "score": 45.0
+    },
+    "2ddca603f2a2b570df97b9c03e834730": {
+      "title": "Head of Clinical Operations (m/w/d)",
+      "company": "Dr. Falk Pharma",
+      "first_seen": "2026-07-28T08:44:29.573721",
+      "score": 45.0
+    },
+    "9aa86f8fcf9b9ffe95e5e97076ead4dc": {
+      "title": "Head of Operations Strategy (Germany) - m/f/d",
+      "company": "Voi Technology",
+      "first_seen": "2026-07-28T08:44:29.573724",
+      "score": 60.0
+    },
+    "97509eff20558872fb08b27c377568f7": {
+      "title": "Director Clinical Operations",
+      "company": "Upsilon Global",
+      "first_seen": "2026-07-28T08:44:29.573726",
+      "score": 40.0
+    },
+    "f3124505f579d7a7dd5a75f75b8601ac": {
+      "title": "Director of AI - HealthTech - Berlin",
+      "company": "Discover International",
+      "first_seen": "2026-07-28T08:44:29.573729",
+      "score": 40.0
+    },
+    "2b6dcb1d116b837b196bf2d9e2383300": {
+      "title": "Director Product Management (m/w/d) - Jobbird.com",
+      "company": "Jobster",
+      "first_seen": "2026-07-28T08:44:29.573731",
+      "score": 40.0
+    },
+    "0b3963ea0ae1498fc6a4c315873927ec": {
+      "title": "Division Data and Analytics Lead",
+      "company": "ABB",
+      "first_seen": "2026-07-28T08:44:29.573733",
+      "score": 50.0
+    },
+    "ebf51955db33809295ca58828f11f624": {
+      "title": "Senior Business Development Director",
+      "company": "Labcorp",
+      "first_seen": "2026-07-28T08:44:29.573735",
+      "score": 40.0
+    },
+    "b49421ad8f428004215795f938adbafb": {
+      "title": "Director, Consumer, Healthcare and Finance, Large Customer Sales",
+      "company": "Google",
+      "first_seen": "2026-07-28T08:44:29.573737",
+      "score": 40.0
+    },
+    "0937f0ad3429e4296466b86dd9709881": {
+      "title": "Director, Consumer, Healthcare and Finance, Large Customer Sales",
+      "company": "Google",
+      "first_seen": "2026-07-28T08:44:29.573739",
+      "score": 40.0
+    },
+    "fc4e3c7e201d8c5846ef4addf29e51ef": {
+      "title": "Agency Partnerships Lead - Global Business Solutions - Hamburg",
+      "company": "TikTok",
+      "first_seen": "2026-07-28T08:44:29.573742",
+      "score": 40.0
+    },
+    "2bf045a466bfad9ae9e8c9734fd2fa73": {
+      "title": "Regional Lead - Biopharma Solutions (m/w/d)",
+      "company": "Proclinical Group",
+      "first_seen": "2026-07-28T08:44:29.573744",
+      "score": 45.0
     }
   },
-  "last_run": "2026-07-27T10:02:26.718541",
+  "last_run": "2026-07-28T08:44:29.573751",
   "stats": {
-    "total_seen": 285,
-    "total_reported": 637
+    "total_seen": 305,
+    "total_reported": 657
   }
 }
