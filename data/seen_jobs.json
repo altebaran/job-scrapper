@@ -1,29 +1,5 @@
 {
   "seen": {
-    "b217216d1f2fc62a7860f2d5a94d485a": {
-      "title": "Head of Communications HPBU",
-      "company": "Boehringer Ingelheim",
-      "first_seen": "2026-06-28T09:21:49.113103",
-      "score": 50.0
-    },
-    "809adcd3bb615ad12c3507b0f070a1c1": {
-      "title": "Associate Director, BioPharma Business Development (EMEA)",
-      "company": "Foundation Medicine",
-      "first_seen": "2026-06-28T09:21:49.113115",
-      "score": 65.0
-    },
-    "f17232d15e9aafbf77454ee826cec2e4": {
-      "title": "Careers",
-      "company": "Vara (formerly Merantix Healthcare)",
-      "first_seen": "2026-06-28T09:21:49.113118",
-      "score": 40.0
-    },
-    "9215c9dada0457eb9371fefc8e3bc8a0": {
-      "title": "See open positions",
-      "company": "Vara (formerly Merantix Healthcare)",
-      "first_seen": "2026-06-28T09:21:49.113120",
-      "score": 40.0
-    },
     "ab833cc5a81f4632fc498795c4861f60": {
       "title": "Director of Market Access",
       "company": "Kintiga",
@@ -1829,11 +1805,41 @@
       "company": "Proclinical Group",
       "first_seen": "2026-07-28T08:44:29.573744",
       "score": 45.0
+    },
+    "cf2d1e4632e1ac7938ba3bc80d5f7ab5": {
+      "title": "Head of Open Innovation (m/f/d)",
+      "company": "Symrise AG",
+      "first_seen": "2026-07-29T08:51:19.789734",
+      "score": 40.0
+    },
+    "74586958999e7997583ba690a803dba1": {
+      "title": "Global Lead for Climate Strategy & Governance (f/m/d)",
+      "company": "Siemens Healthineers",
+      "first_seen": "2026-07-29T08:51:19.789745",
+      "score": 55.0
+    },
+    "683c9f8779f4981a8487797c284e1d06": {
+      "title": "Business Development Director",
+      "company": "Labcorp",
+      "first_seen": "2026-07-29T08:51:19.789748",
+      "score": 40.0
+    },
+    "f17232d15e9aafbf77454ee826cec2e4": {
+      "title": "Careers",
+      "company": "Vara (formerly Merantix Healthcare)",
+      "first_seen": "2026-07-29T08:51:19.789750",
+      "score": 40.0
+    },
+    "9215c9dada0457eb9371fefc8e3bc8a0": {
+      "title": "See open positions",
+      "company": "Vara (formerly Merantix Healthcare)",
+      "first_seen": "2026-07-29T08:51:19.789756",
+      "score": 40.0
     }
   },
-  "last_run": "2026-07-28T08:44:29.573751",
+  "last_run": "2026-07-29T08:51:19.789763",
   "stats": {
-    "total_seen": 305,
-    "total_reported": 657
+    "total_seen": 306,
+    "total_reported": 662
   }
 }
