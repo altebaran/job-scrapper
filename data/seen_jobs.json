@@ -1,11 +1,5 @@
 {
   "seen": {
-    "ab833cc5a81f4632fc498795c4861f60": {
-      "title": "Director of Market Access",
-      "company": "Kintiga",
-      "first_seen": "2026-06-29T11:12:29.264446",
-      "score": 40.0
-    },
     "b414639cfd54fef378ffc89a147a8951": {
       "title": "Head of Operations, Legal, Compliance & Intellectual Property",
       "company": "Siemens Healthineers",
@@ -1835,11 +1829,107 @@
       "company": "Vara (formerly Merantix Healthcare)",
       "first_seen": "2026-07-29T08:51:19.789756",
       "score": 40.0
+    },
+    "07c714f61097fc846e060c850bd8e7a3": {
+      "title": "Head of Global Digital Transformation & Omnichannel (m/w/d)  DE878473/LI",
+      "company": "Morgan Philips Specialist Recruitment",
+      "first_seen": "2026-07-30T08:38:38.980381",
+      "score": 40.0
+    },
+    "06a342d0dc3054df8979d85df2ed7274": {
+      "title": "Director, Data-Driven Marketing Strategy & Transformation",
+      "company": "Thermo Fisher Scientific",
+      "first_seen": "2026-07-30T08:38:38.980390",
+      "score": 40.0
+    },
+    "b6bdb07cbefb38bab98f8b7a73b73d48": {
+      "title": "Venture Lead (m/w/d)",
+      "company": "Riverty",
+      "first_seen": "2026-07-30T08:38:38.980392",
+      "score": 40.0
+    },
+    "556116bd45f8e36c041473f58f22d769": {
+      "title": "Head of Product & Technology (m/f/x)",
+      "company": "Cara Care",
+      "first_seen": "2026-07-30T08:38:38.980394",
+      "score": 55.0
+    },
+    "4ed241435d906b2ca360334034fbf895": {
+      "title": "Head of AI Go-to-Market DACH (w/m/x)",
+      "company": "NTT DATA Europe & Latam",
+      "first_seen": "2026-07-30T08:38:38.980396",
+      "score": 40.0
+    },
+    "36da9c5773dcfed67baedd8185b750f6": {
+      "title": "Head of AI Go-to-Market DACH (w/m/x)",
+      "company": "NTT DATA Europe & Latam",
+      "first_seen": "2026-07-30T08:38:38.980397",
+      "score": 40.0
+    },
+    "01bd9c64286da5eb6b8dc7fc33e9155d": {
+      "title": "Ecosystem Business Development Director (all genders) - Anthropic",
+      "company": "Accenture DACH",
+      "first_seen": "2026-07-30T08:38:38.980399",
+      "score": 40.0
+    },
+    "17412ae7983efb77381316a338b7d423": {
+      "title": "Head of Business Development - Data & AI (m/f/d)",
+      "company": "zeroG - AI in Aviation",
+      "first_seen": "2026-07-30T08:38:38.980400",
+      "score": 60.0
+    },
+    "fb593213c405f21e91c2a536ddccb148": {
+      "title": "Head of Operations",
+      "company": "Prior Labs",
+      "first_seen": "2026-07-30T08:38:38.980401",
+      "score": 55.0
+    },
+    "84f2a4fa80c138906c383e1ac71ca651": {
+      "title": "Head of Operations (f/m/d)",
+      "company": "QuantumDiamonds",
+      "first_seen": "2026-07-30T08:38:38.980403",
+      "score": 55.0
+    },
+    "166e5948d175457514f4a4b4480a0e42": {
+      "title": "Head of AI Go-to-Market DACH (w/m/x)",
+      "company": "NTT DATA Europe & Latam",
+      "first_seen": "2026-07-30T08:38:38.980404",
+      "score": 40.0
+    },
+    "ab74d4d39abab051b6ba3bb2edc21514": {
+      "title": "Director Real World Evidence Scientist (Oncology) (all genders)",
+      "company": "Merck Healthcare",
+      "first_seen": "2026-07-30T08:38:38.980405",
+      "score": 45.0
+    },
+    "859e65c11cce0201115fcc672e650894": {
+      "title": "Regional Sales Manager - Western Europe",
+      "company": "Biotech Healthcare",
+      "first_seen": "2026-07-30T08:38:38.980407",
+      "score": 45.0
+    },
+    "5de5ecd2b791745d24c5af3cf94b34f5": {
+      "title": "zeroG - Head of Business Development - Data & AI (m/f/d)",
+      "company": "Lufthansa Group",
+      "first_seen": "2026-07-30T08:38:38.980408",
+      "score": 60.0
+    },
+    "b71a9dfe4dbe8904bc503c5a37f26885": {
+      "title": "(Senior) Regional Access & Contracting Partner (m/w/d) North/Norden",
+      "company": "Mundipharma",
+      "first_seen": "2026-07-30T08:38:38.980410",
+      "score": 40.0
+    },
+    "b144cbfa035c6b41aa22edc4fc2b92f2": {
+      "title": "Head of Development",
+      "company": "Corden Pharma - A Full-Service CDMO",
+      "first_seen": "2026-07-30T08:38:38.980417",
+      "score": 40.0
     }
   },
-  "last_run": "2026-07-29T08:51:19.789763",
+  "last_run": "2026-07-30T08:38:38.980425",
   "stats": {
-    "total_seen": 306,
-    "total_reported": 662
+    "total_seen": 321,
+    "total_reported": 678
   }
 }
