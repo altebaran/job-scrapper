@@ -1,95 +1,5 @@
 {
   "seen": {
-    "5c53d66d5d141a02f12e2668d6690061": {
-      "title": "Senior Strategy Manager (f/m/d) \u2013 Corporate Strategy, Clinical and Innovation Focus (MedTech)",
-      "company": "Siemens Healthineers",
-      "first_seen": "2026-07-01T10:01:59.360323",
-      "score": 55.0
-    },
-    "1d85206bfa934e3aec0eefaea2d1d658": {
-      "title": "Senior Strategy Manager (w/m/d) \u2013 Corporate Strategy, Clinical and Innovation Focus (MedTech)",
-      "company": "Siemens Healthineers",
-      "first_seen": "2026-07-01T10:01:59.360338",
-      "score": 55.0
-    },
-    "03256a8285dff5653ce19b6ce0eecdf1": {
-      "title": "(Senior) Director / Vice President Life Sciences Germany (m/w/d)",
-      "company": "Capgemini Invent",
-      "first_seen": "2026-07-01T10:01:59.360342",
-      "score": 40.0
-    },
-    "ec0bf32e7c2b5fae0bbe56043d929c99": {
-      "title": "Head of Product und Innovation Medizintechnik / Pharmaindustrie (m/w/d)",
-      "company": "BESTMINDS GmbH Executive Search EN",
-      "first_seen": "2026-07-01T10:01:59.360345",
-      "score": 65.0
-    },
-    "60e61633252bb301f63d0d2f1d9438a1": {
-      "title": "Commercial Director (m/w/d)",
-      "company": "Johnson & Johnson",
-      "first_seen": "2026-07-01T10:01:59.360348",
-      "score": 55.0
-    },
-    "d597f568ee43355db6ce1d83a9086784": {
-      "title": "Medical Affairs & Strategy Evidence Director (m/w/d).",
-      "company": "Johnson & Johnson",
-      "first_seen": "2026-07-01T10:01:59.360350",
-      "score": 55.0
-    },
-    "4110c8f25b9c34868f5883b64793947d": {
-      "title": "Head of Commercial Services (x|f|m)",
-      "company": "Sartorius",
-      "first_seen": "2026-07-01T10:01:59.360352",
-      "score": 60.0
-    },
-    "0d8354ee56bee46d2dbfca19afba4769": {
-      "title": "Strategic Business Development Director \u2013 Life Sciences (Enterprise SaaS) (all genders - Germany)",
-      "company": "Tenthpin",
-      "first_seen": "2026-07-01T10:01:59.360355",
-      "score": 45.0
-    },
-    "8e628c853943ca4ce5fd8aabc26ddb6d": {
-      "title": "Director of Sales, Biopharma",
-      "company": "JoVE",
-      "first_seen": "2026-07-01T10:01:59.360358",
-      "score": 40.0
-    },
-    "c6cd45ca0098e167b366357396191488": {
-      "title": "Business Development Leader, DACH",
-      "company": "iGrafx",
-      "first_seen": "2026-07-01T10:01:59.360360",
-      "score": 40.0
-    },
-    "0ec49b7d1f1bd74b4ba3ecf354a425d2": {
-      "title": "Operational Excellence Lead (x/f/m)",
-      "company": "Doctolib",
-      "first_seen": "2026-07-01T10:01:59.360363",
-      "score": 50.0
-    },
-    "de9296eb4b7e017309c76ec88fd288b6": {
-      "title": "Global Head of Product Operations (m/f/d)",
-      "company": "CHEPLAPHARM",
-      "first_seen": "2026-07-01T10:01:59.360365",
-      "score": 55.0
-    },
-    "e43d724211574434521e456877f4ada6": {
-      "title": "Country Manager Germany & Northeast Europe Business Area (M/F)",
-      "company": "LIMAGRAIN EUROPE",
-      "first_seen": "2026-07-01T10:01:59.360367",
-      "score": 55.0
-    },
-    "f0a375dcf0454cce22f053b67c3181d0": {
-      "title": "Head of Partnerships (m/w/d) f\u00fcr Selfcare Company in Vollzeit gesucht",
-      "company": "Soulhouse",
-      "first_seen": "2026-07-01T10:01:59.360370",
-      "score": 60.0
-    },
-    "e76271daccbff315d9af1b3284e7c565": {
-      "title": "Head of Partnerships - (m/f/d) - Remote",
-      "company": "Xentral ERP Software",
-      "first_seen": "2026-07-01T10:01:59.360372",
-      "score": 60.0
-    },
     "93241fb7605db351871316b7f96d18be": {
       "title": "Chief of Staff to the CEO",
       "company": "GoMedicus",
@@ -2027,11 +1937,83 @@
       "company": "Gateway Factory",
       "first_seen": "2026-07-31T08:59:35.583171",
       "score": 40.0
+    },
+    "14e8a76130cb2aa35e2793e9af6e2adb": {
+      "title": "Head of Data Strategy, Analytics & Engineering (m/w/d)",
+      "company": "Dr. Ausb\u00fcttel GmbH & Co. KG",
+      "first_seen": "2026-08-01T08:30:42.033643",
+      "score": 40.0
+    },
+    "42e44ef5439550b566edf113239ca82c": {
+      "title": "Business Development Lead",
+      "company": "Circonomit",
+      "first_seen": "2026-08-01T08:30:42.033656",
+      "score": 40.0
+    },
+    "8791370bab4f9808fd7cf70fab6a233f": {
+      "title": "Business Development Lead",
+      "company": "Circonomit",
+      "first_seen": "2026-08-01T08:30:42.033660",
+      "score": 40.0
+    },
+    "e4497e98826852d7f1f212a969c983a7": {
+      "title": "General Manager - Prim\u00e4rversorgung (m/f/d)",
+      "company": "PraxisEins.",
+      "first_seen": "2026-08-01T08:30:42.033663",
+      "score": 55.0
+    },
+    "37cd41ccf7ed1ca3eac85ba239e0cea6": {
+      "title": "Head of Sales Medical Devices DACH (m/w/d)",
+      "company": "Real",
+      "first_seen": "2026-08-01T08:30:42.033666",
+      "score": 40.0
+    },
+    "68bdf4584898abb5efa43f9120404d30": {
+      "title": "Regional Sales Manager, Europe \u2013 NEMA Motors Division (flexible location)",
+      "company": "ABB",
+      "first_seen": "2026-08-01T08:30:42.033669",
+      "score": 50.0
+    },
+    "da702f8faa405e2ab51824fffb6b362b": {
+      "title": "Regional Sales Manager, Europe \u2013 NEMA Motors Division (flexible location)",
+      "company": "ABB",
+      "first_seen": "2026-08-01T08:30:42.033672",
+      "score": 50.0
+    },
+    "0ec30dd43e29e9a4025af4e788fcebfc": {
+      "title": "Customer Team Lead (alle Geschlechter) Women's Health",
+      "company": "Bayer",
+      "first_seen": "2026-08-01T08:30:42.033675",
+      "score": 50.0
+    },
+    "5ebdeb13bdd389c6a649c69b2417c9b5": {
+      "title": "Therapeutic Area & Community Lead (m/f/d)",
+      "company": "MSD Deutschland",
+      "first_seen": "2026-08-01T08:30:42.033678",
+      "score": 40.0
+    },
+    "98076968dfbad4757b2b3eedd563d7fb": {
+      "title": "Head of Partnerships (m/w/d) \u2013 HR\u2011Tech / Recruiting\u2011\u00d6kosystem",
+      "company": "TFI GmbH",
+      "first_seen": "2026-08-01T08:30:42.033681",
+      "score": 60.0
+    },
+    "d0c03c63cf5d0603e132e30196a0084d": {
+      "title": "Senior Scientist II / Principal Research Scientist I (Lab Head) \u2013  Development of Cellular and Binding-Assays for Pharmaceutical Biologics (all genders) (full-or part-time, regular)",
+      "company": "AbbVie",
+      "first_seen": "2026-08-01T08:30:42.033684",
+      "score": 45.0
+    },
+    "72109f7f4ea27f89ab490b0916f62a6f": {
+      "title": "(Senior) Principal Innovation Management (f/m/d)",
+      "company": "NXP Semiconductors",
+      "first_seen": "2026-08-01T08:30:42.033687",
+      "score": 40.0
     }
   },
-  "last_run": "2026-07-31T08:59:35.583178",
+  "last_run": "2026-08-01T08:30:42.033694",
   "stats": {
-    "total_seen": 338,
-    "total_reported": 696
+    "total_seen": 335,
+    "total_reported": 708
   }
 }
