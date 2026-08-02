@@ -1,131 +1,5 @@
 {
   "seen": {
-    "93241fb7605db351871316b7f96d18be": {
-      "title": "Chief of Staff to the CEO",
-      "company": "GoMedicus",
-      "first_seen": "2026-07-02T09:24:27.091319",
-      "score": 55.0
-    },
-    "df679fd0811c64f27e909a50562925de": {
-      "title": "Head of Product Management EMEA (m/w/d) - Endoscopy",
-      "company": "Page Executive",
-      "first_seen": "2026-07-02T09:24:27.091330",
-      "score": 60.0
-    },
-    "3ca01c078b4c25a320922e2eedb86b87": {
-      "title": "Director, Product Strategy  EMEA Central",
-      "company": "ServiceNow",
-      "first_seen": "2026-07-02T09:24:27.091332",
-      "score": 40.0
-    },
-    "1f3942fa5dec4bb133a683b39867451e": {
-      "title": "Head of Strategic Sales Healthcare (m/w/d)",
-      "company": "House of Healthcare",
-      "first_seen": "2026-07-02T09:24:27.091334",
-      "score": 40.0
-    },
-    "73d1c394b25cee5504d7fafbb7b1c1ba": {
-      "title": "Director of Business Development",
-      "company": "Microland Limited",
-      "first_seen": "2026-07-02T09:24:27.091336",
-      "score": 60.0
-    },
-    "1313c68e4b5b3e08dc2e61e5c088d0d6": {
-      "title": "Senior Business Development Director, Micronization",
-      "company": "Catalent",
-      "first_seen": "2026-07-02T09:24:27.091338",
-      "score": 40.0
-    },
-    "1372e50682593f544bda0d0ee13ea7be": {
-      "title": "Associate Director, Key Accounts (Germany & Austria)",
-      "company": "TAPI",
-      "first_seen": "2026-07-02T09:24:27.091339",
-      "score": 55.0
-    },
-    "65909062197cc5e3a4b2d441267ee7d5": {
-      "title": "Associate Director, Continous Improvement (m/w/d)",
-      "company": "Catalent",
-      "first_seen": "2026-07-02T09:24:27.091341",
-      "score": 55.0
-    },
-    "3725a8efbc82732fe6df4ac1af04195c": {
-      "title": "Head of Education & Social (m/w/d)",
-      "company": "House of Healthcare",
-      "first_seen": "2026-07-02T09:24:27.091342",
-      "score": 40.0
-    },
-    "86271c3556db74528296cb226a96da47": {
-      "title": "Head of Clinical Operations (f/m/d)",
-      "company": "ITM Isotope Technologies Munich SE",
-      "first_seen": "2026-07-02T09:24:27.091344",
-      "score": 40.0
-    },
-    "ed4db298864d7cbd12e7fe5d8a479822": {
-      "title": "Head of (m/w/d) Pharmaceutical Operations Project Management",
-      "company": "Denk Pharma",
-      "first_seen": "2026-07-02T09:24:27.091345",
-      "score": 45.0
-    },
-    "e3f2d1f54f5a9b5a8b5c6d54ad3df5f0": {
-      "title": "Resin Modality Commercial Leader EMEA (m/f/d)",
-      "company": "Cytiva",
-      "first_seen": "2026-07-02T09:24:27.091347",
-      "score": 40.0
-    },
-    "6c33c6556ca23b9d8762c72122d640b0": {
-      "title": "Regional Business Head (m/w/d) Dermatology - M\u00fcnchen, Ulm, N\u00fcrnberg, Freiburg, Stuttgart",
-      "company": "LEO Pharma",
-      "first_seen": "2026-07-02T09:24:27.091348",
-      "score": 40.0
-    },
-    "7d081df20f891aa8a8d17c7a719c4f0f": {
-      "title": "Customer Partnering Lead (m/w/d) H\u00e4mophilie",
-      "company": "Roche",
-      "first_seen": "2026-07-02T09:24:27.091350",
-      "score": 50.0
-    },
-    "407f6e127faf9fb5ea5572981ccf236d": {
-      "title": "Customer Partnering Lead (m/w/d) H\u00e4mophilie",
-      "company": "Roche",
-      "first_seen": "2026-07-02T09:24:27.091351",
-      "score": 50.0
-    },
-    "87e765d48ff00698f35a7a09cae8e383": {
-      "title": "Director, Team Lead, Computational Pathology Biomarker Development (Oncology/BioPharmaceuticals) (m/f/d)",
-      "company": "AstraZeneca",
-      "first_seen": "2026-07-02T09:24:27.091353",
-      "score": 60.0
-    },
-    "fc204e143319a557246884f00d00bf8e": {
-      "title": "(Senior)Clinical Program Lead",
-      "company": "Boehringer Ingelheim",
-      "first_seen": "2026-07-02T09:24:27.091354",
-      "score": 55.0
-    },
-    "95c2733bb7c6b5b4a9fd554d50a3eeef": {
-      "title": "DMPK-PD Project Leader",
-      "company": "Roche",
-      "first_seen": "2026-07-02T09:24:27.091356",
-      "score": 50.0
-    },
-    "a7ca92b587ccac8ed72b90f7c6b20ffb": {
-      "title": "Clinical Program Lead",
-      "company": "Boehringer Ingelheim",
-      "first_seen": "2026-07-02T09:24:27.091357",
-      "score": 55.0
-    },
-    "4f3c1ffa4620882b4c928c29e55b3e2b": {
-      "title": "Senior Manager Innovation Management & Strategic Planning \u2013 Enteral Nutrition & Keto (m/f/d) \u2013 fixed-term contract for 12 months",
-      "company": "Fresenius Kabi",
-      "first_seen": "2026-07-02T09:24:27.091358",
-      "score": 40.0
-    },
-    "ba1e8317d75702332ebfbf9049558251": {
-      "title": "Head of Product & Innovation (All Genders)",
-      "company": "ahead\u00ae",
-      "first_seen": "2026-07-02T09:24:27.091360",
-      "score": 60.0
-    },
     "b8052a125b10b0dfe0de6f4daf8df974": {
       "title": "Regional Head of Technology - Electrophysiology and NeuroVascular - EMEA",
       "company": "Johnson & Johnson",
@@ -2009,11 +1883,107 @@
       "company": "NXP Semiconductors",
       "first_seen": "2026-08-01T08:30:42.033687",
       "score": 40.0
+    },
+    "d70310e24a8820fdaa15d2c47512beb8": {
+      "title": "Director Growth Strategy Life Science Germany",
+      "company": "Honeywell Technologies",
+      "first_seen": "2026-08-02T08:33:49.387628",
+      "score": 45.0
+    },
+    "4698c254cbf6c217da7ce4d75a6d7efc": {
+      "title": "Director / Senior Manager Health Economics & Access",
+      "company": "VITIS Healthcare Group",
+      "first_seen": "2026-08-02T08:33:49.387639",
+      "score": 40.0
+    },
+    "66fb37fc4217949758d26e6beebfdee4": {
+      "title": "Director Product Management (m/w/d) - Jobbird.com",
+      "company": "Jobster",
+      "first_seen": "2026-08-02T08:33:49.387642",
+      "score": 40.0
+    },
+    "ab3980182802ffc4255c3da45c4a1085": {
+      "title": "Vice President Product Management (m/f/d) - Jobbird.com",
+      "company": "Jobster",
+      "first_seen": "2026-08-02T08:33:49.387645",
+      "score": 40.0
+    },
+    "5d237671d2315f3ee622820c655fa33e": {
+      "title": "Senior Lead Product Marketing (x/f/m)",
+      "company": "Doctolib",
+      "first_seen": "2026-08-02T08:33:49.387647",
+      "score": 50.0
+    },
+    "e6f22f5b53fc7c37e533e30196d4714d": {
+      "title": "Director Business Development \u2013 Biosimilars (m/f/d)",
+      "company": "Sandoz in Deutschland",
+      "first_seen": "2026-08-02T08:33:49.387650",
+      "score": 40.0
+    },
+    "74f3946e33bb3b2fad9e869a2a5e4a5e": {
+      "title": "Global Product Launch and Supply Chain Lead",
+      "company": "Roche",
+      "first_seen": "2026-08-02T08:33:49.387652",
+      "score": 50.0
+    },
+    "98d1a2dc4c934204f95852461b0d70a4": {
+      "title": "Strategy & Operations Principal",
+      "company": "Via",
+      "first_seen": "2026-08-02T08:33:49.387655",
+      "score": 40.0
+    },
+    "ab73824d2a3c40f4cf158023f7ec5215": {
+      "title": "Regional Sales Manager, Europe \u2013 NEMA Motors Division (flexible location)",
+      "company": "ABB",
+      "first_seen": "2026-08-02T08:33:49.387657",
+      "score": 50.0
+    },
+    "3072079a3a1491a137a393c8c8402f58": {
+      "title": "ISD Partner Commercial Lead - Germany",
+      "company": "Microsoft",
+      "first_seen": "2026-08-02T08:33:49.387660",
+      "score": 40.0
+    },
+    "2d48e2f46bcb3808153d60bfec69981b": {
+      "title": "Head of Growth Channels Partnerships",
+      "company": "GetYourGuide",
+      "first_seen": "2026-08-02T08:33:49.387662",
+      "score": 65.0
+    },
+    "be6156331463461bffe528e48824bdb7": {
+      "title": "Senior Manager, Museum Partnerships - DACH",
+      "company": "Fever",
+      "first_seen": "2026-08-02T08:33:49.387665",
+      "score": 40.0
+    },
+    "d72102a6d7f70b7b0543dee4c710a39b": {
+      "title": "Senior Manager, Museum Partnerships - DACH",
+      "company": "Fever",
+      "first_seen": "2026-08-02T08:33:49.387667",
+      "score": 40.0
+    },
+    "c7feeba0100efcb138f2560ab6162cad": {
+      "title": "Product Development Country Manager (Crop Protection)  - Germany",
+      "company": "ADAMA Ltd.",
+      "first_seen": "2026-08-02T08:33:49.387670",
+      "score": 55.0
+    },
+    "f14d12e665a241aa77e65561a568eeea": {
+      "title": "Senior Manager Venture Clienting & Corporate Innovation",
+      "company": "HDI Group",
+      "first_seen": "2026-08-02T08:33:49.387672",
+      "score": 45.0
+    },
+    "5eb7c80de42bc9e01eb107aef538165a": {
+      "title": "Senior Manager Organizational Development",
+      "company": "Boehringer Ingelheim",
+      "first_seen": "2026-08-02T08:33:49.387674",
+      "score": 50.0
     }
   },
-  "last_run": "2026-08-01T08:30:42.033694",
+  "last_run": "2026-08-02T08:33:49.387681",
   "stats": {
-    "total_seen": 335,
-    "total_reported": 708
+    "total_seen": 330,
+    "total_reported": 724
   }
 }
