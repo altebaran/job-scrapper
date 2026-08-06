@@ -1931,11 +1931,107 @@
       "company": "Bayer",
       "first_seen": "2026-08-04T08:48:53.225877",
       "score": 55.0
+    },
+    "d7e99e6a722e00b7eed71017d0caee1c": {
+      "title": "Head of Digital Transformation Office (m/w/d)",
+      "company": "ERGO",
+      "first_seen": "2026-08-06T08:48:14.743309",
+      "score": 40.0
+    },
+    "8d69902136bcef30c54e78164bcca9c6": {
+      "title": "Head of Strategy and Product",
+      "company": "BJAK",
+      "first_seen": "2026-08-06T08:48:14.743318",
+      "score": 60.0
+    },
+    "23a04d6bd7e5505b9577b3da0ebe33c7": {
+      "title": "EY-Parthenon Senior Manager Projektleitung Digitalprojekte - Strategy and Transactions (w/m/d)",
+      "company": "EY-Parthenon",
+      "first_seen": "2026-08-06T08:48:14.743320",
+      "score": 40.0
+    },
+    "662d68efaaf87cb0ba77e1a046693b3a": {
+      "title": "EY-Parthenon Senior Manager Projektleitung Digitalprojekte - Strategy and Transactions (w/m/d)",
+      "company": "EY-Parthenon",
+      "first_seen": "2026-08-06T08:48:14.743322",
+      "score": 40.0
+    },
+    "602eec04cb1afed29a882d5c57948146": {
+      "title": "Senior Digital Innovation Manager (f/m/d)",
+      "company": "Siemens",
+      "first_seen": "2026-08-06T08:48:14.743324",
+      "score": 40.0
+    },
+    "0852af644850c60a5b253fb6de497021": {
+      "title": "Regional Business Development Director \u2013 Northern Europe (Distributor Markets)",
+      "company": "Guided Solutions",
+      "first_seen": "2026-08-06T08:48:14.743326",
+      "score": 40.0
+    },
+    "bd98230a4d0c9eb1923da9df3f6163e0": {
+      "title": "Director B2B2C Growth Partnerships (all genders)",
+      "company": "Pegel",
+      "first_seen": "2026-08-06T08:48:14.743327",
+      "score": 45.0
+    },
+    "820fa3b6f8fa3e3f247a5dd1a5f99885": {
+      "title": "Director B2B2C Growth Partnerships (all genders)",
+      "company": "Urban Sports Club",
+      "first_seen": "2026-08-06T08:48:14.743328",
+      "score": 45.0
+    },
+    "176a5b7f6e5e5f7eeaaef81cd904f019": {
+      "title": "Head of Operations (m/w/d)",
+      "company": "Vogel Beratung",
+      "first_seen": "2026-08-06T08:48:14.743330",
+      "score": 55.0
+    },
+    "ddb6f150dcc9c8e33220c82cf18ab71e": {
+      "title": "Data Steward Lead",
+      "company": "Roche",
+      "first_seen": "2026-08-06T08:48:14.743331",
+      "score": 50.0
+    },
+    "915954715e8b03106448ad369d7de73b": {
+      "title": "Director, Patient Advocacy & Engagement - EMEA",
+      "company": "Ultragenyx",
+      "first_seen": "2026-08-06T08:48:14.743333",
+      "score": 40.0
+    },
+    "6e8e1257f7bdf3d10d2b6eade263617f": {
+      "title": "Senior Director, Head of Inspection & TMF Center of Excellence (all genders)",
+      "company": "Merck Healthcare",
+      "first_seen": "2026-08-06T08:48:14.743334",
+      "score": 40.0
+    },
+    "8f2019c450c715ddaee4a7c6b3a97c1f": {
+      "title": "Country Manager Germany",
+      "company": "Animalis Talent Solutions",
+      "first_seen": "2026-08-06T08:48:14.743336",
+      "score": 55.0
+    },
+    "0241491e4a2cb181cfb050837e20fb78": {
+      "title": "Research Management Director / Deputy Director / Specialist",
+      "company": "MatriX Innovation GmbH",
+      "first_seen": "2026-08-06T08:48:14.743337",
+      "score": 40.0
+    },
+    "4caa491a85e6b5cd232b8a6dd79c1baa": {
+      "title": "(Senior) Clinical Program Lead",
+      "company": "Boehringer Ingelheim",
+      "first_seen": "2026-08-06T08:48:14.743339",
+      "score": 55.0
+    },
+    "07e29ecf2ca56d4dc42bef4535b16d0c": {
+      "title": "Principal Scientist / Chief Scientist",
+      "company": "MatriX Innovation GmbH",
+      "first_seen": "2026-08-06T08:48:14.743340",
+      "score": 40.0
     }
   },
-  "last_run": "2026-08-05T08:46:21.565970",
+  "last_run": "2026-08-06T08:48:14.743346",
   "stats": {
-    "total_seen": 322,
-    "total_reported": 734
+    "total_seen": 338,
+    "total_reported": 750
   }
 }
