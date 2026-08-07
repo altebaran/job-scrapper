@@ -1,116 +1,130 @@
-# 🎯 Daily Job Report — 2026-08-06
+# 🎯 Daily Job Report — 2026-08-07
 
-**16** new matches | **0** high relevance
+**18** new matches | **0** high relevance
 
 ---
 
-### 1. 🟡 Head of Strategy and Product
-**BJAK** · 📍 Germany · Score: 60/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-strategy-and-product-at-bjak-4449372021)
-  - Title match: 'head of strategy'
-  - Keywords (1): strategy
+### 1. 🟡 Director of Business Development
+**Microland Limited** · 📍 Frankfurt, Hesse, Germany · Score: 60/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-of-business-development-at-microland-limited-4450289904)
+  - Title match: 'director of business development'
+  - Keywords (1): business development
   - Location: 'germany'
 
-### 2. 🟡 Head of Operations (m/w/d)
-**Vogel Beratung** · 📍 Munich, Bavaria, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-operations-m-w-d-at-vogel-beratung-4440876242)
-  - Title match: 'head of operations'
+### 2. 🟡 Head of Commercial Services (x|f|m)
+**Sartorius** · 📍 Göttingen, Lower Saxony, Germany · Score: 60/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-commercial-services-x-f-m-at-sartorius-4435171415)
+  - Title match: 'head of commercial'
+  - Keywords (1): commercial
   - Location: 'germany'
 
-### 3. 🟡 Country Manager Germany
-**Animalis Talent Solutions** · 📍 Berlin, Berlin, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/country-manager-germany-at-animalis-talent-solutions-4449659809)
-  - Title match: 'country manager'
+### 3. 🟡 Head of Business Development Central Europe (Germany, Austria, Netherlands)
+**Qonto** · 📍 Berlin, Germany · Score: 60/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-business-development-central-europe-germany-austria-netherlands-at-qonto-4422386595)
+  - Title match: 'head of business development'
+  - Keywords (1): business development
   - Location: 'germany'
 
-### 4. 🟡 (Senior) Clinical Program Lead
-**Boehringer Ingelheim** · 📍 Ingelheim am Rhein, Rhineland-Palatinate, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-clinical-program-lead-at-boehringer-ingelheim-4431741513)
-  - Seniority match: 'lead'
-  - Keywords (1): clinical
-  - Location: 'germany'
-  - Target company: Boehringer Ingelheim Digital Lab
-
-### 5. 🟡 Data Steward Lead
-**Roche** · 📍 Penzberg, Bavaria, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/data-steward-lead-at-roche-4440848539)
-  - Seniority match: 'lead'
-  - Location: 'germany'
-  - Target company: Roche Digital Health
-
-### 6. ⚪ Director B2B2C Growth Partnerships (all genders)
-**Pegel** · 📍 Berlin, Berlin, Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-b2b2c-growth-partnerships-all-genders-at-pegel-4449676121)
-  - Seniority match: 'director'
-  - Keywords (2): partnerships, growth
-  - Location: 'germany'
-
-### 7. ⚪ Director B2B2C Growth Partnerships (all genders)
-**Urban Sports Club** · 📍 Berlin, Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-b2b2c-growth-partnerships-all-genders-at-urban-sports-club-4449625915)
-  - Seniority match: 'director'
-  - Keywords (2): partnerships, growth
-  - Location: 'germany'
-
-### 8. ⚪ Head of Digital Transformation Office (m/w/d)
-**ERGO** · 📍 Düsseldorf, North Rhine-Westphalia, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-digital-transformation-office-m-w-d-at-ergo-4449663007)
-  - Seniority match: 'head of'
-  - Keywords (1): digital transformation
-  - Location: 'germany'
-
-### 9. ⚪ EY-Parthenon Senior Manager Projektleitung Digitalprojekte - Strategy and Transactions (w/m/d)
-**EY-Parthenon** · 📍 Düsseldorf, North Rhine-Westphalia, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/ey-parthenon-senior-manager-projektleitung-digitalprojekte-strategy-and-transactions-w-m-d-at-ey-parthenon-4438410094)
+### 4. 🟡 Senior Manager Strategic Partnerships and M&A (f/m/d)
+**Siemens Healthineers** · 📍 Forchheim, Bavaria, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-manager-strategic-partnerships-and-m-a-f-m-d-at-siemens-healthineers-4448450845)
   - Seniority match: 'senior manager'
-  - Keywords (1): strategy
-  - Location: 'germany'
-
-### 10. ⚪ EY-Parthenon Senior Manager Projektleitung Digitalprojekte - Strategy and Transactions (w/m/d)
-**EY-Parthenon** · 📍 Hamburg, Hamburg, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/ey-parthenon-senior-manager-projektleitung-digitalprojekte-strategy-and-transactions-w-m-d-at-ey-parthenon-4438401305)
-  - Seniority match: 'senior manager'
-  - Keywords (1): strategy
-  - Location: 'germany'
-
-### 11. ⚪ Senior Digital Innovation Manager (f/m/d)
-**Siemens** · 📍 Munich, Bavaria, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-digital-innovation-manager-f-m-d-at-siemens-4449141171)
-  - Keywords (1): innovation
+  - Keywords (1): partnerships
   - Location: 'germany'
   - Target company: Siemens Healthineers Digital
 
-### 12. ⚪ Regional Business Development Director – Northern Europe (Distributor Markets)
-**Guided Solutions** · 📍 Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/regional-business-development-director-%E2%80%93-northern-europe-distributor-markets-at-guided-solutions-4448011828)
+### 5. 🟡 Chief of Staff (m/w/d) – München
+**nuuEnergy** · 📍 Munich, Bavaria, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/chief-of-staff-m-w-d-%E2%80%93-m%C3%BCnchen-at-nuuenergy-4448401489)
+  - Title match: 'chief of staff'
+  - Location: 'germany'
+
+### 6. 🟡 General Manager - Space Tech
+**Strativ Group** · 📍 Berlin, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/general-manager-space-tech-at-strativ-group-4450221544)
+  - Title match: 'general manager'
+  - Location: 'germany'
+
+### 7. 🟡 Senior Manager Strategic Partnerships and M&A (w/m/d), Advanced Therapies
+**Siemens Healthineers** · 📍 Forchheim, Bavaria, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-manager-strategic-partnerships-and-m-a-w-m-d-advanced-therapies-at-siemens-healthineers-4448445832)
+  - Seniority match: 'senior manager'
+  - Keywords (1): partnerships
+  - Location: 'germany'
+  - Target company: Siemens Healthineers Digital
+
+### 8. 🟡 Senior Manager Healthcare Intelligence Partnerships & Growth (m/f/d)
+**PHOENIX Pharmahandel GmbH & Co KG** · 📍 Mannheim, Baden-Württemberg, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-manager-healthcare-intelligence-partnerships-growth-m-f-d-at-phoenix-pharmahandel-gmbh-co-kg-4448450534)
+  - Seniority match: 'senior manager'
+  - Keywords (4): pharma, healthcare, partnerships, growth
+  - Location: 'germany'
+
+### 9. 🟡 Regional Head of Technology - Electrophysiology and Neurvascular, Germany - M/F/D
+**Johnson & Johnson** · 📍 Neuss, North Rhine-Westphalia, Germany · Score: 50/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/regional-head-of-technology-electrophysiology-and-neurvascular-germany-m-f-d-at-johnson-johnson-4441206433)
+  - Seniority match: 'head of'
+  - Location: 'germany'
+  - Target company: Johnson & Johnson Innovation
+
+### 10. 🟡 Senior Manager Healthcare Intelligence Partnerships & Growth (m/f/d)
+**PHOENIX group - Integrated Healthcare Provider** · 📍 Mannheim, Baden-Württemberg, Germany · Score: 50/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-manager-healthcare-intelligence-partnerships-growth-m-f-d-at-phoenix-group-integrated-healthcare-provider-4448451038)
+  - Seniority match: 'senior manager'
+  - Keywords (3): healthcare, partnerships, growth
+  - Location: 'germany'
+
+### 11. 🟡 Principal Scientist Oral Solids (all genders)
+**Bayer** · 📍 Wuppertal, North Rhine-Westphalia, Germany · Score: 50/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/principal-scientist-oral-solids-all-genders-at-bayer-4450250777)
+  - Seniority match: 'principal'
+  - Location: 'germany'
+  - Target company: Bayer G4A (Grants4Apps)
+
+### 12. 🟡 Principal Scientist Oral Solids (alle Geschlechter)
+**Bayer** · 📍 Wuppertal, North Rhine-Westphalia, Germany · Score: 50/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/principal-scientist-oral-solids-alle-geschlechter-at-bayer-4450250779)
+  - Seniority match: 'principal'
+  - Location: 'germany'
+  - Target company: Bayer G4A (Grants4Apps)
+
+### 13. ⚪ Business Development Director, Clinical Supply Services
+**Catalent** · 📍 Schorndorf, Baden-Württemberg, Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/business-development-director-clinical-supply-services-at-catalent-4354345904)
+  - Seniority match: 'director'
+  - Keywords (2): clinical, business development
+  - Location: 'germany'
+
+### 14. ⚪ Venture Lead (m/w/d)
+**Riverty** · 📍 Dortmund, North Rhine-Westphalia, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/venture-lead-m-w-d-at-riverty-4450212872)
+  - Seniority match: 'lead'
+  - Keywords (1): venture
+  - Location: 'germany'
+
+### 15. ⚪ Business Development Director (f/m/d)
+**STD** · 📍 Göttingen, Lower Saxony, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/business-development-director-f-m-d-at-std-4448427280)
   - Seniority match: 'director'
   - Keywords (1): business development
   - Location: 'germany'
 
-### 13. ⚪ Director, Patient Advocacy & Engagement - EMEA
-**Ultragenyx** · 📍 Berlin, Berlin, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-patient-advocacy-engagement-emea-at-ultragenyx-4449977186)
+### 16. ⚪ Business Development Director
+**ClinChoice** · 📍 Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/business-development-director-at-clinchoice-4381012683)
   - Seniority match: 'director'
-  - Keywords (1): patient
+  - Keywords (1): business development
   - Location: 'germany'
 
-### 14. ⚪ Senior Director, Head of Inspection & TMF Center of Excellence (all genders)
-**Merck Healthcare** · 📍 Darmstadt, Hesse, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-director-head-of-inspection-tmf-center-of-excellence-all-genders-at-merck-healthcare-4440817090)
-  - Seniority match: 'head of'
-  - Keywords (1): healthcare
+### 17. ⚪ Head of Business Development, Europe
+**Viatris** · 📍 Greater Kempten Area · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-business-development-europe-at-viatris-4384802449)
+  - Title match: 'head of business development'
+  - Keywords (1): business development
+
+### 18. ⚪ Leiter Vertrieb & Marketing (Medtech) m/w/d
+**Dr. Weick Executive Search GmbH** · 📍 Nagold, Baden-Württemberg, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/leiter-vertrieb-marketing-medtech-m-w-d-at-dr-weick-executive-search-gmbh-4450265354)
+  - Seniority match: 'leiter'
+  - Keywords (1): medtech
   - Location: 'germany'
-
-### 15. ⚪ Research Management Director / Deputy Director / Specialist
-**MatriX Innovation GmbH** · 📍 Greater Munich Metropolitan Area · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/research-management-director-deputy-director-specialist-at-matrix-innovation-gmbh-4449465534)
-  - Seniority match: 'director'
-  - Keywords (1): innovation
-  - Location: 'munich'
-
-### 16. ⚪ Principal Scientist / Chief Scientist
-**MatriX Innovation GmbH** · 📍 Greater Munich Metropolitan Area · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/principal-scientist-chief-scientist-at-matrix-innovation-gmbh-4449459551)
-  - Seniority match: 'chief'
-  - Keywords (1): innovation
-  - Location: 'munich'

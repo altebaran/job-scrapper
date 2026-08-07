@@ -1,101 +1,5 @@
 {
   "seen": {
-    "fb211726890fcfb3abf975ebe7b58fc3": {
-      "title": "Chief of Staff to the CEO \u2013 FUTRUE Group",
-      "company": "FUTRUE",
-      "first_seen": "2026-07-07T09:53:49.120369",
-      "score": 55.0
-    },
-    "40731ef050ee9f0f9caf181708f58b68": {
-      "title": "Head of Business Strategy (m/w/d)",
-      "company": "ProBioGen AG",
-      "first_seen": "2026-07-07T09:53:49.120378",
-      "score": 40.0
-    },
-    "a48b290a7cbf0fd3b8861d25b212aa84": {
-      "title": "Strategic Lead Business Development & Alliance Management (m/f/d)",
-      "company": "HENNIG ARZNEIMITTEL GmbH & Co. KG",
-      "first_seen": "2026-07-07T09:53:49.120381",
-      "score": 40.0
-    },
-    "fdb2946fcb63163a0d1cfb62af581552": {
-      "title": "General Manager, LCT - DACH",
-      "company": "GE HealthCare",
-      "first_seen": "2026-07-07T09:53:49.120382",
-      "score": 60.0
-    },
-    "817ce55f14126dc53fce028234b0393c": {
-      "title": "Director Business Development & M&A",
-      "company": "FUTRUE",
-      "first_seen": "2026-07-07T09:53:49.120384",
-      "score": 40.0
-    },
-    "fc27a97f8eeb3c77eb962e9dc613030d": {
-      "title": "General Manager - Autoimmunity & Infectious Disease",
-      "company": "Kinara Group",
-      "first_seen": "2026-07-07T09:53:49.120385",
-      "score": 55.0
-    },
-    "6f19a355841b0859d37e124fbde2b3e5": {
-      "title": "Business Development Director (B2B, DACH region) - AI/Automation Scale-up (m/f/w)",
-      "company": "CX Alliance",
-      "first_seen": "2026-07-07T09:53:49.120387",
-      "score": 45.0
-    },
-    "9601261f8490c247cb1e3a9041dd8ecd": {
-      "title": "Head of Operations (m/w/d) - 80k - Berlin Mitte",
-      "company": "HeavenHR",
-      "first_seen": "2026-07-07T09:53:49.120388",
-      "score": 55.0
-    },
-    "87b13fd2b997a71db82f6c01e955c3bb": {
-      "title": "Team Lead/Director Clinical Operations",
-      "company": "VERTANICAL",
-      "first_seen": "2026-07-07T09:53:49.120389",
-      "score": 40.0
-    },
-    "71dfc7529b20a6e786d1cf10c35730b6": {
-      "title": "Director of Operations",
-      "company": "Blue Fox",
-      "first_seen": "2026-07-07T09:53:49.120391",
-      "score": 55.0
-    },
-    "ccbb92d17d6714184d184b024824b19a": {
-      "title": "Head of Operations",
-      "company": "EnduroSat",
-      "first_seen": "2026-07-07T09:53:49.120392",
-      "score": 55.0
-    },
-    "bf208410b780ec3bbdda2087e3afb3bc": {
-      "title": "Associate Director AI Transformation & Enablement (m/f/d)",
-      "company": "PATRIZIA SE",
-      "first_seen": "2026-07-07T09:53:49.120393",
-      "score": 55.0
-    },
-    "d948a84382be44a2c182990ab4d26ff5": {
-      "title": "Associate Director AI Transformation & Enablement (m/f/d)",
-      "company": "PATRIZIA SE",
-      "first_seen": "2026-07-07T09:53:49.120395",
-      "score": 55.0
-    },
-    "8e86bfab060a9167304825ff81abc946": {
-      "title": "Head of Medical Affairs - Stroke (w/m/d)",
-      "company": "Siemens Healthineers",
-      "first_seen": "2026-07-07T09:53:49.120396",
-      "score": 50.0
-    },
-    "b333c17a61ece9e5905a85b66232cc66": {
-      "title": "Head of Global Commercial Controlling (f/m/x)",
-      "company": "ZEISS Group",
-      "first_seen": "2026-07-07T09:53:49.120397",
-      "score": 40.0
-    },
-    "243695888edb56dffb7d8e549266898f": {
-      "title": "Head of Sales and Partnerships (m/w/d)",
-      "company": "Gateway Factory",
-      "first_seen": "2026-07-07T09:53:49.120399",
-      "score": 40.0
-    },
     "555746592013989d786dc2dc6f4b3e39": {
       "title": "Chief of Staff to CCO (m/f/d)",
       "company": "Redcare Pharmacy",
@@ -2027,11 +1931,119 @@
       "company": "MatriX Innovation GmbH",
       "first_seen": "2026-08-06T08:48:14.743340",
       "score": 40.0
+    },
+    "2cf371538ca2979375308313a4bde0ca": {
+      "title": "Regional Head of Technology - Electrophysiology and Neurvascular, Germany - M/F/D",
+      "company": "Johnson & Johnson",
+      "first_seen": "2026-08-07T07:25:43.922736",
+      "score": 50.0
+    },
+    "7e482fd24f0b1c2c4ecaa3142a9b1483": {
+      "title": "Venture Lead (m/w/d)",
+      "company": "Riverty",
+      "first_seen": "2026-08-07T07:25:43.922750",
+      "score": 40.0
+    },
+    "ba66a5bf2ba34881839709f79418dfd0": {
+      "title": "Senior Manager Strategic Partnerships and M&A (f/m/d)",
+      "company": "Siemens Healthineers",
+      "first_seen": "2026-08-07T07:25:43.922754",
+      "score": 55.0
+    },
+    "3d6eb3f8fc8d305cf9b75111ce451b72": {
+      "title": "Business Development Director (f/m/d)",
+      "company": "STD",
+      "first_seen": "2026-08-07T07:25:43.922758",
+      "score": 40.0
+    },
+    "43c73bf0e4f924bda66c418d4dafd9b4": {
+      "title": "Business Development Director",
+      "company": "ClinChoice",
+      "first_seen": "2026-08-07T07:25:43.922761",
+      "score": 40.0
+    },
+    "b374f4eecf097d5a518ed51fd987bf57": {
+      "title": "Business Development Director, Clinical Supply Services",
+      "company": "Catalent",
+      "first_seen": "2026-08-07T07:25:43.922765",
+      "score": 45.0
+    },
+    "8654a970655fd5175506e7cc898f71bd": {
+      "title": "Head of Business Development, Europe",
+      "company": "Viatris",
+      "first_seen": "2026-08-07T07:25:43.922768",
+      "score": 40.0
+    },
+    "ca4bf3d0b7af20131ac119472fd4b4de": {
+      "title": "Director of Business Development",
+      "company": "Microland Limited",
+      "first_seen": "2026-08-07T07:25:43.922771",
+      "score": 60.0
+    },
+    "2cfb5165487ac059df11f93091922849": {
+      "title": "Chief of Staff (m/w/d) \u2013 M\u00fcnchen",
+      "company": "nuuEnergy",
+      "first_seen": "2026-08-07T07:25:43.922773",
+      "score": 55.0
+    },
+    "9e3acfbd827f4225e9854206b544d73b": {
+      "title": "General Manager - Space Tech",
+      "company": "Strativ Group",
+      "first_seen": "2026-08-07T07:25:43.922776",
+      "score": 55.0
+    },
+    "4110c8f25b9c34868f5883b64793947d": {
+      "title": "Head of Commercial Services (x|f|m)",
+      "company": "Sartorius",
+      "first_seen": "2026-08-07T07:25:43.922778",
+      "score": 60.0
+    },
+    "6c2a11b03a52f0702e1f150d73237f2d": {
+      "title": "Leiter Vertrieb & Marketing (Medtech) m/w/d",
+      "company": "Dr. Weick Executive Search GmbH",
+      "first_seen": "2026-08-07T07:25:43.922781",
+      "score": 40.0
+    },
+    "6c6ea5a7f97c672f23ca54919f66a0d5": {
+      "title": "Head of Business Development Central Europe (Germany, Austria, Netherlands)",
+      "company": "Qonto",
+      "first_seen": "2026-08-07T07:25:43.922784",
+      "score": 60.0
+    },
+    "a62d038f562376a054017e4f07e41950": {
+      "title": "Senior Manager Strategic Partnerships and M&A (w/m/d), Advanced Therapies",
+      "company": "Siemens Healthineers",
+      "first_seen": "2026-08-07T07:25:43.922787",
+      "score": 55.0
+    },
+    "3c823d5c4d5dc54896e2c001f7941209": {
+      "title": "Senior Manager Healthcare Intelligence Partnerships & Growth (m/f/d)",
+      "company": "PHOENIX Pharmahandel GmbH & Co KG",
+      "first_seen": "2026-08-07T07:25:43.922789",
+      "score": 55.0
+    },
+    "9f48018a9751a8779705badacbe799b6": {
+      "title": "Senior Manager Healthcare Intelligence Partnerships & Growth (m/f/d)",
+      "company": "PHOENIX group - Integrated Healthcare Provider",
+      "first_seen": "2026-08-07T07:25:43.922792",
+      "score": 50.0
+    },
+    "0e4e4fa9ab35241e0618bca9eedfcc22": {
+      "title": "Principal Scientist Oral Solids (all genders)",
+      "company": "Bayer",
+      "first_seen": "2026-08-07T07:25:43.922795",
+      "score": 50.0
+    },
+    "b0f2fa47a96a07ffc29772c63402bc99": {
+      "title": "Principal Scientist Oral Solids (alle Geschlechter)",
+      "company": "Bayer",
+      "first_seen": "2026-08-07T07:25:43.922797",
+      "score": 50.0
     }
   },
-  "last_run": "2026-08-06T08:48:14.743346",
+  "last_run": "2026-08-07T07:25:43.922804",
   "stats": {
-    "total_seen": 338,
-    "total_reported": 750
+    "total_seen": 340,
+    "total_reported": 768
   }
 }
