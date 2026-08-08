@@ -2039,11 +2039,77 @@
       "company": "Bayer",
       "first_seen": "2026-08-07T07:25:43.922797",
       "score": 50.0
+    },
+    "f2e8aadc86db89f751d742299c37669c": {
+      "title": "Commercial Lead",
+      "company": "Kiel University",
+      "first_seen": "2026-08-08T07:04:08.320522",
+      "score": 40.0
+    },
+    "20840591aa76f69fa713f4baa271a4b8": {
+      "title": "Head of Strategy and Product",
+      "company": "Kira",
+      "first_seen": "2026-08-08T07:04:08.320534",
+      "score": 60.0
+    },
+    "f16917480ec0d9d6778ed9f80a089206": {
+      "title": "Associate Director Business Development EMEA",
+      "company": "Lonza",
+      "first_seen": "2026-08-08T07:04:08.320546",
+      "score": 60.0
+    },
+    "c55b479673a5a76bcfd94cf39ba11f6c": {
+      "title": "Business Development Director - Germany",
+      "company": "Infosys",
+      "first_seen": "2026-08-08T07:04:08.320549",
+      "score": 40.0
+    },
+    "cad046fa379c2b6b44a70df7aad2bf8f": {
+      "title": "Head of Operations (m/f/d)",
+      "company": "IronMaxx Nutrition",
+      "first_seen": "2026-08-08T07:04:08.320552",
+      "score": 55.0
+    },
+    "45569e74b87974d7ecdb176ab1701c0f": {
+      "title": "Director \u2013 Innovation Project Management and Operations",
+      "company": "Pall Corporation",
+      "first_seen": "2026-08-08T07:04:08.320555",
+      "score": 40.0
+    },
+    "b5b9a5e3c93e54f2920ad25bae209501": {
+      "title": "Senior Project Lead MSAT",
+      "company": "Roche",
+      "first_seen": "2026-08-08T07:04:08.320558",
+      "score": 50.0
+    },
+    "86296714a0551a3cff4a3b69f1d037f9": {
+      "title": "Head of Supply Chain Data & Reporting",
+      "company": "Roche",
+      "first_seen": "2026-08-08T07:04:08.320560",
+      "score": 50.0
+    },
+    "1244ca4d2cd7386ac17bb804df3bfe96": {
+      "title": "Director of Reseller Partnerships",
+      "company": "Stayntouch",
+      "first_seen": "2026-08-08T07:04:08.320563",
+      "score": 40.0
+    },
+    "c88c216f6531708ed7ee5742781a84f5": {
+      "title": "Senior DMPK-PD Project Leader",
+      "company": "Roche",
+      "first_seen": "2026-08-08T07:04:08.320565",
+      "score": 50.0
+    },
+    "79a892f0787c456e5ed5078982ba7f7d": {
+      "title": "Associate Director (m/f/d), Computational Pathology Biomarker Lead (Oncology/BioPharma)",
+      "company": "AstraZeneca",
+      "first_seen": "2026-08-08T07:04:08.320568",
+      "score": 75.0
     }
   },
-  "last_run": "2026-08-07T07:25:43.922804",
+  "last_run": "2026-08-08T07:04:08.320574",
   "stats": {
-    "total_seen": 340,
-    "total_reported": 768
+    "total_seen": 351,
+    "total_reported": 779
   }
 }
