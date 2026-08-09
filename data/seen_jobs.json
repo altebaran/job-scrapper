@@ -2105,11 +2105,65 @@
       "company": "AstraZeneca",
       "first_seen": "2026-08-08T07:04:08.320568",
       "score": 75.0
+    },
+    "d75238fa854f4ab16c79ac30cb255c18": {
+      "title": "Senior Consultant Commercial Strategy & Digital Innovation \u2013 Healthcare & Life Sciences (m/w/d)",
+      "company": "Simon-Kucher",
+      "first_seen": "2026-08-09T07:05:50.044688",
+      "score": 45.0
+    },
+    "377c1ab5d92f4d126e2e699197bb80ac": {
+      "title": "Chief of Staff at Romeai",
+      "company": "Jack & Jill",
+      "first_seen": "2026-08-09T07:05:50.044698",
+      "score": 55.0
+    },
+    "091843f18da937a91924829102b27be7": {
+      "title": "Director Business Development (Sales) Asia-Pacific",
+      "company": "Evotec",
+      "first_seen": "2026-08-09T07:05:50.044700",
+      "score": 40.0
+    },
+    "9373e2d092b192e117d1830e82ce8e8d": {
+      "title": "Head of Business Development, Public Sector - Germany (m/f/d)",
+      "company": "Nemetschek Group",
+      "first_seen": "2026-08-09T07:05:50.044702",
+      "score": 60.0
+    },
+    "e892c326da5592bc5e2bf69ea130f18f": {
+      "title": "Director Data Science (Gen)AI - Healthcare & Life Sciences (m/f/d)",
+      "company": "Simon-Kucher",
+      "first_seen": "2026-08-09T07:05:50.044704",
+      "score": 45.0
+    },
+    "4d3790eaa41d32bf1b755fc5290a9b56": {
+      "title": "Director Data Science (Gen)AI - Healthcare & Life Sciences (m/f/d)",
+      "company": "Simon-Kucher",
+      "first_seen": "2026-08-09T07:05:50.044705",
+      "score": 45.0
+    },
+    "0acbd0f7d9360decb66a6eabe30205ae": {
+      "title": "Hospital Affairs Lead - Germany (Mid-West)",
+      "company": "Rhythm Pharmaceuticals Inc.",
+      "first_seen": "2026-08-09T07:05:50.044706",
+      "score": 45.0
+    },
+    "bd364e1fe7e35ad3f889ba89cbe65da1": {
+      "title": "Leiter:in Forschung und Innovation (w/m/d)",
+      "company": "Berliner Wasserbetriebe",
+      "first_seen": "2026-08-09T07:05:50.044708",
+      "score": 40.0
+    },
+    "f92b27d82af7dd87f4f171a579124725": {
+      "title": "Senior Director, Pharmaceutical Technical Services/Manufacturing Science (m/f/d) - Pharma",
+      "company": "Elanco",
+      "first_seen": "2026-08-09T07:05:50.044709",
+      "score": 45.0
     }
   },
-  "last_run": "2026-08-08T07:04:08.320574",
+  "last_run": "2026-08-09T07:05:50.044713",
   "stats": {
-    "total_seen": 351,
-    "total_reported": 779
+    "total_seen": 360,
+    "total_reported": 788
   }
 }
