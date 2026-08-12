@@ -1,11 +1,5 @@
 {
   "seen": {
-    "47e660982ee5fb4324419fd550618209": {
-      "title": "Candidate Guidance on AI Use",
-      "company": "AstraZeneca Innovation",
-      "first_seen": "2026-07-12T08:27:41.708247",
-      "score": 40.0
-    },
     "0300097b8cbbab8a55c10d861c61fc5e": {
       "title": "Director Commercial Execution Germany - Digital Health (Silent Cloud)",
       "company": "Sonova Group",
@@ -2015,11 +2009,149 @@
       "company": "VERTANICAL",
       "first_seen": "2026-08-11T07:18:45.455217",
       "score": 45.0
+    },
+    "3d995339469661436223507efc63443f": {
+      "title": "Global Head, Business Development, Partnerships & Inorganic Growth (m/f/d)",
+      "company": "Abbott",
+      "first_seen": "2026-08-12T07:42:37.419447",
+      "score": 50.0
+    },
+    "dccfc1d1c4855842f4f9957c8e5d3f06": {
+      "title": "Venture Lead (m/w/d)",
+      "company": "BFS health finance GmbH",
+      "first_seen": "2026-08-12T07:42:37.419459",
+      "score": 40.0
+    },
+    "5d5ec957de05fb3ad31eb001514b7cfc": {
+      "title": "Industry Strategy Execution Lead - Consumer and Health - Director",
+      "company": "EY",
+      "first_seen": "2026-08-12T07:42:37.419462",
+      "score": 40.0
+    },
+    "39df6c1e4dde9f80461deabc7cc50e17": {
+      "title": "Director Strategy & Partnerships",
+      "company": "Vicoland",
+      "first_seen": "2026-08-12T07:42:37.419464",
+      "score": 45.0
+    },
+    "832c800e8d7a764d5254de2ecd3d07a9": {
+      "title": "Associate Director, Key Accounts (Germany & Austria)",
+      "company": "TAPI",
+      "first_seen": "2026-08-12T07:42:37.419466",
+      "score": 55.0
+    },
+    "50e968a0db461e4020d3c04be152c6ac": {
+      "title": "Senior / Executive Account Director, Business Development \u2013 Biotech (Germany Territory)",
+      "company": "Thermo Fisher Scientific",
+      "first_seen": "2026-08-12T07:42:37.419468",
+      "score": 45.0
+    },
+    "cfab727cd1a4647ab6a43ba3896cb7e3": {
+      "title": "Head of Sales",
+      "company": "Future Growth Partner",
+      "first_seen": "2026-08-12T07:42:37.419470",
+      "score": 40.0
+    },
+    "74cb7b7c3716106e68d648bf75efbaa6": {
+      "title": "Head of Operations (m/w/d)",
+      "company": "entero AG",
+      "first_seen": "2026-08-12T07:42:37.419480",
+      "score": 55.0
+    },
+    "0b9604a10b3ce827c9df758fb61516e8": {
+      "title": "Chief of Staff (m/w/d)",
+      "company": "Smile Eyes",
+      "first_seen": "2026-08-12T07:42:37.419482",
+      "score": 55.0
+    },
+    "3d3157019ff082a5bbaf1f74a98fcd6b": {
+      "title": "Head of Operations (a)",
+      "company": "Ja klaHR!",
+      "first_seen": "2026-08-12T07:42:37.419484",
+      "score": 55.0
+    },
+    "719a61c085ba1d9c41a4ce16f80def43": {
+      "title": "Transformation & Operational Excellence Manager (w/m/d) - Global SCM Strategy",
+      "company": "Siemens Healthineers",
+      "first_seen": "2026-08-12T07:42:37.419486",
+      "score": 40.0
+    },
+    "c27c08e2da791a89321980ca35fb0c8d": {
+      "title": "Director of Operations",
+      "company": "DataX Connect",
+      "first_seen": "2026-08-12T07:42:37.419488",
+      "score": 55.0
+    },
+    "456a559e01af734485dc2c31d3dedb5f": {
+      "title": "Head of Commercial Excellence Western Europe",
+      "company": "Zentiva",
+      "first_seen": "2026-08-12T07:42:37.419489",
+      "score": 60.0
+    },
+    "3c4d83423056266287f90e4bd28661e8": {
+      "title": "Leiter Vertrieb & Marketing (Medtech) m/w/d",
+      "company": "Dr. Weick Executive Search GmbH",
+      "first_seen": "2026-08-12T07:42:37.419491",
+      "score": 40.0
+    },
+    "26af6f6e5f50be73f240d62c1f144258": {
+      "title": "Head of Global Business Development & Distribution (m/w/d)",
+      "company": "Hydrotechnik GmbH",
+      "first_seen": "2026-08-12T07:42:37.419493",
+      "score": 40.0
+    },
+    "c70f3bfd6b8d96a4037b541ee7e31160": {
+      "title": "Head of Brand Partnerships (All Genders)",
+      "company": "Prematch",
+      "first_seen": "2026-08-12T07:42:37.419495",
+      "score": 40.0
+    },
+    "9c19ef0252c9812b8cd640f9de3ee2aa": {
+      "title": "Head of Partnerships & Alliances (w/m/d)",
+      "company": "AMCS Group",
+      "first_seen": "2026-08-12T07:42:37.419497",
+      "score": 60.0
+    },
+    "a576fb397fbde2c7461dec011229bc0d": {
+      "title": "Head of Partnerships & Alliances (w/m/d)",
+      "company": "AMCS Group",
+      "first_seen": "2026-08-12T07:42:37.419498",
+      "score": 60.0
+    },
+    "e45df2c12eeb6b5a60b529207b238560": {
+      "title": "Regional Head of Partnerships",
+      "company": "Jobgether",
+      "first_seen": "2026-08-12T07:42:37.419500",
+      "score": 60.0
+    },
+    "443732f1ddc3b22e57ffbbf7dbc2a266": {
+      "title": "Associate Director, Medical Strategy & Innovation Lead, Germany",
+      "company": "BeOne Medicines",
+      "first_seen": "2026-08-12T07:42:37.419502",
+      "score": 65.0
+    },
+    "a52ed17ed22b3d3746ae658d4368fd6a": {
+      "title": "Continuous Improvement Lead (Innovation DBS Leader) (f/m/d)",
+      "company": "Beckman Coulter Diagnostics",
+      "first_seen": "2026-08-12T07:42:37.419504",
+      "score": 45.0
+    },
+    "884772e66270beaa6f5dfaf6473a70bd": {
+      "title": "Senior Director Innovation Apparel - CD&I (m/f/d)",
+      "company": "adidas",
+      "first_seen": "2026-08-12T07:42:37.419505",
+      "score": 40.0
+    },
+    "47e660982ee5fb4324419fd550618209": {
+      "title": "Candidate Guidance on AI Use",
+      "company": "AstraZeneca Innovation",
+      "first_seen": "2026-08-12T07:42:37.419507",
+      "score": 40.0
     }
   },
-  "last_run": "2026-08-11T07:18:45.455222",
+  "last_run": "2026-08-12T07:42:37.419513",
   "stats": {
-    "total_seen": 336,
-    "total_reported": 814
+    "total_seen": 358,
+    "total_reported": 837
   }
 }
