@@ -1,11 +1,5 @@
 {
   "seen": {
-    "0300097b8cbbab8a55c10d861c61fc5e": {
-      "title": "Director Commercial Execution Germany - Digital Health (Silent Cloud)",
-      "company": "Sonova Group",
-      "first_seen": "2026-07-13T09:40:11.638937",
-      "score": 45.0
-    },
     "960f79aa8e1419b23a9eaa65f28ef79f": {
       "title": "Director Business Development & M&A",
       "company": "FUTRUE",
@@ -2147,11 +2141,131 @@
       "company": "AstraZeneca Innovation",
       "first_seen": "2026-08-12T07:42:37.419507",
       "score": 40.0
+    },
+    "7c7765155673a0a57bfa6c029b3c2489": {
+      "title": "Venture Lead (m/w/d)",
+      "company": "Riverty",
+      "first_seen": "2026-08-13T07:43:50.554618",
+      "score": 40.0
+    },
+    "2ce4460bd5a31f2ae5f2986731244281": {
+      "title": "Head of GVAP Cardiometabolic, Fertility & Endocrinology",
+      "company": "Merck Healthcare",
+      "first_seen": "2026-08-13T07:43:50.554632",
+      "score": 40.0
+    },
+    "b202646187146c421fd148921538ee83": {
+      "title": "Head of Consumer Healthcare Western Europe",
+      "company": "Zentiva",
+      "first_seen": "2026-08-13T07:43:50.554636",
+      "score": 40.0
+    },
+    "5ed95f70ebb0632e905ec30285ec2b8d": {
+      "title": "Director AI Strategy (w/m/x)",
+      "company": "Douglas",
+      "first_seen": "2026-08-13T07:43:50.554640",
+      "score": 40.0
+    },
+    "b91153e09a5796cb7364f974621ae318": {
+      "title": "Head of Portfolio Strategy",
+      "company": "Kyowa Kirin International plc.",
+      "first_seen": "2026-08-13T07:43:50.554643",
+      "score": 40.0
+    },
+    "2930da10349d128ea692dcd905909622": {
+      "title": "Head of Strategy and Product",
+      "company": "BJAK",
+      "first_seen": "2026-08-13T07:43:50.554646",
+      "score": 60.0
+    },
+    "2d6bf0b36752ef66c6ae0d8af5672b90": {
+      "title": "Director AI Strategy (f/m/x)",
+      "company": "Douglas",
+      "first_seen": "2026-08-13T07:43:50.554649",
+      "score": 40.0
+    },
+    "235e1444d7e02c0c03d9cdbddccb6bbf": {
+      "title": "Strategy & Portfolio Lead",
+      "company": "Essity",
+      "first_seen": "2026-08-13T07:43:50.554652",
+      "score": 40.0
+    },
+    "e17f519b6cb1a24c4b20bb0265d017d5": {
+      "title": "Director Business Development - Oncology",
+      "company": "TFS HealthScience",
+      "first_seen": "2026-08-13T07:43:50.554655",
+      "score": 40.0
+    },
+    "45367f0e9fc994f4d416e3376919f508": {
+      "title": "Business Development Director - SAP (m/w/d)",
+      "company": "Vicoland",
+      "first_seen": "2026-08-13T07:43:50.554658",
+      "score": 40.0
+    },
+    "ef55e9d1e4dafd523a876accfa14d9f5": {
+      "title": "Leiter:in (m/w/d) Operations / Business Development & Strategie",
+      "company": "Aurivus",
+      "first_seen": "2026-08-13T07:43:50.554660",
+      "score": 40.0
+    },
+    "80cc577862f8be0bee6d52b8b54a21c3": {
+      "title": "Associate Director, Continuous Improvement (m/w/d)",
+      "company": "Catalent",
+      "first_seen": "2026-08-13T07:43:50.554663",
+      "score": 55.0
+    },
+    "c342138a32124aa50a9c7bf06b6ef750": {
+      "title": "Head of Operations",
+      "company": "Verrus",
+      "first_seen": "2026-08-13T07:43:50.554666",
+      "score": 55.0
+    },
+    "65f70c052f958abb946032814f96db5a": {
+      "title": "Head of (m/w/d) Pharmaceutical Operations Project Management",
+      "company": "Denk Pharma",
+      "first_seen": "2026-08-13T07:43:50.554668",
+      "score": 45.0
+    },
+    "4c5fdb10f900e62dce81d2f2d9658130": {
+      "title": "(Senior) Regional Business Manager (m/w/d) im Bereich Electrophysiology Region Ostdeutschland und Berlin",
+      "company": "Johnson & Johnson MedTech",
+      "first_seen": "2026-08-13T07:43:50.554671",
+      "score": 40.0
+    },
+    "0db4c10747ba132c4abc5a85f56ba591": {
+      "title": "Europe & META ISG Commercial Leader",
+      "company": "Lenovo",
+      "first_seen": "2026-08-13T07:43:50.554673",
+      "score": 40.0
+    },
+    "6c33c6556ca23b9d8762c72122d640b0": {
+      "title": "Regional Business Head (m/w/d) Dermatology - M\u00fcnchen, Ulm, N\u00fcrnberg, Freiburg, Stuttgart",
+      "company": "LEO Pharma",
+      "first_seen": "2026-08-13T07:43:50.554676",
+      "score": 40.0
+    },
+    "6481ba316797b7035bac51a7c2ddf310": {
+      "title": "Director, Biopharma Chemical Solutions R&D (full-/Part-time) (all genders)",
+      "company": "Merck Life Science",
+      "first_seen": "2026-08-13T07:43:50.554678",
+      "score": 40.0
+    },
+    "528687d6c70bc3502345b96cb8423acb": {
+      "title": "Director Medical Innovation & Liaison Pharma (m/f/d)",
+      "company": "Fresenius Kabi",
+      "first_seen": "2026-08-13T07:43:50.554681",
+      "score": 45.0
+    },
+    "949fa0f7fe157e19305c43cca67be57b": {
+      "title": "Senior Scientist / Matrix Lead Brain-Shuttle (m/f/d)",
+      "company": "Roche",
+      "first_seen": "2026-08-13T07:43:50.554683",
+      "score": 50.0
     }
   },
-  "last_run": "2026-08-12T07:42:37.419513",
+  "last_run": "2026-08-13T07:43:50.554690",
   "stats": {
-    "total_seen": 358,
-    "total_reported": 837
+    "total_seen": 377,
+    "total_reported": 857
   }
 }
