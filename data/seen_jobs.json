@@ -1,23 +1,5 @@
 {
   "seen": {
-    "8e8094216023b2647dce02c9efbd3fe2": {
-      "title": "Associate Director, Commercial Excellence (m/f/d)",
-      "company": "Redcare Pharmacy",
-      "first_seen": "2026-07-16T08:24:48.978170",
-      "score": 65.0
-    },
-    "f0e59405196b9e48fb77faa2a254677e": {
-      "title": "Associate Director, Commercial Excellence (m/f/d)",
-      "company": "Redcare Pharmacy",
-      "first_seen": "2026-07-16T08:24:48.978182",
-      "score": 65.0
-    },
-    "809515b8d1cdc3fcff8728fbc20be1cf": {
-      "title": "Global Business Development Director",
-      "company": "Kintiga",
-      "first_seen": "2026-07-16T08:24:48.978185",
-      "score": 40.0
-    },
     "7d2c42c229b5b0e0f99c5344a8965cc7": {
       "title": "Senior Clinical Pharmacologist",
       "company": "HMNC Brain Health",
@@ -2273,11 +2255,47 @@
       "company": "Philips Health Innovation",
       "first_seen": "2026-08-15T06:49:01.033533",
       "score": 40.0
+    },
+    "75e59575567054cf3bd6f3a2dc0be492": {
+      "title": "Senior Account Executive / Business Development Director",
+      "company": "Cognite",
+      "first_seen": "2026-08-16T06:50:33.839916",
+      "score": 40.0
+    },
+    "3e8281b15c1b75cf7034eb0dc8b7957d": {
+      "title": "Business Development Director China (m/f/x)",
+      "company": "Joined Media Group",
+      "first_seen": "2026-08-16T06:50:33.839925",
+      "score": 40.0
+    },
+    "5de239b1b0f479471f9c1027f41c14c2": {
+      "title": "Head of Strategy and Operations \u2014 Partnerships",
+      "company": "GetYourGuide",
+      "first_seen": "2026-08-16T06:50:33.839927",
+      "score": 65.0
+    },
+    "f14d54ea17454709ebe3f640028f4944": {
+      "title": "Global Customer Education Product Manager (f/m/d) - Clinical pathway & Endovascular Robotics",
+      "company": "Siemens Healthineers",
+      "first_seen": "2026-08-16T06:50:33.839929",
+      "score": 40.0
+    },
+    "f516c908a16ba3530a1e1cdb20e52917": {
+      "title": "Associate Director, Market Access AMNOG, Germany",
+      "company": "Revolution Medicines",
+      "first_seen": "2026-08-16T06:50:33.839931",
+      "score": 60.0
+    },
+    "a5d1cc72bf10a7c7c44dd62c1c939bc6": {
+      "title": "Director Clinical Development and Medical Assessment (f/m/d)",
+      "company": "STADA Group",
+      "first_seen": "2026-08-16T06:50:33.839932",
+      "score": 40.0
     }
   },
-  "last_run": "2026-08-15T06:49:01.033540",
+  "last_run": "2026-08-16T06:50:33.839937",
   "stats": {
-    "total_seen": 379,
-    "total_reported": 888
+    "total_seen": 382,
+    "total_reported": 894
   }
 }
