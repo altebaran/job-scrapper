@@ -1,11 +1,5 @@
 {
   "seen": {
-    "7d2c42c229b5b0e0f99c5344a8965cc7": {
-      "title": "Senior Clinical Pharmacologist",
-      "company": "HMNC Brain Health",
-      "first_seen": "2026-07-17T08:21:35.217938",
-      "score": 45.0
-    },
     "a31369af43828051f30ecf2e56a8af31": {
       "title": "Head of Product and Strategy | ROB'E",
       "company": "NLC Health Ventures",
@@ -2291,11 +2285,77 @@
       "company": "STADA Group",
       "first_seen": "2026-08-16T06:50:33.839932",
       "score": 40.0
+    },
+    "678f9c0a046040c014f40fcada3535e6": {
+      "title": "Head of Content",
+      "company": "heal",
+      "first_seen": "2026-08-17T07:07:21.930086",
+      "score": 50.0
+    },
+    "63131ee938270938a59d71cd5abe9fe7": {
+      "title": "Projektleiter Healthcare - Business Consulting (w/m/d)",
+      "company": "EY",
+      "first_seen": "2026-08-17T07:07:21.930096",
+      "score": 40.0
+    },
+    "ab30fc64230a8518d3bd762523eadf3a": {
+      "title": "Principal/Senior Strategy Consultant (m/f/d)",
+      "company": "Flip",
+      "first_seen": "2026-08-17T07:07:21.930099",
+      "score": 40.0
+    },
+    "b13b5bdb176aca67bbaeff5791131a49": {
+      "title": "Business Development Director (m/w/d) - excel as entrepreneur through strategy, sales, and AI",
+      "company": "Vicoland",
+      "first_seen": "2026-08-17T07:07:21.930101",
+      "score": 45.0
+    },
+    "5c02dea2cd7a625f7db26fbf459dc764": {
+      "title": "Senior Account Executive / Business Development Director",
+      "company": "Cognite",
+      "first_seen": "2026-08-17T07:07:21.930102",
+      "score": 40.0
+    },
+    "c60f1bff22ea1e117bf6edcafb5bf5c8": {
+      "title": "Chief of Staff at Romeai",
+      "company": "Jack & Jill",
+      "first_seen": "2026-08-17T07:07:21.930104",
+      "score": 55.0
+    },
+    "673d8f1f60c0cee20a29709b38814d18": {
+      "title": "Head of Drug Regulatory Affairs (m/w/d)",
+      "company": "Roche",
+      "first_seen": "2026-08-17T07:07:21.930106",
+      "score": 50.0
+    },
+    "6e0f54920af371fb3218d85ecb07c0ba": {
+      "title": "Projektleiter Healthcare - Business Consulting (w/m/d)",
+      "company": "EY",
+      "first_seen": "2026-08-17T07:07:21.930111",
+      "score": 40.0
+    },
+    "9accbb33843c3e44ba298e9c3d6e7358": {
+      "title": "VP Sales & Strategic Partnerships Deutschland (m/w/d)",
+      "company": "inca",
+      "first_seen": "2026-08-17T07:07:21.930114",
+      "score": 40.0
+    },
+    "2e73fb5e4268909179a70b3088a57cbe": {
+      "title": "Director Strategic Partnerships C&I Energy (m/w/d)",
+      "company": "Nereus Partners",
+      "first_seen": "2026-08-17T07:07:21.930116",
+      "score": 40.0
+    },
+    "9bb598348f3bf6834a923b522b1f26c8": {
+      "title": "Head of Education & Science Partnerships (m/w/d)",
+      "company": "JUNI",
+      "first_seen": "2026-08-17T07:07:21.930118",
+      "score": 40.0
     }
   },
-  "last_run": "2026-08-16T06:50:33.839937",
+  "last_run": "2026-08-17T07:07:21.930125",
   "stats": {
-    "total_seen": 382,
-    "total_reported": 894
+    "total_seen": 392,
+    "total_reported": 905
   }
 }
