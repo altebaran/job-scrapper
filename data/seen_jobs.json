@@ -1,119 +1,5 @@
 {
   "seen": {
-    "a31369af43828051f30ecf2e56a8af31": {
-      "title": "Head of Product and Strategy | ROB'E",
-      "company": "NLC Health Ventures",
-      "first_seen": "2026-07-18T08:03:10.140543",
-      "score": 65.0
-    },
-    "cc92aeee78c10d83b2bbe144c7d2ef34": {
-      "title": "Senior Manager Corporate Development \u2013 AI & Digital Strategy (m/w/d)",
-      "company": "Fresenius Group",
-      "first_seen": "2026-07-18T08:03:10.140557",
-      "score": 45.0
-    },
-    "2899b28809fa00e62e7e0cc3709a2705": {
-      "title": "Senior Director, Head of Resource Forecasting & Analytics (all genders)",
-      "company": "Merck Healthcare",
-      "first_seen": "2026-07-18T08:03:10.140562",
-      "score": 40.0
-    },
-    "e8a2670e54c735ccfaaa75bddc455f5b": {
-      "title": "Head of Region APAC (m/f/d)",
-      "company": "Merz Therapeutics",
-      "first_seen": "2026-07-18T08:03:10.140564",
-      "score": 40.0
-    },
-    "3a55ba0230ea46905550ffb0904e3d9e": {
-      "title": "Senior Consultant Commercial Strategy & Digital Innovation \u2013 Healthcare & Life Sciences (m/w/d)",
-      "company": "Simon-Kucher",
-      "first_seen": "2026-07-18T08:03:10.140567",
-      "score": 45.0
-    },
-    "f140bbe3ebb308ef43faa8021e1dc6dd": {
-      "title": "Senior Consultant Commercial Strategy & Digital Innovation \u2013 Healthcare & Life Sciences (m/w/d)",
-      "company": "Simon-Kucher",
-      "first_seen": "2026-07-18T08:03:10.140570",
-      "score": 45.0
-    },
-    "49fb405d4848b0e372f6ba527813d74a": {
-      "title": "Digital M&S GenMed Insulin Cluster Leader - all genders",
-      "company": "Sanofi",
-      "first_seen": "2026-07-18T08:03:10.140572",
-      "score": 50.0
-    },
-    "5ee721bdaf97d925bc8e86761e9bdf84": {
-      "title": "Director Strategy & Customer Success \u2013 ISO Global Accounts, Europe and META (m/f/d)",
-      "company": "Lenovo",
-      "first_seen": "2026-07-18T08:03:10.140575",
-      "score": 40.0
-    },
-    "b98ca76c76636a398b91bc92b6fc4f70": {
-      "title": "Director of Business Development",
-      "company": "Green Life Science",
-      "first_seen": "2026-07-18T08:03:10.140577",
-      "score": 60.0
-    },
-    "dbd9d52564237c4542f02d5746fc5d47": {
-      "title": "Business Development Director (m/w/d) - excel as entrepreneur through strategy, sales, and AI",
-      "company": "Vicoland",
-      "first_seen": "2026-07-18T08:03:10.140580",
-      "score": 45.0
-    },
-    "463ec58d7fca0cbc4902dcb2c1a27931": {
-      "title": "VP, Partnerships & Managing Director",
-      "company": "Sievo",
-      "first_seen": "2026-07-18T08:03:10.140582",
-      "score": 40.0
-    },
-    "03fd14a0453b94fa7cf96d5534a9460d": {
-      "title": "Head of Business Development DACH",
-      "company": "ASSA ABLOY Group",
-      "first_seen": "2026-07-18T08:03:10.140584",
-      "score": 60.0
-    },
-    "bbc3f8ba54de34e540f781f55cd4a503": {
-      "title": "Head of Operations & Customer Service",
-      "company": "Ford Credit",
-      "first_seen": "2026-07-18T08:03:10.140586",
-      "score": 55.0
-    },
-    "079c044a8dd7df8c2c6a6181991e8099": {
-      "title": "Country Manager",
-      "company": "First Point Group",
-      "first_seen": "2026-07-18T08:03:10.140589",
-      "score": 55.0
-    },
-    "2cbf929e6071079b1a3e2843774e2fd9": {
-      "title": "Strategic Development Director / Senior Manager / Manager",
-      "company": "MatriX Innovation GmbH",
-      "first_seen": "2026-07-18T08:03:10.140591",
-      "score": 40.0
-    },
-    "8fb5c0935a53a933409fa4c6135d2d13": {
-      "title": "Patienten- und Projektmanager - Diabetes Care (m/w/d) I Region Nord-/Ost-Deutschland",
-      "company": "Abbott",
-      "first_seen": "2026-07-18T08:03:10.140593",
-      "score": 40.0
-    },
-    "1829211248689d9d9816b3acdd982348": {
-      "title": "Associate Director CMC Excellence & Strategy (Remote)",
-      "company": "Discover International",
-      "first_seen": "2026-07-18T08:03:10.140595",
-      "score": 60.0
-    },
-    "d583d485c8647eb6cb94fc37466c94c3": {
-      "title": "Research Management Director / Deputy Director / Specialist",
-      "company": "MatriX Innovation GmbH",
-      "first_seen": "2026-07-18T08:03:10.140598",
-      "score": 40.0
-    },
-    "8d4021f5f7435decdcb71f82c3e5739a": {
-      "title": "Global Vice President Product, R&D and Innovation (m/w/d)",
-      "company": "Siebenlist Personal GmbH",
-      "first_seen": "2026-07-18T08:03:10.140600",
-      "score": 40.0
-    },
     "16d2b670c4cb3fa9b83e338e17bc1eb1": {
       "title": "Senior Consultant Commercial Strategy & Digital Innovation \u2013 Healthcare & Life Sciences (m/w/d)",
       "company": "Simon-Kucher",
@@ -2351,11 +2237,83 @@
       "company": "JUNI",
       "first_seen": "2026-08-17T07:07:21.930118",
       "score": 40.0
+    },
+    "d11dfba3a22f23ff63969b48871d5aa4": {
+      "title": "Head of Product",
+      "company": "Barrington James",
+      "first_seen": "2026-08-18T06:54:53.069650",
+      "score": 55.0
+    },
+    "b678979f8f24c7a880dbb6280493810d": {
+      "title": "Head of Region South (m/w/d)",
+      "company": "House of Healthcare",
+      "first_seen": "2026-08-18T06:54:53.069660",
+      "score": 40.0
+    },
+    "54e81dca4b0507433df3d48e29bb470d": {
+      "title": "Regional Business Development Director \u2013 Northern Europe (Distributor Markets)",
+      "company": "Guided Solutions",
+      "first_seen": "2026-08-18T06:54:53.069664",
+      "score": 40.0
+    },
+    "960f79aa8e1419b23a9eaa65f28ef79f": {
+      "title": "Director Business Development & M&A",
+      "company": "FUTRUE",
+      "first_seen": "2026-08-18T06:54:53.069668",
+      "score": 40.0
+    },
+    "2a9485d8d3d8805a53d3a35552a1429f": {
+      "title": "Director (Associate / Senior) \u2013 Business Development",
+      "company": "ChemPartner",
+      "first_seen": "2026-08-18T06:54:53.069670",
+      "score": 40.0
+    },
+    "65dfe45bc460a5b6236288c3ffcc6760": {
+      "title": "Head of Region North (m/w/d)",
+      "company": "House of Healthcare",
+      "first_seen": "2026-08-18T06:54:53.069673",
+      "score": 40.0
+    },
+    "9f41ad40b99f395bc405d21856c0c1d8": {
+      "title": "Team Lead/Director Clinical Operations",
+      "company": "VERTANICAL",
+      "first_seen": "2026-08-18T06:54:53.069675",
+      "score": 40.0
+    },
+    "a18e65c609662761be5bdd38f0f86fd1": {
+      "title": "Associate Director (m/f/d), EU Digital S&T Lead",
+      "company": "MSD Deutschland",
+      "first_seen": "2026-08-18T06:54:53.069678",
+      "score": 55.0
+    },
+    "e036c576e31d6d8cde7cd6ee97136e5d": {
+      "title": "Regional Sales Manager (w/m/d) Upper Extremities",
+      "company": "Stryker",
+      "first_seen": "2026-08-18T06:54:53.069680",
+      "score": 50.0
+    },
+    "2cfb2e6b25921927ec2afc7bf272548d": {
+      "title": "Regional Sales Manager (w/m/d) Upper Extremities",
+      "company": "Stryker",
+      "first_seen": "2026-08-18T06:54:53.069683",
+      "score": 50.0
+    },
+    "11609a4ab310b3c0f9fe651379f58ab5": {
+      "title": "Director, Product Partnerships (m/f/d), Frankfurt am Main",
+      "company": "American Express",
+      "first_seen": "2026-08-18T06:54:53.069685",
+      "score": 40.0
+    },
+    "7122e77d9e2bb0b4b71429fc732d7717": {
+      "title": "Head of Brand Partnerships (All Genders)",
+      "company": "Prematch",
+      "first_seen": "2026-08-18T06:54:53.069688",
+      "score": 40.0
     }
   },
-  "last_run": "2026-08-17T07:07:21.930125",
+  "last_run": "2026-08-18T06:54:53.069694",
   "stats": {
-    "total_seen": 392,
-    "total_reported": 905
+    "total_seen": 385,
+    "total_reported": 917
   }
 }
