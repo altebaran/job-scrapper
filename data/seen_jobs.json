@@ -1,47 +1,5 @@
 {
   "seen": {
-    "16d2b670c4cb3fa9b83e338e17bc1eb1": {
-      "title": "Senior Consultant Commercial Strategy & Digital Innovation \u2013 Healthcare & Life Sciences (m/w/d)",
-      "company": "Simon-Kucher",
-      "first_seen": "2026-07-19T08:29:32.054930",
-      "score": 45.0
-    },
-    "6dfcede46ca2fcfd0cc95b47a5f2c560": {
-      "title": "Healthcare Solutions Principal (Healthcare & Life Sciences)",
-      "company": "Everpure",
-      "first_seen": "2026-07-19T08:29:32.054944",
-      "score": 45.0
-    },
-    "8f4a7a9eb3283629659bd64efad68df4": {
-      "title": "Business Development Director - Energy",
-      "company": "Critical Software",
-      "first_seen": "2026-07-19T08:29:32.054947",
-      "score": 40.0
-    },
-    "0c51464fafd24f68c8a62190db95c163": {
-      "title": "Director of Operations",
-      "company": "NTI Nanofilm",
-      "first_seen": "2026-07-19T08:29:32.054950",
-      "score": 55.0
-    },
-    "1df28916496b473ace889eb8f5b7dfaf": {
-      "title": "Commercial Director (m/w/d)",
-      "company": "Octopus Energy",
-      "first_seen": "2026-07-19T08:29:32.054952",
-      "score": 40.0
-    },
-    "bc5642f1ac18abe77007a65907ef75d9": {
-      "title": "Commercial Segment Lead B2B SaaS \u2013 Growth / P&L (alle Identit\u00e4ten)",
-      "company": "Caspar Health",
-      "first_seen": "2026-07-19T08:29:32.054955",
-      "score": 65.0
-    },
-    "9b38f113a138094064c99d7dcf7e3361": {
-      "title": "Director of Revenue",
-      "company": "Clera",
-      "first_seen": "2026-07-19T08:29:32.054957",
-      "score": 40.0
-    },
     "7e33f97474a9452182c1e6082f613847": {
       "title": "Director Transformation & Efficiency Office (TEO) (m/w/d).",
       "company": "AstraZeneca",
@@ -2309,11 +2267,113 @@
       "company": "Prematch",
       "first_seen": "2026-08-18T06:54:53.069688",
       "score": 40.0
+    },
+    "0c4b13628bb058902b9d590ae5f5121b": {
+      "title": "Director Tech Strategy & GenAI \u2013 Healthcare & Life Sciences (m/f/d)",
+      "company": "Simon-Kucher",
+      "first_seen": "2026-08-19T06:54:56.512162",
+      "score": 50.0
+    },
+    "e29d9568d8162a77d12331090a36ac7f": {
+      "title": "Strategy Lead (x/f/m)",
+      "company": "Doctolib",
+      "first_seen": "2026-08-19T06:54:56.512173",
+      "score": 55.0
+    },
+    "d871c909db2e42819335c6e4e84338e2": {
+      "title": "Director Tech Strategy & GenAI \u2013 Healthcare & Life Sciences (m/f/d)",
+      "company": "Simon-Kucher",
+      "first_seen": "2026-08-19T06:54:56.512176",
+      "score": 50.0
+    },
+    "458677e9f95a714c93786369225c5783": {
+      "title": "Chief Growth Officer",
+      "company": "BioX",
+      "first_seen": "2026-08-19T06:54:56.512178",
+      "score": 40.0
+    },
+    "1596d86515fb1cd8a1b5aac4ebb3fcc0": {
+      "title": "Head of Product Commercial Unit (m/w/d) - Jobbird.com",
+      "company": "Jobster",
+      "first_seen": "2026-08-19T06:54:56.512180",
+      "score": 60.0
+    },
+    "c055324ed790eae15776a111fae926f9": {
+      "title": "Senior Director, Regional Business Development EMEAI",
+      "company": "Oxford Nanopore Technologies",
+      "first_seen": "2026-08-19T06:54:56.512182",
+      "score": 40.0
+    },
+    "c184fd83e685cc1cddea21d23d2a1d98": {
+      "title": "Head of Strategic Sales Healthcare (m/w/d)",
+      "company": "House of Healthcare",
+      "first_seen": "2026-08-19T06:54:56.512184",
+      "score": 40.0
+    },
+    "0c7891ebf3f9b5dddf24aee4166b6eee": {
+      "title": "Ecosystem Business Development Director (all genders) - Google",
+      "company": "Accenture DACH",
+      "first_seen": "2026-08-19T06:54:56.512186",
+      "score": 40.0
+    },
+    "f6c2c65c3eea6f36fe106a16fb07102b": {
+      "title": "Head of Operations",
+      "company": "deeploi",
+      "first_seen": "2026-08-19T06:54:56.512187",
+      "score": 55.0
+    },
+    "6622dae195bfb54b5d2f10af094314a2": {
+      "title": "Country Manager DACH (m/w/d) in Direktvermittlung",
+      "company": "FERCHAU",
+      "first_seen": "2026-08-19T06:54:56.512189",
+      "score": 55.0
+    },
+    "a6d421c228f2a8c571ca400349fc44f0": {
+      "title": "Head of Global Supply Chain Planning & Execution (m/f/d)",
+      "company": "Merz Therapeutics",
+      "first_seen": "2026-08-19T06:54:56.512191",
+      "score": 40.0
+    },
+    "d5ab99369d1bf37a9fba422bcda8f407": {
+      "title": "Director, Team Lead, Computational Pathology Products (m/f/d)",
+      "company": "AstraZeneca",
+      "first_seen": "2026-08-19T06:54:56.512193",
+      "score": 50.0
+    },
+    "dcdb51e2726880a0554b29d0c63989ea": {
+      "title": "Project Lead",
+      "company": "Roche",
+      "first_seen": "2026-08-19T06:54:56.512195",
+      "score": 50.0
+    },
+    "7a2289a0b4f9025b1435aad0bc2602e4": {
+      "title": "Network Lead Core Lab (RA)",
+      "company": "Roche",
+      "first_seen": "2026-08-19T06:54:56.512196",
+      "score": 50.0
+    },
+    "82c35b991160fc94793700e9c0e0dd53": {
+      "title": "Senior Commercial Manager EMEA, ProCare Services",
+      "company": "Stryker",
+      "first_seen": "2026-08-19T06:54:56.512198",
+      "score": 40.0
+    },
+    "7f4bd4fb5fbe48dabbdd5020b01b8be5": {
+      "title": "Senior Commercial Manager EMEA, ProCare Services",
+      "company": "Stryker",
+      "first_seen": "2026-08-19T06:54:56.512200",
+      "score": 40.0
+    },
+    "bd22e040bc032ba5ee44a5707c33e05b": {
+      "title": "Director, Global Contamination Control Strategy (all genders)",
+      "company": "Merck Healthcare",
+      "first_seen": "2026-08-19T06:54:56.512201",
+      "score": 45.0
     }
   },
-  "last_run": "2026-08-18T06:54:53.069694",
+  "last_run": "2026-08-19T06:54:56.512207",
   "stats": {
-    "total_seen": 385,
-    "total_reported": 917
+    "total_seen": 395,
+    "total_reported": 934
   }
 }
