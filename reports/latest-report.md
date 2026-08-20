@@ -1,123 +1,122 @@
-# 🎯 Daily Job Report — 2026-08-19
+# 🎯 Daily Job Report — 2026-08-20
 
 **17** new matches | **0** high relevance
 
 ---
 
-### 1. 🟡 Head of Product Commercial Unit (m/w/d) - Jobbird.com
-**Jobster** · 📍 Planegg, Bavaria, Germany · Score: 60/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-product-commercial-unit-m-w-d-jobbird-com-at-jobster-4454710862)
-  - Title match: 'head of product'
-  - Keywords (1): commercial
-  - Location: 'germany'
-
-### 2. 🟡 Strategy Lead (x/f/m)
-**Doctolib** · 📍 Berlin, Berlin, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/strategy-lead-x-f-m-at-doctolib-4455740295)
-  - Seniority match: 'lead'
+### 1. 🟡 Head of Strategy (x|f|m)
+**Sartorius** · 📍 Göttingen, Lower Saxony, Germany · Score: 60/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-strategy-x-f-m-at-sartorius-4446336467)
+  - Title match: 'head of strategy'
   - Keywords (1): strategy
   - Location: 'germany'
-  - Target company: Doctolib
 
-### 3. 🟡 Head of Operations
-**deeploi** · 📍 Berlin, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-operations-at-deeploi-4455576895)
-  - Title match: 'head of operations'
+### 2. 🟡 Senior Manager Commercial PMO EMEAP (m/f/d)
+**Abbott** · 📍 Wiesbaden, Hesse, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-manager-commercial-pmo-emeap-m-f-d-at-abbott-4456344193)
+  - Seniority match: 'senior manager'
+  - Keywords (1): commercial
   - Location: 'germany'
+  - Target company: Abbott Digital Health
 
-### 4. 🟡 Country Manager DACH (m/w/d) in Direktvermittlung
-**FERCHAU** · 📍 Offenburg, Baden-Württemberg, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/country-manager-dach-m-w-d-in-direktvermittlung-at-ferchau-4455921453)
-  - Title match: 'country manager'
+### 3. 🟡 Network Lead Core Lab (RA)
+**Roche** · 📍 Mannheim, Baden-Württemberg, Germany · Score: 50/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/network-lead-core-lab-ra-at-roche-4456393578)
+  - Seniority match: 'lead'
   - Location: 'germany'
+  - Target company: Roche Digital Health
 
-### 5. 🟡 Director Tech Strategy & GenAI – Healthcare & Life Sciences (m/f/d)
-**Simon-Kucher** · 📍 Munich, Bavaria, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-tech-strategy-genai-%E2%80%93-healthcare-life-sciences-m-f-d-at-simon-kucher-4417061549)
-  - Seniority match: 'director'
-  - Keywords (3): life sciences, healthcare, strategy
-  - Location: 'germany'
-
-### 6. 🟡 Director Tech Strategy & GenAI – Healthcare & Life Sciences (m/f/d)
-**Simon-Kucher** · 📍 Berlin, Berlin, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-tech-strategy-genai-%E2%80%93-healthcare-life-sciences-m-f-d-at-simon-kucher-4417065520)
-  - Seniority match: 'director'
-  - Keywords (3): life sciences, healthcare, strategy
-  - Location: 'germany'
-
-### 7. 🟡 Director, Team Lead, Computational Pathology Products (m/f/d)
-**AstraZeneca** · 📍 Munich, Bavaria, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-team-lead-computational-pathology-products-m-f-d-at-astrazeneca-4454753721)
-  - Seniority match: 'director'
+### 4. ⚪ Manager Data, Artificial Intelligence & Digital Healthcare Solutions (m/w/d)
+**AstraZeneca** · 📍 Hamburg, Hamburg, Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/manager-data-artificial-intelligence-digital-healthcare-solutions-m-w-d-at-astrazeneca-4417559282)
+  - Keywords (2): digital health, healthcare
   - Location: 'germany'
   - Target company: AstraZeneca Innovation
 
-### 8. 🟡 Project Lead
-**Roche** · 📍 Mannheim, Baden-Württemberg, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/project-lead-at-roche-4455773065)
-  - Seniority match: 'lead'
-  - Location: 'germany'
-  - Target company: Roche Digital Health
-
-### 9. 🟡 Network Lead Core Lab (RA)
-**Roche** · 📍 Penzberg, Bavaria, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/network-lead-core-lab-ra-at-roche-4456155128)
-  - Seniority match: 'lead'
-  - Location: 'germany'
-  - Target company: Roche Digital Health
-
-### 10. ⚪ Director, Global Contamination Control Strategy (all genders)
-**Merck Healthcare** · 📍 Darmstadt, Hesse, Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-global-contamination-control-strategy-all-genders-at-merck-healthcare-4455732415)
+### 5. ⚪ Director – Strategy, Partnerships, AI, CRM & Customer Transformation (all genders)
+**Valtech** · 📍 Baden-Baden, Baden-Württemberg, Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-%E2%80%93-strategy-partnerships-ai-crm-customer-transformation-all-genders-at-valtech-4456188720)
   - Seniority match: 'director'
-  - Keywords (2): healthcare, strategy
+  - Keywords (2): strategy, partnerships
   - Location: 'germany'
 
-### 11. ⚪ Chief Growth Officer
-**BioX** · 📍 Berlin, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/chief-growth-officer-at-biox-4455750817)
-  - Seniority match: 'chief'
+### 6. ⚪ Senior Director, EXM Supply Chain Core Operations
+**Teva Pharmaceuticals** · 📍 Ulm, Baden-Württemberg, Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-director-exm-supply-chain-core-operations-at-teva-pharmaceuticals-4443359951)
+  - Seniority match: 'director'
+  - Keywords (2): pharma, pharmaceutical
+  - Location: 'germany'
+
+### 7. ⚪ Senior Manager Growth - Europe
+**Iterative Health** · 📍 Munich, Bavaria, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-manager-growth-europe-at-iterative-health-4453454661)
+  - Seniority match: 'senior manager'
   - Keywords (1): growth
   - Location: 'germany'
 
-### 12. ⚪ Senior Director, Regional Business Development EMEAI
-**Oxford Nanopore Technologies** · 📍 Berlin, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-director-regional-business-development-emeai-at-oxford-nanopore-technologies-4452821318)
+### 8. ⚪ Director of Market Access
+**Kintiga** · 📍 Hannover, Lower Saxony, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-of-market-access-at-kintiga-4456199849)
   - Seniority match: 'director'
-  - Keywords (1): business development
+  - Keywords (1): market access
   - Location: 'germany'
 
-### 13. ⚪ Head of Strategic Sales Healthcare (m/w/d)
-**House of Healthcare** · 📍 Hamburg, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-strategic-sales-healthcare-m-w-d-at-house-of-healthcare-4452579822)
-  - Seniority match: 'head of'
-  - Keywords (1): healthcare
-  - Location: 'germany'
-
-### 14. ⚪ Ecosystem Business Development Director (all genders) - Google
+### 9. ⚪ Ecosystem Business Development Director (all genders) - IBM
 **Accenture DACH** · 📍 Kronberg, Hesse, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/ecosystem-business-development-director-all-genders-google-at-accenture-dach-4436816708)
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/ecosystem-business-development-director-all-genders-ibm-at-accenture-dach-4436833079)
   - Seniority match: 'director'
   - Keywords (1): business development
   - Location: 'germany'
 
-### 15. ⚪ Head of Global Supply Chain Planning & Execution (m/f/d)
-**Merz Therapeutics** · 📍 Frankfurt am Main, Hesse, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-global-supply-chain-planning-execution-m-f-d-at-merz-therapeutics-4452571717)
+### 10. ⚪ Director, Business Development & Sales – Defense & Government (Germany, Middle East & Africa)
+**Gilat Satellite Networks** · 📍 Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-business-development-sales-%E2%80%93-defense-government-germany-middle-east-africa-at-gilat-satellite-networks-4417778046)
+  - Seniority match: 'director'
+  - Keywords (1): business development
+  - Location: 'germany'
+
+### 11. ⚪ Business Development Manager - Medtech/Healthtech
+**AI Startup in Veterinary Medicine** · 📍 Germany · Score: 40/100
+🔗 [LinkedIn]()
+  - Keywords (4): healthtech, medtech, business development, startup
+  - Location: 'germany'
+
+### 12. ⚪ Operations Manager Germany Pharmaceutical Diagnostics (PDx) f/m/d
+**GE HealthCare** · 📍 Düsseldorf, North Rhine-Westphalia, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/operations-manager-germany-pharmaceutical-diagnostics-pdx-f-m-d-at-ge-healthcare-4456195935)
+  - Keywords (4): pharma, pharmaceutical, healthcare, diagnostics
+  - Location: 'germany'
+
+### 13. ⚪ Operations Manager Germany Pharmaceutical Diagnostics (PDx) f/m/d
+**GE HealthCare** · 📍 Munich, Bavaria, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/operations-manager-germany-pharmaceutical-diagnostics-pdx-f-m-d-at-ge-healthcare-4456300907)
+  - Keywords (4): pharma, pharmaceutical, healthcare, diagnostics
+  - Location: 'germany'
+
+### 14. ⚪ Head of Consulting – Digital Platform for Operational Excellence SaaS & Pharma Manufacturing (all genders)
+**Seqonis** · 📍 Bad Säckingen, Baden-Württemberg, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-consulting-%E2%80%93-digital-platform-for-operational-excellence-saas-pharma-manufacturing-all-genders-at-seqonis-4453436393)
   - Seniority match: 'head of'
-  - Keywords (1): therapeutic
+  - Keywords (1): pharma
+  - Location: 'germany'
+
+### 15. ⚪ Head of AI - Digital Transformation
+**Page Executive** · 📍 Düsseldorf, North Rhine-Westphalia, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-ai-digital-transformation-at-page-executive-4456342911)
+  - Seniority match: 'head of'
+  - Keywords (1): digital transformation
   - Location: 'germany'
 
 ### 16. ⚪ Senior Commercial Manager EMEA, ProCare Services
 **Stryker** · 📍 Staufen im Breisgau, Baden-Württemberg, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-commercial-manager-emea-procare-services-at-stryker-4454778500)
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-commercial-manager-emea-procare-services-at-stryker-4454776562)
   - Keywords (1): commercial
   - Location: 'germany'
   - Target company: Stryker Digital
 
-### 17. ⚪ Senior Commercial Manager EMEA, ProCare Services
-**Stryker** · 📍 Duisburg, North Rhine-Westphalia, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-commercial-manager-emea-procare-services-at-stryker-4454778493)
-  - Keywords (1): commercial
+### 17. ⚪ VP of Revenue (m/f/x)
+**exmox** · 📍 Hamburg, Hamburg, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/vp-of-revenue-m-f-x-at-exmox-4455425870)
+  - Seniority match: 'vp'
+  - Keywords (1): revenue
   - Location: 'germany'
-  - Target company: Stryker Digital
