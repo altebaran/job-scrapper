@@ -1,89 +1,5 @@
 {
   "seen": {
-    "10467200bb579a3609048a108a61fb4c": {
-      "title": "Chief of Staff to CCO (m/f/d)",
-      "company": "Redcare Pharmacy",
-      "first_seen": "2026-07-22T08:39:09.785462",
-      "score": 60.0
-    },
-    "1cc266b051a173b1e8e19ee723ab7dd6": {
-      "title": "Director Commercial Operations",
-      "company": "BioNTech SE",
-      "first_seen": "2026-07-22T08:39:09.785476",
-      "score": 40.0
-    },
-    "be94bd69a1d69216fbbbe92bf8677153": {
-      "title": "Principal Digital Business Development and M&A (gn) full-time/ part-time (hybrid)",
-      "company": "DKV Mobility",
-      "first_seen": "2026-07-22T08:39:09.785480",
-      "score": 40.0
-    },
-    "8b01a7424352202d1e8e990e71256f3c": {
-      "title": "Business Development Director",
-      "company": "Zayo Europe",
-      "first_seen": "2026-07-22T08:39:09.785483",
-      "score": 40.0
-    },
-    "fab7435d818eb3fc56156d854a6e8d74": {
-      "title": "Business Development Director",
-      "company": "Zayo Europe",
-      "first_seen": "2026-07-22T08:39:09.785485",
-      "score": 40.0
-    },
-    "cc1bcf12b472569aacb1371582f3d740": {
-      "title": "Explore more",
-      "company": "Merck Innovation Center",
-      "first_seen": "2026-07-22T08:39:09.785488",
-      "score": 40.0
-    },
-    "4a50626cbaf12768d205b7a38a5f237e": {
-      "title": "Explore more",
-      "company": "Merck Innovation Center",
-      "first_seen": "2026-07-22T08:39:09.785490",
-      "score": 40.0
-    },
-    "401fa975223fb4672411a7003c5f08af": {
-      "title": "Learn more",
-      "company": "Merck Innovation Center",
-      "first_seen": "2026-07-22T08:39:09.785492",
-      "score": 40.0
-    },
-    "8b1d4e70739491cdca8e2f418f826692": {
-      "title": "Learn more",
-      "company": "Merck Innovation Center",
-      "first_seen": "2026-07-22T08:39:09.785494",
-      "score": 40.0
-    },
-    "24253381edddc8bdca984f935f6159ae": {
-      "title": "Learn more.",
-      "company": "Merck Innovation Center",
-      "first_seen": "2026-07-22T08:39:09.785497",
-      "score": 40.0
-    },
-    "e02e292ed2c5e83e4252659e90fb6b51": {
-      "title": "See more",
-      "company": "Merck Innovation Center",
-      "first_seen": "2026-07-22T08:39:09.785499",
-      "score": 40.0
-    },
-    "70444306af11eb0fe3562d537a287639": {
-      "title": "Join Talent Zone",
-      "company": "Merck Innovation Center",
-      "first_seen": "2026-07-22T08:39:09.785501",
-      "score": 40.0
-    },
-    "e5661f74abb201b9efa610484fa45c1f": {
-      "title": "Career Site Cookie Settings",
-      "company": "Merck Innovation Center",
-      "first_seen": "2026-07-22T08:39:09.785504",
-      "score": 40.0
-    },
-    "22aaffe2db53f2b49f926db028c09941": {
-      "title": "CAREERS",
-      "company": "Merck Innovation Center",
-      "first_seen": "2026-07-22T08:39:09.785506",
-      "score": 40.0
-    },
     "8b46815acaac98de3a077e605663eceb": {
       "title": "Strategy Manager M&A and Competition (f/m/d)",
       "company": "Siemens Healthineers",
@@ -2387,11 +2303,155 @@
       "company": "Fresenius Medical Care",
       "first_seen": "2026-08-21T06:57:04.126803",
       "score": 40.0
+    },
+    "5f19bc51a5c7fac22876fabb7613c4c4": {
+      "title": "Commercial Segment Lead B2B SaaS \u2013 Growth / P&L (alle Identit\u00e4ten)",
+      "company": "Caspar Health",
+      "first_seen": "2026-08-22T06:51:10.951157",
+      "score": 65.0
+    },
+    "17b0b1a45cde2819c3a23bfc3f4af56c": {
+      "title": "Healthcare Ecosystem Management Lead (all genders) (Vollzeit / unbefristet)",
+      "company": "AbbVie",
+      "first_seen": "2026-08-22T06:51:10.951170",
+      "score": 40.0
+    },
+    "918a81fbb3231f53ed9b5e5922527748": {
+      "title": "Executive Director, GVAP HEOR Rare Tumors (all genders)",
+      "company": "Merck Healthcare",
+      "first_seen": "2026-08-22T06:51:10.951175",
+      "score": 40.0
+    },
+    "2d741918e79b5b7c0e5d34557ecb9be4": {
+      "title": "Hospital Affairs Director, Germany",
+      "company": "Rhythm Pharmaceuticals Inc.",
+      "first_seen": "2026-08-22T06:51:10.951178",
+      "score": 45.0
+    },
+    "ca4c7854a5d52e7a5487046c0168af11": {
+      "title": "Business Development Director",
+      "company": "Jobgether",
+      "first_seen": "2026-08-22T06:51:10.951181",
+      "score": 40.0
+    },
+    "ccf8b74d76db8c71f7fbdab4253a0eff": {
+      "title": "Commercial Advisory Director",
+      "company": "OneTrust",
+      "first_seen": "2026-08-22T06:51:10.951183",
+      "score": 40.0
+    },
+    "e2517a403c5624de057827aaf3898f55": {
+      "title": "Head of Business Development & Growth (all genders)",
+      "company": "Halion Fusion Group",
+      "first_seen": "2026-08-22T06:51:10.951186",
+      "score": 65.0
+    },
+    "b0b5bb3951c57fd9394c73f5a44e034f": {
+      "title": "Associate Director, Europe Business Analytics & Insights",
+      "company": "Corcept Therapeutics",
+      "first_seen": "2026-08-22T06:51:10.951188",
+      "score": 60.0
+    },
+    "b6446deb49f56a509974ba83dc7aa4dc": {
+      "title": "Associate Director Bioanalytics",
+      "company": "BioNTech SE",
+      "first_seen": "2026-08-22T06:51:10.951191",
+      "score": 55.0
+    },
+    "047218cf9e3a39c2e8f9a05da8a324a2": {
+      "title": "Senior Manager, Master Data & Entity Governance",
+      "company": "Alliance Healthcare",
+      "first_seen": "2026-08-22T06:51:10.951194",
+      "score": 40.0
+    },
+    "603cf26a984fa2ebd948a93aeb4e3491": {
+      "title": "Chief Business Process Consultant - Life Sciences(Biopharma) (f/m/d)",
+      "company": "SAP",
+      "first_seen": "2026-08-22T06:51:10.951197",
+      "score": 45.0
+    },
+    "01872bc1c4b16547812872ff30fb5673": {
+      "title": "Regional Sales Manager (m/w/d) Endoskopie - Nord/Mitte",
+      "company": "Stryker",
+      "first_seen": "2026-08-22T06:51:10.951199",
+      "score": 50.0
+    },
+    "6f5c5455d4250a50803974984714061e": {
+      "title": "Regional Sales Manager (w/m/d) Upper Extremities",
+      "company": "Stryker",
+      "first_seen": "2026-08-22T06:51:10.951202",
+      "score": 50.0
+    },
+    "d70173ed4af856dc0e85cf1bd67ba362": {
+      "title": "Head of Product & Innovation",
+      "company": "vly",
+      "first_seen": "2026-08-22T06:51:10.951205",
+      "score": 60.0
+    },
+    "97c664cd5eb1deb9a0d384444ba296e3": {
+      "title": "VP, Divisional Head of Product and Innovation Management",
+      "company": "HARMAN International",
+      "first_seen": "2026-08-22T06:51:10.951207",
+      "score": 60.0
+    },
+    "cc1bcf12b472569aacb1371582f3d740": {
+      "title": "Explore more",
+      "company": "Merck Innovation Center",
+      "first_seen": "2026-08-22T06:51:10.951210",
+      "score": 40.0
+    },
+    "4a50626cbaf12768d205b7a38a5f237e": {
+      "title": "Explore more",
+      "company": "Merck Innovation Center",
+      "first_seen": "2026-08-22T06:51:10.951212",
+      "score": 40.0
+    },
+    "401fa975223fb4672411a7003c5f08af": {
+      "title": "Learn more",
+      "company": "Merck Innovation Center",
+      "first_seen": "2026-08-22T06:51:10.951215",
+      "score": 40.0
+    },
+    "8b1d4e70739491cdca8e2f418f826692": {
+      "title": "Learn more",
+      "company": "Merck Innovation Center",
+      "first_seen": "2026-08-22T06:51:10.951217",
+      "score": 40.0
+    },
+    "24253381edddc8bdca984f935f6159ae": {
+      "title": "Learn more.",
+      "company": "Merck Innovation Center",
+      "first_seen": "2026-08-22T06:51:10.951220",
+      "score": 40.0
+    },
+    "e02e292ed2c5e83e4252659e90fb6b51": {
+      "title": "See more",
+      "company": "Merck Innovation Center",
+      "first_seen": "2026-08-22T06:51:10.951223",
+      "score": 40.0
+    },
+    "70444306af11eb0fe3562d537a287639": {
+      "title": "Join Talent Zone",
+      "company": "Merck Innovation Center",
+      "first_seen": "2026-08-22T06:51:10.951225",
+      "score": 40.0
+    },
+    "e5661f74abb201b9efa610484fa45c1f": {
+      "title": "Career Site Cookie Settings",
+      "company": "Merck Innovation Center",
+      "first_seen": "2026-08-22T06:51:10.951228",
+      "score": 40.0
+    },
+    "22aaffe2db53f2b49f926db028c09941": {
+      "title": "CAREERS",
+      "company": "Merck Innovation Center",
+      "first_seen": "2026-08-22T06:51:10.951231",
+      "score": 40.0
     }
   },
-  "last_run": "2026-08-21T06:57:04.126809",
+  "last_run": "2026-08-22T06:51:10.951238",
   "stats": {
-    "total_seen": 398,
-    "total_reported": 965
+    "total_seen": 408,
+    "total_reported": 989
   }
 }
