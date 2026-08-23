@@ -1,11 +1,5 @@
 {
   "seen": {
-    "8b46815acaac98de3a077e605663eceb": {
-      "title": "Strategy Manager M&A and Competition (f/m/d)",
-      "company": "Siemens Healthineers",
-      "first_seen": "2026-07-23T08:41:02.457403",
-      "score": 40.0
-    },
     "bfcd31f8d3cc2ad301414bca9242ceb2": {
       "title": "(Senior) Director / Vice President Life Sciences Germany (m/w/d)",
       "company": "Capgemini Invent",
@@ -2447,11 +2441,59 @@
       "company": "Merck Innovation Center",
       "first_seen": "2026-08-22T06:51:10.951231",
       "score": 40.0
+    },
+    "a639f099c2506224e5f63ba99029da0f": {
+      "title": "Head of Business Development",
+      "company": "medtechrec",
+      "first_seen": "2026-08-23T06:52:33.639967",
+      "score": 65.0
+    },
+    "d48e15e2d70c24e8242fd06a89a0141e": {
+      "title": "Business Development Account Director, Cell Gene Therapy",
+      "company": "Catalent",
+      "first_seen": "2026-08-23T06:52:33.639977",
+      "score": 40.0
+    },
+    "dcd320f9a44d746bc97b558f65191ddd": {
+      "title": "Sales Director Rare Disease Commercial EU4+UK Region",
+      "company": "BioSpace",
+      "first_seen": "2026-08-23T06:52:33.639981",
+      "score": 40.0
+    },
+    "61dea72679131bb3807a82acf42fc17c": {
+      "title": "Industry principal Pharma/Life science",
+      "company": "AVEVA",
+      "first_seen": "2026-08-23T06:52:33.639984",
+      "score": 40.0
+    },
+    "428c9062ed48842a5673ad7f095d590b": {
+      "title": "Director Operations, Pharma & Consumer Health",
+      "company": "Catalent",
+      "first_seen": "2026-08-23T06:52:33.639987",
+      "score": 40.0
+    },
+    "511a0d44f88458c7659ffd9ecbffccbe": {
+      "title": "Regional Sales Manager (w/m/d) Upper Extremities",
+      "company": "Stryker",
+      "first_seen": "2026-08-23T06:52:33.639990",
+      "score": 50.0
+    },
+    "52811cf59ceff12e186f9a6932c89036": {
+      "title": "Head of Growth (Fokus Partnerships)",
+      "company": "gyde",
+      "first_seen": "2026-08-23T06:52:33.639992",
+      "score": 65.0
+    },
+    "7e44e325d2fcb723462df9a9727f43d9": {
+      "title": "Regional Sales Manager \u2013 Digital Health (all gender)",
+      "company": "Kranus Health",
+      "first_seen": "2026-08-23T06:52:33.639994",
+      "score": 40.0
     }
   },
-  "last_run": "2026-08-22T06:51:10.951238",
+  "last_run": "2026-08-23T06:52:33.640002",
   "stats": {
-    "total_seen": 408,
-    "total_reported": 989
+    "total_seen": 415,
+    "total_reported": 997
   }
 }
