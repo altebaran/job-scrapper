@@ -1,61 +1,53 @@
-# 🎯 Daily Job Report — 2026-08-23
+# 🎯 Daily Job Report — 2026-08-24
 
-**8** new matches | **0** high relevance
+**7** new matches | **0** high relevance
 
 ---
 
-### 1. 🟡 Head of Business Development
-**medtechrec** · 📍 Munich, Bavaria, Germany · Score: 65/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-business-development-at-medtechrec-4439040340)
-  - Title match: 'head of business development'
-  - Keywords (2): medtech, business development
+### 1. 🟡 Director of Business Development
+**CesiumAstro** · 📍 Munich, Bavaria, Germany · Score: 60/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-of-business-development-at-cesiumastro-4458152347)
+  - Title match: 'director of business development'
+  - Keywords (1): business development
   - Location: 'germany'
 
-### 2. 🟡 Head of Growth (Fokus Partnerships)
-**gyde** · 📍 Stuttgart, Baden-Württemberg, Germany · Score: 65/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-growth-fokus-partnerships-at-gyde-4455083307)
-  - Title match: 'head of growth'
-  - Keywords (2): partnerships, growth
+### 2. 🟡 Chief of Staff to the CEO – FUTRUE Group
+**FUTRUE** · 📍 Gräfelfing, Bavaria, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/chief-of-staff-to-the-ceo-%E2%80%93-futrue-group-at-futrue-4456808344)
+  - Title match: 'chief of staff'
   - Location: 'germany'
 
 ### 3. 🟡 Regional Sales Manager (w/m/d) Upper Extremities
-**Stryker** · 📍 Berlin, Berlin, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/regional-sales-manager-w-m-d-upper-extremities-at-stryker-4454411154)
+**Stryker** · 📍 Hamburg, Hamburg, Germany · Score: 50/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/regional-sales-manager-w-m-d-upper-extremities-at-stryker-4454418068)
   - Seniority match: 'regional'
   - Location: 'germany'
   - Target company: Stryker Digital
 
-### 4. ⚪ Business Development Account Director, Cell Gene Therapy
-**Catalent** · 📍 Langenfeld, North Rhine-Westphalia, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/business-development-account-director-cell-gene-therapy-at-catalent-4438841455)
+### 4. ⚪ Head of Portfolio Strategy - Germany
+**Kyowa Kirin International plc.** · 📍 Düsseldorf, North Rhine-Westphalia, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-portfolio-strategy-germany-at-kyowa-kirin-international-plc-4458115600)
+  - Seniority match: 'head of'
+  - Keywords (1): strategy
+  - Location: 'germany'
+
+### 5. ⚪ Director Business Development & M&A
+**FUTRUE** · 📍 Gräfelfing, Bavaria, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-business-development-m-a-at-futrue-4456802815)
   - Seniority match: 'director'
   - Keywords (1): business development
   - Location: 'germany'
 
-### 5. ⚪ Sales Director Rare Disease Commercial EU4+UK Region
-**BioSpace** · 📍 Munich, Bavaria, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/sales-director-rare-disease-commercial-eu4%2Buk-region-at-biospace-4457883383)
+### 6. ⚪ Sr. Director, Enterprise Sales, Public, Utilities, Life Sciences and Service Provider (PULS) Germany
+**Genesys** · 📍 Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/sr-director-enterprise-sales-public-utilities-life-sciences-and-service-provider-puls-germany-at-genesys-4438305995)
   - Seniority match: 'director'
-  - Keywords (1): commercial
+  - Keywords (1): life sciences
   - Location: 'germany'
 
-### 6. ⚪ Industry principal Pharma/Life science
-**AVEVA** · 📍 Frankfurt, Hesse, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/industry-principal-pharma-life-science-at-aveva-4419839375)
-  - Seniority match: 'principal'
-  - Keywords (1): pharma
-  - Location: 'germany'
-
-### 7. ⚪ Director Operations, Pharma & Consumer Health
-**Catalent** · 📍 Schorndorf, Baden-Württemberg, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-operations-pharma-consumer-health-at-catalent-4410797352)
-  - Seniority match: 'director'
-  - Keywords (1): pharma
-  - Location: 'germany'
-
-### 8. ⚪ Regional Sales Manager – Digital Health (all gender)
-**Kranus Health** · 📍 Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/regional-sales-manager-%E2%80%93-digital-health-all-gender-at-kranus-health-4456650969)
-  - Seniority match: 'regional'
-  - Keywords (1): digital health
+### 7. ⚪ Direktor:in Business Development
+**Syben Consulting** · 📍 Gütersloh, North Rhine-Westphalia, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/direktor-in-business-development-at-syben-consulting-4456820082)
+  - Seniority match: 'direktor'
+  - Keywords (1): business development
   - Location: 'germany'

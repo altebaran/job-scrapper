@@ -1,83 +1,5 @@
 {
   "seen": {
-    "bfcd31f8d3cc2ad301414bca9242ceb2": {
-      "title": "(Senior) Director / Vice President Life Sciences Germany (m/w/d)",
-      "company": "Capgemini Invent",
-      "first_seen": "2026-07-24T08:36:14.764921",
-      "score": 40.0
-    },
-    "a587ec9c3cc662d7f6f4bc7884351754": {
-      "title": "Business Lead Neurovascular Germany & Austria (m/w/d)",
-      "company": "Johnson & Johnson MedTech",
-      "first_seen": "2026-07-24T08:36:14.764934",
-      "score": 40.0
-    },
-    "f2965f670b3ed0f6c5ebc3c2d6ad385b": {
-      "title": "Head of Digital Strategy & Business Case Advisory (m/w/d)",
-      "company": "Atos",
-      "first_seen": "2026-07-24T08:36:14.764943",
-      "score": 40.0
-    },
-    "07e96cd187d0f6746065f1609ac05134": {
-      "title": "Chief of Staff",
-      "company": "vialytics",
-      "first_seen": "2026-07-24T08:36:14.764946",
-      "score": 55.0
-    },
-    "bf1829223bbedde0d557c33b5dae9b39": {
-      "title": "Director of Business Development",
-      "company": "Masent\u00f3 Group",
-      "first_seen": "2026-07-24T08:36:14.764949",
-      "score": 60.0
-    },
-    "a9d7ac6d9206083bcd5d563aec3e686a": {
-      "title": "Director Global Business Development - Market Access",
-      "company": "Carrot Recruitment",
-      "first_seen": "2026-07-24T08:36:14.764952",
-      "score": 45.0
-    },
-    "6e47815edeb2dee39f12eaac00891541": {
-      "title": "Director of Business Development - Development Services DACH",
-      "company": "Lead Candidate",
-      "first_seen": "2026-07-24T08:36:14.764955",
-      "score": 60.0
-    },
-    "1620a7fee5e99f97018806b2bdf8b545": {
-      "title": "Lead Business Development | Care (all genders welcome)",
-      "company": "goodBytz",
-      "first_seen": "2026-07-24T08:36:14.764958",
-      "score": 40.0
-    },
-    "e058d02c0c0fdafc69aab8e37b81a06b": {
-      "title": "Director, Operations, Stolberg",
-      "company": "West Pharmaceutical Services",
-      "first_seen": "2026-07-24T08:36:14.764961",
-      "score": 45.0
-    },
-    "45100675b3d06258045c049c73136556": {
-      "title": "Regional Team Lead, RDT Onsite Services Europe",
-      "company": "Roche",
-      "first_seen": "2026-07-24T08:36:14.764964",
-      "score": 50.0
-    },
-    "d4af231c0b40ddf8bff874dfcc64630f": {
-      "title": "Regional Team Lead, RDT Onsite Services Europe",
-      "company": "Roche",
-      "first_seen": "2026-07-24T08:36:14.764967",
-      "score": 50.0
-    },
-    "1a6a256c8d835372182d92773e48b301": {
-      "title": "Director, Commercial Lead Gene Therapy, EMEA",
-      "company": "Ultragenyx",
-      "first_seen": "2026-07-24T08:36:14.764970",
-      "score": 40.0
-    },
-    "ca9b921666085c8298fff80f2ea9b5d8": {
-      "title": "Country Manager \u2014 Marke & Partnerschaften - Alemania",
-      "company": "Wellbeinn",
-      "first_seen": "2026-07-24T08:36:14.764973",
-      "score": 55.0
-    },
     "4b2f2286b3fb5f3ab56258a527a57dce": {
       "title": "Chief of Staff",
       "company": "Vara",
@@ -2489,11 +2411,53 @@
       "company": "Kranus Health",
       "first_seen": "2026-08-23T06:52:33.639994",
       "score": 40.0
+    },
+    "f63bf30f8f8056e8a7d8c682c8e97eaf": {
+      "title": "Head of Portfolio Strategy - Germany",
+      "company": "Kyowa Kirin International plc.",
+      "first_seen": "2026-08-24T07:09:32.794322",
+      "score": 40.0
+    },
+    "ff76fa2c08cdffabe0a2dece4e191bba": {
+      "title": "Chief of Staff to the CEO \u2013 FUTRUE Group",
+      "company": "FUTRUE",
+      "first_seen": "2026-08-24T07:09:32.794340",
+      "score": 55.0
+    },
+    "41e0a7ce0d51d8d5fe49ae2c59488391": {
+      "title": "Director Business Development & M&A",
+      "company": "FUTRUE",
+      "first_seen": "2026-08-24T07:09:32.794344",
+      "score": 40.0
+    },
+    "922119f3bba814814335f22667cd8679": {
+      "title": "Sr. Director, Enterprise Sales, Public, Utilities, Life Sciences and Service Provider (PULS) Germany",
+      "company": "Genesys",
+      "first_seen": "2026-08-24T07:09:32.794347",
+      "score": 40.0
+    },
+    "9ef398a8ebc4d5b00443ac53e8b98a01": {
+      "title": "Direktor:in Business Development",
+      "company": "Syben Consulting",
+      "first_seen": "2026-08-24T07:09:32.794350",
+      "score": 40.0
+    },
+    "b3388099068f4c00f789a3d799d59f03": {
+      "title": "Director of Business Development",
+      "company": "CesiumAstro",
+      "first_seen": "2026-08-24T07:09:32.794352",
+      "score": 60.0
+    },
+    "86341e54a143879fbf438eb45b8d5b37": {
+      "title": "Regional Sales Manager (w/m/d) Upper Extremities",
+      "company": "Stryker",
+      "first_seen": "2026-08-24T07:09:32.794355",
+      "score": 50.0
     }
   },
-  "last_run": "2026-08-23T06:52:33.640002",
+  "last_run": "2026-08-24T07:09:32.794362",
   "stats": {
-    "total_seen": 415,
-    "total_reported": 997
+    "total_seen": 409,
+    "total_reported": 1004
   }
 }
