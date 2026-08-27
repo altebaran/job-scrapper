@@ -1,195 +1,108 @@
-# 🎯 Daily Job Report — 2026-08-26
+# 🎯 Daily Job Report — 2026-08-27
 
-**27** new matches | **1** high relevance
+**15** new matches | **0** high relevance
 
 ---
 
-### 1. 🟢 Associate Director (m/f/d), Computational Pathology Biomarker Lead (Oncology/BioPharma)
-**AstraZeneca** · 📍 Munich, Bavaria, Germany · Score: 75/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-m-f-d-computational-pathology-biomarker-lead-oncology-biopharma-at-astrazeneca-4448237382)
-  - Title match: 'associate director'
-  - Keywords (1): pharma
-  - Location: 'germany'
-  - Target company: AstraZeneca Innovation
-
-### 2. 🟡 Head of Product Commercial Unit (m/w/d) - Jobbird.com
-**Jobster** · 📍 Planegg, Bavaria, Germany · Score: 60/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-product-commercial-unit-m-w-d-jobbird-com-at-jobster-4457657364)
-  - Title match: 'head of product'
-  - Keywords (1): commercial
-  - Location: 'germany'
-
-### 3. 🟡 Head of Commercial Services (x|f|m)
-**Sartorius** · 📍 Göttingen, Lower Saxony, Germany · Score: 60/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-commercial-services-x-f-m-at-sartorius-4458741342)
-  - Title match: 'head of commercial'
-  - Keywords (1): commercial
-  - Location: 'germany'
-
-### 4. 🟡 Head of Commercial Services (x|f|m)
-**Sartorius** · 📍 Germany · Score: 60/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-commercial-services-x-f-m-at-sartorius-4458734362)
-  - Title match: 'head of commercial'
-  - Keywords (1): commercial
-  - Location: 'germany'
-
-### 5. 🟡 Director of Operations/Strategy (m/f/x)
-**exmox** · 📍 Hamburg, Hamburg, Germany · Score: 60/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-of-operations-strategy-m-f-x-at-exmox-4439441830)
-  - Title match: 'director of operations'
-  - Keywords (1): strategy
-  - Location: 'germany'
-
-### 6. 🟡 Senior Manager/Associate Director - Commercial Excellence (1260)
-**Axtria - Ingenious Insights** · 📍 Frankfurt, Hesse, Germany · Score: 60/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-manager-associate-director-commercial-excellence-1260-at-axtria-ingenious-insights-4412158475)
-  - Title match: 'associate director'
-  - Keywords (1): commercial
-  - Location: 'germany'
-
-### 7. 🟡 Principal – Consulting Excellence & Growth (w/m/d)
-**Siemens Healthineers** · 📍 Forchheim, Bavaria, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/principal-%E2%80%93-consulting-excellence-growth-w-m-d-at-siemens-healthineers-2148454479)
-  - Seniority match: 'principal'
-  - Keywords (1): growth
-  - Location: 'germany'
-  - Target company: Siemens Healthineers Digital
-
-### 8. 🟡 Principal - Consulting Excellence & Growth (f/m/d)
-**Siemens Healthineers** · 📍 Forchheim, Bavaria, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/principal-consulting-excellence-growth-f-m-d-at-siemens-healthineers-4456951552)
-  - Seniority match: 'principal'
-  - Keywords (1): growth
-  - Location: 'germany'
-  - Target company: Siemens Healthineers Digital
-
-### 9. 🟡 Head of Production (m/f/d)
-**ageneo Life Science Experts (Interim Solutions) GmbH** · 📍 Bavaria, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-production-m-f-d-at-ageneo-life-science-experts-interim-solutions-gmbh-4456943299)
-  - Title match: 'head of product'
-  - Location: 'germany'
-
-### 10. 🟡 Head of Operations Nordics (m/f/d) in Renewable Energies
-**Encavis** · 📍 Greater Munich Metropolitan Area · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-operations-nordics-m-f-d-in-renewable-energies-at-encavis-4449867921)
+### 1. 🟡 Head of Operations (m/w/d) | Health & Beauty Scale-up
+**MY HEALTH & BEAUTY** · 📍 Cologne, North Rhine-Westphalia, Germany · Score: 60/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-operations-m-w-d-health-beauty-scale-up-at-my-health-beauty-4457795469)
   - Title match: 'head of operations'
-  - Location: 'munich'
+  - Keywords (1): scale-up
+  - Location: 'germany'
 
-### 11. 🟡 Digital M&S GenMed Insulin Cluster Leader - all genders
-**Sanofi** · 📍 Frankfurt am Main, Hesse, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/digital-m-s-genmed-insulin-cluster-leader-all-genders-at-sanofi-4458726475)
+### 2. 🟡 General Manager, EMEA Sales
+**Red Hat** · 📍 Munich, Bavaria, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/general-manager-emea-sales-at-red-hat-4458300159)
+  - Title match: 'general manager'
+  - Location: 'germany'
+
+### 3. 🟡 General Manager, EMEA Sales
+**Red Hat** · 📍 Frankfurt, Hesse, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/general-manager-emea-sales-at-red-hat-4457992997)
+  - Title match: 'general manager'
+  - Location: 'germany'
+
+### 4. 🟡 VP & Managing Director, Clinical Strategic Operations, Mid-Sized Pharma Partnerships
+**IQVIA** · 📍 Frankfurt am Main, Hesse, Germany · Score: 50/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/vp-managing-director-clinical-strategic-operations-mid-sized-pharma-partnerships-at-iqvia-4458366474)
+  - Seniority match: 'director'
+  - Keywords (3): pharma, clinical, partnerships
+  - Location: 'germany'
+
+### 5. ⚪ VP & Managing Director, Clinical Strategic Operations, Large Pharma Partnership
+**IQVIA** · 📍 Frankfurt am Main, Hesse, Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/vp-managing-director-clinical-strategic-operations-large-pharma-partnership-at-iqvia-4458349650)
+  - Seniority match: 'director'
+  - Keywords (2): pharma, clinical
+  - Location: 'germany'
+
+### 6. ⚪ Principal (m/w/d) – Analytics & Consulting, Pharma / Life Sciences
+**IQVIA** · 📍 Berlin, Berlin, Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/principal-m-w-d-%E2%80%93-analytics-consulting-pharma-life-sciences-at-iqvia-4458362495)
+  - Seniority match: 'principal'
+  - Keywords (2): pharma, life sciences
+  - Location: 'germany'
+
+### 7. ⚪ EY-Parthenon Senior Manager Projektleitung Digitalprojekte - Strategy and Transactions (w/m/d)
+**EY-Parthenon** · 📍 Stuttgart, Baden-Württemberg, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/ey-parthenon-senior-manager-projektleitung-digitalprojekte-strategy-and-transactions-w-m-d-at-ey-parthenon-4438091947)
+  - Seniority match: 'senior manager'
+  - Keywords (1): strategy
+  - Location: 'germany'
+
+### 8. ⚪ Product Lead (all genders) in AI Healthcare at mama health
+**Colette - Deine digitale Headhunterin** · 📍 Berlin, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/product-lead-all-genders-in-ai-healthcare-at-mama-health-at-colette-deine-digitale-headhunterin-4457749541)
   - Seniority match: 'lead'
-  - Location: 'germany'
-  - Target company: Sanofi Digital
-
-### 12. ⚪ Director Commercial Execution Germany - Digital Health (Silent Cloud)
-**Sonova Group** · 📍 Berlin, Berlin, Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-commercial-execution-germany-digital-health-silent-cloud-at-sonova-group-4420987334)
-  - Seniority match: 'director'
-  - Keywords (2): digital health, commercial
+  - Keywords (1): healthcare
   - Location: 'germany'
 
-### 13. ⚪ Sales Director, Growth & Business Development
-**Dinnova AG** · 📍 Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/sales-director-growth-business-development-at-dinnova-ag-4456909749)
-  - Seniority match: 'director'
-  - Keywords (2): business development, growth
-  - Location: 'germany'
-
-### 14. ⚪ Fusion Pharma
-**AstraZeneca Innovation** · 📍 Hamburg (DE) · Score: 45/100
-🔗 [Direct (AstraZeneca Innovation)](https://fusionpharma.com/careers/)
-  - Keywords (2): pharma, innovation
-  - Location: 'hamburg'
-  - Target company: AstraZeneca Innovation
-
-### 15. ⚪ AlexionWe expanded our scientific footprint with the acquisition of Alexion's cutting-edge work in rare disease therapeutics.
-**AstraZeneca Innovation** · 📍 Hamburg (DE) · Score: 45/100
-🔗 [Direct (AstraZeneca Innovation)](https://jobs.alexion.com/)
-  - Keywords (2): therapeutic, innovation
-  - Location: 'hamburg'
-  - Target company: AstraZeneca Innovation
-
-### 16. ⚪ VP, Growth
-**IMI** · 📍 Sevenig (Our), Rhineland-Palatinate, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/vp-growth-at-imi-4458701990)
-  - Seniority match: 'vp'
-  - Keywords (1): growth
-  - Location: 'germany'
-
-### 17. ⚪ Executive Director, ggf. mit Team (Partner-Level) (m/w/d)
-**NDG Strategy Advisory GmbH** · 📍 Meerbusch, North Rhine-Westphalia, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/executive-director-ggf-mit-team-partner-level-m-w-d-at-ndg-strategy-advisory-gmbh-4459046961)
+### 9. ⚪ Senior Director, IT Security Strategy & Integration, Global (m/f/d)
+**Olympus Corporation** · 📍 Hamburg, Hamburg, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-director-it-security-strategy-integration-global-m-f-d-at-olympus-corporation-4457271992)
   - Seniority match: 'director'
   - Keywords (1): strategy
   - Location: 'germany'
 
-### 18. ⚪ Know your rights
-**Philips Health Innovation** · 📍 Hamburg (DE) · Score: 40/100
-🔗 [Direct (Philips Health Innovation)](https://www.careers.philips.com/na/en/know-your-rights)
-  - Keywords (1): innovation
-  - Location: 'hamburg'
-  - Target company: Philips Health Innovation
+### 10. ⚪ Director Sales & Business Development (m/w/d)
+**PROTEC X-RAY** · 📍 Oberstenfeld, Baden-Württemberg, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-sales-business-development-m-w-d-at-protec-x-ray-4459842071)
+  - Seniority match: 'director'
+  - Keywords (1): business development
+  - Location: 'germany'
 
-### 19. ⚪ English
-**AstraZeneca Innovation** · 📍 Hamburg (DE) · Score: 40/100
-🔗 [Direct (AstraZeneca Innovation)](https://job-search.astrazeneca.com)
-  - Keywords (1): innovation
-  - Location: 'hamburg'
-  - Target company: AstraZeneca Innovation
+### 11. ⚪ Business Development Account Director Consumer Health
+**Catalent** · 📍 Eberbach, Baden-Württemberg, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/business-development-account-director-consumer-health-at-catalent-4459861177)
+  - Seniority match: 'director'
+  - Keywords (1): business development
+  - Location: 'germany'
 
-### 20. ⚪ русский
-**AstraZeneca Innovation** · 📍 Hamburg (DE) · Score: 40/100
-🔗 [Direct (AstraZeneca Innovation)](https://job-search.astrazeneca.ru)
-  - Keywords (1): innovation
-  - Location: 'hamburg'
-  - Target company: AstraZeneca Innovation
+### 12. ⚪ Media Technology & Data Strategy Lead (all genders)
+**Publicis One Touch** · 📍 Hamburg, Hamburg, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/media-technology-data-strategy-lead-all-genders-at-publicis-one-touch-4440241308)
+  - Seniority match: 'lead'
+  - Keywords (1): strategy
+  - Location: 'germany'
 
-### 21. ⚪ Deutsch
-**AstraZeneca Innovation** · 📍 Hamburg (DE) · Score: 40/100
-🔗 [Direct (AstraZeneca Innovation)](https://job-search.astrazeneca.de)
-  - Keywords (1): innovation
-  - Location: 'hamburg'
-  - Target company: AstraZeneca Innovation
+### 13. ⚪ Head of Sales and Partnerships (m/w/d)
+**Gateway Factory** · 📍 Cologne, North Rhine-Westphalia, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-sales-and-partnerships-m-w-d-at-gateway-factory-4458633932)
+  - Seniority match: 'head of'
+  - Keywords (1): partnerships
+  - Location: 'germany'
 
-### 22. ⚪ Français
-**AstraZeneca Innovation** · 📍 Hamburg (DE) · Score: 40/100
-🔗 [Direct (AstraZeneca Innovation)](https://job-search.astrazeneca.fr)
-  - Keywords (1): innovation
-  - Location: 'hamburg'
-  - Target company: AstraZeneca Innovation
+### 14. ⚪ Head of AI & Digital Transformation (m/w/d)
+**LivEye** · 📍 Föhren, Rhineland-Palatinate, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-ai-digital-transformation-m-w-d-at-liveye-4458006134)
+  - Seniority match: 'head of'
+  - Keywords (1): digital transformation
+  - Location: 'germany'
 
-### 23. ⚪ Svenska
-**AstraZeneca Innovation** · 📍 Hamburg (DE) · Score: 40/100
-🔗 [Direct (AstraZeneca Innovation)](https://job-search.astrazeneca.se)
-  - Keywords (1): innovation
-  - Location: 'hamburg'
-  - Target company: AstraZeneca Innovation
-
-### 24. ⚪ Alexion
-**AstraZeneca Innovation** · 📍 Hamburg (DE) · Score: 40/100
-🔗 [Direct (AstraZeneca Innovation)](https://careers.alexion.com/)
-  - Keywords (1): innovation
-  - Location: 'hamburg'
-  - Target company: AstraZeneca Innovation
-
-### 25. ⚪ Join Talent Network
-**AstraZeneca Innovation** · 📍 Hamburg (DE) · Score: 40/100
-🔗 [Direct (AstraZeneca Innovation)](https://astrazeneca.eightfold.ai/careers/join?domain=astrazeneca.com&hl=en)
-  - Keywords (1): innovation
-  - Location: 'hamburg'
-  - Target company: AstraZeneca Innovation
-
-### 26. ⚪ GET MATCHED TO A JOBUPLOAD YOUR RESUME
-**AstraZeneca Innovation** · 📍 Hamburg (DE) · Score: 40/100
-🔗 [Direct (AstraZeneca Innovation)](https://astrazeneca.eightfold.ai/careers)
-  - Keywords (1): innovation
-  - Location: 'hamburg'
-  - Target company: AstraZeneca Innovation
-
-### 27. ⚪ Job Application Privacy Notice
-**AstraZeneca Innovation** · 📍 Hamburg (DE) · Score: 40/100
-🔗 [Direct (AstraZeneca Innovation)](https://careers.astrazeneca.com/candidate-privacy-notice)
-  - Keywords (1): innovation
-  - Location: 'hamburg'
-  - Target company: AstraZeneca Innovation
+### 15. ⚪ CareersExplore opportunities to join our team and help tackle some of healthcare’s most complex challenges.
+**Aidence** · 📍 Amsterdam (remote DE) · Score: 40/100
+🔗 [Direct (Aidence)](https://deephealth.com/careers/)
+  - Keywords (1): healthcare
+  - Location: 'remote'
+  - Target company: Aidence

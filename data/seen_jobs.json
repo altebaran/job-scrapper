@@ -1,131 +1,5 @@
 {
   "seen": {
-    "433273253f16f60ce1d1dc07e7bab3f9": {
-      "title": "CareersExplore opportunities to join our team and help tackle some of healthcare\u2019s most complex challenges.",
-      "company": "Aidence",
-      "first_seen": "2026-07-27T10:02:26.718527",
-      "score": 40.0
-    },
-    "c3b95e75aa88a240db13084fd87e0fc5": {
-      "title": "Global Lead Market Access (f/m/d)",
-      "company": "B. Braun Group",
-      "first_seen": "2026-07-28T08:44:29.573683",
-      "score": 40.0
-    },
-    "7e8c1378c283d404060b470df7d34b85": {
-      "title": "Global Lead Market Access (f/m/d)",
-      "company": "B. Braun Group",
-      "first_seen": "2026-07-28T08:44:29.573699",
-      "score": 40.0
-    },
-    "f4dc9ab2b8568a067fb7c0aa424acb9f": {
-      "title": "Regional General Manager (m/f/d) DACH & BeNeLux, Molecular Diagnostics",
-      "company": "Abbott",
-      "first_seen": "2026-07-28T08:44:29.573703",
-      "score": 75.0
-    },
-    "5363f7da93d9073ecb079f0f3b5d1afe": {
-      "title": "Head of Business Development",
-      "company": "Prosoma",
-      "first_seen": "2026-07-28T08:44:29.573706",
-      "score": 60.0
-    },
-    "051237da027be4561454bbb5ad57bfa7": {
-      "title": "Senior Business Development Director",
-      "company": "Labcorp",
-      "first_seen": "2026-07-28T08:44:29.573709",
-      "score": 40.0
-    },
-    "6dd715af5877289081ee7f169500aac0": {
-      "title": "Business Development Director",
-      "company": "Labcorp",
-      "first_seen": "2026-07-28T08:44:29.573711",
-      "score": 40.0
-    },
-    "7c420014fb54d87be9cd82d75a72ad7a": {
-      "title": "Digital Health Solutions Executive (m/f/d) DACH",
-      "company": "Abbott",
-      "first_seen": "2026-07-28T08:44:29.573714",
-      "score": 40.0
-    },
-    "d47d122b4f0672b5c242a19dbb885786": {
-      "title": "Commercial Operations Senior Manager",
-      "company": "Johnson & Johnson MedTech",
-      "first_seen": "2026-07-28T08:44:29.573716",
-      "score": 45.0
-    },
-    "20ee7b220f7a3a386a4441daa30b7f6c": {
-      "title": "Commercial Operations Senior Manager",
-      "company": "Johnson & Johnson MedTech",
-      "first_seen": "2026-07-28T08:44:29.573719",
-      "score": 45.0
-    },
-    "2ddca603f2a2b570df97b9c03e834730": {
-      "title": "Head of Clinical Operations (m/w/d)",
-      "company": "Dr. Falk Pharma",
-      "first_seen": "2026-07-28T08:44:29.573721",
-      "score": 45.0
-    },
-    "9aa86f8fcf9b9ffe95e5e97076ead4dc": {
-      "title": "Head of Operations Strategy (Germany) - m/f/d",
-      "company": "Voi Technology",
-      "first_seen": "2026-07-28T08:44:29.573724",
-      "score": 60.0
-    },
-    "97509eff20558872fb08b27c377568f7": {
-      "title": "Director Clinical Operations",
-      "company": "Upsilon Global",
-      "first_seen": "2026-07-28T08:44:29.573726",
-      "score": 40.0
-    },
-    "f3124505f579d7a7dd5a75f75b8601ac": {
-      "title": "Director of AI - HealthTech - Berlin",
-      "company": "Discover International",
-      "first_seen": "2026-07-28T08:44:29.573729",
-      "score": 40.0
-    },
-    "2b6dcb1d116b837b196bf2d9e2383300": {
-      "title": "Director Product Management (m/w/d) - Jobbird.com",
-      "company": "Jobster",
-      "first_seen": "2026-07-28T08:44:29.573731",
-      "score": 40.0
-    },
-    "0b3963ea0ae1498fc6a4c315873927ec": {
-      "title": "Division Data and Analytics Lead",
-      "company": "ABB",
-      "first_seen": "2026-07-28T08:44:29.573733",
-      "score": 50.0
-    },
-    "ebf51955db33809295ca58828f11f624": {
-      "title": "Senior Business Development Director",
-      "company": "Labcorp",
-      "first_seen": "2026-07-28T08:44:29.573735",
-      "score": 40.0
-    },
-    "b49421ad8f428004215795f938adbafb": {
-      "title": "Director, Consumer, Healthcare and Finance, Large Customer Sales",
-      "company": "Google",
-      "first_seen": "2026-07-28T08:44:29.573737",
-      "score": 40.0
-    },
-    "0937f0ad3429e4296466b86dd9709881": {
-      "title": "Director, Consumer, Healthcare and Finance, Large Customer Sales",
-      "company": "Google",
-      "first_seen": "2026-07-28T08:44:29.573739",
-      "score": 40.0
-    },
-    "fc4e3c7e201d8c5846ef4addf29e51ef": {
-      "title": "Agency Partnerships Lead - Global Business Solutions - Hamburg",
-      "company": "TikTok",
-      "first_seen": "2026-07-28T08:44:29.573742",
-      "score": 40.0
-    },
-    "2bf045a466bfad9ae9e8c9734fd2fa73": {
-      "title": "Regional Lead - Biopharma Solutions (m/w/d)",
-      "company": "Proclinical Group",
-      "first_seen": "2026-07-28T08:44:29.573744",
-      "score": 45.0
-    },
     "cf2d1e4632e1ac7938ba3bc80d5f7ab5": {
       "title": "Head of Open Innovation (m/f/d)",
       "company": "Symrise AG",
@@ -2453,11 +2327,101 @@
       "company": "AstraZeneca Innovation",
       "first_seen": "2026-08-26T06:59:50.407960",
       "score": 40.0
+    },
+    "493ab41a3ef57216e0a12a13c0452acd": {
+      "title": "VP & Managing Director, Clinical Strategic Operations, Large Pharma Partnership",
+      "company": "IQVIA",
+      "first_seen": "2026-08-27T17:33:55.939611",
+      "score": 45.0
+    },
+    "3104659fa1b9f20006e85427a407fcd5": {
+      "title": "VP & Managing Director, Clinical Strategic Operations, Mid-Sized Pharma Partnerships",
+      "company": "IQVIA",
+      "first_seen": "2026-08-27T17:33:55.939624",
+      "score": 50.0
+    },
+    "af7911688239e4052359e506ed119ab2": {
+      "title": "EY-Parthenon Senior Manager Projektleitung Digitalprojekte - Strategy and Transactions (w/m/d)",
+      "company": "EY-Parthenon",
+      "first_seen": "2026-08-27T17:33:55.939627",
+      "score": 40.0
+    },
+    "df248876a0e0a74839dbe89ddd6875f4": {
+      "title": "Product Lead (all genders) in AI Healthcare at mama health",
+      "company": "Colette - Deine digitale Headhunterin",
+      "first_seen": "2026-08-27T17:33:55.939628",
+      "score": 40.0
+    },
+    "730bf93dbb4c4970b9f6c473af49484b": {
+      "title": "Senior Director, IT Security Strategy & Integration, Global (m/f/d)",
+      "company": "Olympus Corporation",
+      "first_seen": "2026-08-27T17:33:55.939631",
+      "score": 40.0
+    },
+    "7c2bb5fc8158fcb5c229602816ecf407": {
+      "title": "Director Sales & Business Development (m/w/d)",
+      "company": "PROTEC X-RAY",
+      "first_seen": "2026-08-27T17:33:55.939632",
+      "score": 40.0
+    },
+    "4112b9b5eb475be4394d491a81b75393": {
+      "title": "Business Development Account Director Consumer Health",
+      "company": "Catalent",
+      "first_seen": "2026-08-27T17:33:55.939634",
+      "score": 40.0
+    },
+    "de34594457a660ee2f90cf0a9dbc4472": {
+      "title": "Principal (m/w/d) \u2013 Analytics & Consulting, Pharma / Life Sciences",
+      "company": "IQVIA",
+      "first_seen": "2026-08-27T17:33:55.939636",
+      "score": 45.0
+    },
+    "e609b9c1bb71df44792b1ca5b664b602": {
+      "title": "Head of Operations (m/w/d) | Health & Beauty Scale-up",
+      "company": "MY HEALTH & BEAUTY",
+      "first_seen": "2026-08-27T17:33:55.939638",
+      "score": 60.0
+    },
+    "339a7125662a18fdc59fc3c704c1bbfc": {
+      "title": "Media Technology & Data Strategy Lead (all genders)",
+      "company": "Publicis One Touch",
+      "first_seen": "2026-08-27T17:33:55.939639",
+      "score": 40.0
+    },
+    "06435084e3217332ce45d5ea7574e385": {
+      "title": "General Manager, EMEA Sales",
+      "company": "Red Hat",
+      "first_seen": "2026-08-27T17:33:55.939641",
+      "score": 55.0
+    },
+    "d44817173ec6d69d476215c4bd67ce12": {
+      "title": "General Manager, EMEA Sales",
+      "company": "Red Hat",
+      "first_seen": "2026-08-27T17:33:55.939643",
+      "score": 55.0
+    },
+    "f57a8c13cceabbff3ab08de0a7d64a06": {
+      "title": "Head of Sales and Partnerships (m/w/d)",
+      "company": "Gateway Factory",
+      "first_seen": "2026-08-27T17:33:55.939645",
+      "score": 40.0
+    },
+    "58f60fc5f34e3d06d9154820749ef8a4": {
+      "title": "Head of AI & Digital Transformation (m/w/d)",
+      "company": "LivEye",
+      "first_seen": "2026-08-27T17:33:55.939646",
+      "score": 40.0
+    },
+    "433273253f16f60ce1d1dc07e7bab3f9": {
+      "title": "CareersExplore opportunities to join our team and help tackle some of healthcare\u2019s most complex challenges.",
+      "company": "Aidence",
+      "first_seen": "2026-08-27T17:33:55.939648",
+      "score": 40.0
     }
   },
-  "last_run": "2026-08-26T06:59:50.407966",
+  "last_run": "2026-08-27T17:33:55.939654",
   "stats": {
-    "total_seen": 409,
-    "total_reported": 1045
+    "total_seen": 403,
+    "total_reported": 1060
   }
 }
