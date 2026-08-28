@@ -1,35 +1,5 @@
 {
   "seen": {
-    "cf2d1e4632e1ac7938ba3bc80d5f7ab5": {
-      "title": "Head of Open Innovation (m/f/d)",
-      "company": "Symrise AG",
-      "first_seen": "2026-07-29T08:51:19.789734",
-      "score": 40.0
-    },
-    "74586958999e7997583ba690a803dba1": {
-      "title": "Global Lead for Climate Strategy & Governance (f/m/d)",
-      "company": "Siemens Healthineers",
-      "first_seen": "2026-07-29T08:51:19.789745",
-      "score": 55.0
-    },
-    "683c9f8779f4981a8487797c284e1d06": {
-      "title": "Business Development Director",
-      "company": "Labcorp",
-      "first_seen": "2026-07-29T08:51:19.789748",
-      "score": 40.0
-    },
-    "f17232d15e9aafbf77454ee826cec2e4": {
-      "title": "Careers",
-      "company": "Vara (formerly Merantix Healthcare)",
-      "first_seen": "2026-07-29T08:51:19.789750",
-      "score": 40.0
-    },
-    "9215c9dada0457eb9371fefc8e3bc8a0": {
-      "title": "See open positions",
-      "company": "Vara (formerly Merantix Healthcare)",
-      "first_seen": "2026-07-29T08:51:19.789756",
-      "score": 40.0
-    },
     "07c714f61097fc846e060c850bd8e7a3": {
       "title": "Head of Global Digital Transformation & Omnichannel (m/w/d)  DE878473/LI",
       "company": "Morgan Philips Specialist Recruitment",
@@ -2417,11 +2387,89 @@
       "company": "Aidence",
       "first_seen": "2026-08-27T17:33:55.939648",
       "score": 40.0
+    },
+    "a25edb81d3e691dce66092eae41fb037": {
+      "title": "Enterprise AI Value Strategy Senior Manager (All Genders)",
+      "company": "Accenture DACH",
+      "first_seen": "2026-08-28T18:29:11.313755",
+      "score": 40.0
+    },
+    "3ce8a0722009dbc22a19239b4ba64312": {
+      "title": "Head of Global Downstream Product Management, GI & ENT",
+      "company": "Ambu",
+      "first_seen": "2026-08-28T18:29:11.313767",
+      "score": 40.0
+    },
+    "33efb333bc00f9148fdc653c0f9ad439": {
+      "title": "Head of Global Downstream Product Management, GI & ENT",
+      "company": "Ambu",
+      "first_seen": "2026-08-28T18:29:11.313774",
+      "score": 40.0
+    },
+    "aa161a53618ba1feb696f14263120e89": {
+      "title": "Head of Commercial (m/f/d)",
+      "company": "Tentamus Pharma & Med Deutschland GmbH",
+      "first_seen": "2026-08-28T18:29:11.313777",
+      "score": 65.0
+    },
+    "fc4c85f7f5888901e525cf92c32e559e": {
+      "title": "Adobe Ecosystem Business Development Director (all genders)",
+      "company": "Accenture DACH",
+      "first_seen": "2026-08-28T18:29:11.313780",
+      "score": 40.0
+    },
+    "1d59248c19d73e8978507a09a49cd307": {
+      "title": "Associate Director IT DWS Service Owner - Client Endpoint Service (m/w/d)",
+      "company": "BioNTech SE",
+      "first_seen": "2026-08-28T18:29:11.313783",
+      "score": 55.0
+    },
+    "fe3c278b242d1563320260d6a16bdd27": {
+      "title": "Regional Sales Manager (m/w/d) Endoskopie - Nord/Mitte",
+      "company": "Stryker",
+      "first_seen": "2026-08-28T18:29:11.313785",
+      "score": 50.0
+    },
+    "7d3c78a0a32abc3832f2ce73fc8880ae": {
+      "title": "Regional Sales Manager (m/w/d) Spine West- und Mitteldeutschland",
+      "company": "Stryker",
+      "first_seen": "2026-08-28T18:29:11.313788",
+      "score": 50.0
+    },
+    "374abed01f335fc0896bac760d4a5cb5": {
+      "title": "IT Partner Manager Digital Health (x/f/m)",
+      "company": "Doctolib",
+      "first_seen": "2026-08-28T18:29:11.313789",
+      "score": 40.0
+    },
+    "297bc9dbcd720790902f46dd86a80528": {
+      "title": "IT Partner Manager Digital Health (x/f/m)",
+      "company": "Doctolib",
+      "first_seen": "2026-08-28T18:29:11.313792",
+      "score": 40.0
+    },
+    "0aa2ee4dae483ad5c80bb18b5963a97f": {
+      "title": "Head of Innovation",
+      "company": "ABB",
+      "first_seen": "2026-08-28T18:29:11.313794",
+      "score": 75.0
+    },
+    "f17232d15e9aafbf77454ee826cec2e4": {
+      "title": "Careers",
+      "company": "Vara (formerly Merantix Healthcare)",
+      "first_seen": "2026-08-28T18:29:11.313796",
+      "score": 40.0
+    },
+    "9215c9dada0457eb9371fefc8e3bc8a0": {
+      "title": "See open positions",
+      "company": "Vara (formerly Merantix Healthcare)",
+      "first_seen": "2026-08-28T18:29:11.313799",
+      "score": 40.0
     }
   },
-  "last_run": "2026-08-27T17:33:55.939654",
+  "last_run": "2026-08-28T18:29:11.313806",
   "stats": {
-    "total_seen": 403,
-    "total_reported": 1060
+    "total_seen": 411,
+    "total_reported": 1073
   }
 }

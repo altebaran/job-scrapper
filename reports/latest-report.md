@@ -1,108 +1,96 @@
-# 🎯 Daily Job Report — 2026-08-27
+# 🎯 Daily Job Report — 2026-08-28
 
-**15** new matches | **0** high relevance
+**13** new matches | **1** high relevance
 
 ---
 
-### 1. 🟡 Head of Operations (m/w/d) | Health & Beauty Scale-up
-**MY HEALTH & BEAUTY** · 📍 Cologne, North Rhine-Westphalia, Germany · Score: 60/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-operations-m-w-d-health-beauty-scale-up-at-my-health-beauty-4457795469)
-  - Title match: 'head of operations'
-  - Keywords (1): scale-up
+### 1. 🟢 Head of Innovation
+**ABB** · 📍 Mannheim, Baden-Württemberg, Germany · Score: 75/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-innovation-at-abb-4458966572)
+  - Title match: 'head of innovation'
+  - Keywords (1): innovation
+  - Location: 'germany'
+  - Target company: Abbott Digital Health
+
+### 2. 🟡 Head of Commercial (m/f/d)
+**Tentamus Pharma & Med Deutschland GmbH** · 📍 Bad Kissingen, Bavaria, Germany · Score: 65/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-commercial-m-f-d-at-tentamus-pharma-med-deutschland-gmbh-4460303586)
+  - Title match: 'head of commercial'
+  - Keywords (2): pharma, commercial
   - Location: 'germany'
 
-### 2. 🟡 General Manager, EMEA Sales
-**Red Hat** · 📍 Munich, Bavaria, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/general-manager-emea-sales-at-red-hat-4458300159)
-  - Title match: 'general manager'
+### 3. 🟡 Associate Director IT DWS Service Owner - Client Endpoint Service (m/w/d)
+**BioNTech SE** · 📍 Mainz, Rhineland-Palatinate, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-it-dws-service-owner-client-endpoint-service-m-w-d-at-biontech-se-4404356875)
+  - Title match: 'associate director'
   - Location: 'germany'
 
-### 3. 🟡 General Manager, EMEA Sales
-**Red Hat** · 📍 Frankfurt, Hesse, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/general-manager-emea-sales-at-red-hat-4457992997)
-  - Title match: 'general manager'
+### 4. 🟡 Regional Sales Manager (m/w/d) Endoskopie - Nord/Mitte
+**Stryker** · 📍 Münster, North Rhine-Westphalia, Germany · Score: 50/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/regional-sales-manager-m-w-d-endoskopie-nord-mitte-at-stryker-4454422230)
+  - Seniority match: 'regional'
   - Location: 'germany'
+  - Target company: Stryker Digital
 
-### 4. 🟡 VP & Managing Director, Clinical Strategic Operations, Mid-Sized Pharma Partnerships
-**IQVIA** · 📍 Frankfurt am Main, Hesse, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/vp-managing-director-clinical-strategic-operations-mid-sized-pharma-partnerships-at-iqvia-4458366474)
-  - Seniority match: 'director'
-  - Keywords (3): pharma, clinical, partnerships
+### 5. 🟡 Regional Sales Manager (m/w/d) Spine West- und Mitteldeutschland
+**Stryker** · 📍 Cologne, North Rhine-Westphalia, Germany · Score: 50/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/regional-sales-manager-m-w-d-spine-west-und-mitteldeutschland-at-stryker-4457659078)
+  - Seniority match: 'regional'
   - Location: 'germany'
+  - Target company: Stryker Digital
 
-### 5. ⚪ VP & Managing Director, Clinical Strategic Operations, Large Pharma Partnership
-**IQVIA** · 📍 Frankfurt am Main, Hesse, Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/vp-managing-director-clinical-strategic-operations-large-pharma-partnership-at-iqvia-4458349650)
-  - Seniority match: 'director'
-  - Keywords (2): pharma, clinical
-  - Location: 'germany'
-
-### 6. ⚪ Principal (m/w/d) – Analytics & Consulting, Pharma / Life Sciences
-**IQVIA** · 📍 Berlin, Berlin, Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/principal-m-w-d-%E2%80%93-analytics-consulting-pharma-life-sciences-at-iqvia-4458362495)
-  - Seniority match: 'principal'
-  - Keywords (2): pharma, life sciences
-  - Location: 'germany'
-
-### 7. ⚪ EY-Parthenon Senior Manager Projektleitung Digitalprojekte - Strategy and Transactions (w/m/d)
-**EY-Parthenon** · 📍 Stuttgart, Baden-Württemberg, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/ey-parthenon-senior-manager-projektleitung-digitalprojekte-strategy-and-transactions-w-m-d-at-ey-parthenon-4438091947)
+### 6. ⚪ Enterprise AI Value Strategy Senior Manager (All Genders)
+**Accenture DACH** · 📍 Kronberg, Hesse, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/enterprise-ai-value-strategy-senior-manager-all-genders-at-accenture-dach-4449784965)
   - Seniority match: 'senior manager'
   - Keywords (1): strategy
   - Location: 'germany'
 
-### 8. ⚪ Product Lead (all genders) in AI Healthcare at mama health
-**Colette - Deine digitale Headhunterin** · 📍 Berlin, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/product-lead-all-genders-in-ai-healthcare-at-mama-health-at-colette-deine-digitale-headhunterin-4457749541)
-  - Seniority match: 'lead'
-  - Keywords (1): healthcare
+### 7. ⚪ Head of Global Downstream Product Management, GI & ENT
+**Ambu** · 📍 Hamburg, Hamburg, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-global-downstream-product-management-gi-ent-at-ambu-4458974795)
+  - Seniority match: 'head of'
+  - Keywords (1): product management
   - Location: 'germany'
 
-### 9. ⚪ Senior Director, IT Security Strategy & Integration, Global (m/f/d)
-**Olympus Corporation** · 📍 Hamburg, Hamburg, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-director-it-security-strategy-integration-global-m-f-d-at-olympus-corporation-4457271992)
-  - Seniority match: 'director'
-  - Keywords (1): strategy
+### 8. ⚪ Head of Global Downstream Product Management, GI & ENT
+**Ambu** · 📍 Stuttgart, Baden-Württemberg, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-global-downstream-product-management-gi-ent-at-ambu-4458995338)
+  - Seniority match: 'head of'
+  - Keywords (1): product management
   - Location: 'germany'
 
-### 10. ⚪ Director Sales & Business Development (m/w/d)
-**PROTEC X-RAY** · 📍 Oberstenfeld, Baden-Württemberg, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-sales-business-development-m-w-d-at-protec-x-ray-4459842071)
+### 9. ⚪ Adobe Ecosystem Business Development Director (all genders)
+**Accenture DACH** · 📍 Kronberg, Hesse, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/adobe-ecosystem-business-development-director-all-genders-at-accenture-dach-4458979822)
   - Seniority match: 'director'
   - Keywords (1): business development
   - Location: 'germany'
 
-### 11. ⚪ Business Development Account Director Consumer Health
-**Catalent** · 📍 Eberbach, Baden-Württemberg, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/business-development-account-director-consumer-health-at-catalent-4459861177)
-  - Seniority match: 'director'
-  - Keywords (1): business development
+### 10. ⚪ IT Partner Manager Digital Health (x/f/m)
+**Doctolib** · 📍 Mecklenburg, Mecklenburg-West Pomerania, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/it-partner-manager-digital-health-x-f-m-at-doctolib-4450233459)
+  - Keywords (1): digital health
   - Location: 'germany'
+  - Target company: Doctolib
 
-### 12. ⚪ Media Technology & Data Strategy Lead (all genders)
-**Publicis One Touch** · 📍 Hamburg, Hamburg, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/media-technology-data-strategy-lead-all-genders-at-publicis-one-touch-4440241308)
-  - Seniority match: 'lead'
-  - Keywords (1): strategy
+### 11. ⚪ IT Partner Manager Digital Health (x/f/m)
+**Doctolib** · 📍 Berlin, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/it-partner-manager-digital-health-x-f-m-at-doctolib-4450219727)
+  - Keywords (1): digital health
   - Location: 'germany'
+  - Target company: Doctolib
 
-### 13. ⚪ Head of Sales and Partnerships (m/w/d)
-**Gateway Factory** · 📍 Cologne, North Rhine-Westphalia, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-sales-and-partnerships-m-w-d-at-gateway-factory-4458633932)
-  - Seniority match: 'head of'
-  - Keywords (1): partnerships
-  - Location: 'germany'
-
-### 14. ⚪ Head of AI & Digital Transformation (m/w/d)
-**LivEye** · 📍 Föhren, Rhineland-Palatinate, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-ai-digital-transformation-m-w-d-at-liveye-4458006134)
-  - Seniority match: 'head of'
-  - Keywords (1): digital transformation
-  - Location: 'germany'
-
-### 15. ⚪ CareersExplore opportunities to join our team and help tackle some of healthcare’s most complex challenges.
-**Aidence** · 📍 Amsterdam (remote DE) · Score: 40/100
-🔗 [Direct (Aidence)](https://deephealth.com/careers/)
+### 12. ⚪ Careers
+**Vara (formerly Merantix Healthcare)** · 📍 Berlin · Score: 40/100
+🔗 [Direct (Vara (formerly Merantix Healthcare))](https://www.vara.ai/careers/./careers)
   - Keywords (1): healthcare
-  - Location: 'remote'
-  - Target company: Aidence
+  - Location: 'berlin'
+  - Target company: Vara (formerly Merantix Healthcare)
+
+### 13. ⚪ See open positions
+**Vara (formerly Merantix Healthcare)** · 📍 Berlin · Score: 40/100
+🔗 [Direct (Vara (formerly Merantix Healthcare))](https://vara.jobs.personio.de/)
+  - Keywords (1): healthcare
+  - Location: 'berlin'
+  - Target company: Vara (formerly Merantix Healthcare)
