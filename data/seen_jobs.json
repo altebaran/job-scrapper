@@ -1,101 +1,5 @@
 {
   "seen": {
-    "07c714f61097fc846e060c850bd8e7a3": {
-      "title": "Head of Global Digital Transformation & Omnichannel (m/w/d)  DE878473/LI",
-      "company": "Morgan Philips Specialist Recruitment",
-      "first_seen": "2026-07-30T08:38:38.980381",
-      "score": 40.0
-    },
-    "06a342d0dc3054df8979d85df2ed7274": {
-      "title": "Director, Data-Driven Marketing Strategy & Transformation",
-      "company": "Thermo Fisher Scientific",
-      "first_seen": "2026-07-30T08:38:38.980390",
-      "score": 40.0
-    },
-    "b6bdb07cbefb38bab98f8b7a73b73d48": {
-      "title": "Venture Lead (m/w/d)",
-      "company": "Riverty",
-      "first_seen": "2026-07-30T08:38:38.980392",
-      "score": 40.0
-    },
-    "556116bd45f8e36c041473f58f22d769": {
-      "title": "Head of Product & Technology (m/f/x)",
-      "company": "Cara Care",
-      "first_seen": "2026-07-30T08:38:38.980394",
-      "score": 55.0
-    },
-    "4ed241435d906b2ca360334034fbf895": {
-      "title": "Head of AI Go-to-Market DACH (w/m/x)",
-      "company": "NTT DATA Europe & Latam",
-      "first_seen": "2026-07-30T08:38:38.980396",
-      "score": 40.0
-    },
-    "36da9c5773dcfed67baedd8185b750f6": {
-      "title": "Head of AI Go-to-Market DACH (w/m/x)",
-      "company": "NTT DATA Europe & Latam",
-      "first_seen": "2026-07-30T08:38:38.980397",
-      "score": 40.0
-    },
-    "01bd9c64286da5eb6b8dc7fc33e9155d": {
-      "title": "Ecosystem Business Development Director (all genders) - Anthropic",
-      "company": "Accenture DACH",
-      "first_seen": "2026-07-30T08:38:38.980399",
-      "score": 40.0
-    },
-    "17412ae7983efb77381316a338b7d423": {
-      "title": "Head of Business Development - Data & AI (m/f/d)",
-      "company": "zeroG - AI in Aviation",
-      "first_seen": "2026-07-30T08:38:38.980400",
-      "score": 60.0
-    },
-    "fb593213c405f21e91c2a536ddccb148": {
-      "title": "Head of Operations",
-      "company": "Prior Labs",
-      "first_seen": "2026-07-30T08:38:38.980401",
-      "score": 55.0
-    },
-    "84f2a4fa80c138906c383e1ac71ca651": {
-      "title": "Head of Operations (f/m/d)",
-      "company": "QuantumDiamonds",
-      "first_seen": "2026-07-30T08:38:38.980403",
-      "score": 55.0
-    },
-    "166e5948d175457514f4a4b4480a0e42": {
-      "title": "Head of AI Go-to-Market DACH (w/m/x)",
-      "company": "NTT DATA Europe & Latam",
-      "first_seen": "2026-07-30T08:38:38.980404",
-      "score": 40.0
-    },
-    "ab74d4d39abab051b6ba3bb2edc21514": {
-      "title": "Director Real World Evidence Scientist (Oncology) (all genders)",
-      "company": "Merck Healthcare",
-      "first_seen": "2026-07-30T08:38:38.980405",
-      "score": 45.0
-    },
-    "859e65c11cce0201115fcc672e650894": {
-      "title": "Regional Sales Manager - Western Europe",
-      "company": "Biotech Healthcare",
-      "first_seen": "2026-07-30T08:38:38.980407",
-      "score": 45.0
-    },
-    "5de5ecd2b791745d24c5af3cf94b34f5": {
-      "title": "zeroG - Head of Business Development - Data & AI (m/f/d)",
-      "company": "Lufthansa Group",
-      "first_seen": "2026-07-30T08:38:38.980408",
-      "score": 60.0
-    },
-    "b71a9dfe4dbe8904bc503c5a37f26885": {
-      "title": "(Senior) Regional Access & Contracting Partner (m/w/d) North/Norden",
-      "company": "Mundipharma",
-      "first_seen": "2026-07-30T08:38:38.980410",
-      "score": 40.0
-    },
-    "b144cbfa035c6b41aa22edc4fc2b92f2": {
-      "title": "Head of Development",
-      "company": "Corden Pharma - A Full-Service CDMO",
-      "first_seen": "2026-07-30T08:38:38.980417",
-      "score": 40.0
-    },
     "b374ab1969b9611176f70818a5fd00c1": {
       "title": "Global Lead, Health Ecosystem & Innovation - all genders",
       "company": "Sanofi",
@@ -2465,11 +2369,77 @@
       "company": "Vara (formerly Merantix Healthcare)",
       "first_seen": "2026-08-28T18:29:11.313799",
       "score": 40.0
+    },
+    "a22db5cd3437b0f3105e21b161aef33c": {
+      "title": "Head of Strategy for Advanced Therapies (f/m/d)",
+      "company": "Siemens Healthineers",
+      "first_seen": "2026-08-29T12:35:35.701994",
+      "score": 75.0
+    },
+    "a31369af43828051f30ecf2e56a8af31": {
+      "title": "Head of Product and Strategy | ROB'E",
+      "company": "NLC Health Ventures",
+      "first_seen": "2026-08-29T12:35:35.702005",
+      "score": 65.0
+    },
+    "e45f165937d7a4ddd411cc0f3fa648b1": {
+      "title": "Head of Portfolio Management",
+      "company": "ABB",
+      "first_seen": "2026-08-29T12:35:35.702008",
+      "score": 50.0
+    },
+    "2cf499104a8cb6ca00d36e7997b2402c": {
+      "title": "Business Development Director DACH",
+      "company": "Avolta",
+      "first_seen": "2026-08-29T12:35:35.702010",
+      "score": 40.0
+    },
+    "9a7801bc2d53b65ff5fd0b2f0dc19549": {
+      "title": "Global Operational Excellence Lead",
+      "company": "Boehringer Ingelheim",
+      "first_seen": "2026-08-29T12:35:35.702012",
+      "score": 50.0
+    },
+    "c8dbc403d2d62b66231e1458dff149ac": {
+      "title": "Global Downstream & Validation Services (DSVS) Innovation Lead 1",
+      "company": "Merck Life Science",
+      "first_seen": "2026-08-29T12:35:35.702014",
+      "score": 40.0
+    },
+    "bf857c2b1b24bb631c34c2c525105914": {
+      "title": "Regional Sales Manager (m/w/d) Spine West- und Mitteldeutschland",
+      "company": "Stryker",
+      "first_seen": "2026-08-29T12:35:35.702016",
+      "score": 50.0
+    },
+    "113d14bcfc3e976dcf43f98ed8b13cd3": {
+      "title": "Regional Sales Manager (m/w/d) Spine West- und Mitteldeutschland",
+      "company": "Stryker",
+      "first_seen": "2026-08-29T12:35:35.702017",
+      "score": 50.0
+    },
+    "ff2a2557d4f43d69f37e1ba50d4ed4ff": {
+      "title": "Head of Key Account and Product Management (m/w/d)",
+      "company": "Michael Page",
+      "first_seen": "2026-08-29T12:35:35.702019",
+      "score": 40.0
+    },
+    "866102f968da20ea16bed52c559f4e4c": {
+      "title": "Associate Director, Market Access - Germany",
+      "company": "Barrington James",
+      "first_seen": "2026-08-29T12:35:35.702021",
+      "score": 60.0
+    },
+    "8be90ca1600c15b205c9b0c7aad0588f": {
+      "title": "Head of Toxicology Innovations, Germany - all genders",
+      "company": "Sanofi",
+      "first_seen": "2026-08-29T12:35:35.702022",
+      "score": 55.0
     }
   },
-  "last_run": "2026-08-28T18:29:11.313806",
+  "last_run": "2026-08-29T12:35:35.702028",
   "stats": {
-    "total_seen": 411,
-    "total_reported": 1073
+    "total_seen": 406,
+    "total_reported": 1084
   }
 }
