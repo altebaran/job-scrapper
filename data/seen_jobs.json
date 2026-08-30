@@ -1,113 +1,5 @@
 {
   "seen": {
-    "b374ab1969b9611176f70818a5fd00c1": {
-      "title": "Global Lead, Health Ecosystem & Innovation - all genders",
-      "company": "Sanofi",
-      "first_seen": "2026-07-31T08:59:35.583120",
-      "score": 55.0
-    },
-    "abf9c07284d75ac76a01d626dd79aa6d": {
-      "title": "Global Lead, Innovation Expansion & Adoption - all genders",
-      "company": "Sanofi",
-      "first_seen": "2026-07-31T08:59:35.583132",
-      "score": 55.0
-    },
-    "f6d5edfebc36d6050d3a28b5cb57b842": {
-      "title": "Commercial Excellence Lead (m/w/d)",
-      "company": "MSD Deutschland",
-      "first_seen": "2026-07-31T08:59:35.583136",
-      "score": 40.0
-    },
-    "98cbe1fbc12f640c5207168de43533ea": {
-      "title": "AI Innovation Lead (m/f/d)",
-      "company": "MSD Deutschland",
-      "first_seen": "2026-07-31T08:59:35.583138",
-      "score": 40.0
-    },
-    "e8ac874cfae68354d0597de33e55fb0b": {
-      "title": "Strategy Lead Key Account (x/f/m)",
-      "company": "Doctolib",
-      "first_seen": "2026-07-31T08:59:35.583141",
-      "score": 55.0
-    },
-    "cc3c8247aa66b34ea66a2d400d9ab378": {
-      "title": "Global Lead Market Access (f/m/d)",
-      "company": "B. Braun Group",
-      "first_seen": "2026-07-31T08:59:35.583143",
-      "score": 40.0
-    },
-    "6719d0bd92d3cfd907eda6571a2b443f": {
-      "title": "Co-Head of Product / Senior Product Manager",
-      "company": "Profession Fit GmbH",
-      "first_seen": "2026-07-31T08:59:35.583146",
-      "score": 55.0
-    },
-    "e292e741bca7ed84ef7c2aecb2285b95": {
-      "title": "Managing Director, Data & AI - Pharma",
-      "company": "Unit8",
-      "first_seen": "2026-07-31T08:59:35.583148",
-      "score": 40.0
-    },
-    "779fe7a82ca8a0dc0a2f4a88a0d1a439": {
-      "title": "Director Business Development (m/w/d)",
-      "company": "LRE Medical",
-      "first_seen": "2026-07-31T08:59:35.583150",
-      "score": 40.0
-    },
-    "1328f803765f65245732cd3c5ac3c8dd": {
-      "title": "Country Manager Germany",
-      "company": "EPM Scientific",
-      "first_seen": "2026-07-31T08:59:35.583153",
-      "score": 55.0
-    },
-    "5147d4704406d7736be72745e7e7e099": {
-      "title": "Head of Business Development - Data & AI (m/f/d)",
-      "company": "zeroG - AI in Aviation",
-      "first_seen": "2026-07-31T08:59:35.583155",
-      "score": 60.0
-    },
-    "900ea08b5ae8e39a2bf060425924aa5a": {
-      "title": "General Manager - Prim\u00e4rversorgung (m/f/d)",
-      "company": "PraxisEins.",
-      "first_seen": "2026-07-31T08:59:35.583157",
-      "score": 55.0
-    },
-    "7236f7ccf677c6b9e3239833f264511a": {
-      "title": "Head of Operations (m/w/d)",
-      "company": "360Volt",
-      "first_seen": "2026-07-31T08:59:35.583159",
-      "score": 55.0
-    },
-    "a9e238a5c3d51795c2a686f37a81b02f": {
-      "title": "Director Commercial Operations (f/m/d)",
-      "company": "Regeneron",
-      "first_seen": "2026-07-31T08:59:35.583162",
-      "score": 40.0
-    },
-    "c17c07f0f21ec851c04536654ce665a5": {
-      "title": "Global Lead, Scientific Platforms & Engagement Strategy - all genders",
-      "company": "Sanofi",
-      "first_seen": "2026-07-31T08:59:35.583164",
-      "score": 55.0
-    },
-    "461e11e9f135ba6b73e0eb2547dd15f0": {
-      "title": "Managing Director, Data & AI - Pharma",
-      "company": "Unit8",
-      "first_seen": "2026-07-31T08:59:35.583167",
-      "score": 40.0
-    },
-    "40078469f0968705638374133bfc2720": {
-      "title": "(Senior) Regional Access & Contracting Partner (m/w/d) South/S\u00fcd Deutschland",
-      "company": "Mundipharma",
-      "first_seen": "2026-07-31T08:59:35.583169",
-      "score": 40.0
-    },
-    "dd8d6c1bb3ea862d32aaa56bb522ffa2": {
-      "title": "Head of Sales and Partnerships (m/w/d)",
-      "company": "Gateway Factory",
-      "first_seen": "2026-07-31T08:59:35.583171",
-      "score": 40.0
-    },
     "14e8a76130cb2aa35e2793e9af6e2adb": {
       "title": "Head of Data Strategy, Analytics & Engineering (m/w/d)",
       "company": "Dr. Ausb\u00fcttel GmbH & Co. KG",
@@ -2435,11 +2327,35 @@
       "company": "Sanofi",
       "first_seen": "2026-08-29T12:35:35.702022",
       "score": 55.0
+    },
+    "394fa5b31692143514e029526bd69bfd": {
+      "title": "Director Customer Growth & Strategy - KI-Plattform (m/w/d)",
+      "company": "plotdesk",
+      "first_seen": "2026-08-30T11:40:31.549912",
+      "score": 45.0
+    },
+    "cc59d01239cd944b2e6f5a7302bc40d0": {
+      "title": "Head of Production Planning, Systems & Data (f/m/d)",
+      "company": "Takeda",
+      "first_seen": "2026-08-30T11:40:31.549925",
+      "score": 55.0
+    },
+    "03fd14a0453b94fa7cf96d5534a9460d": {
+      "title": "Head of Business Development DACH",
+      "company": "ASSA ABLOY Group",
+      "first_seen": "2026-08-30T11:40:31.549930",
+      "score": 60.0
+    },
+    "a5035e94cd89525f0aa2470ad1a112af": {
+      "title": "Head of Tech Partnerships",
+      "company": "Pennylane",
+      "first_seen": "2026-08-30T11:40:31.549933",
+      "score": 40.0
     }
   },
-  "last_run": "2026-08-29T12:35:35.702028",
+  "last_run": "2026-08-30T11:40:31.549941",
   "stats": {
-    "total_seen": 406,
-    "total_reported": 1084
+    "total_seen": 392,
+    "total_reported": 1088
   }
 }
