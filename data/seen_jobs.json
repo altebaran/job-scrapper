@@ -1,101 +1,5 @@
 {
   "seen": {
-    "d70310e24a8820fdaa15d2c47512beb8": {
-      "title": "Director Growth Strategy Life Science Germany",
-      "company": "Honeywell Technologies",
-      "first_seen": "2026-08-02T08:33:49.387628",
-      "score": 45.0
-    },
-    "4698c254cbf6c217da7ce4d75a6d7efc": {
-      "title": "Director / Senior Manager Health Economics & Access",
-      "company": "VITIS Healthcare Group",
-      "first_seen": "2026-08-02T08:33:49.387639",
-      "score": 40.0
-    },
-    "66fb37fc4217949758d26e6beebfdee4": {
-      "title": "Director Product Management (m/w/d) - Jobbird.com",
-      "company": "Jobster",
-      "first_seen": "2026-08-02T08:33:49.387642",
-      "score": 40.0
-    },
-    "ab3980182802ffc4255c3da45c4a1085": {
-      "title": "Vice President Product Management (m/f/d) - Jobbird.com",
-      "company": "Jobster",
-      "first_seen": "2026-08-02T08:33:49.387645",
-      "score": 40.0
-    },
-    "5d237671d2315f3ee622820c655fa33e": {
-      "title": "Senior Lead Product Marketing (x/f/m)",
-      "company": "Doctolib",
-      "first_seen": "2026-08-02T08:33:49.387647",
-      "score": 50.0
-    },
-    "e6f22f5b53fc7c37e533e30196d4714d": {
-      "title": "Director Business Development \u2013 Biosimilars (m/f/d)",
-      "company": "Sandoz in Deutschland",
-      "first_seen": "2026-08-02T08:33:49.387650",
-      "score": 40.0
-    },
-    "74f3946e33bb3b2fad9e869a2a5e4a5e": {
-      "title": "Global Product Launch and Supply Chain Lead",
-      "company": "Roche",
-      "first_seen": "2026-08-02T08:33:49.387652",
-      "score": 50.0
-    },
-    "98d1a2dc4c934204f95852461b0d70a4": {
-      "title": "Strategy & Operations Principal",
-      "company": "Via",
-      "first_seen": "2026-08-02T08:33:49.387655",
-      "score": 40.0
-    },
-    "ab73824d2a3c40f4cf158023f7ec5215": {
-      "title": "Regional Sales Manager, Europe \u2013 NEMA Motors Division (flexible location)",
-      "company": "ABB",
-      "first_seen": "2026-08-02T08:33:49.387657",
-      "score": 50.0
-    },
-    "3072079a3a1491a137a393c8c8402f58": {
-      "title": "ISD Partner Commercial Lead - Germany",
-      "company": "Microsoft",
-      "first_seen": "2026-08-02T08:33:49.387660",
-      "score": 40.0
-    },
-    "2d48e2f46bcb3808153d60bfec69981b": {
-      "title": "Head of Growth Channels Partnerships",
-      "company": "GetYourGuide",
-      "first_seen": "2026-08-02T08:33:49.387662",
-      "score": 65.0
-    },
-    "be6156331463461bffe528e48824bdb7": {
-      "title": "Senior Manager, Museum Partnerships - DACH",
-      "company": "Fever",
-      "first_seen": "2026-08-02T08:33:49.387665",
-      "score": 40.0
-    },
-    "d72102a6d7f70b7b0543dee4c710a39b": {
-      "title": "Senior Manager, Museum Partnerships - DACH",
-      "company": "Fever",
-      "first_seen": "2026-08-02T08:33:49.387667",
-      "score": 40.0
-    },
-    "c7feeba0100efcb138f2560ab6162cad": {
-      "title": "Product Development Country Manager (Crop Protection)  - Germany",
-      "company": "ADAMA Ltd.",
-      "first_seen": "2026-08-02T08:33:49.387670",
-      "score": 55.0
-    },
-    "f14d12e665a241aa77e65561a568eeea": {
-      "title": "Senior Manager Venture Clienting & Corporate Innovation",
-      "company": "HDI Group",
-      "first_seen": "2026-08-02T08:33:49.387672",
-      "score": 45.0
-    },
-    "5eb7c80de42bc9e01eb107aef538165a": {
-      "title": "Senior Manager Organizational Development",
-      "company": "Boehringer Ingelheim",
-      "first_seen": "2026-08-02T08:33:49.387674",
-      "score": 50.0
-    },
     "81d370431c5a1669e661e3682708c422": {
       "title": "Global Ops Strategy Lead",
       "company": "Roche",
@@ -2321,11 +2225,83 @@
       "company": "Kienbaum",
       "first_seen": "2026-08-31T13:16:31.772055",
       "score": 40.0
+    },
+    "b767943c7dc872082d4f614b4dccf338": {
+      "title": "Intl. CommEx Lead",
+      "company": "Johnson & Johnson",
+      "first_seen": "2026-09-01T11:28:04.676541",
+      "score": 50.0
+    },
+    "5366d9d9c96d52c3571be5e52f1c0d16": {
+      "title": "Head of Doctor Partnerships (m/w/d)",
+      "company": "TeleClinic",
+      "first_seen": "2026-09-01T11:28:04.676566",
+      "score": 40.0
+    },
+    "d2701ba43078b38fbfb1d1b6336fed06": {
+      "title": "Head of Product Commercial Unit (m/w/d) - Jobbird.com",
+      "company": "Jobster",
+      "first_seen": "2026-09-01T11:28:04.676569",
+      "score": 60.0
+    },
+    "2366a06086c02883a5711347a1af51c8": {
+      "title": "Director/Senior Director, Business Development, Clinical Solutions, EMEA",
+      "company": "IQVIA",
+      "first_seen": "2026-09-01T11:28:04.676572",
+      "score": 45.0
+    },
+    "c7c9957f68c85a0e53eea315ae447740": {
+      "title": "Director/Senior Director, Business Development, Biotech",
+      "company": "IQVIA",
+      "first_seen": "2026-09-01T11:28:04.676574",
+      "score": 45.0
+    },
+    "4d40d1becfce497861c23b9c2b3e0cff": {
+      "title": "Sales Director, Europe",
+      "company": "Stealth AI Startup",
+      "first_seen": "2026-09-01T11:28:04.676576",
+      "score": 40.0
+    },
+    "758def750982a3d136ff3dfff8833d3b": {
+      "title": "Director of Operations",
+      "company": "Blue Fox",
+      "first_seen": "2026-09-01T11:28:04.676577",
+      "score": 55.0
+    },
+    "fe7928b4876e3779e3d79cad19d1a0ff": {
+      "title": "Head of Business Development",
+      "company": "PrimeMatch Advantage",
+      "first_seen": "2026-09-01T11:28:04.676579",
+      "score": 60.0
+    },
+    "7b23b467c479e51913a5a725eb474556": {
+      "title": "Head of Revenue & Growth (m/f/d)",
+      "company": "tesa",
+      "first_seen": "2026-09-01T11:28:04.676580",
+      "score": 45.0
+    },
+    "cc9b82167c5236ae3a8136443c4c9934": {
+      "title": "Head of Product Management Cell Therapy Solutions (ATS) (x|f|m)",
+      "company": "Sartorius",
+      "first_seen": "2026-09-01T11:28:04.676581",
+      "score": 60.0
+    },
+    "0d64106ad164bf469be3898e5eebda4a": {
+      "title": "Head of Product Management Cell Therapy Solutions (ATS) (x|f|m)",
+      "company": "Sartorius",
+      "first_seen": "2026-09-01T11:28:04.676582",
+      "score": 60.0
+    },
+    "154161f629615a00f69c7df5c0e1cf38": {
+      "title": "Veralto Enterprise System Leader (VESL), Growth Innovation (R&D / Product Management) (m/f/d)",
+      "company": "X-Rite",
+      "first_seen": "2026-09-01T11:28:04.676583",
+      "score": 50.0
     }
   },
-  "last_run": "2026-08-31T13:16:31.772062",
+  "last_run": "2026-09-01T11:28:04.676588",
   "stats": {
-    "total_seen": 387,
-    "total_reported": 1095
+    "total_seen": 383,
+    "total_reported": 1107
   }
 }
