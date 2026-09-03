@@ -1,11 +1,5 @@
 {
   "seen": {
-    "ff64f145fa45f1e1acd78613f1adf1ef": {
-      "title": "Clinical Development Lead m/f/d",
-      "company": "Bayer",
-      "first_seen": "2026-08-04T08:48:53.225877",
-      "score": 55.0
-    },
     "d7e99e6a722e00b7eed71017d0caee1c": {
       "title": "Head of Digital Transformation Office (m/w/d)",
       "company": "ERGO",
@@ -2321,11 +2315,77 @@
       "company": "WuXi Biologics",
       "first_seen": "2026-09-02T11:00:58.807809",
       "score": 55.0
+    },
+    "2764e4d46d839814dd749ef811ee26cd": {
+      "title": "Senior Strategy Manager (w/m/d) Strategy and Mergers & Acquisitions",
+      "company": "Siemens Healthineers",
+      "first_seen": "2026-09-03T11:00:48.677168",
+      "score": 40.0
+    },
+    "96295044b09140d26b46aefb41a4784e": {
+      "title": "Managing Director DACH & Nordics, Core Diagnostics (m/f/d)",
+      "company": "Abbott",
+      "first_seen": "2026-09-03T11:00:48.677182",
+      "score": 55.0
+    },
+    "d147ff63cd5f040752382032ebd5d3bd": {
+      "title": "Head of Product Management & Product Information Management (m/w/d)",
+      "company": "Sch\u00fclke & Mayr",
+      "first_seen": "2026-09-03T11:00:48.677186",
+      "score": 60.0
+    },
+    "1c0684a2571cff32ba1e4d2236ecfb97": {
+      "title": "Senior Manager, Strategic Partnerships and Adjacencies",
+      "company": "Radiometer",
+      "first_seen": "2026-09-03T11:00:48.677189",
+      "score": 40.0
+    },
+    "673a68ec620d40827000f54cdea9e28f": {
+      "title": "Lead Business Development | Care (all genders welcome)",
+      "company": "goodBytz",
+      "first_seen": "2026-09-03T11:00:48.677192",
+      "score": 40.0
+    },
+    "a0dc02103a1e9d204d26e9168c14b29f": {
+      "title": "Director Business Development - Technology (m/f/d)",
+      "company": "DP World",
+      "first_seen": "2026-09-03T11:00:48.677195",
+      "score": 40.0
+    },
+    "8a314f7cd093de2b72e9853636aaa94c": {
+      "title": "Associate Director/Director, Portfolio Strategy and Operations, Cardio Renal Metabolic Development Unit (80\u2013100%)",
+      "company": "Novartis Pharma Schweiz",
+      "first_seen": "2026-09-03T11:00:48.677197",
+      "score": 65.0
+    },
+    "0cca71cc2ea6e4e52909f1bb5952ed71": {
+      "title": "Head of Sales & Product Management (m/w/d) \u2013 Postpress Packaging",
+      "company": "Heidelberger Druckmaschinen AG",
+      "first_seen": "2026-09-03T11:00:48.677200",
+      "score": 40.0
+    },
+    "6c5672ba2073a244fe32f09ce3aaaf8c": {
+      "title": "Country Manager Germany & Northeast Europe Business Area (M/F)",
+      "company": "LIMAGRAIN EUROPE",
+      "first_seen": "2026-09-03T11:00:48.677203",
+      "score": 55.0
+    },
+    "bb421313b3d11bb01a5437b887bf31ac": {
+      "title": "Country Manager Germany",
+      "company": "Adtraction",
+      "first_seen": "2026-09-03T11:00:48.677205",
+      "score": 55.0
+    },
+    "bfac96f813bfc5851a86ced23a2f18d0": {
+      "title": "Country Manager, Germany",
+      "company": "Business Finland",
+      "first_seen": "2026-09-03T11:00:48.677208",
+      "score": 55.0
     }
   },
-  "last_run": "2026-09-02T11:00:58.807815",
+  "last_run": "2026-09-03T11:00:48.677215",
   "stats": {
-    "total_seen": 387,
-    "total_reported": 1120
+    "total_seen": 397,
+    "total_reported": 1131
   }
 }
