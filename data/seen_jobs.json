@@ -2381,11 +2381,113 @@
       "company": "Business Finland",
       "first_seen": "2026-09-03T11:00:48.677208",
       "score": 55.0
+    },
+    "967cc443e35bc8b2812cf926ac52613e": {
+      "title": "Head of Product Commercial Unit (m/w/d) - Jobbird.com",
+      "company": "Jobster",
+      "first_seen": "2026-09-04T11:01:04.488170",
+      "score": 60.0
+    },
+    "4e25463336d4386ddc4ef6cfa2bb9ff0": {
+      "title": "Head of Product - Healthtech (m/w/d)",
+      "company": "Roger",
+      "first_seen": "2026-09-04T11:01:04.488183",
+      "score": 60.0
+    },
+    "943f1288c2df2ca70332f44c88696fdd": {
+      "title": "Head of Operations, Germany",
+      "company": "Eucalyptus",
+      "first_seen": "2026-09-04T11:01:04.488188",
+      "score": 55.0
+    },
+    "efce540bd40ec3a681c9ae37e881f269": {
+      "title": "Senior Lead Product Strategy (x/f/m)",
+      "company": "Doctolib",
+      "first_seen": "2026-09-04T11:01:04.488191",
+      "score": 55.0
+    },
+    "1b6549e8ca1b11543e654067be087e51": {
+      "title": "Principal SAP Strategy Consultant - Healthcare (m/w/d)",
+      "company": "Atos",
+      "first_seen": "2026-09-04T11:01:04.488194",
+      "score": 45.0
+    },
+    "70ba33752831136381ef2dbefdd85d28": {
+      "title": "Senior Manager, Life Sciences Consulting",
+      "company": "Genioo",
+      "first_seen": "2026-09-04T11:01:04.488197",
+      "score": 40.0
+    },
+    "f33a9de8712876decd353827a8626675": {
+      "title": "Head of AI & Digital Transformation (m/w/d)",
+      "company": "LivEye",
+      "first_seen": "2026-09-04T11:01:04.488199",
+      "score": 40.0
+    },
+    "61a296894f356d043faa0c5fcaa9fa19": {
+      "title": "Director of Sales (m/f/d) \u2013 Biotech & Pharma",
+      "company": "CERTANIA",
+      "first_seen": "2026-09-04T11:01:04.488202",
+      "score": 45.0
+    },
+    "89a6cb5aea8dc1c17a9191ed715ce921": {
+      "title": "Ecosystem Business Development Director (all genders) - Databricks",
+      "company": "Accenture DACH",
+      "first_seen": "2026-09-04T11:01:04.488204",
+      "score": 40.0
+    },
+    "970b8c56ac65e4a83e10469543aeca9a": {
+      "title": "Associate Director Senior Data Analyst (Clinical Sciences)",
+      "company": "BioNTech SE",
+      "first_seen": "2026-09-04T11:01:04.488207",
+      "score": 60.0
+    },
+    "1ecddc3d053e60a3befd2e9eff62abd0": {
+      "title": "Associate Director Finance Digital Solutions (m/w/d)",
+      "company": "BioNTech SE",
+      "first_seen": "2026-09-04T11:01:04.488210",
+      "score": 55.0
+    },
+    "2e8966d5d1676a7dea68801d9d31b49a": {
+      "title": "IT Solution Leader - Clinical Diagnostics Germany",
+      "company": "Eurofins",
+      "first_seen": "2026-09-04T11:01:04.488212",
+      "score": 45.0
+    },
+    "15bd626e16936a0f42c89da7ae5f0129": {
+      "title": "Senior Manager/Associate Director, Commercial Operations, Germany",
+      "company": "Acadia Pharmaceuticals",
+      "first_seen": "2026-09-04T11:01:04.488215",
+      "score": 70.0
+    },
+    "ab27227fc4db7fa7d079b6967581996b": {
+      "title": "Pricing Director (m/f/d)",
+      "company": "Redcare Pharmacy",
+      "first_seen": "2026-09-04T11:01:04.488217",
+      "score": 40.0
+    },
+    "19c20b1e72164a292996667df1674841": {
+      "title": "Pricing Director (m/f/d)",
+      "company": "Redcare Pharmacy",
+      "first_seen": "2026-09-04T11:01:04.488219",
+      "score": 40.0
+    },
+    "2db904874b54f14519afed392b1e008f": {
+      "title": "Vertriebsleitung / Chief Revenue Officer (m/w/d)",
+      "company": "FLEXOO",
+      "first_seen": "2026-09-04T11:01:04.488222",
+      "score": 40.0
+    },
+    "5444d544d8454488da6d83b3a947121c": {
+      "title": "Regional Sales Manager (m/w/d) Spine West- und Mitteldeutschland",
+      "company": "Stryker",
+      "first_seen": "2026-09-04T11:01:04.488224",
+      "score": 50.0
     }
   },
-  "last_run": "2026-09-03T11:00:48.677215",
+  "last_run": "2026-09-04T11:01:04.488231",
   "stats": {
-    "total_seen": 397,
-    "total_reported": 1131
+    "total_seen": 414,
+    "total_reported": 1148
   }
 }

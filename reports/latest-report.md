@@ -1,80 +1,123 @@
-# 🎯 Daily Job Report — 2026-09-03
+# 🎯 Daily Job Report — 2026-09-04
 
-**11** new matches | **0** high relevance
+**17** new matches | **1** high relevance
 
 ---
 
-### 1. 🟡 Associate Director/Director, Portfolio Strategy and Operations, Cardio Renal Metabolic Development Unit (80–100%)
-**Novartis Pharma Schweiz** · 📍 Sächsische Schweiz-Osterzgebirge, Saxony, Germany · Score: 65/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-director-portfolio-strategy-and-operations-cardio-renal-metabolic-development-unit-80%E2%80%93100%25-at-novartis-pharma-schweiz-4462464747)
+### 1. 🟢 Senior Manager/Associate Director, Commercial Operations, Germany
+**Acadia Pharmaceuticals** · 📍 Germany · Score: 70/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-manager-associate-director-commercial-operations-germany-at-acadia-pharmaceuticals-4442659638)
   - Title match: 'associate director'
-  - Keywords (2): pharma, strategy
+  - Keywords (3): pharma, pharmaceutical, commercial
   - Location: 'germany'
 
-### 2. 🟡 Head of Product Management & Product Information Management (m/w/d)
-**Schülke & Mayr** · 📍 Norderstedt, Schleswig-Holstein, Germany · Score: 60/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-product-management-product-information-management-m-w-d-at-sch%C3%BClke-mayr-4462804410)
+### 2. 🟡 Head of Product Commercial Unit (m/w/d) - Jobbird.com
+**Jobster** · 📍 Planegg, Bavaria, Germany · Score: 60/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-product-commercial-unit-m-w-d-jobbird-com-at-jobster-4461398775)
   - Title match: 'head of product'
-  - Keywords (1): product management
+  - Keywords (1): commercial
   - Location: 'germany'
 
-### 3. 🟡 Managing Director DACH & Nordics, Core Diagnostics (m/f/d)
-**Abbott** · 📍 Wiesbaden, Hesse, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/managing-director-dach-nordics-core-diagnostics-m-f-d-at-abbott-4462416887)
-  - Seniority match: 'director'
-  - Keywords (1): diagnostics
-  - Location: 'germany'
-  - Target company: Abbott Digital Health
-
-### 4. 🟡 Country Manager Germany & Northeast Europe Business Area (M/F)
-**LIMAGRAIN EUROPE** · 📍 Edemissen, Lower Saxony, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/country-manager-germany-northeast-europe-business-area-m-f-at-limagrain-europe-4462762964)
-  - Title match: 'country manager'
+### 3. 🟡 Head of Product - Healthtech (m/w/d)
+**Roger** · 📍 Berlin, Berlin, Germany · Score: 60/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-product-healthtech-m-w-d-at-roger-4460794929)
+  - Title match: 'head of product'
+  - Keywords (1): healthtech
   - Location: 'germany'
 
-### 5. 🟡 Country Manager Germany
-**Adtraction** · 📍 Berlin, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/country-manager-germany-at-adtraction-4459941756)
-  - Title match: 'country manager'
+### 4. 🟡 Associate Director Senior Data Analyst (Clinical Sciences)
+**BioNTech SE** · 📍 Mainz, Rhineland-Palatinate, Germany · Score: 60/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-senior-data-analyst-clinical-sciences-at-biontech-se-4435316484)
+  - Title match: 'associate director'
+  - Keywords (1): clinical
   - Location: 'germany'
 
-### 6. 🟡 Country Manager, Germany
-**Business Finland** · 📍 Berlin, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/country-manager-germany-at-business-finland-4460701202)
-  - Title match: 'country manager'
-  - Location: 'germany'
+### 5. 🟡 Head of Operations, Germany
+**Eucalyptus** · 📍 Berlin Metropolitan Area · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-operations-germany-at-eucalyptus-4461903503)
+  - Title match: 'head of operations'
+  - Location: 'berlin'
 
-### 7. ⚪ Senior Strategy Manager (w/m/d) Strategy and Mergers & Acquisitions
-**Siemens Healthineers** · 📍 Erlangen, Bavaria, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-strategy-manager-w-m-d-strategy-and-mergers-acquisitions-at-siemens-healthineers-4459946976)
+### 6. 🟡 Senior Lead Product Strategy (x/f/m)
+**Doctolib** · 📍 Berlin, Berlin, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-lead-product-strategy-x-f-m-at-doctolib-4461134849)
+  - Seniority match: 'lead'
   - Keywords (1): strategy
   - Location: 'germany'
-  - Target company: Siemens Healthineers Digital
+  - Target company: Doctolib
 
-### 8. ⚪ Senior Manager, Strategic Partnerships and Adjacencies
-**Radiometer** · 📍 Krefeld, North Rhine-Westphalia, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-manager-strategic-partnerships-and-adjacencies-at-radiometer-4459962214)
-  - Seniority match: 'senior manager'
-  - Keywords (1): partnerships
+### 7. 🟡 Associate Director Finance Digital Solutions (m/w/d)
+**BioNTech SE** · 📍 Mainz, Rhineland-Palatinate, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-finance-digital-solutions-m-w-d-at-biontech-se-4453696015)
+  - Title match: 'associate director'
   - Location: 'germany'
 
-### 9. ⚪ Lead Business Development | Care (all genders welcome)
-**goodBytz** · 📍 Hamburg, Hamburg, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/lead-business-development-care-all-genders-welcome-at-goodbytz-4460986474)
+### 8. 🟡 Regional Sales Manager (m/w/d) Spine West- und Mitteldeutschland
+**Stryker** · 📍 Düsseldorf, North Rhine-Westphalia, Germany · Score: 50/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/regional-sales-manager-m-w-d-spine-west-und-mitteldeutschland-at-stryker-4457494426)
+  - Seniority match: 'regional'
+  - Location: 'germany'
+  - Target company: Stryker Digital
+
+### 9. ⚪ Principal SAP Strategy Consultant - Healthcare (m/w/d)
+**Atos** · 📍 Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/principal-sap-strategy-consultant-healthcare-m-w-d-at-atos-4463318230)
+  - Seniority match: 'principal'
+  - Keywords (2): healthcare, strategy
+  - Location: 'germany'
+
+### 10. ⚪ Director of Sales (m/f/d) – Biotech & Pharma
+**CERTANIA** · 📍 Berlin, Berlin, Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-of-sales-m-f-d-%E2%80%93-biotech-pharma-at-certania-4461148466)
+  - Seniority match: 'director'
+  - Keywords (2): biotech, pharma
+  - Location: 'germany'
+
+### 11. ⚪ IT Solution Leader - Clinical Diagnostics Germany
+**Eurofins** · 📍 Munich, Bavaria, Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/it-solution-leader-clinical-diagnostics-germany-at-eurofins-4462855388)
   - Seniority match: 'lead'
-  - Keywords (1): business development
+  - Keywords (2): diagnostics, clinical
   - Location: 'germany'
 
-### 10. ⚪ Director Business Development - Technology (m/f/d)
-**DP World** · 📍 Duisburg, North Rhine-Westphalia, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-business-development-technology-m-f-d-at-dp-world-4443343866)
+### 12. ⚪ Senior Manager, Life Sciences Consulting
+**Genioo** · 📍 Frankfurt, Hesse, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-manager-life-sciences-consulting-at-genioo-4434668493)
+  - Seniority match: 'senior manager'
+  - Keywords (1): life sciences
+  - Location: 'germany'
+
+### 13. ⚪ Head of AI & Digital Transformation (m/w/d)
+**LivEye** · 📍 Föhren, Rhineland-Palatinate, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-ai-digital-transformation-m-w-d-at-liveye-4461652166)
+  - Seniority match: 'head of'
+  - Keywords (1): digital transformation
+  - Location: 'germany'
+
+### 14. ⚪ Ecosystem Business Development Director (all genders) - Databricks
+**Accenture DACH** · 📍 Kronberg, Hesse, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/ecosystem-business-development-director-all-genders-databricks-at-accenture-dach-4434376290)
   - Seniority match: 'director'
   - Keywords (1): business development
   - Location: 'germany'
 
-### 11. ⚪ Head of Sales & Product Management (m/w/d) – Postpress Packaging
-**Heidelberger Druckmaschinen AG** · 📍 Wiesloch, Baden-Württemberg, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-sales-product-management-m-w-d-%E2%80%93-postpress-packaging-at-heidelberger-druckmaschinen-ag-4462413973)
-  - Seniority match: 'head of'
-  - Keywords (1): product management
+### 15. ⚪ Pricing Director (m/f/d)
+**Redcare Pharmacy** · 📍 Cologne, North Rhine-Westphalia, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/pricing-director-m-f-d-at-redcare-pharmacy-4461147355)
+  - Seniority match: 'director'
+  - Keywords (1): pharma
+  - Location: 'germany'
+
+### 16. ⚪ Pricing Director (m/f/d)
+**Redcare Pharmacy** · 📍 Berlin, Berlin, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/pricing-director-m-f-d-at-redcare-pharmacy-4461145354)
+  - Seniority match: 'director'
+  - Keywords (1): pharma
+  - Location: 'germany'
+
+### 17. ⚪ Vertriebsleitung / Chief Revenue Officer (m/w/d)
+**FLEXOO** · 📍 Heidelberg, Baden-Württemberg, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/vertriebsleitung-chief-revenue-officer-m-w-d-at-flexoo-4461154000)
+  - Seniority match: 'chief'
+  - Keywords (1): revenue
   - Location: 'germany'
