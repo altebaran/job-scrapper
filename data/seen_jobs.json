@@ -1,113 +1,5 @@
 {
   "seen": {
-    "2cf371538ca2979375308313a4bde0ca": {
-      "title": "Regional Head of Technology - Electrophysiology and Neurvascular, Germany - M/F/D",
-      "company": "Johnson & Johnson",
-      "first_seen": "2026-08-07T07:25:43.922736",
-      "score": 50.0
-    },
-    "7e482fd24f0b1c2c4ecaa3142a9b1483": {
-      "title": "Venture Lead (m/w/d)",
-      "company": "Riverty",
-      "first_seen": "2026-08-07T07:25:43.922750",
-      "score": 40.0
-    },
-    "ba66a5bf2ba34881839709f79418dfd0": {
-      "title": "Senior Manager Strategic Partnerships and M&A (f/m/d)",
-      "company": "Siemens Healthineers",
-      "first_seen": "2026-08-07T07:25:43.922754",
-      "score": 55.0
-    },
-    "3d6eb3f8fc8d305cf9b75111ce451b72": {
-      "title": "Business Development Director (f/m/d)",
-      "company": "STD",
-      "first_seen": "2026-08-07T07:25:43.922758",
-      "score": 40.0
-    },
-    "43c73bf0e4f924bda66c418d4dafd9b4": {
-      "title": "Business Development Director",
-      "company": "ClinChoice",
-      "first_seen": "2026-08-07T07:25:43.922761",
-      "score": 40.0
-    },
-    "b374f4eecf097d5a518ed51fd987bf57": {
-      "title": "Business Development Director, Clinical Supply Services",
-      "company": "Catalent",
-      "first_seen": "2026-08-07T07:25:43.922765",
-      "score": 45.0
-    },
-    "8654a970655fd5175506e7cc898f71bd": {
-      "title": "Head of Business Development, Europe",
-      "company": "Viatris",
-      "first_seen": "2026-08-07T07:25:43.922768",
-      "score": 40.0
-    },
-    "ca4bf3d0b7af20131ac119472fd4b4de": {
-      "title": "Director of Business Development",
-      "company": "Microland Limited",
-      "first_seen": "2026-08-07T07:25:43.922771",
-      "score": 60.0
-    },
-    "2cfb5165487ac059df11f93091922849": {
-      "title": "Chief of Staff (m/w/d) \u2013 M\u00fcnchen",
-      "company": "nuuEnergy",
-      "first_seen": "2026-08-07T07:25:43.922773",
-      "score": 55.0
-    },
-    "9e3acfbd827f4225e9854206b544d73b": {
-      "title": "General Manager - Space Tech",
-      "company": "Strativ Group",
-      "first_seen": "2026-08-07T07:25:43.922776",
-      "score": 55.0
-    },
-    "4110c8f25b9c34868f5883b64793947d": {
-      "title": "Head of Commercial Services (x|f|m)",
-      "company": "Sartorius",
-      "first_seen": "2026-08-07T07:25:43.922778",
-      "score": 60.0
-    },
-    "6c2a11b03a52f0702e1f150d73237f2d": {
-      "title": "Leiter Vertrieb & Marketing (Medtech) m/w/d",
-      "company": "Dr. Weick Executive Search GmbH",
-      "first_seen": "2026-08-07T07:25:43.922781",
-      "score": 40.0
-    },
-    "6c6ea5a7f97c672f23ca54919f66a0d5": {
-      "title": "Head of Business Development Central Europe (Germany, Austria, Netherlands)",
-      "company": "Qonto",
-      "first_seen": "2026-08-07T07:25:43.922784",
-      "score": 60.0
-    },
-    "a62d038f562376a054017e4f07e41950": {
-      "title": "Senior Manager Strategic Partnerships and M&A (w/m/d), Advanced Therapies",
-      "company": "Siemens Healthineers",
-      "first_seen": "2026-08-07T07:25:43.922787",
-      "score": 55.0
-    },
-    "3c823d5c4d5dc54896e2c001f7941209": {
-      "title": "Senior Manager Healthcare Intelligence Partnerships & Growth (m/f/d)",
-      "company": "PHOENIX Pharmahandel GmbH & Co KG",
-      "first_seen": "2026-08-07T07:25:43.922789",
-      "score": 55.0
-    },
-    "9f48018a9751a8779705badacbe799b6": {
-      "title": "Senior Manager Healthcare Intelligence Partnerships & Growth (m/f/d)",
-      "company": "PHOENIX group - Integrated Healthcare Provider",
-      "first_seen": "2026-08-07T07:25:43.922792",
-      "score": 50.0
-    },
-    "0e4e4fa9ab35241e0618bca9eedfcc22": {
-      "title": "Principal Scientist Oral Solids (all genders)",
-      "company": "Bayer",
-      "first_seen": "2026-08-07T07:25:43.922795",
-      "score": 50.0
-    },
-    "b0f2fa47a96a07ffc29772c63402bc99": {
-      "title": "Principal Scientist Oral Solids (alle Geschlechter)",
-      "company": "Bayer",
-      "first_seen": "2026-08-07T07:25:43.922797",
-      "score": 50.0
-    },
     "f2e8aadc86db89f751d742299c37669c": {
       "title": "Commercial Lead",
       "company": "Kiel University",
@@ -2447,11 +2339,53 @@
       "company": "Bayer",
       "first_seen": "2026-09-05T10:21:16.481295",
       "score": 50.0
+    },
+    "f2965f670b3ed0f6c5ebc3c2d6ad385b": {
+      "title": "Head of Digital Strategy & Business Case Advisory (m/w/d)",
+      "company": "Atos",
+      "first_seen": "2026-09-06T10:41:44.564813",
+      "score": 40.0
+    },
+    "d95564d04fb4c7fcae55a7a21099a401": {
+      "title": "Manager / Senior Manager Inhouse Consulting - Healthcare/Life Science (all genders, full-/part-time)",
+      "company": "Merck Group",
+      "first_seen": "2026-09-06T10:41:44.564834",
+      "score": 40.0
+    },
+    "60d03822416b12404d9722f7b063343c": {
+      "title": "Director/Senior Director - Content Strategy EU",
+      "company": "Veeva Systems",
+      "first_seen": "2026-09-06T10:41:44.564837",
+      "score": 40.0
+    },
+    "0e53f35c76a8e53a2a7ed5cc70610444": {
+      "title": "Country Manager Germany - Life Sciences Investment",
+      "company": "Capital Cell",
+      "first_seen": "2026-09-06T10:41:44.564840",
+      "score": 60.0
+    },
+    "443b051d4dce17678d78b9ed1f035c69": {
+      "title": "Head of Growth (Fokus Partnerships)",
+      "company": "gyde",
+      "first_seen": "2026-09-06T10:41:44.564843",
+      "score": 65.0
+    },
+    "84eb1db82eb4ee6bd920553a85a57144": {
+      "title": "Projektleiter Healthcare - Business Consulting (w/m/d)",
+      "company": "EY",
+      "first_seen": "2026-09-06T10:41:44.564845",
+      "score": 40.0
+    },
+    "5fd420654a4bb9d6e7d19acff03c6ab6": {
+      "title": "Projektleiter Healthcare - Business Consulting (w/m/d)",
+      "company": "EY",
+      "first_seen": "2026-09-06T10:41:44.564848",
+      "score": 40.0
     }
   },
-  "last_run": "2026-09-05T10:21:16.481301",
+  "last_run": "2026-09-06T10:41:44.564855",
   "stats": {
-    "total_seen": 408,
-    "total_reported": 1158
+    "total_seen": 397,
+    "total_reported": 1165
   }
 }
