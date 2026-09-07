@@ -1,71 +1,5 @@
 {
   "seen": {
-    "f2e8aadc86db89f751d742299c37669c": {
-      "title": "Commercial Lead",
-      "company": "Kiel University",
-      "first_seen": "2026-08-08T07:04:08.320522",
-      "score": 40.0
-    },
-    "20840591aa76f69fa713f4baa271a4b8": {
-      "title": "Head of Strategy and Product",
-      "company": "Kira",
-      "first_seen": "2026-08-08T07:04:08.320534",
-      "score": 60.0
-    },
-    "f16917480ec0d9d6778ed9f80a089206": {
-      "title": "Associate Director Business Development EMEA",
-      "company": "Lonza",
-      "first_seen": "2026-08-08T07:04:08.320546",
-      "score": 60.0
-    },
-    "c55b479673a5a76bcfd94cf39ba11f6c": {
-      "title": "Business Development Director - Germany",
-      "company": "Infosys",
-      "first_seen": "2026-08-08T07:04:08.320549",
-      "score": 40.0
-    },
-    "cad046fa379c2b6b44a70df7aad2bf8f": {
-      "title": "Head of Operations (m/f/d)",
-      "company": "IronMaxx Nutrition",
-      "first_seen": "2026-08-08T07:04:08.320552",
-      "score": 55.0
-    },
-    "45569e74b87974d7ecdb176ab1701c0f": {
-      "title": "Director \u2013 Innovation Project Management and Operations",
-      "company": "Pall Corporation",
-      "first_seen": "2026-08-08T07:04:08.320555",
-      "score": 40.0
-    },
-    "b5b9a5e3c93e54f2920ad25bae209501": {
-      "title": "Senior Project Lead MSAT",
-      "company": "Roche",
-      "first_seen": "2026-08-08T07:04:08.320558",
-      "score": 50.0
-    },
-    "86296714a0551a3cff4a3b69f1d037f9": {
-      "title": "Head of Supply Chain Data & Reporting",
-      "company": "Roche",
-      "first_seen": "2026-08-08T07:04:08.320560",
-      "score": 50.0
-    },
-    "1244ca4d2cd7386ac17bb804df3bfe96": {
-      "title": "Director of Reseller Partnerships",
-      "company": "Stayntouch",
-      "first_seen": "2026-08-08T07:04:08.320563",
-      "score": 40.0
-    },
-    "c88c216f6531708ed7ee5742781a84f5": {
-      "title": "Senior DMPK-PD Project Leader",
-      "company": "Roche",
-      "first_seen": "2026-08-08T07:04:08.320565",
-      "score": 50.0
-    },
-    "79a892f0787c456e5ed5078982ba7f7d": {
-      "title": "Associate Director (m/f/d), Computational Pathology Biomarker Lead (Oncology/BioPharma)",
-      "company": "AstraZeneca",
-      "first_seen": "2026-08-08T07:04:08.320568",
-      "score": 75.0
-    },
     "d75238fa854f4ab16c79ac30cb255c18": {
       "title": "Senior Consultant Commercial Strategy & Digital Innovation \u2013 Healthcare & Life Sciences (m/w/d)",
       "company": "Simon-Kucher",
@@ -2381,11 +2315,95 @@
       "company": "EY",
       "first_seen": "2026-09-06T10:41:44.564848",
       "score": 40.0
+    },
+    "52edc562b8a68e69664e8375f23ca0c4": {
+      "title": "Director Sales & Business Development Deutschland(m/w/d)",
+      "company": "Avaris CX GmbH",
+      "first_seen": "2026-09-07T12:07:14.464578",
+      "score": 40.0
+    },
+    "4826093fe14c277fc8f4e64f373339f4": {
+      "title": "Direktor:in Business Development",
+      "company": "Syben Consulting",
+      "first_seen": "2026-09-07T12:07:14.464587",
+      "score": 40.0
+    },
+    "6f5a2d6a327deeab22e1454438863196": {
+      "title": "Director Business Development",
+      "company": "Honeywell Aerospace",
+      "first_seen": "2026-09-07T12:07:14.464589",
+      "score": 40.0
+    },
+    "404df17be621367ea590301531febcdf": {
+      "title": "Director Business Development",
+      "company": "Honeywell Aerospace",
+      "first_seen": "2026-09-07T12:07:14.464591",
+      "score": 40.0
+    },
+    "5a87a6c5135f55e2c6fb385597eb0f44": {
+      "title": "Director, Workforce Strategy & Transformation",
+      "company": "Anaplan",
+      "first_seen": "2026-09-07T12:07:14.464594",
+      "score": 40.0
+    },
+    "59ae6284ef8fb1b2984d1b6adbe86e89": {
+      "title": "Associate Director of Sales \u2013 EMEA (Drug Product Services)",
+      "company": "Lonza",
+      "first_seen": "2026-09-07T12:07:14.464600",
+      "score": 55.0
+    },
+    "7e9e4d33e42e4e0afb8370b95ca14ea5": {
+      "title": "Director Engineering, Retail Media& Marketplace",
+      "company": "Redcare Pharmacy",
+      "first_seen": "2026-09-07T12:07:14.464603",
+      "score": 40.0
+    },
+    "6c59bdd3062b52e186da3ea758df7aad": {
+      "title": "Director Engineering, Retail Media& Marketplace",
+      "company": "Redcare Pharmacy",
+      "first_seen": "2026-09-07T12:07:14.464606",
+      "score": 40.0
+    },
+    "3e101b953d6071d2d6d788cbc0996102": {
+      "title": "B2C Growth & Engagement Marketing Manager (f/m/x)",
+      "company": "Temedica",
+      "first_seen": "2026-09-07T12:07:14.464609",
+      "score": 40.0
+    },
+    "41fdbfc6d5b51e95d4166491a4a90291": {
+      "title": "Projektleiter Healthcare - Business Consulting (w/m/d)",
+      "company": "EY",
+      "first_seen": "2026-09-07T12:07:14.464612",
+      "score": 40.0
+    },
+    "1545f391b98ba173906e37daf48b75fc": {
+      "title": "Head of Commercial Marketing and Customer Experience (m/w/d)",
+      "company": "Fresenius Medical Care",
+      "first_seen": "2026-09-07T12:07:14.464615",
+      "score": 60.0
+    },
+    "26c34f286b82955712c3be1bce73b46b": {
+      "title": "Head of Partnerships (m/w/d)",
+      "company": "Superchat",
+      "first_seen": "2026-09-07T12:07:14.464618",
+      "score": 60.0
+    },
+    "a46ece8ad4552c4bffb9d0257c0344a9": {
+      "title": "IT Partner Manager Digital Health (x/f/m) - Norddeutschland",
+      "company": "Doctolib",
+      "first_seen": "2026-09-07T12:07:14.464621",
+      "score": 40.0
+    },
+    "c1e4a6613c0fac9a58e966516daa2fee": {
+      "title": "IT Partner Manager Digital Health (x/f/m) - Norddeutschland",
+      "company": "Doctolib",
+      "first_seen": "2026-09-07T12:07:14.464624",
+      "score": 40.0
     }
   },
-  "last_run": "2026-09-06T10:41:44.564855",
+  "last_run": "2026-09-07T12:07:14.464632",
   "stats": {
-    "total_seen": 397,
-    "total_reported": 1165
+    "total_seen": 400,
+    "total_reported": 1179
   }
 }
