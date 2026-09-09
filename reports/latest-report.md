@@ -1,110 +1,86 @@
-# 🎯 Daily Job Report — 2026-09-08
+# 🎯 Daily Job Report — 2026-09-09
 
-**15** new matches | **2** high relevance
+**12** new matches | **0** high relevance
 
 ---
 
-### 1. 🟢 Regional General Manager (m/f/d) DACH & BeNeLux, Molecular Diagnostics
-**Abbott** · 📍 Wiesbaden, Hesse, Germany · Score: 75/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/regional-general-manager-m-f-d-dach-benelux-molecular-diagnostics-at-abbott-4443014523)
-  - Title match: 'general manager'
-  - Keywords (1): diagnostics
-  - Location: 'germany'
-  - Target company: Abbott Digital Health
-
-### 2. 🟢 Chief of Staff - 18 month FTC
-**Roche** · 📍 Penzberg, Bavaria, Germany · Score: 70/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/chief-of-staff-18-month-ftc-at-roche-4464389404)
-  - Title match: 'chief of staff'
-  - Location: 'germany'
-  - Target company: Roche Digital Health
-
-### 3. 🟡 Director of Business Development
-**Yibi Precision | MIM Manufacturing Solutions for Precision Metal Components** · 📍 Germany · Score: 60/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-of-business-development-at-yibi-precision-mim-manufacturing-solutions-for-precision-metal-components-4462262340)
-  - Title match: 'director of business development'
-  - Keywords (1): business development
+### 1. 🟡 Head of Product Commercial Unit (m/w/d) - Jobbird.com
+**Jobster** · 📍 Planegg, Bavaria, Germany · Score: 60/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-product-commercial-unit-m-w-d-jobbird-com-at-jobster-4463271748)
+  - Title match: 'head of product'
+  - Keywords (1): commercial
   - Location: 'germany'
 
-### 4. 🟡 Chief of Staff to the CEO – FUTRUE Group
-**FUTRUE** · 📍 Munich, Bavaria, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/chief-of-staff-to-the-ceo-%E2%80%93-futrue-group-at-futrue-4462216729)
+### 2. 🟡 Country Manager (m/w/d) DACH - Pharma Distribution
+**Hays** · 📍 Greater Freiburg Area · Score: 60/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/country-manager-m-w-d-dach-pharma-distribution-at-hays-4464477743)
+  - Title match: 'country manager'
+  - Keywords (1): pharma
+  - Location: 'freiburg'
+
+### 3. 🟡 Head of Transformation Office and Chief of Staff (m/f/d)
+**Nemetschek Group** · 📍 Munich, Bavaria, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-transformation-office-and-chief-of-staff-m-f-d-at-nemetschek-group-4464615958)
   - Title match: 'chief of staff'
   - Location: 'germany'
 
-### 5. 🟡 Head of ECC Operations - Diagnostics (w/m/d)
-**Siemens Healthineers** · 📍 Marburg an der Lahn, Hesse, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-ecc-operations-diagnostics-w-m-d-at-siemens-healthineers-4462251047)
-  - Seniority match: 'head of'
-  - Keywords (1): diagnostics
+### 4. 🟡 Head of Operations (all genders)
+**yummy** · 📍 Munich, Bavaria, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-operations-all-genders-at-yummy-4462502789)
+  - Title match: 'head of operations'
   - Location: 'germany'
-  - Target company: Siemens Healthineers Digital
 
-### 6. 🟡 Country Manager Germany
-**Check Point Software** · 📍 Munich, Bavaria, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/country-manager-germany-at-check-point-software-4445342752)
+### 5. 🟡 Country Manager Deutschland
+**Trade Admire Group** · 📍 Berlin, Berlin, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/country-manager-deutschland-at-trade-admire-group-4463809782)
   - Title match: 'country manager'
   - Location: 'germany'
 
-### 7. 🟡 Regional Sales Manager (m/w/d) Spine West- und Mitteldeutschland
-**Stryker** · 📍 Jena, Thuringia, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/regional-sales-manager-m-w-d-spine-west-und-mitteldeutschland-at-stryker-4457645283)
-  - Seniority match: 'regional'
-  - Location: 'germany'
-  - Target company: Stryker Digital
-
-### 8. ⚪ Director, Healthcare Technology Product Management (m/f/d)
-**Wolters Kluwer** · 📍 Berlin, Berlin, Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-healthcare-technology-product-management-m-f-d-at-wolters-kluwer-4462960181)
-  - Seniority match: 'director'
-  - Keywords (2): healthcare, product management
-  - Location: 'germany'
-
-### 9. ⚪ Head of (m/w/d) Pharmaceutical Operations Project Management
-**Denk Pharma** · 📍 Munich, Bavaria, Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-m-w-d-pharmaceutical-operations-project-management-at-denk-pharma-4462254997)
+### 6. ⚪ Head of Consulting – Digital Platform for Operational Excellence SaaS & Pharma Manufacturing (all genders)
+**Seqonis** · 📍 Bad Säckingen, Baden-Württemberg, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-consulting-%E2%80%93-digital-platform-for-operational-excellence-saas-pharma-manufacturing-all-genders-at-seqonis-4464623753)
   - Seniority match: 'head of'
-  - Keywords (2): pharma, pharmaceutical
+  - Keywords (1): pharma
   - Location: 'germany'
 
-### 10. ⚪ Chief Growth Officer
-**Aeon** · 📍 Berlin, Berlin, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/chief-growth-officer-at-aeon-4464341164)
-  - Seniority match: 'chief'
-  - Keywords (1): growth
+### 7. ⚪ Cardiac Solutions Business Development Manager Europe (m/w/d)
+**Philips** · 📍 Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/cardiac-solutions-business-development-manager-europe-m-w-d-at-philips-4463548043)
+  - Keywords (1): business development
   - Location: 'germany'
+  - Target company: Philips Health Innovation
 
-### 11. ⚪ Cluster Lead Life Sciences (m/w/d)
-**Futury** · 📍 Frankfurt, Hesse, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/cluster-lead-life-sciences-m-w-d-at-futury-4462298388)
-  - Seniority match: 'lead'
-  - Keywords (1): life sciences
-  - Location: 'germany'
-
-### 12. ⚪ Senior Business Development Director
+### 8. ⚪ Business Development Director
 **Labcorp** · 📍 Münster, North Rhine-Westphalia, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-business-development-director-at-labcorp-4445491358)
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/business-development-director-at-labcorp-4445495239)
   - Seniority match: 'director'
   - Keywords (1): business development
   - Location: 'germany'
 
-### 13. ⚪ Director Business Development & M&A
-**FUTRUE** · 📍 Munich, Bavaria, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-business-development-m-a-at-futrue-4455095189)
+### 9. ⚪ Commercial Director
+**Helsing** · 📍 Munich, Bavaria, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/commercial-director-at-helsing-4462545319)
+  - Seniority match: 'director'
+  - Keywords (1): commercial
+  - Location: 'germany'
+
+### 10. ⚪ Business Development Director
+**Labcorp** · 📍 Münster, North Rhine-Westphalia, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/business-development-director-at-labcorp-4445479420)
   - Seniority match: 'director'
   - Keywords (1): business development
   - Location: 'germany'
 
-### 14. ⚪ Head of Revenue Operations (gn) - 40 Std, (hybrid) München
-**42watt** · 📍 Munich, Bavaria, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-revenue-operations-gn-40-std-hybrid-m%C3%BCnchen-at-42watt-4462298889)
-  - Seniority match: 'head of'
-  - Keywords (1): revenue
+### 11. ⚪ Senior Scientific Search, Evaluation & Business Development Lead - Retina
+**Novaliq GmbH** · 📍 Heidelberg, Baden-Württemberg, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-scientific-search-evaluation-business-development-lead-retina-at-novaliq-gmbh-4464672420)
+  - Seniority match: 'lead'
+  - Keywords (1): business development
   - Location: 'germany'
 
-### 15. ⚪ Head of Revenue Operations (gn) - 40 Std, (hybrid) (München)
-**42watt** · 📍 Munich, Bavaria, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-revenue-operations-gn-40-std-hybrid-m%C3%BCnchen-at-42watt-4463267309)
-  - Seniority match: 'head of'
-  - Keywords (1): revenue
+### 12. ⚪ Senior Clinical & Scientific Lead, Early Development – Retina
+**Novaliq GmbH** · 📍 Heidelberg, Baden-Württemberg, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-clinical-scientific-lead-early-development-%E2%80%93-retina-at-novaliq-gmbh-4464614168)
+  - Seniority match: 'lead'
+  - Keywords (1): clinical
   - Location: 'germany'

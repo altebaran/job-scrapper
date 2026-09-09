@@ -1,35 +1,5 @@
 {
   "seen": {
-    "50acd073dbcfe84b1f06007aabcea5ae": {
-      "title": "Head of Growth (Fokus Partnerships)",
-      "company": "gyde",
-      "first_seen": "2026-08-10T07:52:23.087526",
-      "score": 65.0
-    },
-    "846fada33c8b6066f0287e027caff901": {
-      "title": "Head of Operations",
-      "company": "deeploi",
-      "first_seen": "2026-08-10T07:52:23.087537",
-      "score": 55.0
-    },
-    "0efd52078eeb7b97446a9432cd428b2e": {
-      "title": "Head of Operations (all genders)",
-      "company": "yummy",
-      "first_seen": "2026-08-10T07:52:23.087539",
-      "score": 55.0
-    },
-    "f6d0969ea1efc10b1c9d79ad5ad072de": {
-      "title": "Chief of Staff at Romeai",
-      "company": "Jack & Jill",
-      "first_seen": "2026-08-10T07:52:23.087541",
-      "score": 55.0
-    },
-    "7b06acb84d78ad2e82f92767f724ea4c": {
-      "title": "Veralto Enterprise System Leader (VESL), Growth Innovation (R&D / Product Management) (m/f/d)",
-      "company": "X-Rite",
-      "first_seen": "2026-08-10T07:52:23.087543",
-      "score": 50.0
-    },
     "5b3ec87f2ec2608c454f5043e0017c71": {
       "title": "Manager Strategy Projects (w/m/d), Advanced Therapies",
       "company": "Siemens Healthineers",
@@ -2435,11 +2405,83 @@
       "company": "42watt",
       "first_seen": "2026-09-08T10:59:39.106254",
       "score": 40.0
+    },
+    "d550b9d8c07bdb2da032d227dfa084ee": {
+      "title": "Head of Product Commercial Unit (m/w/d) - Jobbird.com",
+      "company": "Jobster",
+      "first_seen": "2026-09-09T11:05:05.494943",
+      "score": 60.0
+    },
+    "fa462199a22dfd945ee86b203046c1cc": {
+      "title": "Head of Transformation Office and Chief of Staff (m/f/d)",
+      "company": "Nemetschek Group",
+      "first_seen": "2026-09-09T11:05:05.494955",
+      "score": 55.0
+    },
+    "a626267444353dbb0a7d7fc7925e7d66": {
+      "title": "Head of Consulting \u2013 Digital Platform for Operational Excellence SaaS & Pharma Manufacturing (all genders)",
+      "company": "Seqonis",
+      "first_seen": "2026-09-09T11:05:05.494960",
+      "score": 40.0
+    },
+    "a9f97101ed959cc4bf0d98be4863d274": {
+      "title": "Cardiac Solutions Business Development Manager Europe (m/w/d)",
+      "company": "Philips",
+      "first_seen": "2026-09-09T11:05:05.494963",
+      "score": 40.0
+    },
+    "683c9f8779f4981a8487797c284e1d06": {
+      "title": "Business Development Director",
+      "company": "Labcorp",
+      "first_seen": "2026-09-09T11:05:05.494967",
+      "score": 40.0
+    },
+    "beae3d3ffc9f78c5bef2ca70634cd3e0": {
+      "title": "Commercial Director",
+      "company": "Helsing",
+      "first_seen": "2026-09-09T11:05:05.494970",
+      "score": 40.0
+    },
+    "48995b541d4cdedf492734b0b4bc4ba8": {
+      "title": "Country Manager (m/w/d) DACH - Pharma Distribution",
+      "company": "Hays",
+      "first_seen": "2026-09-09T11:05:05.494974",
+      "score": 60.0
+    },
+    "74969124fba75e42cfd30b4279ebac8f": {
+      "title": "Head of Operations (all genders)",
+      "company": "yummy",
+      "first_seen": "2026-09-09T11:05:05.494977",
+      "score": 55.0
+    },
+    "6dd715af5877289081ee7f169500aac0": {
+      "title": "Business Development Director",
+      "company": "Labcorp",
+      "first_seen": "2026-09-09T11:05:05.494979",
+      "score": 40.0
+    },
+    "62beab309c6b926ddb0c541512e74267": {
+      "title": "Country Manager Deutschland",
+      "company": "Trade Admire Group",
+      "first_seen": "2026-09-09T11:05:05.494982",
+      "score": 55.0
+    },
+    "3886160bd59493cc3a8aab07536cbd85": {
+      "title": "Senior Scientific Search, Evaluation & Business Development Lead - Retina",
+      "company": "Novaliq GmbH",
+      "first_seen": "2026-09-09T11:05:05.494984",
+      "score": 40.0
+    },
+    "22b9931420d2de28e10e06da4fad3557": {
+      "title": "Senior Clinical & Scientific Lead, Early Development \u2013 Retina",
+      "company": "Novaliq GmbH",
+      "first_seen": "2026-09-09T11:05:05.494987",
+      "score": 40.0
     }
   },
-  "last_run": "2026-09-08T10:59:39.106260",
+  "last_run": "2026-09-09T11:05:05.494995",
   "stats": {
-    "total_seen": 406,
-    "total_reported": 1194
+    "total_seen": 413,
+    "total_reported": 1206
   }
 }
