@@ -1,131 +1,5 @@
 {
   "seen": {
-    "5b3ec87f2ec2608c454f5043e0017c71": {
-      "title": "Manager Strategy Projects (w/m/d), Advanced Therapies",
-      "company": "Siemens Healthineers",
-      "first_seen": "2026-08-11T07:18:45.455178",
-      "score": 40.0
-    },
-    "38447cc94604aaca3bdd8c820ab4e094": {
-      "title": "Manager Strategy Projects (f/m/d), Advanced Therapies",
-      "company": "Siemens Healthineers",
-      "first_seen": "2026-08-11T07:18:45.455191",
-      "score": 40.0
-    },
-    "fb211726890fcfb3abf975ebe7b58fc3": {
-      "title": "Chief of Staff to the CEO \u2013 FUTRUE Group",
-      "company": "FUTRUE",
-      "first_seen": "2026-08-11T07:18:45.455193",
-      "score": 55.0
-    },
-    "4c5b5a9d6abe7c45f02dd6a01e9887dd": {
-      "title": "Head of Foresight and Strategic Growth (f/m/d)",
-      "company": "Freudenberg Group",
-      "first_seen": "2026-08-11T07:18:45.455194",
-      "score": 40.0
-    },
-    "ce276d9a125bd429766c9a859bbd7605": {
-      "title": "Vice President Product Management (m/f/d) - Jobbird.com",
-      "company": "Jobster",
-      "first_seen": "2026-08-11T07:18:45.455196",
-      "score": 40.0
-    },
-    "809adcd3bb615ad12c3507b0f070a1c1": {
-      "title": "Associate Director, BioPharma Business Development (EMEA)",
-      "company": "Foundation Medicine",
-      "first_seen": "2026-08-11T07:18:45.455197",
-      "score": 65.0
-    },
-    "c4b4b7c3c1e3ce442dee374c09a3bf00": {
-      "title": "Commercial Director Germany (m/f/d)",
-      "company": "Fynest International",
-      "first_seen": "2026-08-11T07:18:45.455199",
-      "score": 40.0
-    },
-    "71ed2e81b84654cde95d319448044955": {
-      "title": "Commercial Leader \u2013 Acute Care Germany (Monitoring Systems & Anesthesia) (m/w/d)",
-      "company": "GE HealthCare",
-      "first_seen": "2026-08-11T07:18:45.455200",
-      "score": 45.0
-    },
-    "ef5b5479e3b94727db8e8adbb4bea3c7": {
-      "title": "Lead Business Development | Care (all genders welcome)",
-      "company": "goodBytz",
-      "first_seen": "2026-08-11T07:18:45.455201",
-      "score": 40.0
-    },
-    "d8784d5d073768c7bd0fff22b5471a8d": {
-      "title": "Commercial Leader \u2013 Acute Care Germany (Monitoring Systems & Anesthesia) (m/w/d)",
-      "company": "GE HealthCare",
-      "first_seen": "2026-08-11T07:18:45.455203",
-      "score": 45.0
-    },
-    "afcc6c0926614f09cff2bf822ef6622e": {
-      "title": "Head of Business Development",
-      "company": "TechNow",
-      "first_seen": "2026-08-11T07:18:45.455204",
-      "score": 60.0
-    },
-    "90d9cece66eafde23db6655ef6e48e6a": {
-      "title": "Head of Operations",
-      "company": "Crow (YC W26)",
-      "first_seen": "2026-08-11T07:18:45.455205",
-      "score": 55.0
-    },
-    "1b1d0502a01e7a3b1c3975d997f7dc12": {
-      "title": "Head of Operations (m/w/d) - Operations, Production, Supply Chain",
-      "company": "ZEINpharma I The Healthspan Company",
-      "first_seen": "2026-08-11T07:18:45.455206",
-      "score": 60.0
-    },
-    "bbb963f1c64200ab3555c91b78e9e57c": {
-      "title": "Principal (w/m/d) Innovation - AI Excellence",
-      "company": "Arthur D. Little",
-      "first_seen": "2026-08-11T07:18:45.455208",
-      "score": 40.0
-    },
-    "b217216d1f2fc62a7860f2d5a94d485a": {
-      "title": "Head of Communications HPBU",
-      "company": "Boehringer Ingelheim",
-      "first_seen": "2026-08-11T07:18:45.455209",
-      "score": 50.0
-    },
-    "8133b6a47bc7d4cc68e1df3eecdf4741": {
-      "title": "Regional Sales Manager (w/m/d) Upper Extremities",
-      "company": "Stryker",
-      "first_seen": "2026-08-11T07:18:45.455211",
-      "score": 50.0
-    },
-    "4067b96bc09989d7f397d30c554e6659": {
-      "title": "Regional Sales Manager (w/m/d) Upper Extremities",
-      "company": "Stryker",
-      "first_seen": "2026-08-11T07:18:45.455212",
-      "score": 50.0
-    },
-    "eb1999b7bc792a27febfdb3e5a66a92a": {
-      "title": "IT Partner Manager Digital Health (x/f/m) - Norddeutschland",
-      "company": "Doctolib",
-      "first_seen": "2026-08-11T07:18:45.455213",
-      "score": 40.0
-    },
-    "02284145529898a31427bb201fbde26b": {
-      "title": "IT Partner Manager Digital Health (x/f/m) - Norddeutschland",
-      "company": "Doctolib",
-      "first_seen": "2026-08-11T07:18:45.455214",
-      "score": 40.0
-    },
-    "fb23885f38c08ff5fb64f872f4b057d3": {
-      "title": "Deputy Director \u2014 Strategic Partnerships & Funding",
-      "company": "War Child",
-      "first_seen": "2026-08-11T07:18:45.455216",
-      "score": 40.0
-    },
-    "53dd157a7df5c06be64f8c638653e22f": {
-      "title": "Director Clinical Strategy",
-      "company": "VERTANICAL",
-      "first_seen": "2026-08-11T07:18:45.455217",
-      "score": 45.0
-    },
     "3d995339469661436223507efc63443f": {
       "title": "Global Head, Business Development, Partnerships & Inorganic Growth (m/f/d)",
       "company": "Abbott",
@@ -2477,11 +2351,113 @@
       "company": "Novaliq GmbH",
       "first_seen": "2026-09-09T11:05:05.494987",
       "score": 40.0
+    },
+    "0eebc17f859d6c5e1fed96af69ba59ef": {
+      "title": "Senior Strategy & Operations Manager",
+      "company": "Boehringer Ingelheim",
+      "first_seen": "2026-09-10T11:00:55.521949",
+      "score": 40.0
+    },
+    "eb22728a5c7370b4b3314ad5d766863b": {
+      "title": "Senior Manager Healthcare Intelligence Partnerships & Growth (m/f/d)",
+      "company": "PHOENIX group - Integrated Healthcare Provider",
+      "first_seen": "2026-09-10T11:00:55.521960",
+      "score": 50.0
+    },
+    "e656faf5f0fd0bedb806ed82027f7e36": {
+      "title": "Director Strategy Consulting \u2013 Technologie, Digitalisierung & Innovation (m/w/d)",
+      "company": "Statista Strategy",
+      "first_seen": "2026-09-10T11:00:55.521963",
+      "score": 45.0
+    },
+    "3d83e08b6049e48c9b90c378903b3bf4": {
+      "title": "Business Development Director (f/m/d)",
+      "company": "STD",
+      "first_seen": "2026-09-10T11:00:55.521965",
+      "score": 40.0
+    },
+    "c581601ab381fa63593710a54207f4ae": {
+      "title": "Principal, Real World Commercial Analytics - Pharma & Healthcare",
+      "company": "IQVIA",
+      "first_seen": "2026-09-10T11:00:55.521967",
+      "score": 50.0
+    },
+    "18600c35cc5f4e7f1ac986443b2d60a4": {
+      "title": "Ecosystem Business Development Director (all genders) - Salesforce",
+      "company": "Accenture DACH",
+      "first_seen": "2026-09-10T11:00:55.521969",
+      "score": 40.0
+    },
+    "2ac9a48caf7be15e2b06cfa29270a206": {
+      "title": "Director Operations (m/w/d) Bauberatung",
+      "company": "encoviva",
+      "first_seen": "2026-09-10T11:00:55.521971",
+      "score": 50.0
+    },
+    "697bdcbb86ba4f5a294cb7e0bf9ae2a2": {
+      "title": "Head Of Operations (all genders)",
+      "company": "Instaffo",
+      "first_seen": "2026-09-10T11:00:55.521973",
+      "score": 55.0
+    },
+    "e2f305bae69790cded31e18a7fba5746": {
+      "title": "Head of Project Management R&D, Innovation, NPI & Master Data (all genders)",
+      "company": "Merck Life Science",
+      "first_seen": "2026-09-10T11:00:55.521975",
+      "score": 40.0
+    },
+    "11ae614464b50bc8ae4060922f94fad4": {
+      "title": "Associate Director IT Procurement",
+      "company": "BioNTech SE",
+      "first_seen": "2026-09-10T11:00:55.521977",
+      "score": 55.0
+    },
+    "1d36dc15bda66eccb7f9e46963ce1283": {
+      "title": "Director Engineering, Retail Media& Marketplace",
+      "company": "Redcare Pharmacy",
+      "first_seen": "2026-09-10T11:00:55.521978",
+      "score": 40.0
+    },
+    "5727c64d688a7e5bb86fa01708cdc496": {
+      "title": "Teamlead (m/w/d) IT Projects & Automation",
+      "company": "Denk Pharma",
+      "first_seen": "2026-09-10T11:00:55.521980",
+      "score": 40.0
+    },
+    "bc108ee7dcc101cddfdd4ccc3cb9f00d": {
+      "title": "VP Commercial",
+      "company": "W Talent Switzerland",
+      "first_seen": "2026-09-10T11:00:55.521982",
+      "score": 60.0
+    },
+    "e196c225e6965ad5fa5c47f8846be40b": {
+      "title": "Venture Lead F\u00f6rderProfi und Energiegestalter (m/w/d)",
+      "company": "Viessmann Climate Solutions",
+      "first_seen": "2026-09-10T11:00:55.521984",
+      "score": 40.0
+    },
+    "164d21f0c1439d1aff1e3e2b3df244dd": {
+      "title": "Head of Partnerships (m/w/d)",
+      "company": "Superchat",
+      "first_seen": "2026-09-10T11:00:55.521986",
+      "score": 60.0
+    },
+    "12673792637d4c1d3d3ed0d8a86c92b4": {
+      "title": "Senior Manager Strategic Brand Partnerships (w/d/m) - Healthcare & Pharma",
+      "company": "SPORTFIVE",
+      "first_seen": "2026-09-10T11:00:55.521987",
+      "score": 50.0
+    },
+    "e0da646379bc23d8a58a8b89291f58e2": {
+      "title": "Senior Manager Premium Partnerships / Strategic Brand Partnerships (w/d/m) - Tech",
+      "company": "SPORTFIVE",
+      "first_seen": "2026-09-10T11:00:55.521989",
+      "score": 40.0
     }
   },
-  "last_run": "2026-09-09T11:05:05.494995",
+  "last_run": "2026-09-10T11:00:55.521994",
   "stats": {
-    "total_seen": 413,
-    "total_reported": 1206
+    "total_seen": 409,
+    "total_reported": 1223
   }
 }
