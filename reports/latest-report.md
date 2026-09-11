@@ -1,122 +1,83 @@
-# 🎯 Daily Job Report — 2026-09-10
+# 🎯 Daily Job Report — 2026-09-11
 
-**17** new matches | **0** high relevance
+**11** new matches | **0** high relevance
 
 ---
 
-### 1. 🟡 VP Commercial
-**W Talent Switzerland** · 📍 Berlin, Berlin, Germany · Score: 60/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/vp-commercial-at-w-talent-switzerland-4453073178)
-  - Title match: 'vp commercial'
-  - Keywords (1): commercial
+### 1. 🟡 Sr. Director/General Manager Pharma Segment Electron Microscopy
+**Thermo Fisher Scientific** · 📍 Germany · Score: 60/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/sr-director-general-manager-pharma-segment-electron-microscopy-at-thermo-fisher-scientific-4463979194)
+  - Title match: 'general manager'
+  - Keywords (1): pharma
   - Location: 'germany'
 
-### 2. 🟡 Head of Partnerships (m/w/d)
-**Superchat** · 📍 Berlin, Berlin, Germany · Score: 60/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-partnerships-m-w-d-at-superchat-4463456021)
-  - Title match: 'head of partnerships'
-  - Keywords (1): partnerships
-  - Location: 'germany'
-
-### 3. 🟡 Head Of Operations (all genders)
-**Instaffo** · 📍 Berlin, Berlin, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-operations-all-genders-at-instaffo-4465394560)
-  - Title match: 'head of operations'
-  - Location: 'germany'
-
-### 4. 🟡 Associate Director IT Procurement
-**BioNTech SE** · 📍 Mainz, Rhineland-Palatinate, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-it-procurement-at-biontech-se-4437151718)
-  - Title match: 'associate director'
-  - Location: 'germany'
-
-### 5. 🟡 Senior Manager Healthcare Intelligence Partnerships & Growth (m/f/d)
-**PHOENIX group - Integrated Healthcare Provider** · 📍 Mannheim, Baden-Württemberg, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-manager-healthcare-intelligence-partnerships-growth-m-f-d-at-phoenix-group-integrated-healthcare-provider-4463430405)
-  - Seniority match: 'senior manager'
-  - Keywords (3): healthcare, partnerships, growth
-  - Location: 'germany'
-
-### 6. 🟡 Principal, Real World Commercial Analytics - Pharma & Healthcare
-**IQVIA** · 📍 Frankfurt, Hesse, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/principal-real-world-commercial-analytics-pharma-healthcare-at-iqvia-4463892661)
-  - Seniority match: 'principal'
-  - Keywords (3): pharma, healthcare, commercial
-  - Location: 'germany'
-
-### 7. 🟡 Director Operations (m/w/d) Bauberatung
-**encoviva** · 📍 Munich, Bavaria, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-operations-m-w-d-bauberatung-at-encoviva-4428484431)
-  - Seniority match: 'director'
-  - Location: 'germany'
-  - Target company: Oviva
-
-### 8. 🟡 Senior Manager Strategic Brand Partnerships (w/d/m) - Healthcare & Pharma
-**SPORTFIVE** · 📍 Hamburg, Hamburg, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-manager-strategic-brand-partnerships-w-d-m-healthcare-pharma-at-sportfive-4463511427)
-  - Seniority match: 'senior manager'
-  - Keywords (3): pharma, healthcare, partnerships
-  - Location: 'germany'
-
-### 9. ⚪ Director Strategy Consulting – Technologie, Digitalisierung & Innovation (m/w/d)
-**Statista Strategy** · 📍 Greater Hamburg Area · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-strategy-consulting-%E2%80%93-technologie-digitalisierung-innovation-m-w-d-at-statista-strategy-4463863912)
-  - Seniority match: 'director'
-  - Keywords (2): strategy, innovation
-  - Location: 'hamburg'
-
-### 10. ⚪ Senior Strategy & Operations Manager
-**Boehringer Ingelheim** · 📍 Biberach, Baden-Württemberg, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-strategy-operations-manager-at-boehringer-ingelheim-4465638851)
-  - Keywords (1): strategy
+### 2. 🟡 Clinical Development Lead CRM
+**Boehringer Ingelheim** · 📍 Ingelheim am Rhein, Rhineland-Palatinate, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/clinical-development-lead-crm-at-boehringer-ingelheim-4466071341)
+  - Seniority match: 'lead'
+  - Keywords (1): clinical
   - Location: 'germany'
   - Target company: Boehringer Ingelheim Digital Lab
 
-### 11. ⚪ Business Development Director (f/m/d)
-**STD** · 📍 Göttingen, Lower Saxony, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/business-development-director-f-m-d-at-std-4463025889)
-  - Seniority match: 'director'
-  - Keywords (1): business development
+### 3. 🟡 Leiter Clinical Operations
+**Apurano Pharmaceuticals GmbH** · 📍 Warngau, Bavaria, Germany · Score: 50/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/leiter-clinical-operations-at-apurano-pharmaceuticals-gmbh-4463963743)
+  - Seniority match: 'leiter'
+  - Keywords (3): pharma, pharmaceutical, clinical
   - Location: 'germany'
 
-### 12. ⚪ Ecosystem Business Development Director (all genders) - Salesforce
-**Accenture DACH** · 📍 Kronberg, Hesse, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/ecosystem-business-development-director-all-genders-salesforce-at-accenture-dach-4436827314)
+### 4. ⚪ Senior Sales Manager (m/w/d) Life Sciences, Pharma & Chemistry DACH
+**Siemens** · 📍 Munich, Bavaria, Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-sales-manager-m-w-d-life-sciences-pharma-chemistry-dach-at-siemens-4464564314)
+  - Keywords (2): pharma, life sciences
+  - Location: 'germany'
+  - Target company: Siemens Healthineers Digital
+
+### 5. ⚪ Management Director
+**Meet Life Sciences** · 📍 Bavaria, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/management-director-at-meet-life-sciences-4463973374)
   - Seniority match: 'director'
-  - Keywords (1): business development
+  - Keywords (1): life sciences
   - Location: 'germany'
 
-### 13. ⚪ Head of Project Management R&D, Innovation, NPI & Master Data (all genders)
-**Merck Life Science** · 📍 Darmstadt, Hesse, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-project-management-r-d-innovation-npi-master-data-all-genders-at-merck-life-science-4465039531)
+### 6. ⚪ Head of Operation & People (m/w/d)
+**NeuroNation - Mind & Brain Health Technology** · 📍 Berlin, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-operation-people-m-w-d-at-neuronation-mind-brain-health-technology-4465852057)
   - Seniority match: 'head of'
-  - Keywords (1): innovation
+  - Keywords (1): health tech
   - Location: 'germany'
 
-### 14. ⚪ Director Engineering, Retail Media& Marketplace
+### 7. ⚪ Teamlead CRM (m/w/d)
 **Redcare Pharmacy** · 📍 Cologne, North Rhine-Westphalia, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-engineering-retail-media-marketplace-at-redcare-pharmacy-4463060074)
-  - Seniority match: 'director'
-  - Keywords (1): pharma
-  - Location: 'germany'
-
-### 15. ⚪ Teamlead (m/w/d) IT Projects & Automation
-**Denk Pharma** · 📍 Munich, Bavaria, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/teamlead-m-w-d-it-projects-automation-at-denk-pharma-4463426960)
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/teamlead-crm-m-w-d-at-redcare-pharmacy-4463491115)
   - Seniority match: 'lead'
   - Keywords (1): pharma
   - Location: 'germany'
 
-### 16. ⚪ Venture Lead FörderProfi und Energiegestalter (m/w/d)
-**Viessmann Climate Solutions** · 📍 Berlin, Berlin, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/venture-lead-f%C3%B6rderprofi-und-energiegestalter-m-w-d-at-viessmann-climate-solutions-4463060979)
-  - Seniority match: 'lead'
-  - Keywords (1): venture
-  - Location: 'germany'
-
-### 17. ⚪ Senior Manager Premium Partnerships / Strategic Brand Partnerships (w/d/m) - Tech
-**SPORTFIVE** · 📍 Munich, Bavaria, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-manager-premium-partnerships-strategic-brand-partnerships-w-d-m-tech-at-sportfive-4463575018)
-  - Seniority match: 'senior manager'
+### 8. ⚪ Head of Industry Engagements and Partnerships (m/w/d)
+**Hasso Plattner Institute** · 📍 Berlin Metropolitan Area · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-industry-engagements-and-partnerships-m-w-d-at-hasso-plattner-institute-4466051943)
+  - Seniority match: 'head of'
   - Keywords (1): partnerships
+  - Location: 'berlin'
+
+### 9. ⚪ Head of Channel & Partnerships | Up to €200K OTE + Equity | AI SaaS | Berlin
+**Bluebird** · 📍 Berlin Metropolitan Area · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-channel-partnerships-up-to-%E2%82%AC200k-ote-%2B-equity-ai-saas-berlin-at-bluebird-4465855573)
+  - Seniority match: 'head of'
+  - Keywords (1): partnerships
+  - Location: 'berlin'
+
+### 10. ⚪ Ecosystem Business Development Director (all genders) - Anthropic
+**Accenture DACH** · 📍 Kronberg, Hesse, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/ecosystem-business-development-director-all-genders-anthropic-at-accenture-dach-4436826385)
+  - Seniority match: 'director'
+  - Keywords (1): business development
   - Location: 'germany'
+
+### 11. ⚪ Candidate Guidance on AI Use
+**AstraZeneca Innovation** · 📍 Hamburg (DE) · Score: 40/100
+🔗 [Direct (AstraZeneca Innovation)](https://careers.astrazeneca.com/aiguidance)
+  - Keywords (1): innovation
+  - Location: 'hamburg'
+  - Target company: AstraZeneca Innovation
