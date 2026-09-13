@@ -1,101 +1,5 @@
 {
   "seen": {
-    "af8cb6429f2614163eadc3fd6ee2ebfc": {
-      "title": "Venture Lead (m/w/d)",
-      "company": "BFS health finance GmbH",
-      "first_seen": "2026-08-14T07:41:21.716755",
-      "score": 40.0
-    },
-    "cb0cb0b2aea347f98344334b0b4f19f9": {
-      "title": "Global Director Healthcare Technical Services (m/w/d)",
-      "company": "seca \u2013 precision for health",
-      "first_seen": "2026-08-14T07:41:21.716768",
-      "score": 40.0
-    },
-    "8731ef67578aa2450f4c8fb421ce912c": {
-      "title": "Head of Product Commercial Unit (m/w/d) - Jobbird.com",
-      "company": "Jobster",
-      "first_seen": "2026-08-14T07:41:21.716771",
-      "score": 60.0
-    },
-    "c052de2c571cf5ebcc3d26c92e44f100": {
-      "title": "Vice President Product Management (m/f/d) - Jobbird.com",
-      "company": "Jobster",
-      "first_seen": "2026-08-14T07:41:21.716774",
-      "score": 40.0
-    },
-    "c06c9e83d675491f671772ecb3a39da2": {
-      "title": "Commercial Lead (m/f/d) \u2013 Real-World Data & Life Sciences",
-      "company": "Dedalus",
-      "first_seen": "2026-08-14T07:41:21.716776",
-      "score": 45.0
-    },
-    "368dc5744d903f4d867edc884a0c70cd": {
-      "title": "Head of Business Development Data Centers - Europe",
-      "company": "DHL Supply Chain",
-      "first_seen": "2026-08-14T07:41:21.716778",
-      "score": 60.0
-    },
-    "cd8327122a878e7c81d0ba4fa79979f6": {
-      "title": "Commercial / Sales Director - Medical Cannabis",
-      "company": "Lumino",
-      "first_seen": "2026-08-14T07:41:21.716780",
-      "score": 40.0
-    },
-    "10fef1c44c9c0c232f74d7ee74403513": {
-      "title": "Country Manager - Medical Cannabis",
-      "company": "Lumino",
-      "first_seen": "2026-08-14T07:41:21.716782",
-      "score": 55.0
-    },
-    "48197d0d02ce85987275b1ca41d1ba38": {
-      "title": "Head of Operations & Customer Success (m/w/d)",
-      "company": "Pedlar",
-      "first_seen": "2026-08-14T07:41:21.716784",
-      "score": 55.0
-    },
-    "d34f1b356850b5bc33b75b53ad79982c": {
-      "title": "Vice President Commercial Operations EU & RoW (m/f/d)",
-      "company": "Fresenius Kabi",
-      "first_seen": "2026-08-14T07:41:21.716786",
-      "score": 40.0
-    },
-    "7575c0ff7edb257f8fa2b0851507c2dc": {
-      "title": "Director of Operations",
-      "company": "Lumen Search",
-      "first_seen": "2026-08-14T07:41:21.716787",
-      "score": 55.0
-    },
-    "6080605fa56fc14517c4c944fe17fafe": {
-      "title": "Director, Biopharma Data Science",
-      "company": "OWKIN",
-      "first_seen": "2026-08-14T07:41:21.716790",
-      "score": 40.0
-    },
-    "5c8c16b09c199c328c458ddb997c3704": {
-      "title": "Head of Sales and Partnerships (m/w/d)",
-      "company": "Gateway Factory",
-      "first_seen": "2026-08-14T07:41:21.716792",
-      "score": 40.0
-    },
-    "fbff14449041c02f1088ce0938b69930": {
-      "title": "Sr Director, Clinical Strategic Operations, Large Pharma Partnership",
-      "company": "IQVIA",
-      "first_seen": "2026-08-14T07:41:21.716793",
-      "score": 45.0
-    },
-    "a7ca92b587ccac8ed72b90f7c6b20ffb": {
-      "title": "Clinical Program Lead",
-      "company": "Boehringer Ingelheim",
-      "first_seen": "2026-08-14T07:41:21.716795",
-      "score": 55.0
-    },
-    "d5530e8aa47fa23ede997beeff6ad352": {
-      "title": "Franchise Lead, Rare Tumours",
-      "company": "Alexion Pharmaceuticals, Inc.",
-      "first_seen": "2026-08-14T07:41:21.716797",
-      "score": 45.0
-    },
     "60e61633252bb301f63d0d2f1d9438a1": {
       "title": "Commercial Director (m/w/d)",
       "company": "Johnson & Johnson",
@@ -2327,11 +2231,47 @@
       "company": "T\u00dcV S\u00dcD",
       "first_seen": "2026-09-12T10:27:47.014538",
       "score": 40.0
+    },
+    "dfe776e5259e2e312d375feccb43b901": {
+      "title": "Transformation & Efficiency (T&E) Lead (m/w/d)",
+      "company": "AstraZeneca",
+      "first_seen": "2026-09-13T11:29:27.533839",
+      "score": 50.0
+    },
+    "720d3dfaa356668afa252e0a8a59ec4c": {
+      "title": "Vice President Product Management (m/f/d)",
+      "company": "KARL STORZ",
+      "first_seen": "2026-09-13T11:29:27.533849",
+      "score": 40.0
+    },
+    "868a605d52238d2b23e8cb3a4d1fb1d1": {
+      "title": "Vice President Product Management (m/w/d)",
+      "company": "KARL STORZ",
+      "first_seen": "2026-09-13T11:29:27.533851",
+      "score": 40.0
+    },
+    "bcb3a2c31b5bbab8cff6806f5d6bebcc": {
+      "title": "Director, Site Management & Monitoring",
+      "company": "AstraZeneca",
+      "first_seen": "2026-09-13T11:29:27.533854",
+      "score": 50.0
+    },
+    "cf5b9436ccec988600cf6ca21ab4c022": {
+      "title": "Senior Manager, Museum Partnerships - DACH",
+      "company": "Fever",
+      "first_seen": "2026-09-13T11:29:27.533860",
+      "score": 40.0
+    },
+    "9ac6fae801948e14b9d24aeb56aeab4f": {
+      "title": "Senior Manager Strategic Partnerships (m/w/d)",
+      "company": "i-flow",
+      "first_seen": "2026-09-13T11:29:27.533864",
+      "score": 40.0
     }
   },
-  "last_run": "2026-09-12T10:27:47.014545",
+  "last_run": "2026-09-13T11:29:27.533871",
   "stats": {
-    "total_seen": 388,
-    "total_reported": 1245
+    "total_seen": 378,
+    "total_reported": 1251
   }
 }
