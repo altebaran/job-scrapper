@@ -1,41 +1,5 @@
 {
   "seen": {
-    "75e59575567054cf3bd6f3a2dc0be492": {
-      "title": "Senior Account Executive / Business Development Director",
-      "company": "Cognite",
-      "first_seen": "2026-08-16T06:50:33.839916",
-      "score": 40.0
-    },
-    "3e8281b15c1b75cf7034eb0dc8b7957d": {
-      "title": "Business Development Director China (m/f/x)",
-      "company": "Joined Media Group",
-      "first_seen": "2026-08-16T06:50:33.839925",
-      "score": 40.0
-    },
-    "5de239b1b0f479471f9c1027f41c14c2": {
-      "title": "Head of Strategy and Operations \u2014 Partnerships",
-      "company": "GetYourGuide",
-      "first_seen": "2026-08-16T06:50:33.839927",
-      "score": 65.0
-    },
-    "f14d54ea17454709ebe3f640028f4944": {
-      "title": "Global Customer Education Product Manager (f/m/d) - Clinical pathway & Endovascular Robotics",
-      "company": "Siemens Healthineers",
-      "first_seen": "2026-08-16T06:50:33.839929",
-      "score": 40.0
-    },
-    "f516c908a16ba3530a1e1cdb20e52917": {
-      "title": "Associate Director, Market Access AMNOG, Germany",
-      "company": "Revolution Medicines",
-      "first_seen": "2026-08-16T06:50:33.839931",
-      "score": 60.0
-    },
-    "a5d1cc72bf10a7c7c44dd62c1c939bc6": {
-      "title": "Director Clinical Development and Medical Assessment (f/m/d)",
-      "company": "STADA Group",
-      "first_seen": "2026-08-16T06:50:33.839932",
-      "score": 40.0
-    },
     "678f9c0a046040c014f40fcada3535e6": {
       "title": "Head of Content",
       "company": "heal",
@@ -2261,11 +2225,113 @@
       "company": "Philips Health Innovation",
       "first_seen": "2026-09-14T12:22:53.818099",
       "score": 40.0
+    },
+    "c10fafccf1071b3d9e1c01f0b9aa15e8": {
+      "title": "Senior Manager Strategy Projects (w/m/d)",
+      "company": "Siemens Healthineers",
+      "first_seen": "2026-09-15T11:30:13.306188",
+      "score": 75.0
+    },
+    "83284c10c662184a19bda21c4b085a8d": {
+      "title": "Senior Manager Strategy Projects (f/m/d)",
+      "company": "Siemens Healthineers",
+      "first_seen": "2026-09-15T11:30:13.306199",
+      "score": 75.0
+    },
+    "d70310e24a8820fdaa15d2c47512beb8": {
+      "title": "Director Growth Strategy Life Science Germany",
+      "company": "Honeywell Technologies",
+      "first_seen": "2026-09-15T11:30:13.306202",
+      "score": 45.0
+    },
+    "03c1ea2c2b7990d4b3660c25b065c548": {
+      "title": "Director Business Development & M&A",
+      "company": "FUTRUE",
+      "first_seen": "2026-09-15T11:30:13.306203",
+      "score": 40.0
+    },
+    "09d460ca170e0c02dfd30dc90cac95e2": {
+      "title": "Head of Patient Care Operations (d/w/m)",
+      "company": "Ottobock Equipment B.V.",
+      "first_seen": "2026-09-15T11:30:13.306205",
+      "score": 40.0
+    },
+    "c2cf5ffd644f7c2d5f69c46a837d7c0a": {
+      "title": "Team Lead/Director Clinical Operations",
+      "company": "VERTANICAL",
+      "first_seen": "2026-09-15T11:30:13.306207",
+      "score": 40.0
+    },
+    "fd164480711d05d07264b5ab54c30ef8": {
+      "title": "Head of Operations (m/w/d)",
+      "company": "afb group",
+      "first_seen": "2026-09-15T11:30:13.306209",
+      "score": 55.0
+    },
+    "8a6a69a973442c45405b91b9d0ffe504": {
+      "title": "Senior Clinical Product & Operations Leader - SaMD AI",
+      "company": "Barrington James",
+      "first_seen": "2026-09-15T11:30:13.306211",
+      "score": 45.0
+    },
+    "82ae2eb0f6f5bade5148a531f3c2525f": {
+      "title": "Regional General Manager / Country Operations Director / Business Performance Lead",
+      "company": "AXIS Ma\u00eetrise d'oeuvre",
+      "first_seen": "2026-09-15T11:30:13.306212",
+      "score": 55.0
+    },
+    "249c427305222b83da7df77ea9a4020e": {
+      "title": "Head of Data & Platforms (m/w/d)",
+      "company": "Boehringer Ingelheim",
+      "first_seen": "2026-09-15T11:30:13.306214",
+      "score": 50.0
+    },
+    "ff9586d09d02297d1b6bab5f631abf47": {
+      "title": "Head of Global Business Development",
+      "company": "Strativ Group",
+      "first_seen": "2026-09-15T11:30:13.306215",
+      "score": 40.0
+    },
+    "676fc9d075d57abc4a5c8cb8cc57a924": {
+      "title": "General Manager - DACH (m/w/d)",
+      "company": "ClassPass",
+      "first_seen": "2026-09-15T11:30:13.306217",
+      "score": 55.0
+    },
+    "91ecdb9291e204d7452d7377b1c90339": {
+      "title": "Principal Business Development Manager CMTS Cell Culture Media (x|f|m)",
+      "company": "Sartorius",
+      "first_seen": "2026-09-15T11:30:13.306219",
+      "score": 40.0
+    },
+    "e8d7c5f14277f3e7e0f9653cccd96878": {
+      "title": "Principal Business Development Manager CMTS Cell Culture Media (x|f|m)",
+      "company": "Sartorius",
+      "first_seen": "2026-09-15T11:30:13.306221",
+      "score": 40.0
+    },
+    "bd51a1f128dcf37183c5f5ed0c47bf18": {
+      "title": "Global Head of Characterization BioAnalytics all genders",
+      "company": "Sanofi",
+      "first_seen": "2026-09-15T11:30:13.306223",
+      "score": 50.0
+    },
+    "76b9609ecd870c84444456a222a2c7c7": {
+      "title": "Leiter:in Innovation & Entwicklung",
+      "company": "Baumann Unternehmensberatung",
+      "first_seen": "2026-09-15T11:30:13.306224",
+      "score": 40.0
+    },
+    "8404d62a6fba55ad17fd1aa56db4b402": {
+      "title": "Teamlead Marketing, Innovation & Platform Gastrointestinal Health (m/w/i)",
+      "company": "Salmon Pharma",
+      "first_seen": "2026-09-15T11:30:13.306226",
+      "score": 45.0
     }
   },
-  "last_run": "2026-09-14T12:22:53.818106",
+  "last_run": "2026-09-15T11:30:13.306231",
   "stats": {
-    "total_seen": 377,
-    "total_reported": 1265
+    "total_seen": 388,
+    "total_reported": 1282
   }
 }
