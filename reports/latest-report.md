@@ -1,123 +1,74 @@
-# 🎯 Daily Job Report — 2026-09-15
+# 🎯 Daily Job Report — 2026-09-16
 
-**17** new matches | **2** high relevance
+**10** new matches | **0** high relevance
 
 ---
 
-### 1. 🟢 Senior Manager Strategy Projects (w/m/d)
-**Siemens Healthineers** · 📍 Forchheim, Bavaria, Germany · Score: 75/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-manager-strategy-projects-w-m-d-at-siemens-healthineers-4464795887)
-  - Title match: 'senior manager strategy'
-  - Keywords (1): strategy
-  - Location: 'germany'
-  - Target company: Siemens Healthineers Digital
-
-### 2. 🟢 Senior Manager Strategy Projects (f/m/d)
-**Siemens Healthineers** · 📍 Forchheim, Bavaria, Germany · Score: 75/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-manager-strategy-projects-f-m-d-at-siemens-healthineers-4465202864)
-  - Title match: 'senior manager strategy'
-  - Keywords (1): strategy
-  - Location: 'germany'
-  - Target company: Siemens Healthineers Digital
-
-### 3. 🟡 Head of Operations (m/w/d)
-**afb group** · 📍 Ettlingen, Baden-Württemberg, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-operations-m-w-d-at-afb-group-4465201664)
-  - Title match: 'head of operations'
+### 1. 🟡 Associate Director, Medical Affairs
+**Jobgether** · 📍 Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-medical-affairs-at-jobgether-4466818200)
+  - Title match: 'associate director'
   - Location: 'germany'
 
-### 4. 🟡 Regional General Manager / Country Operations Director / Business Performance Lead
-**AXIS Maîtrise d'oeuvre** · 📍 Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/regional-general-manager-country-operations-director-business-performance-lead-at-axis-ma%C3%AEtrise-d-oeuvre-4465520445)
-  - Title match: 'general manager'
-  - Location: 'germany'
-
-### 5. 🟡 General Manager - DACH (m/w/d)
-**ClassPass** · 📍 Berlin, Berlin, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/general-manager-dach-m-w-d-at-classpass-4455882016)
-  - Title match: 'general manager'
-  - Location: 'germany'
-
-### 6. 🟡 Head of Data & Platforms (m/w/d)
-**Boehringer Ingelheim** · 📍 Ingelheim am Rhein, Rhineland-Palatinate, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-data-platforms-m-w-d-at-boehringer-ingelheim-4467203804)
-  - Seniority match: 'head of'
-  - Location: 'germany'
-  - Target company: Boehringer Ingelheim Digital Lab
-
-### 7. 🟡 Global Head of Characterization BioAnalytics all genders
-**Sanofi** · 📍 Frankfurt am Main, Hesse, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/global-head-of-characterization-bioanalytics-all-genders-at-sanofi-4467209797)
-  - Seniority match: 'head of'
-  - Location: 'germany'
-  - Target company: Sanofi Digital
-
-### 8. ⚪ Director Growth Strategy Life Science Germany
-**Honeywell Technologies** · 📍 Offenbach, Hesse, Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-growth-strategy-life-science-germany-at-honeywell-technologies-4411608031)
+### 2. 🟡 Director, Translational Data Enablement (m/f/d)
+**AstraZeneca** · 📍 Munich, Bavaria, Germany · Score: 50/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-translational-data-enablement-m-f-d-at-astrazeneca-4466530060)
   - Seniority match: 'director'
-  - Keywords (2): strategy, growth
+  - Location: 'germany'
+  - Target company: AstraZeneca Innovation
+
+### 3. ⚪ Head of Global Digital Transformation (m/f/d)
+**Merz Therapeutics** · 📍 Frankfurt, Hesse, Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-global-digital-transformation-m-f-d-at-merz-therapeutics-4466564574)
+  - Seniority match: 'head of'
+  - Keywords (2): therapeutic, digital transformation
   - Location: 'germany'
 
-### 9. ⚪ Senior Clinical Product & Operations Leader - SaMD AI
-**Barrington James** · 📍 Greater Hamburg Area · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-clinical-product-operations-leader-samd-ai-at-barrington-james-4467713381)
+### 4. ⚪ Head of Global Digital Transformation (m/f/d)
+**Merz Therapeutics** · 📍 Frankfurt am Main, Hesse, Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-global-digital-transformation-m-f-d-at-merz-therapeutics-4465574528)
+  - Seniority match: 'head of'
+  - Keywords (2): therapeutic, digital transformation
+  - Location: 'germany'
+
+### 5. ⚪ Business Development Director (m/w/d) - excel as entrepreneur through strategy, sales, and AI
+**Vicoland** · 📍 Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/business-development-director-m-w-d-excel-as-entrepreneur-through-strategy-sales-and-ai-at-vicoland-4465545967)
+  - Seniority match: 'director'
+  - Keywords (2): business development, strategy
+  - Location: 'germany'
+
+### 6. ⚪ Senior Director, Strategic & Market Access - Germany
+**Kintiga** · 📍 Hannover, Lower Saxony, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-director-strategic-market-access-germany-at-kintiga-4467991088)
+  - Seniority match: 'director'
+  - Keywords (1): market access
+  - Location: 'germany'
+
+### 7. ⚪ Director of B2B Sales & Business Development (m/f/d)
+**the bench** · 📍 Karlsruhe, Baden-Württemberg, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-of-b2b-sales-business-development-m-f-d-at-the-bench-4465911647)
+  - Seniority match: 'director'
+  - Keywords (1): business development
+  - Location: 'germany'
+
+### 8. ⚪ Chief Revenue Officer (m/w/d)
+**p36 GmbH** · 📍 Bad Hersfeld, Hesse, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/chief-revenue-officer-m-w-d-at-p36-gmbh-4465542680)
+  - Seniority match: 'chief'
+  - Keywords (1): revenue
+  - Location: 'germany'
+
+### 9. ⚪ Head of KAM & New Business Development DACH” (m/w/d)
+**OnTarget-Search GmbH** · 📍 Frankfurt Rhine-Main Metropolitan Area · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-kam-new-business-development-dach%E2%80%9D-m-w-d-at-ontarget-search-gmbh-4466557633)
+  - Seniority match: 'head of'
+  - Keywords (1): business development
+  - Location: 'frankfurt'
+
+### 10. ⚪ Therapeutic Area & Community Lead (m/f/d)
+**MSD Deutschland** · 📍 Munich, Bavaria, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/therapeutic-area-community-lead-m-f-d-at-msd-deutschland-4467769972)
   - Seniority match: 'lead'
-  - Keywords (2): clinical, samd
-  - Location: 'hamburg'
-
-### 10. ⚪ Teamlead Marketing, Innovation & Platform Gastrointestinal Health (m/w/i)
-**Salmon Pharma** · 📍 Iserlohn, North Rhine-Westphalia, Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/teamlead-marketing-innovation-platform-gastrointestinal-health-m-w-i-at-salmon-pharma-4467290663)
-  - Seniority match: 'lead'
-  - Keywords (2): pharma, innovation
-  - Location: 'germany'
-
-### 11. ⚪ Director Business Development & M&A
-**FUTRUE** · 📍 Munich, Bavaria, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-business-development-m-a-at-futrue-4464796726)
-  - Seniority match: 'director'
-  - Keywords (1): business development
-  - Location: 'germany'
-
-### 12. ⚪ Head of Patient Care Operations (d/w/m)
-**Ottobock Equipment B.V.** · 📍 Duderstadt, Lower Saxony, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-patient-care-operations-d-w-m-at-ottobock-equipment-b-v-4466168959)
-  - Seniority match: 'head of'
-  - Keywords (1): patient
-  - Location: 'germany'
-
-### 13. ⚪ Team Lead/Director Clinical Operations
-**VERTANICAL** · 📍 Munich, Bavaria, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/team-lead-director-clinical-operations-at-vertanical-4464795702)
-  - Seniority match: 'director'
-  - Keywords (1): clinical
-  - Location: 'germany'
-
-### 14. ⚪ Head of Global Business Development
-**Strativ Group** · 📍 Bavaria, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-global-business-development-at-strativ-group-4467078558)
-  - Seniority match: 'head of'
-  - Keywords (1): business development
-  - Location: 'germany'
-
-### 15. ⚪ Principal Business Development Manager CMTS Cell Culture Media (x|f|m)
-**Sartorius** · 📍 Baden-Württemberg, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/principal-business-development-manager-cmts-cell-culture-media-x-f-m-at-sartorius-4467722101)
-  - Seniority match: 'principal'
-  - Keywords (1): business development
-  - Location: 'germany'
-
-### 16. ⚪ Principal Business Development Manager CMTS Cell Culture Media (x|f|m)
-**Sartorius** · 📍 Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/principal-business-development-manager-cmts-cell-culture-media-x-f-m-at-sartorius-4467735051)
-  - Seniority match: 'principal'
-  - Keywords (1): business development
-  - Location: 'germany'
-
-### 17. ⚪ Leiter:in Innovation & Entwicklung
-**Baumann Unternehmensberatung** · 📍 Cologne, North Rhine-Westphalia, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/leiter-in-innovation-entwicklung-at-baumann-unternehmensberatung-4465511223)
-  - Seniority match: 'leiter'
-  - Keywords (1): innovation
+  - Keywords (1): therapeutic
   - Location: 'germany'
