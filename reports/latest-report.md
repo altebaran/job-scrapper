@@ -1,74 +1,120 @@
-# 🎯 Daily Job Report — 2026-09-16
+# 🎯 Daily Job Report — 2026-09-17
 
-**10** new matches | **0** high relevance
+**17** new matches | **0** high relevance
 
 ---
 
-### 1. 🟡 Associate Director, Medical Affairs
-**Jobgether** · 📍 Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-medical-affairs-at-jobgether-4466818200)
+### 1. 🟡 Associate Director - Commercial Lead Germany (m/w/d)
+**Inizio Engage** · 📍 North Rhine-Westphalia, Germany · Score: 60/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-commercial-lead-germany-m-w-d-at-inizio-engage-4468373960)
   - Title match: 'associate director'
+  - Keywords (1): commercial
   - Location: 'germany'
 
-### 2. 🟡 Director, Translational Data Enablement (m/f/d)
-**AstraZeneca** · 📍 Munich, Bavaria, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-translational-data-enablement-m-f-d-at-astrazeneca-4466530060)
-  - Seniority match: 'director'
-  - Location: 'germany'
-  - Target company: AstraZeneca Innovation
-
-### 3. ⚪ Head of Global Digital Transformation (m/f/d)
-**Merz Therapeutics** · 📍 Frankfurt, Hesse, Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-global-digital-transformation-m-f-d-at-merz-therapeutics-4466564574)
-  - Seniority match: 'head of'
-  - Keywords (2): therapeutic, digital transformation
+### 2. 🟡 General Manager:in
+**European Radiosurgery Center Munich (ERCM)** · 📍 Munich, Bavaria, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/general-manager-in-at-european-radiosurgery-center-munich-ercm-4468380382)
+  - Title match: 'general manager'
   - Location: 'germany'
 
-### 4. ⚪ Head of Global Digital Transformation (m/f/d)
-**Merz Therapeutics** · 📍 Frankfurt am Main, Hesse, Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-global-digital-transformation-m-f-d-at-merz-therapeutics-4465574528)
-  - Seniority match: 'head of'
-  - Keywords (2): therapeutic, digital transformation
+### 3. 🟡 Country Manager DACH (m/w/d)
+**Hays** · 📍 Freiburg, Baden-Württemberg, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/country-manager-dach-m-w-d-at-hays-4467196267)
+  - Title match: 'country manager'
   - Location: 'germany'
 
-### 5. ⚪ Business Development Director (m/w/d) - excel as entrepreneur through strategy, sales, and AI
-**Vicoland** · 📍 Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/business-development-director-m-w-d-excel-as-entrepreneur-through-strategy-sales-and-ai-at-vicoland-4465545967)
-  - Seniority match: 'director'
-  - Keywords (2): business development, strategy
-  - Location: 'germany'
-
-### 6. ⚪ Senior Director, Strategic & Market Access - Germany
-**Kintiga** · 📍 Hannover, Lower Saxony, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-director-strategic-market-access-germany-at-kintiga-4467991088)
-  - Seniority match: 'director'
-  - Keywords (1): market access
-  - Location: 'germany'
-
-### 7. ⚪ Director of B2B Sales & Business Development (m/f/d)
-**the bench** · 📍 Karlsruhe, Baden-Württemberg, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-of-b2b-sales-business-development-m-f-d-at-the-bench-4465911647)
-  - Seniority match: 'director'
-  - Keywords (1): business development
-  - Location: 'germany'
-
-### 8. ⚪ Chief Revenue Officer (m/w/d)
-**p36 GmbH** · 📍 Bad Hersfeld, Hesse, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/chief-revenue-officer-m-w-d-at-p36-gmbh-4465542680)
-  - Seniority match: 'chief'
-  - Keywords (1): revenue
-  - Location: 'germany'
-
-### 9. ⚪ Head of KAM & New Business Development DACH” (m/w/d)
-**OnTarget-Search GmbH** · 📍 Frankfurt Rhine-Main Metropolitan Area · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-kam-new-business-development-dach%E2%80%9D-m-w-d-at-ontarget-search-gmbh-4466557633)
-  - Seniority match: 'head of'
-  - Keywords (1): business development
+### 4. 🟡 Associate Director AI Security
+**BioNTech SE** · 📍 Frankfurt Rhine-Main Metropolitan Area · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-ai-security-at-biontech-se-4459147835)
+  - Title match: 'associate director'
   - Location: 'frankfurt'
 
-### 10. ⚪ Therapeutic Area & Community Lead (m/f/d)
-**MSD Deutschland** · 📍 Munich, Bavaria, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/therapeutic-area-community-lead-m-f-d-at-msd-deutschland-4467769972)
-  - Seniority match: 'lead'
-  - Keywords (1): therapeutic
+### 5. 🟡 Country Manager Germany
+**Animalis Talent Solutions** · 📍 Berlin, Berlin, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/country-manager-germany-at-animalis-talent-solutions-4449659809)
+  - Title match: 'country manager'
+  - Location: 'germany'
+
+### 6. 🟡 Head of Marketing & Sales Scientific (m/f/d) Infectious Diseases
+**Abbott** · 📍 Cologne, North Rhine-Westphalia, Germany · Score: 50/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-marketing-sales-scientific-m-f-d-infectious-diseases-at-abbott-4468245569)
+  - Seniority match: 'head of'
+  - Location: 'germany'
+  - Target company: Abbott Digital Health
+
+### 7. 🟡 Regional Enterprise Sales Director Industrial AI Transformation DACH (m/f/d)
+**Siemens** · 📍 Stuttgart, Baden-Württemberg, Germany · Score: 50/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/regional-enterprise-sales-director-industrial-ai-transformation-dach-m-f-d-at-siemens-4457610401)
+  - Seniority match: 'director'
+  - Location: 'germany'
+  - Target company: Siemens Healthineers Digital
+
+### 8. 🟡 Regional Enterprise Sales Director Industrial AI Transformation DACH (m/f/d)
+**Siemens** · 📍 Frankfurt am Main, Hesse, Germany · Score: 50/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/regional-enterprise-sales-director-industrial-ai-transformation-dach-m-f-d-at-siemens-4457605497)
+  - Seniority match: 'director'
+  - Location: 'germany'
+  - Target company: Siemens Healthineers Digital
+
+### 9. 🟡 Head of Global Research & Development and Technology  (f/m/d)
+**Siemens** · 📍 Amberg, Bavaria, Germany · Score: 50/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-global-research-development-and-technology%E2%80%AF-f-m-d-at-siemens-4466873889)
+  - Seniority match: 'head of'
+  - Location: 'germany'
+  - Target company: Siemens Healthineers Digital
+
+### 10. ⚪ EY-Parthenon Senior Manager Projektleitung Digitalprojekte - Strategy and Transactions (w/m/d)
+**EY-Parthenon** · 📍 Eschborn, Hesse, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/ey-parthenon-senior-manager-projektleitung-digitalprojekte-strategy-and-transactions-w-m-d-at-ey-parthenon-4438099411)
+  - Seniority match: 'senior manager'
+  - Keywords (1): strategy
+  - Location: 'germany'
+
+### 11. ⚪ EY-Parthenon Senior Manager Projektleitung Digitalprojekte - Strategy and Transactions (w/m/d)
+**EY-Parthenon** · 📍 Munich, Bavaria, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/ey-parthenon-senior-manager-projektleitung-digitalprojekte-strategy-and-transactions-w-m-d-at-ey-parthenon-4438408115)
+  - Seniority match: 'senior manager'
+  - Keywords (1): strategy
+  - Location: 'germany'
+
+### 12. ⚪ Business Development Director (m/w/d).
+**UPS** · 📍 Kelsterbach, Hesse, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/business-development-director-m-w-d-at-ups-4466896556)
+  - Seniority match: 'director'
+  - Keywords (1): business development
+  - Location: 'germany'
+
+### 13. ⚪ Director OEM Partnerships Germany
+**Robovision** · 📍 Munich, Bavaria, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-oem-partnerships-germany-at-robovision-4467195501)
+  - Seniority match: 'director'
+  - Keywords (1): partnerships
+  - Location: 'germany'
+
+### 14. ⚪ Business Development Director - Hamburg
+**DNA Recruit** · 📍 Hamburg, Hamburg, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/business-development-director-hamburg-at-dna-recruit-4465997407)
+  - Seniority match: 'director'
+  - Keywords (1): business development
+  - Location: 'germany'
+
+### 15. ⚪ Director, Digital, Data & Informatics, Clinical Data Integration Operations
+**BioNTech SE** · 📍 Berlin, Berlin, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-digital-data-informatics-clinical-data-integration-operations-at-biontech-se-4468223980)
+  - Seniority match: 'director'
+  - Keywords (1): clinical
+  - Location: 'germany'
+
+### 16. ⚪ Senior Manager Digital Marketing (m/w/d) – Brand- und Agentursteuerung
+**AVIA Pharma Germany** · 📍 Munich, Bavaria, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-manager-digital-marketing-m-w-d-%E2%80%93-brand-und-agentursteuerung-at-avia-pharma-germany-4468377917)
+  - Seniority match: 'senior manager'
+  - Keywords (1): pharma
+  - Location: 'germany'
+
+### 17. ⚪ EY-Parthenon Senior Manager Projektleitung Digitalprojekte - Strategy and Transactions (w/m/d)
+**EY-Parthenon** · 📍 Berlin, Berlin, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/ey-parthenon-senior-manager-projektleitung-digitalprojekte-strategy-and-transactions-w-m-d-at-ey-parthenon-4438405226)
+  - Seniority match: 'senior manager'
+  - Keywords (1): strategy
   - Location: 'germany'
