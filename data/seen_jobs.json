@@ -1,107 +1,5 @@
 {
   "seen": {
-    "0c4b13628bb058902b9d590ae5f5121b": {
-      "title": "Director Tech Strategy & GenAI \u2013 Healthcare & Life Sciences (m/f/d)",
-      "company": "Simon-Kucher",
-      "first_seen": "2026-08-19T06:54:56.512162",
-      "score": 50.0
-    },
-    "e29d9568d8162a77d12331090a36ac7f": {
-      "title": "Strategy Lead (x/f/m)",
-      "company": "Doctolib",
-      "first_seen": "2026-08-19T06:54:56.512173",
-      "score": 55.0
-    },
-    "d871c909db2e42819335c6e4e84338e2": {
-      "title": "Director Tech Strategy & GenAI \u2013 Healthcare & Life Sciences (m/f/d)",
-      "company": "Simon-Kucher",
-      "first_seen": "2026-08-19T06:54:56.512176",
-      "score": 50.0
-    },
-    "458677e9f95a714c93786369225c5783": {
-      "title": "Chief Growth Officer",
-      "company": "BioX",
-      "first_seen": "2026-08-19T06:54:56.512178",
-      "score": 40.0
-    },
-    "1596d86515fb1cd8a1b5aac4ebb3fcc0": {
-      "title": "Head of Product Commercial Unit (m/w/d) - Jobbird.com",
-      "company": "Jobster",
-      "first_seen": "2026-08-19T06:54:56.512180",
-      "score": 60.0
-    },
-    "c055324ed790eae15776a111fae926f9": {
-      "title": "Senior Director, Regional Business Development EMEAI",
-      "company": "Oxford Nanopore Technologies",
-      "first_seen": "2026-08-19T06:54:56.512182",
-      "score": 40.0
-    },
-    "c184fd83e685cc1cddea21d23d2a1d98": {
-      "title": "Head of Strategic Sales Healthcare (m/w/d)",
-      "company": "House of Healthcare",
-      "first_seen": "2026-08-19T06:54:56.512184",
-      "score": 40.0
-    },
-    "0c7891ebf3f9b5dddf24aee4166b6eee": {
-      "title": "Ecosystem Business Development Director (all genders) - Google",
-      "company": "Accenture DACH",
-      "first_seen": "2026-08-19T06:54:56.512186",
-      "score": 40.0
-    },
-    "f6c2c65c3eea6f36fe106a16fb07102b": {
-      "title": "Head of Operations",
-      "company": "deeploi",
-      "first_seen": "2026-08-19T06:54:56.512187",
-      "score": 55.0
-    },
-    "6622dae195bfb54b5d2f10af094314a2": {
-      "title": "Country Manager DACH (m/w/d) in Direktvermittlung",
-      "company": "FERCHAU",
-      "first_seen": "2026-08-19T06:54:56.512189",
-      "score": 55.0
-    },
-    "a6d421c228f2a8c571ca400349fc44f0": {
-      "title": "Head of Global Supply Chain Planning & Execution (m/f/d)",
-      "company": "Merz Therapeutics",
-      "first_seen": "2026-08-19T06:54:56.512191",
-      "score": 40.0
-    },
-    "d5ab99369d1bf37a9fba422bcda8f407": {
-      "title": "Director, Team Lead, Computational Pathology Products (m/f/d)",
-      "company": "AstraZeneca",
-      "first_seen": "2026-08-19T06:54:56.512193",
-      "score": 50.0
-    },
-    "dcdb51e2726880a0554b29d0c63989ea": {
-      "title": "Project Lead",
-      "company": "Roche",
-      "first_seen": "2026-08-19T06:54:56.512195",
-      "score": 50.0
-    },
-    "7a2289a0b4f9025b1435aad0bc2602e4": {
-      "title": "Network Lead Core Lab (RA)",
-      "company": "Roche",
-      "first_seen": "2026-08-19T06:54:56.512196",
-      "score": 50.0
-    },
-    "82c35b991160fc94793700e9c0e0dd53": {
-      "title": "Senior Commercial Manager EMEA, ProCare Services",
-      "company": "Stryker",
-      "first_seen": "2026-08-19T06:54:56.512198",
-      "score": 40.0
-    },
-    "7f4bd4fb5fbe48dabbdd5020b01b8be5": {
-      "title": "Senior Commercial Manager EMEA, ProCare Services",
-      "company": "Stryker",
-      "first_seen": "2026-08-19T06:54:56.512200",
-      "score": 40.0
-    },
-    "bd22e040bc032ba5ee44a5707c33e05b": {
-      "title": "Director, Global Contamination Control Strategy (all genders)",
-      "company": "Merck Healthcare",
-      "first_seen": "2026-08-19T06:54:56.512201",
-      "score": 45.0
-    },
     "a1be44c3019dc8b2f8568243b086a31e": {
       "title": "Head of Strategy (x|f|m)",
       "company": "Sartorius",
@@ -2351,11 +2249,113 @@
       "company": "Siemens",
       "first_seen": "2026-09-17T11:23:53.533285",
       "score": 50.0
+    },
+    "662d68efaaf87cb0ba77e1a046693b3a": {
+      "title": "EY-Parthenon Senior Manager Projektleitung Digitalprojekte - Strategy and Transactions (w/m/d)",
+      "company": "EY-Parthenon",
+      "first_seen": "2026-09-18T10:58:37.827249",
+      "score": 40.0
+    },
+    "e7347c07cdc9059360cf8642af79b9aa": {
+      "title": "Strategy & Business Development Director (m/f/d)",
+      "company": "Wolters Kluwer",
+      "first_seen": "2026-09-18T10:58:37.827259",
+      "score": 45.0
+    },
+    "204dfceaaf2cdaf28dcf571133873174": {
+      "title": "Senior Manager Strategy \u2013 Chief Commercial Office (d/f/m)",
+      "company": "Sandoz in Deutschland",
+      "first_seen": "2026-09-18T10:58:37.827261",
+      "score": 65.0
+    },
+    "e2fd9b7a17d952eaa4ac8280e5a6c1e8": {
+      "title": "Business Development Director",
+      "company": "Momenta",
+      "first_seen": "2026-09-18T10:58:37.827262",
+      "score": 40.0
+    },
+    "d41ea1761ad91357e9c797584828eb9f": {
+      "title": "Director, Sales DACH",
+      "company": "Corcept Therapeutics",
+      "first_seen": "2026-09-18T10:58:37.827264",
+      "score": 40.0
+    },
+    "fdc88610f6b8be3fd0f4521007772101": {
+      "title": "Commercial Director - D\u00fcsseldorf (m/f/d)",
+      "company": "Sanoptis",
+      "first_seen": "2026-09-18T10:58:37.827265",
+      "score": 40.0
+    },
+    "6a6e42486f84bc8b4c104b09c85e902d": {
+      "title": "Head of Operations & Service - Dosimetry",
+      "company": "IBA Dosimetry",
+      "first_seen": "2026-09-18T10:58:37.827267",
+      "score": 55.0
+    },
+    "114b65c7068752bc26598b8ff65020e2": {
+      "title": "Head of Operations & Service - Dosimetry",
+      "company": "IBA",
+      "first_seen": "2026-09-18T10:58:37.827268",
+      "score": 55.0
+    },
+    "45e172f19527d703b8d74412a25ad785": {
+      "title": "Head of Operations (m/w/d)",
+      "company": "CEVA Logistics",
+      "first_seen": "2026-09-18T10:58:37.827269",
+      "score": 55.0
+    },
+    "0db284234ee9f7ae8bee2c261d2a8b50": {
+      "title": "Head of Operations (m/w/d) - Lich bei Gie\u00dfen",
+      "company": "CEVA Logistics",
+      "first_seen": "2026-09-18T10:58:37.827271",
+      "score": 55.0
+    },
+    "0a1e38877e3c54e4ecb30b1231d9ef1f": {
+      "title": "Head of Operations Nordics (m/f/d) in Renewable Energies",
+      "company": "Encavis",
+      "first_seen": "2026-09-18T10:58:37.827272",
+      "score": 55.0
+    },
+    "b16e9a8b42e6af3b3f75aaba327f00dd": {
+      "title": "Director Engineering, Adtech & Marketplace",
+      "company": "Redcare Pharmacy",
+      "first_seen": "2026-09-18T10:58:37.827274",
+      "score": 40.0
+    },
+    "c6806fd6c45eac7834660977194270ed": {
+      "title": "Director Engineering, Adtech& Marketplace",
+      "company": "Redcare Pharmacy",
+      "first_seen": "2026-09-18T10:58:37.827275",
+      "score": 40.0
+    },
+    "dff41c932e40c774279cde9b74c8db79": {
+      "title": "Associate Director, Biostatistics - IQVIA Biotech (m/w/d)",
+      "company": "IQVIA",
+      "first_seen": "2026-09-18T10:58:37.827276",
+      "score": 60.0
+    },
+    "cfb48ac87c04369542a5dbe0e94052da": {
+      "title": "Director, CRM DU Strategy & Engagement (80-100%)",
+      "company": "Novartis Pharma Schweiz",
+      "first_seen": "2026-09-18T10:58:37.827278",
+      "score": 45.0
+    },
+    "8654a970655fd5175506e7cc898f71bd": {
+      "title": "Head of Business Development, Europe",
+      "company": "Viatris",
+      "first_seen": "2026-09-18T10:58:37.827280",
+      "score": 40.0
+    },
+    "b91b6ebed57ccaea76d0ec16c7e38569": {
+      "title": "Global Lead, Manufacturing Innovation & Sustainability (m/f/d) (2-year temporary assignment)",
+      "company": "Roche",
+      "first_seen": "2026-09-18T10:58:37.827283",
+      "score": 55.0
     }
   },
-  "last_run": "2026-09-17T11:23:53.533292",
+  "last_run": "2026-09-18T10:58:37.827307",
   "stats": {
     "total_seen": 392,
-    "total_reported": 1309
+    "total_reported": 1326
   }
 }
