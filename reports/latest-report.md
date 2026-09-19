@@ -1,119 +1,79 @@
-# 🎯 Daily Job Report — 2026-09-18
+# 🎯 Daily Job Report — 2026-09-19
 
-**17** new matches | **0** high relevance
+**11** new matches | **0** high relevance
 
 ---
 
-### 1. 🟡 Senior Manager Strategy – Chief Commercial Office (d/f/m)
-**Sandoz in Deutschland** · 📍 Holzkirchen, Bavaria, Germany · Score: 65/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-manager-strategy-%E2%80%93-chief-commercial-office-d-f-m-at-sandoz-in-deutschland-4428379772)
-  - Title match: 'senior manager strategy'
-  - Keywords (2): strategy, commercial
+### 1. 🟡 Head of Partnerships (SAP)
+**Prior Labs** · 📍 Berlin, Berlin, Germany · Score: 60/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-partnerships-sap-at-prior-labs-4469170408)
+  - Title match: 'head of partnerships'
+  - Keywords (1): partnerships
   - Location: 'germany'
 
-### 2. 🟡 Associate Director, Biostatistics - IQVIA Biotech (m/w/d)
-**IQVIA** · 📍 Frankfurt am Main, Hesse, Germany · Score: 60/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-biostatistics-iqvia-biotech-m-w-d-at-iqvia-4460041327)
-  - Title match: 'associate director'
-  - Keywords (1): biotech
+### 2. 🟡 Chief of Staff (m/w/d)
+**ocumeda** · 📍 Munich, Bavaria, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/chief-of-staff-m-w-d-at-ocumeda-4466909477)
+  - Title match: 'chief of staff'
   - Location: 'germany'
 
-### 3. 🟡 Head of Operations & Service - Dosimetry
-**IBA Dosimetry** · 📍 Nuremberg, Bavaria, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-operations-service-dosimetry-at-iba-dosimetry-4466256954)
+### 3. 🟡 Head of Operations
+**Prior Labs** · 📍 Berlin, Berlin, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-operations-at-prior-labs-4469178153)
   - Title match: 'head of operations'
   - Location: 'germany'
 
-### 4. 🟡 Head of Operations & Service - Dosimetry
-**IBA** · 📍 Schwarzenbruck, Bavaria, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-operations-service-dosimetry-at-iba-4467563165)
+### 4. 🟡 Head of Operations
+**DONE!Berlin** · 📍 Berlin, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-operations-at-done%21berlin-4469173337)
   - Title match: 'head of operations'
   - Location: 'germany'
 
-### 5. 🟡 Head of Operations (m/w/d)
-**CEVA Logistics** · 📍 Frankfurt, Hesse, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-operations-m-w-d-at-ceva-logistics-4466282962)
-  - Title match: 'head of operations'
-  - Location: 'germany'
-
-### 6. 🟡 Head of Operations (m/w/d) - Lich bei Gießen
-**CEVA Logistics** · 📍 Lich, Hesse, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-operations-m-w-d-lich-bei-gie%C3%9Fen-at-ceva-logistics-4466680175)
-  - Title match: 'head of operations'
-  - Location: 'germany'
-
-### 7. 🟡 Head of Operations Nordics (m/f/d) in Renewable Energies
-**Encavis** · 📍 Greater Munich Metropolitan Area · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-operations-nordics-m-f-d-in-renewable-energies-at-encavis-4466266750)
-  - Title match: 'head of operations'
-  - Location: 'munich'
-
-### 8. 🟡 Global Lead, Manufacturing Innovation & Sustainability (m/f/d) (2-year temporary assignment)
-**Roche** · 📍 Penzberg, Bavaria, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/global-lead-manufacturing-innovation-sustainability-m-f-d-2-year-temporary-assignment-at-roche-4468662548)
-  - Seniority match: 'lead'
-  - Keywords (1): innovation
+### 5. 🟡 Head of Purification EU (f/w/d)
+**Roche** · 📍 Penzberg, Bavaria, Germany · Score: 50/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-purification-eu-f-w-d-at-roche-4469199003)
+  - Seniority match: 'head of'
   - Location: 'germany'
   - Target company: Roche Digital Health
 
-### 9. ⚪ Strategy & Business Development Director (m/f/d)
-**Wolters Kluwer** · 📍 Berlin, Berlin, Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/strategy-business-development-director-m-f-d-at-wolters-kluwer-4467543573)
+### 6. 🟡 Senior DMPK-PD Project Leader
+**Roche** · 📍 Penzberg, Bavaria, Germany · Score: 50/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-dmpk-pd-project-leader-at-roche-4450090708)
+  - Seniority match: 'lead'
+  - Location: 'germany'
+  - Target company: Roche Digital Health
+
+### 7. ⚪ Director Own Brands (m/f/d)
+**Redcare Pharmacy** · 📍 Berlin, Berlin, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-own-brands-m-f-d-at-redcare-pharmacy-4466930169)
   - Seniority match: 'director'
-  - Keywords (2): business development, strategy
+  - Keywords (1): pharma
   - Location: 'germany'
 
-### 10. ⚪ Director, CRM DU Strategy & Engagement (80-100%)
-**Novartis Pharma Schweiz** · 📍 Sächsische Schweiz-Osterzgebirge, Saxony, Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-crm-du-strategy-engagement-80-100%25-at-novartis-pharma-schweiz-4469127241)
-  - Seniority match: 'director'
-  - Keywords (2): pharma, strategy
-  - Location: 'germany'
-
-### 11. ⚪ EY-Parthenon Senior Manager Projektleitung Digitalprojekte - Strategy and Transactions (w/m/d)
-**EY-Parthenon** · 📍 Hamburg, Hamburg, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/ey-parthenon-senior-manager-projektleitung-digitalprojekte-strategy-and-transactions-w-m-d-at-ey-parthenon-4438401305)
+### 8. ⚪ Senior Manager Strategic Partnerships (m/f/d)
+**seca – precision for health** · 📍 Hamburg, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-manager-strategic-partnerships-m-f-d-at-seca-%E2%80%93-precision-for-health-4469161771)
   - Seniority match: 'senior manager'
-  - Keywords (1): strategy
+  - Keywords (1): partnerships
   - Location: 'germany'
 
-### 12. ⚪ Business Development Director
-**Momenta** · 📍 Wolfsburg, Lower Saxony, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/business-development-director-at-momenta-4466280336)
-  - Seniority match: 'director'
-  - Keywords (1): business development
-  - Location: 'germany'
-
-### 13. ⚪ Director, Sales DACH
-**Corcept Therapeutics** · 📍 Munich, Bavaria, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-sales-dach-at-corcept-therapeutics-4448557124)
-  - Seniority match: 'director'
-  - Keywords (1): therapeutic
-  - Location: 'germany'
-
-### 14. ⚪ Commercial Director - Düsseldorf (m/f/d)
-**Sanoptis** · 📍 Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/commercial-director-d%C3%BCsseldorf-m-f-d-at-sanoptis-4469124129)
+### 9. ⚪ Commercial Director - Düsseldorf (m/f/d)
+**Sanoptis** · 📍 North Rhine-Westphalia, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/commercial-director-d%C3%BCsseldorf-m-f-d-at-sanoptis-4469153291)
   - Seniority match: 'director'
   - Keywords (1): commercial
   - Location: 'germany'
 
-### 15. ⚪ Director Engineering, Adtech & Marketplace
-**Redcare Pharmacy** · 📍 Cologne, North Rhine-Westphalia, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-engineering-adtech-marketplace-at-redcare-pharmacy-4466250799)
-  - Seniority match: 'director'
-  - Keywords (1): pharma
+### 10. ⚪ Head of Brand Partnerships (All Genders)
+**Prematch** · 📍 Berlin, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-brand-partnerships-all-genders-at-prematch-4454237608)
+  - Seniority match: 'head of'
+  - Keywords (1): partnerships
   - Location: 'germany'
 
-### 16. ⚪ Director Engineering, Adtech& Marketplace
-**Redcare Pharmacy** · 📍 Berlin, Berlin, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-engineering-adtech-marketplace-at-redcare-pharmacy-4466252857)
-  - Seniority match: 'director'
+### 11. ⚪ Wirtschaftsingenieur als Bereichsleiter (m/w/d)
+**Artesan Pharma** · 📍 Lüchow, Lower Saxony, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/wirtschaftsingenieur-als-bereichsleiter-m-w-d-at-artesan-pharma-4466904776)
+  - Seniority match: 'leiter'
   - Keywords (1): pharma
   - Location: 'germany'
-
-### 17. ⚪ Head of Business Development, Europe
-**Viatris** · 📍 Greater Kempten Area · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-business-development-europe-at-viatris-4384802449)
-  - Title match: 'head of business development'
-  - Keywords (1): business development
