@@ -1,89 +1,5 @@
 {
   "seen": {
-    "e6704df4a0aafd8157307c38667b721a": {
-      "title": "Head of Product Commercial Unit (m/w/d) - Jobbird.com",
-      "company": "Jobster",
-      "first_seen": "2026-08-21T06:57:04.126755",
-      "score": 60.0
-    },
-    "6c07bc0f537bf844bdb9898cb4250f60": {
-      "title": "Director Life Sciences Industry (all genders)",
-      "company": "Tata Consultancy Services",
-      "first_seen": "2026-08-21T06:57:04.126772",
-      "score": 40.0
-    },
-    "0f5ed3256d0e04c5acccafcd004cbf80": {
-      "title": "Principal Business Consultant - Commercial",
-      "company": "Veeva Systems",
-      "first_seen": "2026-08-21T06:57:04.126776",
-      "score": 40.0
-    },
-    "3bc34fcf9feb9321924db0053d054b27": {
-      "title": "Head of Corporate Strategy & Transformation (m/w/d)",
-      "company": "Wahring & Co. Media GmbH",
-      "first_seen": "2026-08-21T06:57:04.126779",
-      "score": 40.0
-    },
-    "74078cf16185a964dc1864a4b9913a9f": {
-      "title": "Director Business Development & Technical Sales",
-      "company": "ifp - Institut f\u00fcr Personalberatung",
-      "first_seen": "2026-08-21T06:57:04.126781",
-      "score": 40.0
-    },
-    "e49ead6dd12a116677c14c4541fc8b9f": {
-      "title": "Head of Operations (m/w/d)",
-      "company": "afb group",
-      "first_seen": "2026-08-21T06:57:04.126784",
-      "score": 55.0
-    },
-    "25aa437c32aee4caf3c693c3b8447057": {
-      "title": "Associate Director ERP Integration & Solution Architecture - Finance",
-      "company": "BioNTech SE",
-      "first_seen": "2026-08-21T06:57:04.126786",
-      "score": 55.0
-    },
-    "17b289102ef1328dee4721846f0cd734": {
-      "title": "Associate Director ERP Integration & Solution Architecture - SCM",
-      "company": "BioNTech SE",
-      "first_seen": "2026-08-21T06:57:04.126788",
-      "score": 55.0
-    },
-    "be6e71668f078ca5cfcce8d4ade6a30f": {
-      "title": "Associate Director, Commercial Excellence (m/f/d)",
-      "company": "Redcare Pharmacy",
-      "first_seen": "2026-08-21T06:57:04.126790",
-      "score": 65.0
-    },
-    "0d647f9e87396bcc849e3bd678a02546": {
-      "title": "Account Director \u2013 Digital Marketing & Public Relations, Healthcare/Pharma (m/w/div)",
-      "company": "Weber Shandwick",
-      "first_seen": "2026-08-21T06:57:04.126793",
-      "score": 45.0
-    },
-    "6fb38728b4440d9b60cf1bd70159c32b": {
-      "title": "Head of Programmes and Networks - Public Affairs, Partnerships",
-      "company": "our common home",
-      "first_seen": "2026-08-21T06:57:04.126795",
-      "score": 40.0
-    },
-    "c0fc8507bfd02b416306f330637df9bb": {
-      "title": "Leiter Strategische Produktinnovation (m/w/d)",
-      "company": "Hevert-Arzneimittel GmbH & Co. KG",
-      "first_seen": "2026-08-21T06:57:04.126798",
-      "score": 40.0
-    },
-    "ba1e8317d75702332ebfbf9049558251": {
-      "title": "Head of Product & Innovation (All Genders)",
-      "company": "ahead\u00ae",
-      "first_seen": "2026-08-21T06:57:04.126800",
-      "score": 60.0
-    },
-    "ac22ce13ed79b76d77f6544e5824ffee": {
-      "title": "Director Expert Integrated Diagnostics (m/w/d)",
-      "company": "Fresenius Medical Care",
-      "first_seen": "2026-08-21T06:57:04.126803",
-      "score": 40.0
-    },
     "5f19bc51a5c7fac22876fabb7613c4c4": {
       "title": "Commercial Segment Lead B2B SaaS \u2013 Growth / P&L (alle Identit\u00e4ten)",
       "company": "Caspar Health",
@@ -2315,11 +2231,47 @@
       "company": "Artesan Pharma",
       "first_seen": "2026-09-19T10:41:05.516495",
       "score": 40.0
+    },
+    "591db1b22a55cc7c920379d6fbe67dc2": {
+      "title": "Project Leader",
+      "company": "Forward Strategy",
+      "first_seen": "2026-09-20T11:04:00.711817",
+      "score": 40.0
+    },
+    "6e5d7af807da835b263e9b3b7b113cb1": {
+      "title": "Lead Consultant (all genders) Digital Transformation",
+      "company": "valantic",
+      "first_seen": "2026-09-20T11:04:00.711831",
+      "score": 40.0
+    },
+    "30dd014c5431fb9b2613e4899f2c3c5f": {
+      "title": "Lead Cloud Software Architect - Pharma Solutions (w/m/x)",
+      "company": "NTT DATA Europe & Latam",
+      "first_seen": "2026-09-20T11:04:00.711835",
+      "score": 40.0
+    },
+    "c83f9bb28e811beed522bda4e20c7c42": {
+      "title": "Lead Cloud Software Architect - Pharma Solutions (w/m/x)",
+      "company": "NTT DATA Europe & Latam",
+      "first_seen": "2026-09-20T11:04:00.711838",
+      "score": 40.0
+    },
+    "334e257c5632641bfaed194c0ab54b4f": {
+      "title": "Regional Sales Manager (m/w/d) Respiratory Acute Care | Deutschland Nord/Ost",
+      "company": "Fisher & Paykel Healthcare",
+      "first_seen": "2026-09-20T11:04:00.711842",
+      "score": 40.0
+    },
+    "0b937d2035905c6d6ede60b18bd92913": {
+      "title": "Chief Revenue Officer @PE-Backed B2B Services Platform",
+      "company": "Top Line Advisory",
+      "first_seen": "2026-09-20T11:04:00.711845",
+      "score": 40.0
     }
   },
-  "last_run": "2026-09-19T10:41:05.516500",
+  "last_run": "2026-09-20T11:04:00.711853",
   "stats": {
-    "total_seen": 386,
-    "total_reported": 1337
+    "total_seen": 378,
+    "total_reported": 1343
   }
 }
