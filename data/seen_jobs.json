@@ -1,53 +1,5 @@
 {
   "seen": {
-    "a639f099c2506224e5f63ba99029da0f": {
-      "title": "Head of Business Development",
-      "company": "medtechrec",
-      "first_seen": "2026-08-23T06:52:33.639967",
-      "score": 65.0
-    },
-    "d48e15e2d70c24e8242fd06a89a0141e": {
-      "title": "Business Development Account Director, Cell Gene Therapy",
-      "company": "Catalent",
-      "first_seen": "2026-08-23T06:52:33.639977",
-      "score": 40.0
-    },
-    "dcd320f9a44d746bc97b558f65191ddd": {
-      "title": "Sales Director Rare Disease Commercial EU4+UK Region",
-      "company": "BioSpace",
-      "first_seen": "2026-08-23T06:52:33.639981",
-      "score": 40.0
-    },
-    "61dea72679131bb3807a82acf42fc17c": {
-      "title": "Industry principal Pharma/Life science",
-      "company": "AVEVA",
-      "first_seen": "2026-08-23T06:52:33.639984",
-      "score": 40.0
-    },
-    "428c9062ed48842a5673ad7f095d590b": {
-      "title": "Director Operations, Pharma & Consumer Health",
-      "company": "Catalent",
-      "first_seen": "2026-08-23T06:52:33.639987",
-      "score": 40.0
-    },
-    "511a0d44f88458c7659ffd9ecbffccbe": {
-      "title": "Regional Sales Manager (w/m/d) Upper Extremities",
-      "company": "Stryker",
-      "first_seen": "2026-08-23T06:52:33.639990",
-      "score": 50.0
-    },
-    "52811cf59ceff12e186f9a6932c89036": {
-      "title": "Head of Growth (Fokus Partnerships)",
-      "company": "gyde",
-      "first_seen": "2026-08-23T06:52:33.639992",
-      "score": 65.0
-    },
-    "7e44e325d2fcb723462df9a9727f43d9": {
-      "title": "Regional Sales Manager \u2013 Digital Health (all gender)",
-      "company": "Kranus Health",
-      "first_seen": "2026-08-23T06:52:33.639994",
-      "score": 40.0
-    },
     "f63bf30f8f8056e8a7d8c682c8e97eaf": {
       "title": "Head of Portfolio Strategy - Germany",
       "company": "Kyowa Kirin International plc.",
@@ -2225,11 +2177,107 @@
       "company": "Merck Innovation Center",
       "first_seen": "2026-09-21T12:30:34.071204",
       "score": 40.0
+    },
+    "3a3777cb70d9c310a3cb34a1ecf5334d": {
+      "title": "Head of Product Digitale Produkte (m/w/d)",
+      "company": "Rocken\u00ae",
+      "first_seen": "2026-09-22T11:20:19.560148",
+      "score": 55.0
+    },
+    "2fdb90a573d9b703ffe96be0af44db53": {
+      "title": "Vertriebsleiter/in (w/m/d) Healthcare",
+      "company": "SAP",
+      "first_seen": "2026-09-22T11:20:19.560163",
+      "score": 40.0
+    },
+    "f14c2f6061174feb72765280d8420453": {
+      "title": "Team Lead Consultant (m/f/d) \u2013 Healthcare Process Consulting - Jobbird.com",
+      "company": "Jobster",
+      "first_seen": "2026-09-22T11:20:19.560167",
+      "score": 40.0
+    },
+    "32f043e0dda434bd1f0d4ee1d5e30d37": {
+      "title": "Leiter Vertrieb Gesundheitsdienstleistungen (m/w/d)\nHealthcare / Gesundheits- & Sozialwesen",
+      "company": "THR24 Consulting",
+      "first_seen": "2026-09-22T11:20:19.560170",
+      "score": 40.0
+    },
+    "809adcd3bb615ad12c3507b0f070a1c1": {
+      "title": "Associate Director, BioPharma Business Development (EMEA)",
+      "company": "Foundation Medicine",
+      "first_seen": "2026-09-22T11:20:19.560173",
+      "score": 65.0
+    },
+    "b71f82c2ec0a2169c3c023952b1b47ca": {
+      "title": "Direktor Gesch\u00e4ftsfeld DMS / ECM | Vertrieb, Business Development, Delivery | bis 150.000 \u20ac (mwd)",
+      "company": "Vesterling AG",
+      "first_seen": "2026-09-22T11:20:19.560175",
+      "score": 40.0
+    },
+    "a6f12648b5c9168fc777782658fabe48": {
+      "title": "General Manager Sales Marketing",
+      "company": "J\u00f6rg Scheffler Consulting",
+      "first_seen": "2026-09-22T11:20:19.560178",
+      "score": 55.0
+    },
+    "77644a4b8105ad56bb74e1489183ba2a": {
+      "title": "Head of Production (m/f/d)",
+      "company": "ageneo Life Science Experts (Interim Solutions) GmbH",
+      "first_seen": "2026-09-22T11:20:19.560180",
+      "score": 55.0
+    },
+    "d712e2ffea4787fcfbb72f5b05f37528": {
+      "title": "Associate Director Biostatistics (Oncology)",
+      "company": "BioNTech SE",
+      "first_seen": "2026-09-22T11:20:19.560182",
+      "score": 55.0
+    },
+    "7a754cbe4ab2c64f809a51542cc1af65": {
+      "title": "Associate Solution and Delivery Lead, Healthcare & Pharma",
+      "company": "IQVIA",
+      "first_seen": "2026-09-22T11:20:19.560184",
+      "score": 45.0
+    },
+    "7f9c4bc6b0b35e6448a33d223515bb0c": {
+      "title": "Head of Sales Germany (m/w/d)",
+      "company": "Merz Therapeutics",
+      "first_seen": "2026-09-22T11:20:19.560186",
+      "score": 40.0
+    },
+    "3b04dbfb0e5f31e155c0b8454f376b9b": {
+      "title": "Head of Sales Germany (m/w/d)",
+      "company": "Merz Therapeutics",
+      "first_seen": "2026-09-22T11:20:19.560188",
+      "score": 40.0
+    },
+    "ab110fb61c790caa349c6504167df82f": {
+      "title": "Vertriebsleiter/in (w/m/d) Healthcare",
+      "company": "SAP",
+      "first_seen": "2026-09-22T11:20:19.560190",
+      "score": 40.0
+    },
+    "b6b3f5d9c213b6a7cecabe4c1766ceb3": {
+      "title": "Head CMC Drug Product - Parenterals (Senior Director) (all genders)",
+      "company": "Bayer",
+      "first_seen": "2026-09-22T11:20:19.560192",
+      "score": 50.0
+    },
+    "58ad9877ccf9d565949e170fd8ebf901": {
+      "title": "Head of R&D and Innovation (m/f/d)",
+      "company": "GE Vernova",
+      "first_seen": "2026-09-22T11:20:19.560194",
+      "score": 40.0
+    },
+    "7b06acb84d78ad2e82f92767f724ea4c": {
+      "title": "Veralto Enterprise System Leader (VESL), Growth Innovation (R&D / Product Management) (m/f/d)",
+      "company": "X-Rite",
+      "first_seen": "2026-09-22T11:20:19.560196",
+      "score": 50.0
     }
   },
-  "last_run": "2026-09-21T12:30:34.071209",
+  "last_run": "2026-09-22T11:20:19.560203",
   "stats": {
-    "total_seen": 371,
-    "total_reported": 1360
+    "total_seen": 379,
+    "total_reported": 1376
   }
 }

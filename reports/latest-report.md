@@ -1,126 +1,114 @@
-# 🎯 Daily Job Report — 2026-09-21
+# 🎯 Daily Job Report — 2026-09-22
 
-**17** new matches | **0** high relevance
+**16** new matches | **0** high relevance
 
 ---
 
-### 1. 🟡 Commercial Segment Lead B2B SaaS – Growth / P&L (alle Identitäten)
-**Caspar Health** · 📍 Germany · Score: 65/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/commercial-segment-lead-b2b-saas-%E2%80%93-growth-p-l-alle-identit%C3%A4ten-at-caspar-health-4467352902)
-  - Seniority match: 'lead'
-  - Keywords (3): commercial, growth, p&l
-  - Location: 'germany'
-  - Target company: Caspar Health
-
-### 2. 🟡 Head of Operations (Finance & People) (w/m/d)
-**comrce** · 📍 Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-operations-finance-people-w-m-d-at-comrce-4467378037)
-  - Title match: 'head of operations'
+### 1. 🟡 Associate Director, BioPharma Business Development (EMEA)
+**Foundation Medicine** · 📍 Penzberg, Bavaria, Germany · Score: 65/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-biopharma-business-development-emea-at-foundation-medicine-4394666873)
+  - Title match: 'associate director'
+  - Keywords (2): pharma, business development
   - Location: 'germany'
 
-### 3. 🟡 HEAD OF OPERATIONS –
-Operations manager
-(m/w/d) in der 
-Systemgastronomie
-Deutschland
-**tastyy (Deutschland)** · 📍 Bocholt, North Rhine-Westphalia, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-operations-%E2%80%93%0Aoperations-manager%0A-m-w-d-in-der-%0Asystemgastronomie%0Adeutschland-at-tastyy-deutschland-4469841397)
-  - Title match: 'head of operations'
-  - Location: 'germany'
-
-### 4. 🟡 Head of Product Development B2B Dairy
-**Zentis Group** · 📍 Aachen, North Rhine-Westphalia, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-product-development-b2b-dairy-at-zentis-group-4469859604)
+### 2. 🟡 Head of Product Digitale Produkte (m/w/d)
+**Rocken®** · 📍 Stuttgart, Baden-Württemberg, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-product-digitale-produkte-m-w-d-at-rocken%C2%AE-4468137652)
   - Title match: 'head of product'
   - Location: 'germany'
 
-### 5. ⚪ Senior Director Commercial EMEA (C&I) (m/f/d)
-**Azenta Life Sciences** · 📍 Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-director-commercial-emea-c-i-m-f-d-at-azenta-life-sciences-4469891000)
-  - Seniority match: 'director'
-  - Keywords (2): life sciences, commercial
+### 3. 🟡 General Manager Sales Marketing
+**Jörg Scheffler Consulting** · 📍 Schwarzwald-Baar-Kreis, Baden-Württemberg, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/general-manager-sales-marketing-at-j%C3%B6rg-scheffler-consulting-4468542777)
+  - Title match: 'general manager'
   - Location: 'germany'
 
-### 6. ⚪ Senior Sales Director EMEA (C&I) (m/f/d)
-**Azenta Life Sciences** · 📍 Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-sales-director-emea-c-i-m-f-d-at-azenta-life-sciences-4467385623)
-  - Seniority match: 'director'
-  - Keywords (1): life sciences
+### 4. 🟡 Head of Production (m/f/d)
+**ageneo Life Science Experts (Interim Solutions) GmbH** · 📍 Bavaria, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-production-m-f-d-at-ageneo-life-science-experts-interim-solutions-gmbh-4468584161)
+  - Title match: 'head of product'
   - Location: 'germany'
 
-### 7. ⚪ Director Global Technical Operations Portfolio Strategy
-**BioNTech SE** · 📍 Munich, Bavaria, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-global-technical-operations-portfolio-strategy-at-biontech-se-4469865109)
-  - Seniority match: 'director'
-  - Keywords (1): strategy
-  - Location: 'germany'
+### 5. 🟡 Associate Director Biostatistics (Oncology)
+**BioNTech SE** · 📍 Frankfurt Rhine-Main Metropolitan Area · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-biostatistics-oncology-at-biontech-se-4405874525)
+  - Title match: 'associate director'
+  - Location: 'frankfurt'
 
-### 8. ⚪ Metadata Standards & Governance Lead - Pharma
-**Data Science Talent** · 📍 Frankfurt, Hesse, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/metadata-standards-governance-lead-pharma-at-data-science-talent-4469861875)
+### 6. 🟡 Head CMC Drug Product - Parenterals (Senior Director) (all genders)
+**Bayer** · 📍 Wuppertal, North Rhine-Westphalia, Germany · Score: 50/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-cmc-drug-product-parenterals-senior-director-all-genders-at-bayer-4469890610)
+  - Seniority match: 'director'
+  - Location: 'germany'
+  - Target company: Bayer G4A (Grants4Apps)
+
+### 7. 🟡 Veralto Enterprise System Leader (VESL), Growth Innovation (R&D / Product Management) (m/f/d)
+**X-Rite** · 📍 Frankfurt, Hesse, Germany · Score: 50/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/veralto-enterprise-system-leader-vesl-growth-innovation-r-d-product-management-m-f-d-at-x-rite-4434249503)
   - Seniority match: 'lead'
-  - Keywords (1): pharma
+  - Keywords (3): innovation, product management, growth
   - Location: 'germany'
 
-### 9. ⚪ Explore more
-**Merck Innovation Center** · 📍 Darmstadt · Score: 40/100
-🔗 [Direct (Merck Innovation Center)](https://careers.emdgroup.com/us/en/work-areas)
-  - Keywords (1): innovation
-  - Location: 'darmstadt'
-  - Target company: Merck Innovation Center
+### 8. ⚪ Associate Solution and Delivery Lead, Healthcare & Pharma
+**IQVIA** · 📍 Munich, Bavaria, Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-solution-and-delivery-lead-healthcare-pharma-at-iqvia-4470230026)
+  - Seniority match: 'lead'
+  - Keywords (2): pharma, healthcare
+  - Location: 'germany'
 
-### 10. ⚪ Explore more
-**Merck Innovation Center** · 📍 Darmstadt · Score: 40/100
-🔗 [Direct (Merck Innovation Center)](https://careers.emdgroup.com/us/en/students-and-graduates)
-  - Keywords (1): innovation
-  - Location: 'darmstadt'
-  - Target company: Merck Innovation Center
+### 9. ⚪ Vertriebsleiter/in (w/m/d) Healthcare
+**SAP** · 📍 Walldorf, Baden-Württemberg, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/vertriebsleiter-in-w-m-d-healthcare-at-sap-4467614547)
+  - Seniority match: 'leiter'
+  - Keywords (1): healthcare
+  - Location: 'germany'
 
-### 11. ⚪ Learn more
-**Merck Innovation Center** · 📍 Darmstadt · Score: 40/100
-🔗 [Direct (Merck Innovation Center)](https://careers.emdgroup.com/us/en/it-ot-convergence)
-  - Keywords (1): innovation
-  - Location: 'darmstadt'
-  - Target company: Merck Innovation Center
+### 10. ⚪ Team Lead Consultant (m/f/d) – Healthcare Process Consulting - Jobbird.com
+**Jobster** · 📍 Coblenz, Rhineland-Palatinate, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/team-lead-consultant-m-f-d-%E2%80%93-healthcare-process-consulting-jobbird-com-at-jobster-4468741564)
+  - Seniority match: 'lead'
+  - Keywords (1): healthcare
+  - Location: 'germany'
 
-### 12. ⚪ Learn more
-**Merck Innovation Center** · 📍 Darmstadt · Score: 40/100
-🔗 [Direct (Merck Innovation Center)](https://careers.emdgroup.com/us/en/data-and-analytics)
-  - Keywords (1): innovation
-  - Location: 'darmstadt'
-  - Target company: Merck Innovation Center
+### 11. ⚪ Leiter Vertrieb Gesundheitsdienstleistungen (m/w/d)
+Healthcare / Gesundheits- & Sozialwesen
+**THR24 Consulting** · 📍 Bavaria, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/leiter-vertrieb-gesundheitsdienstleistungen-m-w-d-%0Ahealthcare-gesundheits-sozialwesen-at-thr24-consulting-4468515842)
+  - Seniority match: 'leiter'
+  - Keywords (1): healthcare
+  - Location: 'germany'
 
-### 13. ⚪ Learn more.
-**Merck Innovation Center** · 📍 Darmstadt · Score: 40/100
-🔗 [Direct (Merck Innovation Center)](https://careers.emdgroup.com/us/en/inhouse-consulting)
-  - Keywords (1): innovation
-  - Location: 'darmstadt'
-  - Target company: Merck Innovation Center
+### 12. ⚪ Direktor Geschäftsfeld DMS / ECM | Vertrieb, Business Development, Delivery | bis 150.000 € (mwd)
+**Vesterling AG** · 📍 Berlin, Berlin, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/direktor-gesch%C3%A4ftsfeld-dms-ecm-vertrieb-business-development-delivery-bis-150-000-%E2%82%AC-mwd-at-vesterling-ag-4468552242)
+  - Seniority match: 'direktor'
+  - Keywords (1): business development
+  - Location: 'germany'
 
-### 14. ⚪ See more
-**Merck Innovation Center** · 📍 Darmstadt · Score: 40/100
-🔗 [Direct (Merck Innovation Center)](https://careers.emdgroup.com/us/en/benefits)
-  - Keywords (1): innovation
-  - Location: 'darmstadt'
-  - Target company: Merck Innovation Center
+### 13. ⚪ Head of Sales Germany (m/w/d)
+**Merz Therapeutics** · 📍 Frankfurt, Hesse, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-sales-germany-m-w-d-at-merz-therapeutics-4468773695)
+  - Seniority match: 'head of'
+  - Keywords (1): therapeutic
+  - Location: 'germany'
 
-### 15. ⚪ Join Talent Zone
-**Merck Innovation Center** · 📍 Darmstadt · Score: 40/100
-🔗 [Direct (Merck Innovation Center)](https://careers.emdgroup.com/us/en/talent-zone-landing)
-  - Keywords (1): innovation
-  - Location: 'darmstadt'
-  - Target company: Merck Innovation Center
+### 14. ⚪ Head of Sales Germany (m/w/d)
+**Merz Therapeutics** · 📍 Frankfurt am Main, Hesse, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-sales-germany-m-w-d-at-merz-therapeutics-4468164205)
+  - Seniority match: 'head of'
+  - Keywords (1): therapeutic
+  - Location: 'germany'
 
-### 16. ⚪ Career Site Cookie Settings
-**Merck Innovation Center** · 📍 Darmstadt · Score: 40/100
-🔗 [Direct (Merck Innovation Center)](https://careers.emdgroup.com/us/en/cookiesettings)
-  - Keywords (1): innovation
-  - Location: 'darmstadt'
-  - Target company: Merck Innovation Center
+### 15. ⚪ Vertriebsleiter/in (w/m/d) Healthcare
+**SAP** · 📍 Walldorf, Baden-Württemberg, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/vertriebsleiter-in-w-m-d-healthcare-at-sap-4467625298)
+  - Seniority match: 'leiter'
+  - Keywords (1): healthcare
+  - Location: 'germany'
 
-### 17. ⚪ CAREERS
-**Merck Innovation Center** · 📍 Darmstadt · Score: 40/100
-🔗 [Direct (Merck Innovation Center)](https://careers.emdgroup.com/us/en)
+### 16. ⚪ Head of R&D and Innovation (m/f/d)
+**GE Vernova** · 📍 Berlin, Berlin, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-r-d-and-innovation-m-f-d-at-ge-vernova-4469931689)
+  - Seniority match: 'head of'
   - Keywords (1): innovation
-  - Location: 'darmstadt'
-  - Target company: Merck Innovation Center
+  - Location: 'germany'
