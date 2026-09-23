@@ -1,114 +1,68 @@
-# 🎯 Daily Job Report — 2026-09-22
+# 🎯 Daily Job Report — 2026-09-23
 
-**16** new matches | **0** high relevance
+**9** new matches | **0** high relevance
 
 ---
 
-### 1. 🟡 Associate Director, BioPharma Business Development (EMEA)
-**Foundation Medicine** · 📍 Penzberg, Bavaria, Germany · Score: 65/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-biopharma-business-development-emea-at-foundation-medicine-4394666873)
-  - Title match: 'associate director'
-  - Keywords (2): pharma, business development
+### 1. 🟡 Regional Sales Lead (w/m/d)
+**Siemens Healthineers** · 📍 Forchheim, Bavaria, Germany · Score: 50/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/regional-sales-lead-w-m-d-at-siemens-healthineers-4468596177)
+  - Seniority match: 'regional'
   - Location: 'germany'
+  - Target company: Siemens Healthineers Digital
 
-### 2. 🟡 Head of Product Digitale Produkte (m/w/d)
-**Rocken®** · 📍 Stuttgart, Baden-Württemberg, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-product-digitale-produkte-m-w-d-at-rocken%C2%AE-4468137652)
-  - Title match: 'head of product'
+### 2. 🟡 Regional Sales Lead (m/w/d)
+**Siemens Healthineers** · 📍 Forchheim, Bavaria, Germany · Score: 50/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/regional-sales-lead-m-w-d-at-siemens-healthineers-4468597141)
+  - Seniority match: 'regional'
   - Location: 'germany'
+  - Target company: Siemens Healthineers Digital
 
-### 3. 🟡 General Manager Sales Marketing
-**Jörg Scheffler Consulting** · 📍 Schwarzwald-Baar-Kreis, Baden-Württemberg, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/general-manager-sales-marketing-at-j%C3%B6rg-scheffler-consulting-4468542777)
-  - Title match: 'general manager'
-  - Location: 'germany'
-
-### 4. 🟡 Head of Production (m/f/d)
-**ageneo Life Science Experts (Interim Solutions) GmbH** · 📍 Bavaria, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-production-m-f-d-at-ageneo-life-science-experts-interim-solutions-gmbh-4468584161)
-  - Title match: 'head of product'
-  - Location: 'germany'
-
-### 5. 🟡 Associate Director Biostatistics (Oncology)
-**BioNTech SE** · 📍 Frankfurt Rhine-Main Metropolitan Area · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-biostatistics-oncology-at-biontech-se-4405874525)
-  - Title match: 'associate director'
-  - Location: 'frankfurt'
-
-### 6. 🟡 Head CMC Drug Product - Parenterals (Senior Director) (all genders)
-**Bayer** · 📍 Wuppertal, North Rhine-Westphalia, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-cmc-drug-product-parenterals-senior-director-all-genders-at-bayer-4469890610)
+### 3. ⚪ Commercial Director
+**Stealth Space Startup** · 📍 Munich, Bavaria, Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/commercial-director-at-stealth-space-startup-4468992547)
   - Seniority match: 'director'
-  - Location: 'germany'
-  - Target company: Bayer G4A (Grants4Apps)
-
-### 7. 🟡 Veralto Enterprise System Leader (VESL), Growth Innovation (R&D / Product Management) (m/f/d)
-**X-Rite** · 📍 Frankfurt, Hesse, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/veralto-enterprise-system-leader-vesl-growth-innovation-r-d-product-management-m-f-d-at-x-rite-4434249503)
-  - Seniority match: 'lead'
-  - Keywords (3): innovation, product management, growth
+  - Keywords (2): commercial, startup
   - Location: 'germany'
 
-### 8. ⚪ Associate Solution and Delivery Lead, Healthcare & Pharma
-**IQVIA** · 📍 Munich, Bavaria, Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-solution-and-delivery-lead-healthcare-pharma-at-iqvia-4470230026)
-  - Seniority match: 'lead'
-  - Keywords (2): pharma, healthcare
+### 4. ⚪ Head of IT Strategy & Operations (m/w/d)
+**Amadeus Fire** · 📍 Rhein, Baden-Württemberg, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-it-strategy-operations-m-w-d-at-amadeus-fire-4470905778)
+  - Seniority match: 'head of'
+  - Keywords (1): strategy
   - Location: 'germany'
 
-### 9. ⚪ Vertriebsleiter/in (w/m/d) Healthcare
-**SAP** · 📍 Walldorf, Baden-Württemberg, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/vertriebsleiter-in-w-m-d-healthcare-at-sap-4467614547)
-  - Seniority match: 'leiter'
-  - Keywords (1): healthcare
-  - Location: 'germany'
-
-### 10. ⚪ Team Lead Consultant (m/f/d) – Healthcare Process Consulting - Jobbird.com
-**Jobster** · 📍 Coblenz, Rhineland-Palatinate, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/team-lead-consultant-m-f-d-%E2%80%93-healthcare-process-consulting-jobbird-com-at-jobster-4468741564)
-  - Seniority match: 'lead'
-  - Keywords (1): healthcare
-  - Location: 'germany'
-
-### 11. ⚪ Leiter Vertrieb Gesundheitsdienstleistungen (m/w/d)
-Healthcare / Gesundheits- & Sozialwesen
-**THR24 Consulting** · 📍 Bavaria, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/leiter-vertrieb-gesundheitsdienstleistungen-m-w-d-%0Ahealthcare-gesundheits-sozialwesen-at-thr24-consulting-4468515842)
-  - Seniority match: 'leiter'
-  - Keywords (1): healthcare
-  - Location: 'germany'
-
-### 12. ⚪ Direktor Geschäftsfeld DMS / ECM | Vertrieb, Business Development, Delivery | bis 150.000 € (mwd)
-**Vesterling AG** · 📍 Berlin, Berlin, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/direktor-gesch%C3%A4ftsfeld-dms-ecm-vertrieb-business-development-delivery-bis-150-000-%E2%82%AC-mwd-at-vesterling-ag-4468552242)
-  - Seniority match: 'direktor'
+### 5. ⚪ Director Business Development - Oncology
+**TFS HealthScience** · 📍 Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-business-development-oncology-at-tfs-healthscience-4434461960)
+  - Seniority match: 'director'
   - Keywords (1): business development
   - Location: 'germany'
 
-### 13. ⚪ Head of Sales Germany (m/w/d)
-**Merz Therapeutics** · 📍 Frankfurt, Hesse, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-sales-germany-m-w-d-at-merz-therapeutics-4468773695)
-  - Seniority match: 'head of'
-  - Keywords (1): therapeutic
-  - Location: 'germany'
-
-### 14. ⚪ Head of Sales Germany (m/w/d)
-**Merz Therapeutics** · 📍 Frankfurt am Main, Hesse, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-sales-germany-m-w-d-at-merz-therapeutics-4468164205)
-  - Seniority match: 'head of'
-  - Keywords (1): therapeutic
-  - Location: 'germany'
-
-### 15. ⚪ Vertriebsleiter/in (w/m/d) Healthcare
-**SAP** · 📍 Walldorf, Baden-Württemberg, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/vertriebsleiter-in-w-m-d-healthcare-at-sap-4467625298)
+### 6. ⚪ Leiter DMS / ECM | Vertrieb, Business Development, Delivery | bis 150.000 € + PKW (mwd)
+**Vesterling AG** · 📍 Berlin, Berlin, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/leiter-dms-ecm-vertrieb-business-development-delivery-bis-150-000-%E2%82%AC-%2B-pkw-mwd-at-vesterling-ag-4470902655)
   - Seniority match: 'leiter'
+  - Keywords (1): business development
+  - Location: 'germany'
+
+### 7. ⚪ Director Consulting Services - Commercial & Public (m/w/d)
+**CGI** · 📍 Mannheim, Baden-Württemberg, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-consulting-services-commercial-public-m-w-d-at-cgi-4452654309)
+  - Seniority match: 'director'
+  - Keywords (1): commercial
+  - Location: 'germany'
+
+### 8. ⚪ Head of Region North (m/w/d) Personaldienstleistung
+**House of Healthcare** · 📍 Hamburg, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-region-north-m-w-d-personaldienstleistung-at-house-of-healthcare-4468587522)
+  - Seniority match: 'head of'
   - Keywords (1): healthcare
   - Location: 'germany'
 
-### 16. ⚪ Head of R&D and Innovation (m/f/d)
-**GE Vernova** · 📍 Berlin, Berlin, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-r-d-and-innovation-m-f-d-at-ge-vernova-4469931689)
+### 9. ⚪ Head of Region South (m/w/d) Personaldienstleistung
+**House of Healthcare** · 📍 Hamburg, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-region-south-m-w-d-personaldienstleistung-at-house-of-healthcare-4468593174)
   - Seniority match: 'head of'
-  - Keywords (1): innovation
+  - Keywords (1): healthcare
   - Location: 'germany'

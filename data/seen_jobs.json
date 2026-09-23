@@ -1,47 +1,5 @@
 {
   "seen": {
-    "f63bf30f8f8056e8a7d8c682c8e97eaf": {
-      "title": "Head of Portfolio Strategy - Germany",
-      "company": "Kyowa Kirin International plc.",
-      "first_seen": "2026-08-24T07:09:32.794322",
-      "score": 40.0
-    },
-    "ff76fa2c08cdffabe0a2dece4e191bba": {
-      "title": "Chief of Staff to the CEO \u2013 FUTRUE Group",
-      "company": "FUTRUE",
-      "first_seen": "2026-08-24T07:09:32.794340",
-      "score": 55.0
-    },
-    "41e0a7ce0d51d8d5fe49ae2c59488391": {
-      "title": "Director Business Development & M&A",
-      "company": "FUTRUE",
-      "first_seen": "2026-08-24T07:09:32.794344",
-      "score": 40.0
-    },
-    "922119f3bba814814335f22667cd8679": {
-      "title": "Sr. Director, Enterprise Sales, Public, Utilities, Life Sciences and Service Provider (PULS) Germany",
-      "company": "Genesys",
-      "first_seen": "2026-08-24T07:09:32.794347",
-      "score": 40.0
-    },
-    "9ef398a8ebc4d5b00443ac53e8b98a01": {
-      "title": "Direktor:in Business Development",
-      "company": "Syben Consulting",
-      "first_seen": "2026-08-24T07:09:32.794350",
-      "score": 40.0
-    },
-    "b3388099068f4c00f789a3d799d59f03": {
-      "title": "Director of Business Development",
-      "company": "CesiumAstro",
-      "first_seen": "2026-08-24T07:09:32.794352",
-      "score": 60.0
-    },
-    "86341e54a143879fbf438eb45b8d5b37": {
-      "title": "Regional Sales Manager (w/m/d) Upper Extremities",
-      "company": "Stryker",
-      "first_seen": "2026-08-24T07:09:32.794355",
-      "score": 50.0
-    },
     "0df8caf4cc8b75d51c6f2bb8c7a53979": {
       "title": "Early Asset Management Lead (m/w/d) Oncology",
       "company": "AstraZeneca",
@@ -2273,11 +2231,65 @@
       "company": "X-Rite",
       "first_seen": "2026-09-22T11:20:19.560196",
       "score": 50.0
+    },
+    "c05a20b540c0d83b9ff0f25be9371cdc": {
+      "title": "Head of IT Strategy & Operations (m/w/d)",
+      "company": "Amadeus Fire",
+      "first_seen": "2026-09-23T11:13:08.984097",
+      "score": 40.0
+    },
+    "e17f519b6cb1a24c4b20bb0265d017d5": {
+      "title": "Director Business Development - Oncology",
+      "company": "TFS HealthScience",
+      "first_seen": "2026-09-23T11:13:08.984106",
+      "score": 40.0
+    },
+    "297f50ba4bd4979ebd97412fe30af326": {
+      "title": "Commercial Director",
+      "company": "Stealth Space Startup",
+      "first_seen": "2026-09-23T11:13:08.984108",
+      "score": 45.0
+    },
+    "63a0f15f7b8ecb4591fffed59bfa89c1": {
+      "title": "Regional Sales Lead (w/m/d)",
+      "company": "Siemens Healthineers",
+      "first_seen": "2026-09-23T11:13:08.984110",
+      "score": 50.0
+    },
+    "5797ad766409004292a5dff84eb37df8": {
+      "title": "Regional Sales Lead (m/w/d)",
+      "company": "Siemens Healthineers",
+      "first_seen": "2026-09-23T11:13:08.984111",
+      "score": 50.0
+    },
+    "2c695379cd75811f871972fcb974d2a1": {
+      "title": "Leiter DMS / ECM | Vertrieb, Business Development, Delivery | bis 150.000 \u20ac + PKW (mwd)",
+      "company": "Vesterling AG",
+      "first_seen": "2026-09-23T11:13:08.984113",
+      "score": 40.0
+    },
+    "765c60b848021a966603f8d78c7ae1cb": {
+      "title": "Director Consulting Services - Commercial & Public (m/w/d)",
+      "company": "CGI",
+      "first_seen": "2026-09-23T11:13:08.984114",
+      "score": 40.0
+    },
+    "24b4a3e27d0158e43ffc5d0bab78434a": {
+      "title": "Head of Region North (m/w/d) Personaldienstleistung",
+      "company": "House of Healthcare",
+      "first_seen": "2026-09-23T11:13:08.984116",
+      "score": 40.0
+    },
+    "61c3f1874b27c6bd4bba3cd5e5b78f6c": {
+      "title": "Head of Region South (m/w/d) Personaldienstleistung",
+      "company": "House of Healthcare",
+      "first_seen": "2026-09-23T11:13:08.984117",
+      "score": 40.0
     }
   },
-  "last_run": "2026-09-22T11:20:19.560203",
+  "last_run": "2026-09-23T11:13:08.984121",
   "stats": {
-    "total_seen": 379,
-    "total_reported": 1376
+    "total_seen": 381,
+    "total_reported": 1385
   }
 }
