@@ -1,167 +1,5 @@
 {
   "seen": {
-    "121c6609e784d3a29f10375975d86203": {
-      "title": "Principal \u2013 Consulting Excellence & Growth (w/m/d)",
-      "company": "Siemens Healthineers",
-      "first_seen": "2026-08-26T06:59:50.407908",
-      "score": 55.0
-    },
-    "dabe28036cb68ed05ddae03d2e5ac785": {
-      "title": "Principal - Consulting Excellence & Growth (f/m/d)",
-      "company": "Siemens Healthineers",
-      "first_seen": "2026-08-26T06:59:50.407923",
-      "score": 55.0
-    },
-    "a7bfc3835ec2295cb34c685f83b9a418": {
-      "title": "Head of Product Commercial Unit (m/w/d) - Jobbird.com",
-      "company": "Jobster",
-      "first_seen": "2026-08-26T06:59:50.407926",
-      "score": 60.0
-    },
-    "e12f5eda9121e75bffc32d228266890a": {
-      "title": "Head of Commercial Services (x|f|m)",
-      "company": "Sartorius",
-      "first_seen": "2026-08-26T06:59:50.407928",
-      "score": 60.0
-    },
-    "59af19dcace4ef722e462f531df123d6": {
-      "title": "Head of Commercial Services (x|f|m)",
-      "company": "Sartorius",
-      "first_seen": "2026-08-26T06:59:50.407930",
-      "score": 60.0
-    },
-    "0300097b8cbbab8a55c10d861c61fc5e": {
-      "title": "Director Commercial Execution Germany - Digital Health (Silent Cloud)",
-      "company": "Sonova Group",
-      "first_seen": "2026-08-26T06:59:50.407931",
-      "score": 45.0
-    },
-    "c995ab4924be6258bae6782d06f1bbb7": {
-      "title": "Sales Director, Growth & Business Development",
-      "company": "Dinnova AG",
-      "first_seen": "2026-08-26T06:59:50.407933",
-      "score": 45.0
-    },
-    "493e9da53de2c475d4b62d068bfb1cc1": {
-      "title": "Director of Operations/Strategy (m/f/x)",
-      "company": "exmox",
-      "first_seen": "2026-08-26T06:59:50.407934",
-      "score": 60.0
-    },
-    "a56d76df147c54ea8f73f40570e1b36c": {
-      "title": "Head of Production (m/f/d)",
-      "company": "ageneo Life Science Experts (Interim Solutions) GmbH",
-      "first_seen": "2026-08-26T06:59:50.407935",
-      "score": 55.0
-    },
-    "88aa10a372a5a10e10f4706bc17c1d84": {
-      "title": "Head of Operations Nordics (m/f/d) in Renewable Energies",
-      "company": "Encavis",
-      "first_seen": "2026-08-26T06:59:50.407937",
-      "score": 55.0
-    },
-    "3ee3a812e48b52bb77604936afa07d1b": {
-      "title": "Digital M&S GenMed Insulin Cluster Leader - all genders",
-      "company": "Sanofi",
-      "first_seen": "2026-08-26T06:59:50.407938",
-      "score": 50.0
-    },
-    "0fee4de9f4facb651b2336be8457cd74": {
-      "title": "Associate Director (m/f/d), Computational Pathology Biomarker Lead (Oncology/BioPharma)",
-      "company": "AstraZeneca",
-      "first_seen": "2026-08-26T06:59:50.407940",
-      "score": 75.0
-    },
-    "ab5a415c6a1e6e15fae6c2b16a38c231": {
-      "title": "Senior Manager/Associate Director - Commercial Excellence (1260)",
-      "company": "Axtria - Ingenious Insights",
-      "first_seen": "2026-08-26T06:59:50.407941",
-      "score": 60.0
-    },
-    "1b2577aa1e21db56e42479523f6b93de": {
-      "title": "VP, Growth",
-      "company": "IMI",
-      "first_seen": "2026-08-26T06:59:50.407942",
-      "score": 40.0
-    },
-    "f4f7e56ce8f73fb0d391f38d76365325": {
-      "title": "Executive Director, ggf. mit Team (Partner-Level) (m/w/d)",
-      "company": "NDG Strategy Advisory GmbH",
-      "first_seen": "2026-08-26T06:59:50.407944",
-      "score": 40.0
-    },
-    "08ca85ce7d0dfd21c66936528dec09fc": {
-      "title": "Know your rights",
-      "company": "Philips Health Innovation",
-      "first_seen": "2026-08-26T06:59:50.407945",
-      "score": 40.0
-    },
-    "d1324879c00c6d9af5bd00726e1bf1e5": {
-      "title": "English",
-      "company": "AstraZeneca Innovation",
-      "first_seen": "2026-08-26T06:59:50.407946",
-      "score": 40.0
-    },
-    "f6175c67e0ca69b6f015c17fc95f0589": {
-      "title": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439",
-      "company": "AstraZeneca Innovation",
-      "first_seen": "2026-08-26T06:59:50.407948",
-      "score": 40.0
-    },
-    "07d0fdac0142af92a5609f0f5a66d304": {
-      "title": "Deutsch",
-      "company": "AstraZeneca Innovation",
-      "first_seen": "2026-08-26T06:59:50.407949",
-      "score": 40.0
-    },
-    "ec34abf4980d85cd72c30e2950dffe9b": {
-      "title": "Fran\u00e7ais",
-      "company": "AstraZeneca Innovation",
-      "first_seen": "2026-08-26T06:59:50.407950",
-      "score": 40.0
-    },
-    "fbc09da1c62d43caae79f8695b67a470": {
-      "title": "Svenska",
-      "company": "AstraZeneca Innovation",
-      "first_seen": "2026-08-26T06:59:50.407952",
-      "score": 40.0
-    },
-    "011feb81124c0231e5c8e3c7f24dd87a": {
-      "title": "Alexion",
-      "company": "AstraZeneca Innovation",
-      "first_seen": "2026-08-26T06:59:50.407953",
-      "score": 40.0
-    },
-    "86824b945dccf2bf50f430bd85653e93": {
-      "title": "Fusion Pharma",
-      "company": "AstraZeneca Innovation",
-      "first_seen": "2026-08-26T06:59:50.407955",
-      "score": 45.0
-    },
-    "f01a42663821ac7374acd4ff2e91866e": {
-      "title": "Join Talent Network",
-      "company": "AstraZeneca Innovation",
-      "first_seen": "2026-08-26T06:59:50.407956",
-      "score": 40.0
-    },
-    "31c264c20683e0825dcf1cbf8791de5e": {
-      "title": "GET MATCHED TO A JOBUPLOAD YOUR RESUME",
-      "company": "AstraZeneca Innovation",
-      "first_seen": "2026-08-26T06:59:50.407957",
-      "score": 40.0
-    },
-    "f5580b78712ba466f1b9cdb32173f452": {
-      "title": "AlexionWe expanded our scientific footprint with the acquisition of Alexion's cutting-edge work in rare disease therapeutics.",
-      "company": "AstraZeneca Innovation",
-      "first_seen": "2026-08-26T06:59:50.407959",
-      "score": 45.0
-    },
-    "50bc525ab4cec884a4756a40c1cef9db": {
-      "title": "Job Application Privacy Notice",
-      "company": "AstraZeneca Innovation",
-      "first_seen": "2026-08-26T06:59:50.407960",
-      "score": 40.0
-    },
     "493ab41a3ef57216e0a12a13c0452acd": {
       "title": "VP & Managing Director, Clinical Strategic Operations, Large Pharma Partnership",
       "company": "IQVIA",
@@ -2273,11 +2111,209 @@
       "company": "Abbott",
       "first_seen": "2026-09-24T11:29:01.758034",
       "score": 50.0
+    },
+    "789792f1991c03c6267f3fe926014b13": {
+      "title": "(Senior) Director / Vice President Life Sciences Germany (m/w/d)",
+      "company": "Capgemini Invent",
+      "first_seen": "2026-09-25T11:34:54.886266",
+      "score": 40.0
+    },
+    "e3b6b11461e477937976319abd3d68c1": {
+      "title": "Head of Oncology Strategy & Operations (m/w/d)",
+      "company": "Takeda",
+      "first_seen": "2026-09-25T11:34:54.886279",
+      "score": 40.0
+    },
+    "1a98c215a53b04de6c5cd7528e74a964": {
+      "title": "General Manager - DACH, Nordics & Benelux",
+      "company": "Hologic, Inc.",
+      "first_seen": "2026-09-25T11:34:54.886283",
+      "score": 55.0
+    },
+    "113d99dbea662012215566f3654e4b0b": {
+      "title": "Director, Clinical FSP Go to Market/Therapeutic Strategy Lead",
+      "company": "IQVIA",
+      "first_seen": "2026-09-25T11:34:54.886286",
+      "score": 50.0
+    },
+    "9ef7de02a9010a5cad579b7f381a6b78": {
+      "title": "Head of Marketing - B2B SaaS Growth - Healthcare/ Start-Up- Hybrid",
+      "company": "Mediform",
+      "first_seen": "2026-09-25T11:34:54.886289",
+      "score": 45.0
+    },
+    "156762e2aec5c9ddd13dbad33a973d38": {
+      "title": "CO-ABTEILUNGSLEITER*IN - DIGITAL HEALTH ENGINEERING",
+      "company": "Fraunhofer IESE",
+      "first_seen": "2026-09-25T11:34:54.886292",
+      "score": 40.0
+    },
+    "f7c497669b704edb1dccddc44ba32335": {
+      "title": "Product Strategy Lead (x/f/m)",
+      "company": "Doctolib",
+      "first_seen": "2026-09-25T11:34:54.886295",
+      "score": 55.0
+    },
+    "0d891b40ab6cb922e858c43e5196cec6": {
+      "title": "Director Business Development (m/f/d) - Axolabs (CRO)",
+      "company": "LGC",
+      "first_seen": "2026-09-25T11:34:54.886298",
+      "score": 40.0
+    },
+    "eefc229d6dfda032871ee7b214b09ef4": {
+      "title": "Director Business Development (m/f/d) - Axolabs (CRO)",
+      "company": "Axolabs",
+      "first_seen": "2026-09-25T11:34:54.886300",
+      "score": 40.0
+    },
+    "4b79d81237db755e1421837561b3ba85": {
+      "title": "Head of Marketing & Sales Scientific DACH & Netherlands",
+      "company": "Proclinical Staffing",
+      "first_seen": "2026-09-25T11:34:54.886303",
+      "score": 40.0
+    },
+    "4c5fdb10f900e62dce81d2f2d9658130": {
+      "title": "(Senior) Regional Business Manager (m/w/d) im Bereich Electrophysiology Region Ostdeutschland und Berlin",
+      "company": "Johnson & Johnson MedTech",
+      "first_seen": "2026-09-25T11:34:54.886305",
+      "score": 40.0
+    },
+    "6c33c6556ca23b9d8762c72122d640b0": {
+      "title": "Regional Business Head (m/w/d) Dermatology - M\u00fcnchen, Ulm, N\u00fcrnberg, Freiburg, Stuttgart",
+      "company": "LEO Pharma",
+      "first_seen": "2026-09-25T11:34:54.886308",
+      "score": 40.0
+    },
+    "24cd6931592929daaac00049e088053d": {
+      "title": "Business Development Director (DACH)",
+      "company": "Destinus",
+      "first_seen": "2026-09-25T11:34:54.886311",
+      "score": 40.0
+    },
+    "2c97c3320a3672c567401c715769c300": {
+      "title": "Director, Operations, Stolberg",
+      "company": "West Pharmaceutical Services",
+      "first_seen": "2026-09-25T11:34:54.886313",
+      "score": 45.0
+    },
+    "2d893bcd04b110394ef784f0e7fd5083": {
+      "title": "Head of Operations (all genders) in North Germany",
+      "company": "Dott",
+      "first_seen": "2026-09-25T11:34:54.886316",
+      "score": 55.0
+    },
+    "653d7acb59504f11eed0de06df9264bd": {
+      "title": "Head of Design System (x/f/m)",
+      "company": "Doctolib",
+      "first_seen": "2026-09-25T11:34:54.886318",
+      "score": 50.0
+    },
+    "01872bc1c4b16547812872ff30fb5673": {
+      "title": "Regional Sales Manager (m/w/d) Endoskopie - Nord/Mitte",
+      "company": "Stryker",
+      "first_seen": "2026-09-25T11:34:54.886321",
+      "score": 50.0
+    },
+    "ef94c27c82991744d6866cb714c5fa0d": {
+      "title": "Business Development Director Industrial Hygiene (m/f/d)",
+      "company": "ICL Group",
+      "first_seen": "2026-09-25T11:34:54.886323",
+      "score": 40.0
+    },
+    "0d039c9230181ace5e113518cbcad901": {
+      "title": "Head of Channel & Partnerships (all genders)",
+      "company": "revel8",
+      "first_seen": "2026-09-25T11:34:54.886325",
+      "score": 40.0
+    },
+    "f3402aa1af3c89ba94effef23fe83b2c": {
+      "title": "Founding Technical Partnerships Lead",
+      "company": "Clera",
+      "first_seen": "2026-09-25T11:34:54.886328",
+      "score": 40.0
+    },
+    "884772e66270beaa6f5dfaf6473a70bd": {
+      "title": "Senior Director Innovation Apparel - CD&I (m/f/d)",
+      "company": "adidas",
+      "first_seen": "2026-09-25T11:34:54.886330",
+      "score": 40.0
+    },
+    "08ca85ce7d0dfd21c66936528dec09fc": {
+      "title": "Know your rights",
+      "company": "Philips Health Innovation",
+      "first_seen": "2026-09-25T11:34:54.886332",
+      "score": 40.0
+    },
+    "d1324879c00c6d9af5bd00726e1bf1e5": {
+      "title": "English",
+      "company": "AstraZeneca Innovation",
+      "first_seen": "2026-09-25T11:34:54.886334",
+      "score": 40.0
+    },
+    "f6175c67e0ca69b6f015c17fc95f0589": {
+      "title": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439",
+      "company": "AstraZeneca Innovation",
+      "first_seen": "2026-09-25T11:34:54.886337",
+      "score": 40.0
+    },
+    "07d0fdac0142af92a5609f0f5a66d304": {
+      "title": "Deutsch",
+      "company": "AstraZeneca Innovation",
+      "first_seen": "2026-09-25T11:34:54.886340",
+      "score": 40.0
+    },
+    "ec34abf4980d85cd72c30e2950dffe9b": {
+      "title": "Fran\u00e7ais",
+      "company": "AstraZeneca Innovation",
+      "first_seen": "2026-09-25T11:34:54.886342",
+      "score": 40.0
+    },
+    "fbc09da1c62d43caae79f8695b67a470": {
+      "title": "Svenska",
+      "company": "AstraZeneca Innovation",
+      "first_seen": "2026-09-25T11:34:54.886344",
+      "score": 40.0
+    },
+    "011feb81124c0231e5c8e3c7f24dd87a": {
+      "title": "Alexion",
+      "company": "AstraZeneca Innovation",
+      "first_seen": "2026-09-25T11:34:54.886347",
+      "score": 40.0
+    },
+    "86824b945dccf2bf50f430bd85653e93": {
+      "title": "Fusion Pharma",
+      "company": "AstraZeneca Innovation",
+      "first_seen": "2026-09-25T11:34:54.886349",
+      "score": 45.0
+    },
+    "f01a42663821ac7374acd4ff2e91866e": {
+      "title": "Join Talent Network",
+      "company": "AstraZeneca Innovation",
+      "first_seen": "2026-09-25T11:34:54.886351",
+      "score": 40.0
+    },
+    "31c264c20683e0825dcf1cbf8791de5e": {
+      "title": "GET MATCHED TO A JOBUPLOAD YOUR RESUME",
+      "company": "AstraZeneca Innovation",
+      "first_seen": "2026-09-25T11:34:54.886354",
+      "score": 40.0
+    },
+    "f5580b78712ba466f1b9cdb32173f452": {
+      "title": "AlexionWe expanded our scientific footprint with the acquisition of Alexion's cutting-edge work in rare disease therapeutics.",
+      "company": "AstraZeneca Innovation",
+      "first_seen": "2026-09-25T11:34:54.886356",
+      "score": 45.0
+    },
+    "50bc525ab4cec884a4756a40c1cef9db": {
+      "title": "Job Application Privacy Notice",
+      "company": "AstraZeneca Innovation",
+      "first_seen": "2026-09-25T11:34:54.886358",
+      "score": 40.0
     }
   },
-  "last_run": "2026-09-24T11:29:01.758040",
+  "last_run": "2026-09-25T11:34:54.886365",
   "stats": {
-    "total_seen": 379,
-    "total_reported": 1397
+    "total_seen": 385,
+    "total_reported": 1430
   }
 }
