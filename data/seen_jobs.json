@@ -1,95 +1,5 @@
 {
   "seen": {
-    "493ab41a3ef57216e0a12a13c0452acd": {
-      "title": "VP & Managing Director, Clinical Strategic Operations, Large Pharma Partnership",
-      "company": "IQVIA",
-      "first_seen": "2026-08-27T17:33:55.939611",
-      "score": 45.0
-    },
-    "3104659fa1b9f20006e85427a407fcd5": {
-      "title": "VP & Managing Director, Clinical Strategic Operations, Mid-Sized Pharma Partnerships",
-      "company": "IQVIA",
-      "first_seen": "2026-08-27T17:33:55.939624",
-      "score": 50.0
-    },
-    "af7911688239e4052359e506ed119ab2": {
-      "title": "EY-Parthenon Senior Manager Projektleitung Digitalprojekte - Strategy and Transactions (w/m/d)",
-      "company": "EY-Parthenon",
-      "first_seen": "2026-08-27T17:33:55.939627",
-      "score": 40.0
-    },
-    "df248876a0e0a74839dbe89ddd6875f4": {
-      "title": "Product Lead (all genders) in AI Healthcare at mama health",
-      "company": "Colette - Deine digitale Headhunterin",
-      "first_seen": "2026-08-27T17:33:55.939628",
-      "score": 40.0
-    },
-    "730bf93dbb4c4970b9f6c473af49484b": {
-      "title": "Senior Director, IT Security Strategy & Integration, Global (m/f/d)",
-      "company": "Olympus Corporation",
-      "first_seen": "2026-08-27T17:33:55.939631",
-      "score": 40.0
-    },
-    "7c2bb5fc8158fcb5c229602816ecf407": {
-      "title": "Director Sales & Business Development (m/w/d)",
-      "company": "PROTEC X-RAY",
-      "first_seen": "2026-08-27T17:33:55.939632",
-      "score": 40.0
-    },
-    "4112b9b5eb475be4394d491a81b75393": {
-      "title": "Business Development Account Director Consumer Health",
-      "company": "Catalent",
-      "first_seen": "2026-08-27T17:33:55.939634",
-      "score": 40.0
-    },
-    "de34594457a660ee2f90cf0a9dbc4472": {
-      "title": "Principal (m/w/d) \u2013 Analytics & Consulting, Pharma / Life Sciences",
-      "company": "IQVIA",
-      "first_seen": "2026-08-27T17:33:55.939636",
-      "score": 45.0
-    },
-    "e609b9c1bb71df44792b1ca5b664b602": {
-      "title": "Head of Operations (m/w/d) | Health & Beauty Scale-up",
-      "company": "MY HEALTH & BEAUTY",
-      "first_seen": "2026-08-27T17:33:55.939638",
-      "score": 60.0
-    },
-    "339a7125662a18fdc59fc3c704c1bbfc": {
-      "title": "Media Technology & Data Strategy Lead (all genders)",
-      "company": "Publicis One Touch",
-      "first_seen": "2026-08-27T17:33:55.939639",
-      "score": 40.0
-    },
-    "06435084e3217332ce45d5ea7574e385": {
-      "title": "General Manager, EMEA Sales",
-      "company": "Red Hat",
-      "first_seen": "2026-08-27T17:33:55.939641",
-      "score": 55.0
-    },
-    "d44817173ec6d69d476215c4bd67ce12": {
-      "title": "General Manager, EMEA Sales",
-      "company": "Red Hat",
-      "first_seen": "2026-08-27T17:33:55.939643",
-      "score": 55.0
-    },
-    "f57a8c13cceabbff3ab08de0a7d64a06": {
-      "title": "Head of Sales and Partnerships (m/w/d)",
-      "company": "Gateway Factory",
-      "first_seen": "2026-08-27T17:33:55.939645",
-      "score": 40.0
-    },
-    "58f60fc5f34e3d06d9154820749ef8a4": {
-      "title": "Head of AI & Digital Transformation (m/w/d)",
-      "company": "LivEye",
-      "first_seen": "2026-08-27T17:33:55.939646",
-      "score": 40.0
-    },
-    "433273253f16f60ce1d1dc07e7bab3f9": {
-      "title": "CareersExplore opportunities to join our team and help tackle some of healthcare\u2019s most complex challenges.",
-      "company": "Aidence",
-      "first_seen": "2026-08-27T17:33:55.939648",
-      "score": 40.0
-    },
     "a25edb81d3e691dce66092eae41fb037": {
       "title": "Enterprise AI Value Strategy Senior Manager (All Genders)",
       "company": "Accenture DACH",
@@ -2357,11 +2267,53 @@
       "company": "PHOENIX Pharma Polska",
       "first_seen": "2026-09-26T11:10:30.280096",
       "score": 40.0
+    },
+    "c800e7d820313ca55400f5e7ee62f693": {
+      "title": "Manager / Senior Manager Inhouse Consulting - Data & AI Strategy",
+      "company": "Merck Group",
+      "first_seen": "2026-09-27T11:48:35.595152",
+      "score": 40.0
+    },
+    "d18109736b9006304ec59f4bc823f827": {
+      "title": "Manager / Senior Manager Inhouse Consulting - Healthcare/Life Science",
+      "company": "Merck Group",
+      "first_seen": "2026-09-27T11:48:35.595165",
+      "score": 40.0
+    },
+    "8b176c06b0d2f5e7e2b9f639de4a9c18": {
+      "title": "Leiter:in (m/w/d) Operations / Business Development & Strategie",
+      "company": "Aurivus",
+      "first_seen": "2026-09-27T11:48:35.595170",
+      "score": 40.0
+    },
+    "d3bf8769e7401cfb884f477e479e8a34": {
+      "title": "Director Consulting Services \u2013 Government & Commercial (m/w/d)",
+      "company": "CGI",
+      "first_seen": "2026-09-27T11:48:35.595173",
+      "score": 40.0
+    },
+    "ae153ef3843aa3b67325b38443612f4c": {
+      "title": "Head of Operations (m/w/d) | Health & Beauty Scale-up",
+      "company": "MY HEALTH & BEAUTY",
+      "first_seen": "2026-09-27T11:48:35.595176",
+      "score": 60.0
+    },
+    "a1071e5b3fe6a5682072d444e3bd5ec9": {
+      "title": "Senior Manager Business Development Defense (w/m/d)",
+      "company": "LANXESS",
+      "first_seen": "2026-09-27T11:48:35.595179",
+      "score": 40.0
+    },
+    "433273253f16f60ce1d1dc07e7bab3f9": {
+      "title": "CareersExplore opportunities to join our team and help tackle some of healthcare\u2019s most complex challenges.",
+      "company": "Aidence",
+      "first_seen": "2026-09-27T11:48:35.595182",
+      "score": 40.0
     }
   },
-  "last_run": "2026-09-26T11:10:30.280101",
+  "last_run": "2026-09-27T11:48:35.595188",
   "stats": {
-    "total_seen": 393,
-    "total_reported": 1438
+    "total_seen": 385,
+    "total_reported": 1445
   }
 }
