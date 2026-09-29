@@ -1,29 +1,5 @@
 {
   "seen": {
-    "394fa5b31692143514e029526bd69bfd": {
-      "title": "Director Customer Growth & Strategy - KI-Plattform (m/w/d)",
-      "company": "plotdesk",
-      "first_seen": "2026-08-30T11:40:31.549912",
-      "score": 45.0
-    },
-    "cc59d01239cd944b2e6f5a7302bc40d0": {
-      "title": "Head of Production Planning, Systems & Data (f/m/d)",
-      "company": "Takeda",
-      "first_seen": "2026-08-30T11:40:31.549925",
-      "score": 55.0
-    },
-    "03fd14a0453b94fa7cf96d5534a9460d": {
-      "title": "Head of Business Development DACH",
-      "company": "ASSA ABLOY Group",
-      "first_seen": "2026-08-30T11:40:31.549930",
-      "score": 60.0
-    },
-    "a5035e94cd89525f0aa2470ad1a112af": {
-      "title": "Head of Tech Partnerships",
-      "company": "Pennylane",
-      "first_seen": "2026-08-30T11:40:31.549933",
-      "score": 40.0
-    },
     "40731ef050ee9f0f9caf181708f58b68": {
       "title": "Head of Business Strategy (m/w/d)",
       "company": "ProBioGen AG",
@@ -2225,11 +2201,101 @@
       "company": "Vara (formerly Merantix Healthcare)",
       "first_seen": "2026-09-28T13:28:08.803479",
       "score": 40.0
+    },
+    "afcbc0e0b38feaaa8a7d58c9a8ebdc91": {
+      "title": "Global Ops Strategy Lead",
+      "company": "Roche",
+      "first_seen": "2026-09-29T12:32:26.075527",
+      "score": 55.0
+    },
+    "9b71554829c260124b7f62d45be1f69b": {
+      "title": "Global Ops Strategy Lead",
+      "company": "Roche",
+      "first_seen": "2026-09-29T12:32:26.075541",
+      "score": 55.0
+    },
+    "28b8978a4f3ac891855770e2282d4165": {
+      "title": "Director, Business Development, Europe",
+      "company": "Crown Bioscience",
+      "first_seen": "2026-09-29T12:32:26.075545",
+      "score": 40.0
+    },
+    "343a86ce4301e066dc8fc83d2246474b": {
+      "title": "Director, Strategic Partnerships",
+      "company": "GetYourGuide",
+      "first_seen": "2026-09-29T12:32:26.075548",
+      "score": 40.0
+    },
+    "c62609859f0878a0548b98e7dd72ae42": {
+      "title": "Regional Sales Leader (m/f/d) | Oral Healthcare",
+      "company": "Inizio Engage",
+      "first_seen": "2026-09-29T12:32:26.075551",
+      "score": 40.0
+    },
+    "7e3976f9cdf2f34097dd45d0bbbc6c6c": {
+      "title": "Head of Operations - Administration (all genders)",
+      "company": "Lingoda GmbH",
+      "first_seen": "2026-09-29T12:32:26.075554",
+      "score": 55.0
+    },
+    "71bad8f2e2ea0376e536703dfc7ef9cb": {
+      "title": "Head of Operations Germany",
+      "company": "CCS Cleaning",
+      "first_seen": "2026-09-29T12:32:26.075557",
+      "score": 55.0
+    },
+    "ab9f96773d712c63b0903209dafc0aeb": {
+      "title": "Associate Director Demand, Portfolio & Financial Services",
+      "company": "BioNTech SE",
+      "first_seen": "2026-09-29T12:32:26.075559",
+      "score": 55.0
+    },
+    "ae055258191e956e61ec17970134eca6": {
+      "title": "Associate Director, Medical Operations, Germany",
+      "company": "Revolution Medicines",
+      "first_seen": "2026-09-29T12:32:26.075562",
+      "score": 55.0
+    },
+    "86669b36afd27cbe33e092e4e5ca480e": {
+      "title": "Director of Commercial Operations - EMEAI",
+      "company": "Oxford Instruments GmbH",
+      "first_seen": "2026-09-29T12:32:26.075564",
+      "score": 40.0
+    },
+    "6de52896f332f442ef52135863fd9edb": {
+      "title": "Director of Commercial Operations - EMEAI",
+      "company": "Oxford Instruments plc",
+      "first_seen": "2026-09-29T12:32:26.075566",
+      "score": 40.0
+    },
+    "457c3a0a32892ac860a652e27881378a": {
+      "title": "Vice President Business Development & Commercial (m/w/d)",
+      "company": "Pammys",
+      "first_seen": "2026-09-29T12:32:26.075569",
+      "score": 45.0
+    },
+    "503d2ac8846daec7e32f280ea4d963f4": {
+      "title": "Projektleiter Strategisches Management (m/w/d)",
+      "company": "PHOENIX Pharma Polska",
+      "first_seen": "2026-09-29T12:32:26.075572",
+      "score": 40.0
+    },
+    "c70d282eb4b322d7d6bf10243eb2e72a": {
+      "title": "Director, Technical Innovation",
+      "company": "The Coca-Cola Company",
+      "first_seen": "2026-09-29T12:32:26.075574",
+      "score": 40.0
+    },
+    "c07eb58bd412ba7595691e473cc02e16": {
+      "title": "Career growth in oncology and immunology: Lessons from two J&J leaders",
+      "company": "Johnson & Johnson Innovation",
+      "first_seen": "2026-09-29T12:32:26.075576",
+      "score": 40.0
     }
   },
-  "last_run": "2026-09-28T13:28:08.803486",
+  "last_run": "2026-09-29T12:32:26.075583",
   "stats": {
-    "total_seen": 371,
-    "total_reported": 1455
+    "total_seen": 382,
+    "total_reported": 1470
   }
 }
