@@ -2291,11 +2291,89 @@
       "company": "Johnson & Johnson Innovation",
       "first_seen": "2026-09-29T12:32:26.075576",
       "score": 40.0
+    },
+    "6f4a9d78fb44cafc94254aa49dd0fed4": {
+      "title": "Healthcare & Life Sciences Principal, EMEA",
+      "company": "Everpure",
+      "first_seen": "2026-09-30T12:16:24.488451",
+      "score": 45.0
+    },
+    "00184b10420606899e995df5a248f6f0": {
+      "title": "Business Unit Director NV- GSA",
+      "company": "Stryker",
+      "first_seen": "2026-09-30T12:16:24.488468",
+      "score": 50.0
+    },
+    "e29d9568d8162a77d12331090a36ac7f": {
+      "title": "Strategy Lead (x/f/m)",
+      "company": "Doctolib",
+      "first_seen": "2026-09-30T12:16:24.488472",
+      "score": 55.0
+    },
+    "785a951b490bddac65266bc7a38a2c8f": {
+      "title": "Life Sciences / Pharma / Healthcare Sales Director - Germany",
+      "company": "Careerwise",
+      "first_seen": "2026-09-30T12:16:24.488475",
+      "score": 50.0
+    },
+    "d33f5b30bf490c7ab9694207ec1813bd": {
+      "title": "Sales Director (m/w/d) Surgical Vision DACH",
+      "company": "Johnson & Johnson MedTech",
+      "first_seen": "2026-09-30T12:16:24.488478",
+      "score": 40.0
+    },
+    "1dad99391342b9916ddfc88cbe2bc500": {
+      "title": "Sales Director (m/w/d) Surgical Vision DACH",
+      "company": "Johnson & Johnson MedTech",
+      "first_seen": "2026-09-30T12:16:24.488481",
+      "score": 40.0
+    },
+    "2a9485d8d3d8805a53d3a35552a1429f": {
+      "title": "Director (Associate / Senior) \u2013 Business Development",
+      "company": "ChemPartner",
+      "first_seen": "2026-09-30T12:16:24.488485",
+      "score": 40.0
+    },
+    "9f8c74b1e3b9e076925087ff6ce5a25e": {
+      "title": "Chief Operating Officer (m/w/d) - Clinical Research Organisation",
+      "company": "Constares GmbH",
+      "first_seen": "2026-09-30T12:16:24.488488",
+      "score": 40.0
+    },
+    "fb97b453f91e662e885d55d6a8f0f88a": {
+      "title": "Head of Operations \u2013 Multi-Branch Restaurants",
+      "company": "Jobgether",
+      "first_seen": "2026-09-30T12:16:24.488491",
+      "score": 55.0
+    },
+    "fa585a715d7cc8a937527f0c20b28b4b": {
+      "title": "Head of Machine Learning Research (all genders)",
+      "company": "Bayer",
+      "first_seen": "2026-09-30T12:16:24.488494",
+      "score": 50.0
+    },
+    "19729d80a48268606a1d141d32ec469e": {
+      "title": "Senior Director, Regional Marketing, Life Sciences EMEA",
+      "company": "Thermo Fisher Scientific",
+      "first_seen": "2026-09-30T12:16:24.488497",
+      "score": 40.0
+    },
+    "2cfe8640b489a2e30a567dc07caf7ec8": {
+      "title": "Business Leader \u2013 Pharmaceutical Sales",
+      "company": "Meet Life Sciences",
+      "first_seen": "2026-09-30T12:16:24.488500",
+      "score": 50.0
+    },
+    "68ac663d2500fc6faa7d092cfd957e6e": {
+      "title": "Head of Partnerships (m/w/d)",
+      "company": "Superchat",
+      "first_seen": "2026-09-30T12:16:24.488502",
+      "score": 60.0
     }
   },
-  "last_run": "2026-09-29T12:32:26.075583",
+  "last_run": "2026-09-30T12:16:24.488510",
   "stats": {
-    "total_seen": 382,
-    "total_reported": 1470
+    "total_seen": 395,
+    "total_reported": 1483
   }
 }
