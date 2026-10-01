@@ -1,119 +1,5 @@
 {
   "seen": {
-    "40731ef050ee9f0f9caf181708f58b68": {
-      "title": "Head of Business Strategy (m/w/d)",
-      "company": "ProBioGen AG",
-      "first_seen": "2026-08-31T13:16:31.772024",
-      "score": 40.0
-    },
-    "91cc3a69b14ba5af93fde7b8da7fa36a": {
-      "title": "Head of Product (m/w/d) - Fokus: Regulatorik und Datenschutz",
-      "company": "Deutsche Gesellschaft f\u00fcr Kardiologie \u2013 Herz- und Kreislaufforschung e.V. (DGK)",
-      "first_seen": "2026-08-31T13:16:31.772038",
-      "score": 55.0
-    },
-    "96052af162f1112621679fcf06b8b103": {
-      "title": "Head of AI Platform and Strategy (m/w/d)",
-      "company": "Dr. Weber & Partner GmbH",
-      "first_seen": "2026-08-31T13:16:31.772042",
-      "score": 40.0
-    },
-    "71083e353a33a60188f8ca9d267c4ea0": {
-      "title": "Regional Sales Manager (m/w/d) Spine West- und Mitteldeutschland",
-      "company": "Stryker",
-      "first_seen": "2026-08-31T13:16:31.772045",
-      "score": 50.0
-    },
-    "dda40466670d4c5b00e9dc31d0f65fca": {
-      "title": "Regional Sales Manager (m/w/d) Spine West- und Mitteldeutschland",
-      "company": "Stryker",
-      "first_seen": "2026-08-31T13:16:31.772048",
-      "score": 50.0
-    },
-    "b85d9e0d28b76bcb83cbc8eb7d1f4e66": {
-      "title": "Head of Product (m/w/d)",
-      "company": "JUNGL\u00dcCK",
-      "first_seen": "2026-08-31T13:16:31.772052",
-      "score": 55.0
-    },
-    "4b160e060782d09391580d996ec3df0d": {
-      "title": "VP Product Innovation & Systems Engineering (m/w/d)",
-      "company": "Kienbaum",
-      "first_seen": "2026-08-31T13:16:31.772055",
-      "score": 40.0
-    },
-    "b767943c7dc872082d4f614b4dccf338": {
-      "title": "Intl. CommEx Lead",
-      "company": "Johnson & Johnson",
-      "first_seen": "2026-09-01T11:28:04.676541",
-      "score": 50.0
-    },
-    "5366d9d9c96d52c3571be5e52f1c0d16": {
-      "title": "Head of Doctor Partnerships (m/w/d)",
-      "company": "TeleClinic",
-      "first_seen": "2026-09-01T11:28:04.676566",
-      "score": 40.0
-    },
-    "d2701ba43078b38fbfb1d1b6336fed06": {
-      "title": "Head of Product Commercial Unit (m/w/d) - Jobbird.com",
-      "company": "Jobster",
-      "first_seen": "2026-09-01T11:28:04.676569",
-      "score": 60.0
-    },
-    "2366a06086c02883a5711347a1af51c8": {
-      "title": "Director/Senior Director, Business Development, Clinical Solutions, EMEA",
-      "company": "IQVIA",
-      "first_seen": "2026-09-01T11:28:04.676572",
-      "score": 45.0
-    },
-    "c7c9957f68c85a0e53eea315ae447740": {
-      "title": "Director/Senior Director, Business Development, Biotech",
-      "company": "IQVIA",
-      "first_seen": "2026-09-01T11:28:04.676574",
-      "score": 45.0
-    },
-    "4d40d1becfce497861c23b9c2b3e0cff": {
-      "title": "Sales Director, Europe",
-      "company": "Stealth AI Startup",
-      "first_seen": "2026-09-01T11:28:04.676576",
-      "score": 40.0
-    },
-    "758def750982a3d136ff3dfff8833d3b": {
-      "title": "Director of Operations",
-      "company": "Blue Fox",
-      "first_seen": "2026-09-01T11:28:04.676577",
-      "score": 55.0
-    },
-    "fe7928b4876e3779e3d79cad19d1a0ff": {
-      "title": "Head of Business Development",
-      "company": "PrimeMatch Advantage",
-      "first_seen": "2026-09-01T11:28:04.676579",
-      "score": 60.0
-    },
-    "7b23b467c479e51913a5a725eb474556": {
-      "title": "Head of Revenue & Growth (m/f/d)",
-      "company": "tesa",
-      "first_seen": "2026-09-01T11:28:04.676580",
-      "score": 45.0
-    },
-    "cc9b82167c5236ae3a8136443c4c9934": {
-      "title": "Head of Product Management Cell Therapy Solutions (ATS) (x|f|m)",
-      "company": "Sartorius",
-      "first_seen": "2026-09-01T11:28:04.676581",
-      "score": 60.0
-    },
-    "0d64106ad164bf469be3898e5eebda4a": {
-      "title": "Head of Product Management Cell Therapy Solutions (ATS) (x|f|m)",
-      "company": "Sartorius",
-      "first_seen": "2026-09-01T11:28:04.676582",
-      "score": 60.0
-    },
-    "154161f629615a00f69c7df5c0e1cf38": {
-      "title": "Veralto Enterprise System Leader (VESL), Growth Innovation (R&D / Product Management) (m/f/d)",
-      "company": "X-Rite",
-      "first_seen": "2026-09-01T11:28:04.676583",
-      "score": 50.0
-    },
     "2d5f4f4a2b7b414d6cbb07f3ce32acdd": {
       "title": "HealthTech Head of Commercial (100 % remote) (m/f/d)",
       "company": "EWOR",
@@ -2369,11 +2255,47 @@
       "company": "Superchat",
       "first_seen": "2026-09-30T12:16:24.488502",
       "score": 60.0
+    },
+    "0f1df85da40a203870bdb808d0de3189": {
+      "title": "Head of Product (m/w/d) im Gesundheitswesen",
+      "company": "proSenio",
+      "first_seen": "2026-10-01T12:52:08.775562",
+      "score": 55.0
+    },
+    "90a4b22b53032275593672bb392fcdfb": {
+      "title": "Manager Data, Artificial Intelligence & Digital Healthcare Solutions (m/w/d)",
+      "company": "AstraZeneca",
+      "first_seen": "2026-10-01T12:52:08.775574",
+      "score": 45.0
+    },
+    "7e601bfd9c022a9ba0a41c2f70422c0a": {
+      "title": "Head of Sales (m/w/d) - MedTech",
+      "company": "Michael Page",
+      "first_seen": "2026-10-01T12:52:08.775577",
+      "score": 40.0
+    },
+    "f660b19f5ba125273e8674a1f47c8d8c": {
+      "title": "Head of Operations (m/w/d)",
+      "company": "altona Analytics GmbH",
+      "first_seen": "2026-10-01T12:52:08.775579",
+      "score": 55.0
+    },
+    "d5ab99369d1bf37a9fba422bcda8f407": {
+      "title": "Director, Team Lead, Computational Pathology Products (m/f/d)",
+      "company": "AstraZeneca",
+      "first_seen": "2026-10-01T12:52:08.775581",
+      "score": 50.0
+    },
+    "695a594bd4110a0df1eb4c2ab04a1a58": {
+      "title": "Senior Director - Product Management - EU Veeva Nitro",
+      "company": "Veeva Systems",
+      "first_seen": "2026-10-01T12:52:08.775583",
+      "score": 40.0
     }
   },
-  "last_run": "2026-09-30T12:16:24.488510",
+  "last_run": "2026-10-01T12:52:08.775589",
   "stats": {
-    "total_seen": 395,
-    "total_reported": 1483
+    "total_seen": 382,
+    "total_reported": 1489
   }
 }
