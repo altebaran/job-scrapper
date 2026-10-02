@@ -1,83 +1,5 @@
 {
   "seen": {
-    "2d5f4f4a2b7b414d6cbb07f3ce32acdd": {
-      "title": "HealthTech Head of Commercial (100 % remote) (m/f/d)",
-      "company": "EWOR",
-      "first_seen": "2026-09-02T11:00:58.807768",
-      "score": 65.0
-    },
-    "5191d78e74cc903f8c5a44ad27e13d2b": {
-      "title": "Program Manager Direct-to-Patient Solutions (m/f/d)",
-      "company": "Abbott",
-      "first_seen": "2026-09-02T11:00:58.807779",
-      "score": 40.0
-    },
-    "6254e812b174fc75dd767fd4fd39d32c": {
-      "title": "Country Manager Central & Eastern Europe - Prague (all genders)",
-      "company": "Mirantus Health",
-      "first_seen": "2026-09-02T11:00:58.807782",
-      "score": 55.0
-    },
-    "a2c3553d84f76ee4de56fce3ee418e49": {
-      "title": "Director of Business Development",
-      "company": "Perceptive Inc.",
-      "first_seen": "2026-09-02T11:00:58.807784",
-      "score": 60.0
-    },
-    "f2a77e1e3c7b388521a2298b2278d8e0": {
-      "title": "Berlin oder Darmstadt: Customer & Partnership Relations Lead (m/w/d) Digital Health",
-      "company": "BAYOOMED",
-      "first_seen": "2026-09-02T11:00:58.807785",
-      "score": 40.0
-    },
-    "b27fcc7549b7d055184a995a7cfca923": {
-      "title": "Associate Director Country Operations Management",
-      "company": "Alexion Pharmaceuticals, Inc.",
-      "first_seen": "2026-09-02T11:00:58.807790",
-      "score": 65.0
-    },
-    "6a7d72362654c56d454f88179ed797ca": {
-      "title": "Director of AI - HealthTech - Berlin",
-      "company": "Discover International",
-      "first_seen": "2026-09-02T11:00:58.807794",
-      "score": 40.0
-    },
-    "17ea6db18c9b93a03c64e84f98446dbd": {
-      "title": "Regional Sales Manager (m/w/d) Spine West- und Mitteldeutschland",
-      "company": "Stryker",
-      "first_seen": "2026-09-02T11:00:58.807796",
-      "score": 50.0
-    },
-    "d18d8796ec0f6f130a7357b86ee9e1ec": {
-      "title": "VP Commercial, Europe",
-      "company": "CSG Talent",
-      "first_seen": "2026-09-02T11:00:58.807798",
-      "score": 60.0
-    },
-    "2ac7e085fb95879efe0bbcf97edecee6": {
-      "title": "Head of Partnerships (f/m/d)",
-      "company": "FTAPI",
-      "first_seen": "2026-09-02T11:00:58.807801",
-      "score": 60.0
-    },
-    "fe0898d1b956c62d00d25a875239ebf7": {
-      "title": "AMBG Associate Director (all genders)",
-      "company": "Accenture DACH",
-      "first_seen": "2026-09-02T11:00:58.807803",
-      "score": 55.0
-    },
-    "e11907070535f0350461043d524996ff": {
-      "title": "(Senior) Clinical Program Lead",
-      "company": "Boehringer Ingelheim",
-      "first_seen": "2026-09-02T11:00:58.807806",
-      "score": 55.0
-    },
-    "0dffbb505fc56d5307851aa0402fbc57": {
-      "title": "CMC Lead (Senior Director/Director/Associate Director)",
-      "company": "WuXi Biologics",
-      "first_seen": "2026-09-02T11:00:58.807809",
-      "score": 55.0
-    },
     "2764e4d46d839814dd749ef811ee26cd": {
       "title": "Senior Strategy Manager (w/m/d) Strategy and Mergers & Acquisitions",
       "company": "Siemens Healthineers",
@@ -2291,11 +2213,77 @@
       "company": "Veeva Systems",
       "first_seen": "2026-10-01T12:52:08.775583",
       "score": 40.0
+    },
+    "016cdc64ec31c234c796e8a6e61a1081": {
+      "title": "Director, Strategic Growth & Commercial (f/m/d)",
+      "company": "Cytiva",
+      "first_seen": "2026-10-02T12:15:59.116400",
+      "score": 45.0
+    },
+    "45064dc2c123c42fab95b008d927808a": {
+      "title": "Head of Health Economics & Market Access, Surgery - Germany",
+      "company": "Johnson & Johnson MedTech",
+      "first_seen": "2026-10-02T12:15:59.116412",
+      "score": 45.0
+    },
+    "1a7815e5d313d39fa652c893b3d132c8": {
+      "title": "ClinDev Operations Data & Analytics Lead",
+      "company": "Boehringer Ingelheim",
+      "first_seen": "2026-10-02T12:15:59.116415",
+      "score": 50.0
+    },
+    "5664dfd47301620620869d3fdce96293": {
+      "title": "Commercial Director",
+      "company": "Exploris Health AG",
+      "first_seen": "2026-10-02T12:15:59.116418",
+      "score": 40.0
+    },
+    "2366a06086c02883a5711347a1af51c8": {
+      "title": "Director/Senior Director, Business Development, Clinical Solutions, EMEA",
+      "company": "IQVIA",
+      "first_seen": "2026-10-02T12:15:59.116420",
+      "score": 45.0
+    },
+    "1ddb716c0e076d9d791f9ae8df151841": {
+      "title": "Head of Marketing & Sales Scientific DACH & Netherlands",
+      "company": "Proclinical Staffing",
+      "first_seen": "2026-10-02T12:15:59.116423",
+      "score": 40.0
+    },
+    "458b050d1bb0220a27cad6c4f74583ad": {
+      "title": "Head of Commercial & Operations (m/w/d)",
+      "company": "Nexobility GmbH",
+      "first_seen": "2026-10-02T12:15:59.116425",
+      "score": 60.0
+    },
+    "be2179463e3d839b69b9989a1776270b": {
+      "title": "Associate Director, Content & Omnichannel Capability Owner Germany (m/f/d)",
+      "company": "Bristol Myers Squibb EU Policy",
+      "first_seen": "2026-10-02T12:15:59.116428",
+      "score": 55.0
+    },
+    "305f00c0eb83c93ac67fe8fe07e79b22": {
+      "title": "Digital Transformation Lead (Corporate Platforms & Global Business Systems) (m/f/d)",
+      "company": "Daiichi Sankyo Europe GmbH",
+      "first_seen": "2026-10-02T12:15:59.116430",
+      "score": 40.0
+    },
+    "4248c1439a6c83cdaf1fac84dfbf14a2": {
+      "title": "Senior Manager, Strategic Partnerships and Adjacencies - Jobbird.com",
+      "company": "Jobster",
+      "first_seen": "2026-10-02T12:15:59.116433",
+      "score": 40.0
+    },
+    "5d0424b07b27b58b59e131e4d1d2167a": {
+      "title": "Head of Development AI Agent Platform (m/w/d)",
+      "company": "Strategy & Transformation Consulting GmbH",
+      "first_seen": "2026-10-02T12:15:59.116435",
+      "score": 40.0
     }
   },
-  "last_run": "2026-10-01T12:52:08.775589",
+  "last_run": "2026-10-02T12:15:59.116441",
   "stats": {
-    "total_seen": 382,
-    "total_reported": 1489
+    "total_seen": 380,
+    "total_reported": 1500
   }
 }
