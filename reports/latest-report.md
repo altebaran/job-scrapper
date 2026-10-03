@@ -1,81 +1,80 @@
-# 🎯 Daily Job Report — 2026-10-02
+# 🎯 Daily Job Report — 2026-10-03
 
 **11** new matches | **0** high relevance
 
 ---
 
-### 1. 🟡 Head of Commercial & Operations (m/w/d)
-**Nexobility GmbH** · 📍 Munich, Bavaria, Germany · Score: 60/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-commercial-operations-m-w-d-at-nexobility-gmbh-4474706647)
-  - Title match: 'head of commercial'
-  - Keywords (1): commercial
+### 1. 🟡 Associate Director, Europe Business Analytics & Insights
+**Corcept Therapeutics** · 📍 Munich, Bavaria, Germany · Score: 60/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-europe-business-analytics-insights-at-corcept-therapeutics-4428783219)
+  - Title match: 'associate director'
+  - Keywords (1): therapeutic
   - Location: 'germany'
 
-### 2. 🟡 Associate Director, Content & Omnichannel Capability Owner Germany (m/f/d)
-**Bristol Myers Squibb EU Policy** · 📍 Munich, Bavaria, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-content-omnichannel-capability-owner-germany-m-f-d-at-bristol-myers-squibb-eu-policy-4473134241)
+### 2. 🟡 Head of Product & Innovation (All Genders)
+**ahead®** · 📍 Hamburg, Germany · Score: 60/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-product-innovation-all-genders-at-ahead%C2%AE-4435842069)
+  - Title match: 'head of product'
+  - Keywords (1): innovation
+  - Location: 'germany'
+
+### 3. 🟡 Associate Director, Content & Omnichannel Capability Owner Germany (m/f/d)
+**Bristol Myers Squibb** · 📍 Munich, Bavaria, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-content-omnichannel-capability-owner-germany-m-f-d-at-bristol-myers-squibb-4474763532)
   - Title match: 'associate director'
   - Location: 'germany'
 
-### 3. 🟡 ClinDev Operations Data & Analytics Lead
-**Boehringer Ingelheim** · 📍 Biberach, Baden-Württemberg, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/clindev-operations-data-analytics-lead-at-boehringer-ingelheim-4474340950)
-  - Seniority match: 'lead'
-  - Location: 'germany'
-  - Target company: Boehringer Ingelheim Digital Lab
-
-### 4. ⚪ Director, Strategic Growth & Commercial (f/m/d)
-**Cytiva** · 📍 Dreieich, Hesse, Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-strategic-growth-commercial-f-m-d-at-cytiva-4472952831)
-  - Seniority match: 'director'
-  - Keywords (2): commercial, growth
+### 4. 🟡 Associate Director, Enterprise Transformation Office (STEP) (m/w/d)
+**Sandoz in Deutschland** · 📍 Holzkirchen, Bavaria, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-enterprise-transformation-office-step-m-w-d-at-sandoz-in-deutschland-4474785328)
+  - Title match: 'associate director'
   - Location: 'germany'
 
-### 5. ⚪ Head of Health Economics & Market Access, Surgery - Germany
-**Johnson & Johnson MedTech** · 📍 Norderstedt, Schleswig-Holstein, Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-health-economics-market-access-surgery-germany-at-johnson-johnson-medtech-4474716684)
-  - Seniority match: 'head of'
-  - Keywords (2): medtech, market access
-  - Location: 'germany'
-
-### 6. ⚪ Director/Senior Director, Business Development, Clinical Solutions, EMEA
+### 5. ⚪ Director/Senior Director, Business Development, Biotech
 **IQVIA** · 📍 Frankfurt am Main, Hesse, Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-senior-director-business-development-clinical-solutions-emea-at-iqvia-4460033515)
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-senior-director-business-development-biotech-at-iqvia-4460053192)
   - Seniority match: 'director'
-  - Keywords (2): clinical, business development
+  - Keywords (2): biotech, business development
   - Location: 'germany'
 
-### 7. ⚪ Commercial Director
-**Exploris Health AG** · 📍 Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/commercial-director-at-exploris-health-ag-4473272458)
-  - Seniority match: 'director'
+### 6. ⚪ AI Technical Lead
+**Teva Pharmaceuticals** · 📍 Ulm, Baden-Württemberg, Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/ai-technical-lead-at-teva-pharmaceuticals-4474798779)
+  - Seniority match: 'lead'
+  - Keywords (2): pharma, pharmaceutical
+  - Location: 'germany'
+
+### 7. ⚪ Principal Business Consultant - Commercial
+**Veeva Systems** · 📍 Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/principal-business-consultant-commercial-at-veeva-systems-4455630219)
+  - Seniority match: 'principal'
   - Keywords (1): commercial
   - Location: 'germany'
 
-### 8. ⚪ Head of Marketing & Sales Scientific DACH & Netherlands
-**Proclinical Staffing** · 📍 Munich, Bavaria, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-marketing-sales-scientific-dach-netherlands-at-proclinical-staffing-4474313721)
+### 8. ⚪ Business Development Director, Integrated Solutions
+**Repligen Corporation** · 📍 Munich, Bavaria, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/business-development-director-integrated-solutions-at-repligen-corporation-4473369235)
+  - Seniority match: 'director'
+  - Keywords (1): business development
+  - Location: 'germany'
+
+### 9. ⚪ Senior Business Development Director, Micronization
+**Catalent** · 📍 Schorndorf, Baden-Württemberg, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-business-development-director-micronization-at-catalent-4475051074)
+  - Seniority match: 'director'
+  - Keywords (1): business development
+  - Location: 'germany'
+
+### 10. ⚪ Head of Sales (m/w/d) RX - Pharmaindustrie
+**Michael Page** · 📍 Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-sales-m-w-d-rx-pharmaindustrie-at-michael-page-4475032358)
   - Seniority match: 'head of'
-  - Keywords (1): clinical
+  - Keywords (1): pharma
   - Location: 'germany'
 
-### 9. ⚪ Digital Transformation Lead (Corporate Platforms & Global Business Systems) (m/f/d)
-**Daiichi Sankyo Europe GmbH** · 📍 Munich, Bavaria, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/digital-transformation-lead-corporate-platforms-global-business-systems-m-f-d-at-daiichi-sankyo-europe-gmbh-4472597098)
-  - Seniority match: 'lead'
-  - Keywords (1): digital transformation
-  - Location: 'germany'
-
-### 10. ⚪ Senior Manager, Strategic Partnerships and Adjacencies - Jobbird.com
-**Jobster** · 📍 Krefeld, North Rhine-Westphalia, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-manager-strategic-partnerships-and-adjacencies-jobbird-com-at-jobster-4472898432)
-  - Seniority match: 'senior manager'
-  - Keywords (1): partnerships
-  - Location: 'germany'
-
-### 11. ⚪ Head of Development AI Agent Platform (m/w/d)
-**Strategy & Transformation Consulting GmbH** · 📍 Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-development-ai-agent-platform-m-w-d-at-strategy-transformation-consulting-gmbh-4473133344)
+### 11. ⚪ COMMERCIAL HEAD OF CYBER (M/W/D)
+**Bureau Veritas | Marine & Offshore** · 📍 Ratingen, North Rhine-Westphalia, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/commercial-head-of-cyber-m-w-d-at-bureau-veritas-marine-offshore-4475308415)
   - Seniority match: 'head of'
-  - Keywords (1): strategy
+  - Keywords (1): commercial
   - Location: 'germany'

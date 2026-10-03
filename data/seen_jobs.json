@@ -1,71 +1,5 @@
 {
   "seen": {
-    "2764e4d46d839814dd749ef811ee26cd": {
-      "title": "Senior Strategy Manager (w/m/d) Strategy and Mergers & Acquisitions",
-      "company": "Siemens Healthineers",
-      "first_seen": "2026-09-03T11:00:48.677168",
-      "score": 40.0
-    },
-    "96295044b09140d26b46aefb41a4784e": {
-      "title": "Managing Director DACH & Nordics, Core Diagnostics (m/f/d)",
-      "company": "Abbott",
-      "first_seen": "2026-09-03T11:00:48.677182",
-      "score": 55.0
-    },
-    "d147ff63cd5f040752382032ebd5d3bd": {
-      "title": "Head of Product Management & Product Information Management (m/w/d)",
-      "company": "Sch\u00fclke & Mayr",
-      "first_seen": "2026-09-03T11:00:48.677186",
-      "score": 60.0
-    },
-    "1c0684a2571cff32ba1e4d2236ecfb97": {
-      "title": "Senior Manager, Strategic Partnerships and Adjacencies",
-      "company": "Radiometer",
-      "first_seen": "2026-09-03T11:00:48.677189",
-      "score": 40.0
-    },
-    "673a68ec620d40827000f54cdea9e28f": {
-      "title": "Lead Business Development | Care (all genders welcome)",
-      "company": "goodBytz",
-      "first_seen": "2026-09-03T11:00:48.677192",
-      "score": 40.0
-    },
-    "a0dc02103a1e9d204d26e9168c14b29f": {
-      "title": "Director Business Development - Technology (m/f/d)",
-      "company": "DP World",
-      "first_seen": "2026-09-03T11:00:48.677195",
-      "score": 40.0
-    },
-    "8a314f7cd093de2b72e9853636aaa94c": {
-      "title": "Associate Director/Director, Portfolio Strategy and Operations, Cardio Renal Metabolic Development Unit (80\u2013100%)",
-      "company": "Novartis Pharma Schweiz",
-      "first_seen": "2026-09-03T11:00:48.677197",
-      "score": 65.0
-    },
-    "0cca71cc2ea6e4e52909f1bb5952ed71": {
-      "title": "Head of Sales & Product Management (m/w/d) \u2013 Postpress Packaging",
-      "company": "Heidelberger Druckmaschinen AG",
-      "first_seen": "2026-09-03T11:00:48.677200",
-      "score": 40.0
-    },
-    "6c5672ba2073a244fe32f09ce3aaaf8c": {
-      "title": "Country Manager Germany & Northeast Europe Business Area (M/F)",
-      "company": "LIMAGRAIN EUROPE",
-      "first_seen": "2026-09-03T11:00:48.677203",
-      "score": 55.0
-    },
-    "bb421313b3d11bb01a5437b887bf31ac": {
-      "title": "Country Manager Germany",
-      "company": "Adtraction",
-      "first_seen": "2026-09-03T11:00:48.677205",
-      "score": 55.0
-    },
-    "bfac96f813bfc5851a86ced23a2f18d0": {
-      "title": "Country Manager, Germany",
-      "company": "Business Finland",
-      "first_seen": "2026-09-03T11:00:48.677208",
-      "score": 55.0
-    },
     "967cc443e35bc8b2812cf926ac52613e": {
       "title": "Head of Product Commercial Unit (m/w/d) - Jobbird.com",
       "company": "Jobster",
@@ -2279,11 +2213,77 @@
       "company": "Strategy & Transformation Consulting GmbH",
       "first_seen": "2026-10-02T12:15:59.116435",
       "score": 40.0
+    },
+    "0f5ed3256d0e04c5acccafcd004cbf80": {
+      "title": "Principal Business Consultant - Commercial",
+      "company": "Veeva Systems",
+      "first_seen": "2026-10-03T11:25:53.885872",
+      "score": 40.0
+    },
+    "5943da02ac524877f58c458394b130cd": {
+      "title": "Business Development Director, Integrated Solutions",
+      "company": "Repligen Corporation",
+      "first_seen": "2026-10-03T11:25:53.885885",
+      "score": 40.0
+    },
+    "c7c9957f68c85a0e53eea315ae447740": {
+      "title": "Director/Senior Director, Business Development, Biotech",
+      "company": "IQVIA",
+      "first_seen": "2026-10-03T11:25:53.885890",
+      "score": 45.0
+    },
+    "d040a99cb066dc51e6e851688386a7c9": {
+      "title": "Senior Business Development Director, Micronization",
+      "company": "Catalent",
+      "first_seen": "2026-10-03T11:25:53.885893",
+      "score": 40.0
+    },
+    "b52160984c5173139fd8df00f3da95fe": {
+      "title": "Associate Director, Content & Omnichannel Capability Owner Germany (m/f/d)",
+      "company": "Bristol Myers Squibb",
+      "first_seen": "2026-10-03T11:25:53.885895",
+      "score": 55.0
+    },
+    "605d0990da134cbbb37ca8a431dfa211": {
+      "title": "Associate Director, Enterprise Transformation Office (STEP) (m/w/d)",
+      "company": "Sandoz in Deutschland",
+      "first_seen": "2026-10-03T11:25:53.885898",
+      "score": 55.0
+    },
+    "b0b5bb3951c57fd9394c73f5a44e034f": {
+      "title": "Associate Director, Europe Business Analytics & Insights",
+      "company": "Corcept Therapeutics",
+      "first_seen": "2026-10-03T11:25:53.885901",
+      "score": 60.0
+    },
+    "cd16d37ae51544b8d5af87da6b845594": {
+      "title": "AI Technical Lead",
+      "company": "Teva Pharmaceuticals",
+      "first_seen": "2026-10-03T11:25:53.885904",
+      "score": 45.0
+    },
+    "b15bcbf7903f86202a22cd40f06603cf": {
+      "title": "Head of Sales (m/w/d) RX - Pharmaindustrie",
+      "company": "Michael Page",
+      "first_seen": "2026-10-03T11:25:53.885906",
+      "score": 40.0
+    },
+    "e98f03848af855fc7a05498d839466c1": {
+      "title": "COMMERCIAL HEAD OF CYBER (M/W/D)",
+      "company": "Bureau Veritas | Marine & Offshore",
+      "first_seen": "2026-10-03T11:25:53.885909",
+      "score": 40.0
+    },
+    "ba1e8317d75702332ebfbf9049558251": {
+      "title": "Head of Product & Innovation (All Genders)",
+      "company": "ahead\u00ae",
+      "first_seen": "2026-10-03T11:25:53.885911",
+      "score": 60.0
     }
   },
-  "last_run": "2026-10-02T12:15:59.116441",
+  "last_run": "2026-10-03T11:25:53.885918",
   "stats": {
     "total_seen": 380,
-    "total_reported": 1500
+    "total_reported": 1511
   }
 }
