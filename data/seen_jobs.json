@@ -1,65 +1,5 @@
 {
   "seen": {
-    "60f20e1b9b63c880db23c1dd1b59ed6b": {
-      "title": "HealthTech Head of Commercial (100 % remote) (m/f/d)",
-      "company": "EWOR",
-      "first_seen": "2026-09-05T10:21:16.481259",
-      "score": 65.0
-    },
-    "5771906215883fffecd258dd3e0edd2d": {
-      "title": "Director Transformation & Efficiency Office (TEO) (m/w/d)",
-      "company": "AstraZeneca",
-      "first_seen": "2026-09-05T10:21:16.481274",
-      "score": 50.0
-    },
-    "ec0bf32e7c2b5fae0bbe56043d929c99": {
-      "title": "Head of Product und Innovation Medizintechnik / Pharmaindustrie (m/w/d)",
-      "company": "BESTMINDS GmbH Executive Search EN",
-      "first_seen": "2026-09-05T10:21:16.481278",
-      "score": 65.0
-    },
-    "7783110e13c8d4e3cf2539be7379bf9c": {
-      "title": "Manager / Senior Manager Inhouse Consulting - Data & AI Strategy (all genders, full-/part-time)",
-      "company": "Merck Group",
-      "first_seen": "2026-09-05T10:21:16.481280",
-      "score": 40.0
-    },
-    "d0b44b4932f61c0a75e20d3dc81a53a0": {
-      "title": "Senior Lead Product Marketing (x/f/m)",
-      "company": "Doctolib",
-      "first_seen": "2026-09-05T10:21:16.481283",
-      "score": 50.0
-    },
-    "fcd43b4a5f881019efc0ae48ba437839": {
-      "title": "Head of Sales & Partnerships (m/w/d)",
-      "company": "Cannamedical Pharma",
-      "first_seen": "2026-09-05T10:21:16.481286",
-      "score": 45.0
-    },
-    "448e2c892d8dcd44dc78027760b55a98": {
-      "title": "Director Commercial Operations",
-      "company": "kempers Recruiting & Consulting GmbH",
-      "first_seen": "2026-09-05T10:21:16.481288",
-      "score": 40.0
-    },
-    "8ea28f06a1de8b742e522dcce5f19b9f": {
-      "title": "Chief of Staff (Strategy & Operations)(All Genders)",
-      "company": "Prematch",
-      "first_seen": "2026-09-05T10:21:16.481290",
-      "score": 60.0
-    },
-    "8e366ae34a97a48aef8f115fbbb1f1b2": {
-      "title": "HealthTech Head of Data Engineering (100 % remote) (m/f/d)",
-      "company": "EWOR",
-      "first_seen": "2026-09-05T10:21:16.481292",
-      "score": 40.0
-    },
-    "7b9ede69af37c4a05f461fc7175feb43": {
-      "title": "Customer Team Lead (alle Geschlechter) Cardiology North/South",
-      "company": "Bayer",
-      "first_seen": "2026-09-05T10:21:16.481295",
-      "score": 50.0
-    },
     "f2965f670b3ed0f6c5ebc3c2d6ad385b": {
       "title": "Head of Digital Strategy & Business Case Advisory (m/w/d)",
       "company": "Atos",
@@ -2231,11 +2171,83 @@
       "company": "FEP Fahrzeugelektrik Pirna GmbH & Co. KG",
       "first_seen": "2026-10-04T12:06:43.506918",
       "score": 40.0
+    },
+    "cb29c604e9bb24fb61fac184f8f6c3f8": {
+      "title": "Vice President (w/m/d) Commercial Excellence",
+      "company": "B. Braun Group",
+      "first_seen": "2026-10-05T14:11:26.141231",
+      "score": 40.0
+    },
+    "8468708fa70f890c817cd723f949cd7e": {
+      "title": "Director, Strategic Growth & Commercial Integration (f/m/d) - Jobbird.com",
+      "company": "Jobster",
+      "first_seen": "2026-10-05T14:11:26.141241",
+      "score": 45.0
+    },
+    "20b3c6ae97ab4f6689fbf4821f7317b4": {
+      "title": "Chief of Staff\u00a0 (m/w/d)",
+      "company": "Vitaservices GmbH & Co. KG",
+      "first_seen": "2026-10-05T14:11:26.141243",
+      "score": 55.0
+    },
+    "7df8a253b1dd79479731477ff318342e": {
+      "title": "Director Clinical Strategy",
+      "company": "VERTANICAL",
+      "first_seen": "2026-10-05T14:11:26.141245",
+      "score": 45.0
+    },
+    "205a483e51f472c6b768fc8a19ec49ae": {
+      "title": "Director of Business Development m/w/d",
+      "company": "UPS",
+      "first_seen": "2026-10-05T14:11:26.141246",
+      "score": 60.0
+    },
+    "2d741918e79b5b7c0e5d34557ecb9be4": {
+      "title": "Hospital Affairs Director, Germany",
+      "company": "Rhythm Pharmaceuticals Inc.",
+      "first_seen": "2026-10-05T14:11:26.141248",
+      "score": 45.0
+    },
+    "534aa85c91f701d540d81060481523d6": {
+      "title": "Growth Director",
+      "company": "COMBERA",
+      "first_seen": "2026-10-05T14:11:26.141249",
+      "score": 40.0
+    },
+    "0587c0d84a5621104ea468993cba8950": {
+      "title": "Gruppenleiter Entwicklung Digitalisierung (m/w/d)",
+      "company": "OPTIMA pharma",
+      "first_seen": "2026-10-05T14:11:26.141251",
+      "score": 40.0
+    },
+    "04e309c718d33240a2d9c2364b149862": {
+      "title": "Gruppenleiter Entwicklung Digitalisierung (m/w/d)",
+      "company": "OPTIMA pharma",
+      "first_seen": "2026-10-05T14:11:26.141252",
+      "score": 40.0
+    },
+    "cd761c20ea85de113a06097f0fccefae": {
+      "title": "Director Clinical Data Management & Biostatistics",
+      "company": "VERTANICAL",
+      "first_seen": "2026-10-05T14:11:26.141253",
+      "score": 40.0
+    },
+    "6b0260bee11aba403a3ecf3ce8489da5": {
+      "title": "Senior Manager Sales Business Development",
+      "company": "Hays",
+      "first_seen": "2026-10-05T14:11:26.141255",
+      "score": 40.0
+    },
+    "24f9ecffa537354fc86731158f1fb098": {
+      "title": "Gruppenleiter Entwicklung Digitalisierung (m/w/d)",
+      "company": "OPTIMA pharma",
+      "first_seen": "2026-10-05T14:11:26.141256",
+      "score": 40.0
     }
   },
-  "last_run": "2026-10-04T12:06:43.506922",
+  "last_run": "2026-10-05T14:11:26.141261",
   "stats": {
-    "total_seen": 372,
-    "total_reported": 1520
+    "total_seen": 374,
+    "total_reported": 1532
   }
 }

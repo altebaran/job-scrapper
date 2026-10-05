@@ -1,68 +1,88 @@
-# 🎯 Daily Job Report — 2026-10-04
+# 🎯 Daily Job Report — 2026-10-05
 
-**9** new matches | **0** high relevance
+**12** new matches | **0** high relevance
 
 ---
 
-### 1. 🟡 Head of Business Development
-**medtechrec** · 📍 Munich, Bavaria, Germany · Score: 65/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-business-development-at-medtechrec-4439040340)
-  - Title match: 'head of business development'
-  - Keywords (2): medtech, business development
-  - Location: 'germany'
-
-### 2. 🟡 Director, Site Management & Monitoring Cell Therapy (m/w/d)
-**AstraZeneca** · 📍 Hamburg, Hamburg, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-site-management-monitoring-cell-therapy-m-w-d-at-astrazeneca-4465438084)
-  - Seniority match: 'director'
-  - Location: 'germany'
-  - Target company: AstraZeneca Innovation
-
-### 3. ⚪ Account Director – Digital Marketing & Public Relations, Healthcare/Pharma (m/w/div)
-**Weber Shandwick** · 📍 Frankfurt Rhine-Main Metropolitan Area · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/account-director-%E2%80%93-digital-marketing-public-relations-healthcare-pharma-m-w-div-at-weber-shandwick-4431514690)
-  - Seniority match: 'director'
-  - Keywords (2): pharma, healthcare
-  - Location: 'frankfurt'
-
-### 4. ⚪ Healthcare Ecosystem Management Lead (all genders) (Vollzeit / unbefristet)
-**AbbVie** · 📍 Wiesbaden, Hesse, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/healthcare-ecosystem-management-lead-all-genders-vollzeit-unbefristet-at-abbvie-4401328308)
-  - Seniority match: 'lead'
-  - Keywords (1): healthcare
-  - Location: 'germany'
-
-### 5. ⚪ Team Lead Consultant (m/f/d) – Healthcare Process Consulting
-**CompuGroup Medical SE & Co. KGaA** · 📍 Coblenz, Rhineland-Palatinate, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/team-lead-consultant-m-f-d-%E2%80%93-healthcare-process-consulting-at-compugroup-medical-se-co-kgaa-4437553358)
-  - Seniority match: 'lead'
-  - Keywords (1): healthcare
-  - Location: 'germany'
-
-### 6. ⚪ Head of Digital Sales & Business Development (m/w/d)
-**SMA Solar** · 📍 Kassel, Hesse, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-digital-sales-business-development-m-w-d-at-sma-solar-4464243995)
-  - Seniority match: 'head of'
+### 1. 🟡 Director of Business Development m/w/d
+**UPS** · 📍 Munich, Bavaria, Germany · Score: 60/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-of-business-development-m-w-d-at-ups-4473648372)
+  - Title match: 'director of business development'
   - Keywords (1): business development
   - Location: 'germany'
 
-### 7. ⚪ Germany Data Center Commercial Director
-**Carrier** · 📍 Neuss, North Rhine-Westphalia, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/germany-data-center-commercial-director-at-carrier-4473879075)
+### 2. 🟡 Chief of Staff  (m/w/d)
+**Vitaservices GmbH & Co. KG** · 📍 Mannheim, Baden-Württemberg, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/chief-of-staff%C2%A0-m-w-d-at-vitaservices-gmbh-co-kg-4474273690)
+  - Title match: 'chief of staff'
+  - Location: 'germany'
+
+### 3. ⚪ Director, Strategic Growth & Commercial Integration (f/m/d) - Jobbird.com
+**Jobster** · 📍 Dreieich, Hesse, Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-strategic-growth-commercial-integration-f-m-d-jobbird-com-at-jobster-4474208790)
   - Seniority match: 'director'
+  - Keywords (2): commercial, growth
+  - Location: 'germany'
+
+### 4. ⚪ Director Clinical Strategy
+**VERTANICAL** · 📍 Munich, Bavaria, Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-clinical-strategy-at-vertanical-4473643793)
+  - Seniority match: 'director'
+  - Keywords (2): clinical, strategy
+  - Location: 'germany'
+
+### 5. ⚪ Hospital Affairs Director, Germany
+**Rhythm Pharmaceuticals Inc.** · 📍 Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/hospital-affairs-director-germany-at-rhythm-pharmaceuticals-inc-4457360791)
+  - Seniority match: 'director'
+  - Keywords (2): pharma, pharmaceutical
+  - Location: 'germany'
+
+### 6. ⚪ Vice President (w/m/d) Commercial Excellence
+**B. Braun Group** · 📍 Melsungen, Hesse, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/vice-president-w-m-d-commercial-excellence-at-b-braun-group-4474264355)
+  - Seniority match: 'vice president'
   - Keywords (1): commercial
   - Location: 'germany'
 
-### 8. ⚪ Senior Manager Business Development & Sales (m/w/d)
-**Hanwha Defence Deutschland GmbH** · 📍 Berlin, Berlin, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-manager-business-development-sales-m-w-d-at-hanwha-defence-deutschland-gmbh-4473437607)
-  - Seniority match: 'senior manager'
-  - Keywords (1): business development
+### 7. ⚪ Growth Director
+**COMBERA** · 📍 Munich, Bavaria, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/growth-director-at-combera-4473625926)
+  - Seniority match: 'director'
+  - Keywords (1): growth
   - Location: 'germany'
 
-### 9. ⚪ Leiter Business Development (m/w/d) - Produktentwicklung Bordnetz & Intelligente Sicherungen
-**FEP Fahrzeugelektrik Pirna GmbH & Co. KG** · 📍 Pirna, Saxony, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/leiter-business-development-m-w-d-produktentwicklung-bordnetz-intelligente-sicherungen-at-fep-fahrzeugelektrik-pirna-gmbh-co-kg-4475366577)
+### 8. ⚪ Gruppenleiter Entwicklung Digitalisierung (m/w/d)
+**OPTIMA pharma** · 📍 Schwäbisch Hall, Baden-Württemberg, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/gruppenleiter-entwicklung-digitalisierung-m-w-d-at-optima-pharma-4473492644)
   - Seniority match: 'leiter'
+  - Keywords (1): pharma
+  - Location: 'germany'
+
+### 9. ⚪ Gruppenleiter Entwicklung Digitalisierung (m/w/d)
+**OPTIMA pharma** · 📍 Bad Mergentheim, Baden-Württemberg, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/gruppenleiter-entwicklung-digitalisierung-m-w-d-at-optima-pharma-4473498399)
+  - Seniority match: 'leiter'
+  - Keywords (1): pharma
+  - Location: 'germany'
+
+### 10. ⚪ Director Clinical Data Management & Biostatistics
+**VERTANICAL** · 📍 Munich, Bavaria, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-clinical-data-management-biostatistics-at-vertanical-4472938777)
+  - Seniority match: 'director'
+  - Keywords (1): clinical
+  - Location: 'germany'
+
+### 11. ⚪ Senior Manager Sales Business Development
+**Hays** · 📍 Greater Munich Metropolitan Area · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-manager-sales-business-development-at-hays-4475560328)
+  - Seniority match: 'senior manager'
   - Keywords (1): business development
+  - Location: 'munich'
+
+### 12. ⚪ Gruppenleiter Entwicklung Digitalisierung (m/w/d)
+**OPTIMA pharma** · 📍 Sulzbach an der Murr, Baden-Württemberg, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/gruppenleiter-entwicklung-digitalisierung-m-w-d-at-optima-pharma-4473606121)
+  - Seniority match: 'leiter'
+  - Keywords (1): pharma
   - Location: 'germany'
