@@ -1,89 +1,5 @@
 {
   "seen": {
-    "52edc562b8a68e69664e8375f23ca0c4": {
-      "title": "Director Sales & Business Development Deutschland(m/w/d)",
-      "company": "Avaris CX GmbH",
-      "first_seen": "2026-09-07T12:07:14.464578",
-      "score": 40.0
-    },
-    "4826093fe14c277fc8f4e64f373339f4": {
-      "title": "Direktor:in Business Development",
-      "company": "Syben Consulting",
-      "first_seen": "2026-09-07T12:07:14.464587",
-      "score": 40.0
-    },
-    "6f5a2d6a327deeab22e1454438863196": {
-      "title": "Director Business Development",
-      "company": "Honeywell Aerospace",
-      "first_seen": "2026-09-07T12:07:14.464589",
-      "score": 40.0
-    },
-    "404df17be621367ea590301531febcdf": {
-      "title": "Director Business Development",
-      "company": "Honeywell Aerospace",
-      "first_seen": "2026-09-07T12:07:14.464591",
-      "score": 40.0
-    },
-    "5a87a6c5135f55e2c6fb385597eb0f44": {
-      "title": "Director, Workforce Strategy & Transformation",
-      "company": "Anaplan",
-      "first_seen": "2026-09-07T12:07:14.464594",
-      "score": 40.0
-    },
-    "59ae6284ef8fb1b2984d1b6adbe86e89": {
-      "title": "Associate Director of Sales \u2013 EMEA (Drug Product Services)",
-      "company": "Lonza",
-      "first_seen": "2026-09-07T12:07:14.464600",
-      "score": 55.0
-    },
-    "7e9e4d33e42e4e0afb8370b95ca14ea5": {
-      "title": "Director Engineering, Retail Media& Marketplace",
-      "company": "Redcare Pharmacy",
-      "first_seen": "2026-09-07T12:07:14.464603",
-      "score": 40.0
-    },
-    "6c59bdd3062b52e186da3ea758df7aad": {
-      "title": "Director Engineering, Retail Media& Marketplace",
-      "company": "Redcare Pharmacy",
-      "first_seen": "2026-09-07T12:07:14.464606",
-      "score": 40.0
-    },
-    "3e101b953d6071d2d6d788cbc0996102": {
-      "title": "B2C Growth & Engagement Marketing Manager (f/m/x)",
-      "company": "Temedica",
-      "first_seen": "2026-09-07T12:07:14.464609",
-      "score": 40.0
-    },
-    "41fdbfc6d5b51e95d4166491a4a90291": {
-      "title": "Projektleiter Healthcare - Business Consulting (w/m/d)",
-      "company": "EY",
-      "first_seen": "2026-09-07T12:07:14.464612",
-      "score": 40.0
-    },
-    "1545f391b98ba173906e37daf48b75fc": {
-      "title": "Head of Commercial Marketing and Customer Experience (m/w/d)",
-      "company": "Fresenius Medical Care",
-      "first_seen": "2026-09-07T12:07:14.464615",
-      "score": 60.0
-    },
-    "26c34f286b82955712c3be1bce73b46b": {
-      "title": "Head of Partnerships (m/w/d)",
-      "company": "Superchat",
-      "first_seen": "2026-09-07T12:07:14.464618",
-      "score": 60.0
-    },
-    "a46ece8ad4552c4bffb9d0257c0344a9": {
-      "title": "IT Partner Manager Digital Health (x/f/m) - Norddeutschland",
-      "company": "Doctolib",
-      "first_seen": "2026-09-07T12:07:14.464621",
-      "score": 40.0
-    },
-    "c1e4a6613c0fac9a58e966516daa2fee": {
-      "title": "IT Partner Manager Digital Health (x/f/m) - Norddeutschland",
-      "company": "Doctolib",
-      "first_seen": "2026-09-07T12:07:14.464624",
-      "score": 40.0
-    },
     "1e23b937b99f829fb8ceb5d6ade44d6b": {
       "title": "Director, Healthcare Technology Product Management (m/f/d)",
       "company": "Wolters Kluwer",
@@ -2249,11 +2165,131 @@
       "company": "gyde",
       "first_seen": "2026-10-06T13:07:50.921475",
       "score": 65.0
+    },
+    "3667d8f89345743a8609f1913ae48577": {
+      "title": "Abteilungsleitung (w/m/d) Versorgungsinnovationen / Head of Healthcare Innovation",
+      "company": "Kassen\u00e4rztliche Vereinigung Nordrhein",
+      "first_seen": "2026-10-07T13:02:36.683755",
+      "score": 45.0
+    },
+    "29a20edfd08ce80dbd5314858b26e4b6": {
+      "title": "Chief of Staff (m/w/x)",
+      "company": "Doctorflix",
+      "first_seen": "2026-10-07T13:02:36.683769",
+      "score": 55.0
+    },
+    "0c4b13628bb058902b9d590ae5f5121b": {
+      "title": "Director Tech Strategy & GenAI \u2013 Healthcare & Life Sciences (m/f/d)",
+      "company": "Simon-Kucher",
+      "first_seen": "2026-10-07T13:02:36.683772",
+      "score": 50.0
+    },
+    "dc71b00776743ea265013ce4d761cae8": {
+      "title": "Director, Strategic Growth & Commercial Integration (f/m/d)",
+      "company": "Cytiva",
+      "first_seen": "2026-10-07T13:02:36.683775",
+      "score": 45.0
+    },
+    "d871c909db2e42819335c6e4e84338e2": {
+      "title": "Director Tech Strategy & GenAI \u2013 Healthcare & Life Sciences (m/f/d)",
+      "company": "Simon-Kucher",
+      "first_seen": "2026-10-07T13:02:36.683777",
+      "score": 50.0
+    },
+    "494083dae5aa16e4b9a0942068e29163": {
+      "title": "Director, Strategic Growth & Commercial",
+      "company": "Cytiva",
+      "first_seen": "2026-10-07T13:02:36.683779",
+      "score": 45.0
+    },
+    "1df4f1562e4a260b3e01cdc20af81a6d": {
+      "title": "Lead Healthcare AI Strategy & Architecture (m/w/d/x)",
+      "company": "Deutsche Telekom",
+      "first_seen": "2026-10-07T13:02:36.683792",
+      "score": 45.0
+    },
+    "ddffed079e0f55070329c85248f58867": {
+      "title": "Lead Healthcare AI Strategy & Architecture (m/w/d/x)",
+      "company": "Deutsche Telekom",
+      "first_seen": "2026-10-07T13:02:36.683794",
+      "score": 45.0
+    },
+    "0300097b8cbbab8a55c10d861c61fc5e": {
+      "title": "Director Commercial Execution Germany - Digital Health (Silent Cloud)",
+      "company": "Sonova Group",
+      "first_seen": "2026-10-07T13:02:36.683795",
+      "score": 45.0
+    },
+    "74abad7b7203690f7f67f5f28a93d68a": {
+      "title": "Business Development Director \u2013 Supply Chain Center of Excellence (CoE)",
+      "company": "Cognite",
+      "first_seen": "2026-10-07T13:02:36.683796",
+      "score": 40.0
+    },
+    "5c0886a35e90b43565427bf19db92383": {
+      "title": "Business Development Director \u2013 Supply Chain Center of Excellence (CoE)",
+      "company": "Cognite",
+      "first_seen": "2026-10-07T13:02:36.683797",
+      "score": 40.0
+    },
+    "a661d437812861cb38bb4646d5059025": {
+      "title": "Head of Operations/Country Lead: Germany",
+      "company": "Pod Talent",
+      "first_seen": "2026-10-07T13:02:36.683799",
+      "score": 55.0
+    },
+    "0af660a4db0e6c0a49fef45a7c1b3a2a": {
+      "title": "Head of Operations - General Manager",
+      "company": "Approach People Recruitment",
+      "first_seen": "2026-10-07T13:02:36.683800",
+      "score": 55.0
+    },
+    "98c9b21d30e83d0ba8e8dc57aee2db2f": {
+      "title": "Head of Operations (m/w/d) - Berlin",
+      "company": "VARM",
+      "first_seen": "2026-10-07T13:02:36.683801",
+      "score": 55.0
+    },
+    "21d315b591cec526539045444f2d07b9": {
+      "title": "Gesch\u00e4ftsf\u00fchrer / General Manager (m/w/d) Life Sciences",
+      "company": "Page Executive",
+      "first_seen": "2026-10-07T13:02:36.683802",
+      "score": 60.0
+    },
+    "ab5a415c6a1e6e15fae6c2b16a38c231": {
+      "title": "Senior Manager/Associate Director - Commercial Excellence (1260)",
+      "company": "Axtria - Ingenious Insights",
+      "first_seen": "2026-10-07T13:02:36.683803",
+      "score": 60.0
+    },
+    "3ba4815fd9371735c2a7ebbe8ea2845d": {
+      "title": "Commercial Segment Lead B2B SaaS \u2013 Growth / P&L (alle Identit\u00e4ten)",
+      "company": "Caspar Health",
+      "first_seen": "2026-10-07T13:02:36.683805",
+      "score": 65.0
+    },
+    "22c5d32b5c09cbdaa8a56164a11429ac": {
+      "title": "Head of Business Development (m/f/d)",
+      "company": "ARX Robotics",
+      "first_seen": "2026-10-07T13:02:36.683806",
+      "score": 60.0
+    },
+    "5dbac4a21c0bbfed219caaefb77e85e5": {
+      "title": "Principal Business Development Manager CMTS Cell Culture Media (x|f|m)",
+      "company": "Sartorius",
+      "first_seen": "2026-10-07T13:02:36.683807",
+      "score": 40.0
+    },
+    "35fed6999469d2f6ff86ce6198b8b8b2": {
+      "title": "Lead Healthcare AI Strategy & Architecture (m/w/d/x)",
+      "company": "Deutsche Telekom",
+      "first_seen": "2026-10-07T13:02:36.683808",
+      "score": 45.0
     }
   },
-  "last_run": "2026-10-06T13:07:50.921483",
+  "last_run": "2026-10-07T13:02:36.683812",
   "stats": {
-    "total_seen": 375,
-    "total_reported": 1540
+    "total_seen": 381,
+    "total_reported": 1560
   }
 }
