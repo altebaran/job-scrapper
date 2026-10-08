@@ -1,95 +1,5 @@
 {
   "seen": {
-    "1e23b937b99f829fb8ceb5d6ade44d6b": {
-      "title": "Director, Healthcare Technology Product Management (m/f/d)",
-      "company": "Wolters Kluwer",
-      "first_seen": "2026-09-08T10:59:39.106209",
-      "score": 45.0
-    },
-    "42239744d2f46ddc781992f0e4ed4c9a": {
-      "title": "Chief of Staff to the CEO \u2013 FUTRUE Group",
-      "company": "FUTRUE",
-      "first_seen": "2026-09-08T10:59:39.106221",
-      "score": 55.0
-    },
-    "b9ca0bfc37273362e95e957aca92a9df": {
-      "title": "Chief of Staff - 18 month FTC",
-      "company": "Roche",
-      "first_seen": "2026-09-08T10:59:39.106224",
-      "score": 70.0
-    },
-    "1d406398a7416cec2a94027906f87054": {
-      "title": "Chief Growth Officer",
-      "company": "Aeon",
-      "first_seen": "2026-09-08T10:59:39.106227",
-      "score": 40.0
-    },
-    "b7e3188fb04cc4e529b86be641eed3cd": {
-      "title": "Cluster Lead Life Sciences (m/w/d)",
-      "company": "Futury",
-      "first_seen": "2026-09-08T10:59:39.106230",
-      "score": 40.0
-    },
-    "f4dc9ab2b8568a067fb7c0aa424acb9f": {
-      "title": "Regional General Manager (m/f/d) DACH & BeNeLux, Molecular Diagnostics",
-      "company": "Abbott",
-      "first_seen": "2026-09-08T10:59:39.106232",
-      "score": 75.0
-    },
-    "ebf51955db33809295ca58828f11f624": {
-      "title": "Senior Business Development Director",
-      "company": "Labcorp",
-      "first_seen": "2026-09-08T10:59:39.106235",
-      "score": 40.0
-    },
-    "be6361d052fb19775032c7cbf9621027": {
-      "title": "Director Business Development & M&A",
-      "company": "FUTRUE",
-      "first_seen": "2026-09-08T10:59:39.106237",
-      "score": 40.0
-    },
-    "4611440356065d04e8fd4cea673db08a": {
-      "title": "Director of Business Development",
-      "company": "Yibi Precision | MIM Manufacturing Solutions for Precision Metal Components",
-      "first_seen": "2026-09-08T10:59:39.106240",
-      "score": 60.0
-    },
-    "0fcc37789fd9717b3561f0b70a944aa5": {
-      "title": "Head of (m/w/d) Pharmaceutical Operations Project Management",
-      "company": "Denk Pharma",
-      "first_seen": "2026-09-08T10:59:39.106242",
-      "score": 45.0
-    },
-    "2ba737a60ea6e99b83026ac36313c86f": {
-      "title": "Head of ECC Operations - Diagnostics (w/m/d)",
-      "company": "Siemens Healthineers",
-      "first_seen": "2026-09-08T10:59:39.106244",
-      "score": 55.0
-    },
-    "9005e7bab57822cb42e9dee3685dc5c6": {
-      "title": "Regional Sales Manager (m/w/d) Spine West- und Mitteldeutschland",
-      "company": "Stryker",
-      "first_seen": "2026-09-08T10:59:39.106247",
-      "score": 50.0
-    },
-    "c952924370b78bbdcefa12ae84cc1d4e": {
-      "title": "Country Manager Germany",
-      "company": "Check Point Software",
-      "first_seen": "2026-09-08T10:59:39.106249",
-      "score": 55.0
-    },
-    "5edf1cd8a720564bcadaffd146c73da5": {
-      "title": "Head of Revenue Operations (gn) - 40 Std, (hybrid) M\u00fcnchen",
-      "company": "42watt",
-      "first_seen": "2026-09-08T10:59:39.106252",
-      "score": 40.0
-    },
-    "2494bc5e3b1ae0ec099d759bd6d62356": {
-      "title": "Head of Revenue Operations (gn) - 40 Std, (hybrid) (M\u00fcnchen)",
-      "company": "42watt",
-      "first_seen": "2026-09-08T10:59:39.106254",
-      "score": 40.0
-    },
     "d550b9d8c07bdb2da032d227dfa084ee": {
       "title": "Head of Product Commercial Unit (m/w/d) - Jobbird.com",
       "company": "Jobster",
@@ -2285,11 +2195,83 @@
       "company": "Deutsche Telekom",
       "first_seen": "2026-10-07T13:02:36.683808",
       "score": 45.0
+    },
+    "a3e471dd178ef39685979dc61f3fd888": {
+      "title": "Head of Digital, Pharmaceutical Technical Development - Pharma Technical Operations",
+      "company": "Genentech",
+      "first_seen": "2026-10-08T13:11:12.437498",
+      "score": 45.0
+    },
+    "50ad49fc9ab5ebd04ec54751f5bd038b": {
+      "title": "Strategic Partnerships Lead (all genders)",
+      "company": "getolo",
+      "first_seen": "2026-10-08T13:11:12.437511",
+      "score": 40.0
+    },
+    "54e381bc28332239a3edc23185cb0a00": {
+      "title": "Director, Business Development- Quality and Compliance",
+      "company": "ProPharma",
+      "first_seen": "2026-10-08T13:11:12.437513",
+      "score": 45.0
+    },
+    "78c9955cf8897ef537d6d2dd28549a91": {
+      "title": "Regional Sales Director Clinical Development and Services",
+      "company": "Catalent",
+      "first_seen": "2026-10-08T13:11:12.437515",
+      "score": 40.0
+    },
+    "53b13b90df4c5aa65ba56ee72b8cea5f": {
+      "title": "Business Development Director (m/w/d).",
+      "company": "UPS",
+      "first_seen": "2026-10-08T13:11:12.437516",
+      "score": 40.0
+    },
+    "0ad5dd63f86fb695cb8f625ee2f46afb": {
+      "title": "Country Manager",
+      "company": "Impress",
+      "first_seen": "2026-10-08T13:11:12.437518",
+      "score": 55.0
+    },
+    "00339cee5ffb2b60a7c84b943cef6593": {
+      "title": "Country Manager",
+      "company": "Impress",
+      "first_seen": "2026-10-08T13:11:12.437519",
+      "score": 55.0
+    },
+    "6a5218d0dc357853353215fe707e87cf": {
+      "title": "Digital M&S GenMed Insulin Cluster Leader - all genders",
+      "company": "Sanofi",
+      "first_seen": "2026-10-08T13:11:12.437520",
+      "score": 50.0
+    },
+    "2dcadea877f4ef8a7ac25c7c044b7689": {
+      "title": "Head of Global Business Development & Distribution (m/w/d)",
+      "company": "Hydrotechnik GmbH",
+      "first_seen": "2026-10-08T13:11:12.437522",
+      "score": 40.0
+    },
+    "21481a84a6512b01f3bcccd3885f7b10": {
+      "title": "Senior Director Business Development Industry EU (all genders)",
+      "company": "Viega Deutschland",
+      "first_seen": "2026-10-08T13:11:12.437523",
+      "score": 40.0
+    },
+    "19bdc17c08f9209c734141228425b716": {
+      "title": "Head of Brand Partnerships \u2013 K-Beauty (m/w/d)",
+      "company": "OneWave.",
+      "first_seen": "2026-10-08T13:11:12.437524",
+      "score": 40.0
+    },
+    "84f55e00ac70d87953eb173006d92e29": {
+      "title": "VP Product Innovation & Systems Engineering (m/w/d)",
+      "company": "Kienbaum",
+      "first_seen": "2026-10-08T13:11:12.437526",
+      "score": 40.0
     }
   },
-  "last_run": "2026-10-07T13:02:36.683812",
+  "last_run": "2026-10-08T13:11:12.437531",
   "stats": {
-    "total_seen": 381,
-    "total_reported": 1560
+    "total_seen": 378,
+    "total_reported": 1572
   }
 }

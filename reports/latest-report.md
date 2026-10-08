@@ -1,142 +1,87 @@
-# 🎯 Daily Job Report — 2026-10-07
+# 🎯 Daily Job Report — 2026-10-08
 
-**20** new matches | **0** high relevance
+**12** new matches | **0** high relevance
 
 ---
 
-### 1. 🟡 Commercial Segment Lead B2B SaaS – Growth / P&L (alle Identitäten)
-**Caspar Health** · 📍 Germany · Score: 65/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/commercial-segment-lead-b2b-saas-%E2%80%93-growth-p-l-alle-identit%C3%A4ten-at-caspar-health-4476538942)
+### 1. 🟡 Country Manager
+**Impress** · 📍 Berlin, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/country-manager-at-impress-4476762847)
+  - Title match: 'country manager'
+  - Location: 'germany'
+
+### 2. 🟡 Country Manager
+**Impress** · 📍 Berlin, Berlin, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/country-manager-at-impress-4475448561)
+  - Title match: 'country manager'
+  - Location: 'germany'
+
+### 3. 🟡 Digital M&S GenMed Insulin Cluster Leader - all genders
+**Sanofi** · 📍 Frankfurt am Main, Hesse, Germany · Score: 50/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/digital-m-s-genmed-insulin-cluster-leader-all-genders-at-sanofi-4475905217)
   - Seniority match: 'lead'
-  - Keywords (3): commercial, growth, p&l
   - Location: 'germany'
-  - Target company: Caspar Health
+  - Target company: Sanofi Digital
 
-### 2. 🟡 Geschäftsführer / General Manager (m/w/d) Life Sciences
-**Page Executive** · 📍 Berlin, Berlin, Germany · Score: 60/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/gesch%C3%A4ftsf%C3%BChrer-general-manager-m-w-d-life-sciences-at-page-executive-4476340842)
-  - Title match: 'general manager'
-  - Keywords (1): life sciences
-  - Location: 'germany'
-
-### 3. 🟡 Senior Manager/Associate Director - Commercial Excellence (1260)
-**Axtria - Ingenious Insights** · 📍 Frankfurt, Hesse, Germany · Score: 60/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-manager-associate-director-commercial-excellence-1260-at-axtria-ingenious-insights-4412158475)
-  - Title match: 'associate director'
-  - Keywords (1): commercial
-  - Location: 'germany'
-
-### 4. 🟡 Head of Business Development (m/f/d)
-**ARX Robotics** · 📍 Munich, Bavaria, Germany · Score: 60/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-business-development-m-f-d-at-arx-robotics-4474099969)
-  - Title match: 'head of business development'
-  - Keywords (1): business development
-  - Location: 'germany'
-
-### 5. 🟡 Chief of Staff (m/w/x)
-**Doctorflix** · 📍 Berlin, Berlin, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/chief-of-staff-m-w-x-at-doctorflix-4475433131)
-  - Title match: 'chief of staff'
-  - Location: 'germany'
-
-### 6. 🟡 Head of Operations/Country Lead: Germany
-**Pod Talent** · 📍 Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-operations-country-lead-germany-at-pod-talent-4476310818)
-  - Title match: 'head of operations'
-  - Location: 'germany'
-
-### 7. 🟡 Head of Operations - General Manager
-**Approach People Recruitment** · 📍 Berlin, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-operations-general-manager-at-approach-people-recruitment-4476574760)
-  - Title match: 'head of operations'
-  - Location: 'germany'
-
-### 8. 🟡 Head of Operations (m/w/d) - Berlin
-**VARM** · 📍 Berlin, Berlin, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-operations-m-w-d-berlin-at-varm-4476362722)
-  - Title match: 'head of operations'
-  - Location: 'germany'
-
-### 9. 🟡 Director Tech Strategy & GenAI – Healthcare & Life Sciences (m/f/d)
-**Simon-Kucher** · 📍 Munich, Bavaria, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-tech-strategy-genai-%E2%80%93-healthcare-life-sciences-m-f-d-at-simon-kucher-4417061549)
-  - Seniority match: 'director'
-  - Keywords (3): life sciences, healthcare, strategy
-  - Location: 'germany'
-
-### 10. 🟡 Director Tech Strategy & GenAI – Healthcare & Life Sciences (m/f/d)
-**Simon-Kucher** · 📍 Berlin, Berlin, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-tech-strategy-genai-%E2%80%93-healthcare-life-sciences-m-f-d-at-simon-kucher-4417065520)
-  - Seniority match: 'director'
-  - Keywords (3): life sciences, healthcare, strategy
-  - Location: 'germany'
-
-### 11. ⚪ Abteilungsleitung (w/m/d) Versorgungsinnovationen / Head of Healthcare Innovation
-**Kassenärztliche Vereinigung Nordrhein** · 📍 Düsseldorf, North Rhine-Westphalia, Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/abteilungsleitung-w-m-d-versorgungsinnovationen-head-of-healthcare-innovation-at-kassen%C3%A4rztliche-vereinigung-nordrhein-4475408182)
+### 4. ⚪ Head of Digital, Pharmaceutical Technical Development - Pharma Technical Operations
+**Genentech** · 📍 Penzberg, Bavaria, Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-digital-pharmaceutical-technical-development-pharma-technical-operations-at-genentech-4475784135)
   - Seniority match: 'head of'
-  - Keywords (2): healthcare, innovation
+  - Keywords (2): pharma, pharmaceutical
   - Location: 'germany'
 
-### 12. ⚪ Director, Strategic Growth & Commercial Integration (f/m/d)
-**Cytiva** · 📍 Dreieich, Hesse, Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-strategic-growth-commercial-integration-f-m-d-at-cytiva-4475183555)
+### 5. ⚪ Director, Business Development- Quality and Compliance
+**ProPharma** · 📍 Berlin, Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-business-development-quality-and-compliance-at-propharma-4477128962)
   - Seniority match: 'director'
-  - Keywords (2): commercial, growth
+  - Keywords (2): pharma, business development
   - Location: 'germany'
 
-### 13. ⚪ Director, Strategic Growth & Commercial
-**Cytiva** · 📍 Dreieich, Hesse, Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-strategic-growth-commercial-at-cytiva-4475179727)
+### 6. ⚪ Strategic Partnerships Lead (all genders)
+**getolo** · 📍 Berlin, Berlin, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/strategic-partnerships-lead-all-genders-at-getolo-4477148219)
+  - Seniority match: 'lead'
+  - Keywords (1): partnerships
+  - Location: 'germany'
+
+### 7. ⚪ Regional Sales Director Clinical Development and Services
+**Catalent** · 📍 Schorndorf, Baden-Württemberg, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/regional-sales-director-clinical-development-and-services-at-catalent-4476790304)
   - Seniority match: 'director'
-  - Keywords (2): commercial, growth
+  - Keywords (1): clinical
   - Location: 'germany'
 
-### 14. ⚪ Lead Healthcare AI Strategy & Architecture (m/w/d/x)
-**Deutsche Telekom** · 📍 Berlin, Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/lead-healthcare-ai-strategy-architecture-m-w-d-x-at-deutsche-telekom-4476326708)
-  - Seniority match: 'lead'
-  - Keywords (2): healthcare, strategy
-  - Location: 'germany'
-
-### 15. ⚪ Lead Healthcare AI Strategy & Architecture (m/w/d/x)
-**Deutsche Telekom** · 📍 Darmstadt, Hesse, Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/lead-healthcare-ai-strategy-architecture-m-w-d-x-at-deutsche-telekom-4476320989)
-  - Seniority match: 'lead'
-  - Keywords (2): healthcare, strategy
-  - Location: 'germany'
-
-### 16. ⚪ Director Commercial Execution Germany - Digital Health (Silent Cloud)
-**Sonova Group** · 📍 Berlin, Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-commercial-execution-germany-digital-health-silent-cloud-at-sonova-group-4420987334)
-  - Seniority match: 'director'
-  - Keywords (2): digital health, commercial
-  - Location: 'germany'
-
-### 17. ⚪ Lead Healthcare AI Strategy & Architecture (m/w/d/x)
-**Deutsche Telekom** · 📍 Dresden, Saxony, Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/lead-healthcare-ai-strategy-architecture-m-w-d-x-at-deutsche-telekom-4476342056)
-  - Seniority match: 'lead'
-  - Keywords (2): healthcare, strategy
-  - Location: 'germany'
-
-### 18. ⚪ Business Development Director – Supply Chain Center of Excellence (CoE)
-**Cognite** · 📍 Munich, Bavaria, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/business-development-director-%E2%80%93-supply-chain-center-of-excellence-coe-at-cognite-4475197852)
+### 8. ⚪ Business Development Director (m/w/d).
+**UPS** · 📍 Kelsterbach, Hesse, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/business-development-director-m-w-d-at-ups-4466891682)
   - Seniority match: 'director'
   - Keywords (1): business development
   - Location: 'germany'
 
-### 19. ⚪ Business Development Director – Supply Chain Center of Excellence (CoE)
-**Cognite** · 📍 Frankfurt, Hesse, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/business-development-director-%E2%80%93-supply-chain-center-of-excellence-coe-at-cognite-4475198840)
+### 9. ⚪ Head of Global Business Development & Distribution (m/w/d)
+**Hydrotechnik GmbH** · 📍 Limburg an der Lahn, Hesse, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-global-business-development-distribution-m-w-d-at-hydrotechnik-gmbh-4475783016)
+  - Seniority match: 'head of'
+  - Keywords (1): business development
+  - Location: 'germany'
+
+### 10. ⚪ Senior Director Business Development Industry EU (all genders)
+**Viega Deutschland** · 📍 Attendorn, North Rhine-Westphalia, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-director-business-development-industry-eu-all-genders-at-viega-deutschland-4475442317)
   - Seniority match: 'director'
   - Keywords (1): business development
   - Location: 'germany'
 
-### 20. ⚪ Principal Business Development Manager CMTS Cell Culture Media (x|f|m)
-**Sartorius** · 📍 Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/principal-business-development-manager-cmts-cell-culture-media-x-f-m-at-sartorius-4467735050)
-  - Seniority match: 'principal'
-  - Keywords (1): business development
+### 11. ⚪ Head of Brand Partnerships – K-Beauty (m/w/d)
+**OneWave.** · 📍 Sulzbach, Hesse, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-brand-partnerships-%E2%80%93-k-beauty-m-w-d-at-onewave-4476798707)
+  - Seniority match: 'head of'
+  - Keywords (1): partnerships
+  - Location: 'germany'
+
+### 12. ⚪ VP Product Innovation & Systems Engineering (m/w/d)
+**Kienbaum** · 📍 Baden-Württemberg, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/vp-product-innovation-systems-engineering-m-w-d-at-kienbaum-4477144153)
+  - Seniority match: 'vp'
+  - Keywords (1): innovation
   - Location: 'germany'
