@@ -1,77 +1,5 @@
 {
   "seen": {
-    "d550b9d8c07bdb2da032d227dfa084ee": {
-      "title": "Head of Product Commercial Unit (m/w/d) - Jobbird.com",
-      "company": "Jobster",
-      "first_seen": "2026-09-09T11:05:05.494943",
-      "score": 60.0
-    },
-    "fa462199a22dfd945ee86b203046c1cc": {
-      "title": "Head of Transformation Office and Chief of Staff (m/f/d)",
-      "company": "Nemetschek Group",
-      "first_seen": "2026-09-09T11:05:05.494955",
-      "score": 55.0
-    },
-    "a626267444353dbb0a7d7fc7925e7d66": {
-      "title": "Head of Consulting \u2013 Digital Platform for Operational Excellence SaaS & Pharma Manufacturing (all genders)",
-      "company": "Seqonis",
-      "first_seen": "2026-09-09T11:05:05.494960",
-      "score": 40.0
-    },
-    "a9f97101ed959cc4bf0d98be4863d274": {
-      "title": "Cardiac Solutions Business Development Manager Europe (m/w/d)",
-      "company": "Philips",
-      "first_seen": "2026-09-09T11:05:05.494963",
-      "score": 40.0
-    },
-    "683c9f8779f4981a8487797c284e1d06": {
-      "title": "Business Development Director",
-      "company": "Labcorp",
-      "first_seen": "2026-09-09T11:05:05.494967",
-      "score": 40.0
-    },
-    "beae3d3ffc9f78c5bef2ca70634cd3e0": {
-      "title": "Commercial Director",
-      "company": "Helsing",
-      "first_seen": "2026-09-09T11:05:05.494970",
-      "score": 40.0
-    },
-    "48995b541d4cdedf492734b0b4bc4ba8": {
-      "title": "Country Manager (m/w/d) DACH - Pharma Distribution",
-      "company": "Hays",
-      "first_seen": "2026-09-09T11:05:05.494974",
-      "score": 60.0
-    },
-    "74969124fba75e42cfd30b4279ebac8f": {
-      "title": "Head of Operations (all genders)",
-      "company": "yummy",
-      "first_seen": "2026-09-09T11:05:05.494977",
-      "score": 55.0
-    },
-    "6dd715af5877289081ee7f169500aac0": {
-      "title": "Business Development Director",
-      "company": "Labcorp",
-      "first_seen": "2026-09-09T11:05:05.494979",
-      "score": 40.0
-    },
-    "62beab309c6b926ddb0c541512e74267": {
-      "title": "Country Manager Deutschland",
-      "company": "Trade Admire Group",
-      "first_seen": "2026-09-09T11:05:05.494982",
-      "score": 55.0
-    },
-    "3886160bd59493cc3a8aab07536cbd85": {
-      "title": "Senior Scientific Search, Evaluation & Business Development Lead - Retina",
-      "company": "Novaliq GmbH",
-      "first_seen": "2026-09-09T11:05:05.494984",
-      "score": 40.0
-    },
-    "22b9931420d2de28e10e06da4fad3557": {
-      "title": "Senior Clinical & Scientific Lead, Early Development \u2013 Retina",
-      "company": "Novaliq GmbH",
-      "first_seen": "2026-09-09T11:05:05.494987",
-      "score": 40.0
-    },
     "0eebc17f859d6c5e1fed96af69ba59ef": {
       "title": "Senior Strategy & Operations Manager",
       "company": "Boehringer Ingelheim",
@@ -2267,11 +2195,71 @@
       "company": "Kienbaum",
       "first_seen": "2026-10-08T13:11:12.437526",
       "score": 40.0
+    },
+    "44e9bfc7e0596272e0de5c6da2da1522": {
+      "title": "Director Indirect Sales & Partnerships (x/f/m)",
+      "company": "Doctolib",
+      "first_seen": "2026-10-09T12:56:54.425689",
+      "score": 55.0
+    },
+    "6b1eb1b222a50312d2fdcbbb4f68689f": {
+      "title": "@FICUS Health Chief Commercial Officer (CCO), starting ASAP (m/w/d)",
+      "company": "Merantix Capital",
+      "first_seen": "2026-10-09T12:56:54.425699",
+      "score": 40.0
+    },
+    "06320ed87bc9ab64d32502780dbc8b5e": {
+      "title": "Life Sciences New Business Development Director (home-based)",
+      "company": "Careerwise",
+      "first_seen": "2026-10-09T12:56:54.425702",
+      "score": 45.0
+    },
+    "2271ff59409e980ad6232ad666d658b7": {
+      "title": "Director of Business Development",
+      "company": "Passion for People GmbH",
+      "first_seen": "2026-10-09T12:56:54.425704",
+      "score": 60.0
+    },
+    "de04649463510a2544d2377dd85b2a53": {
+      "title": "Head of Operations (all genders)",
+      "company": "yummy",
+      "first_seen": "2026-10-09T12:56:54.425705",
+      "score": 55.0
+    },
+    "ffcf297f604907a63662d0f81ea72d9d": {
+      "title": "Director of Operations",
+      "company": "Steneg",
+      "first_seen": "2026-10-09T12:56:54.425707",
+      "score": 55.0
+    },
+    "1fe2e3c8c4850c2cfc0e280d5160955c": {
+      "title": "Associate Director, Marketing Oncology - Germany",
+      "company": "Genmab",
+      "first_seen": "2026-10-09T12:56:54.425708",
+      "score": 55.0
+    },
+    "23a04d6bd7e5505b9577b3da0ebe33c7": {
+      "title": "EY-Parthenon Senior Manager Projektleitung Digitalprojekte - Strategy and Transactions (w/m/d)",
+      "company": "EY-Parthenon",
+      "first_seen": "2026-10-09T12:56:54.425710",
+      "score": 40.0
+    },
+    "e5827cc2df8e4ad99f93cc62a43cc86b": {
+      "title": "Regional Partnerships Director - EMEA",
+      "company": "BridgeWise",
+      "first_seen": "2026-10-09T12:56:54.425711",
+      "score": 40.0
+    },
+    "579b233df772a9fadc82aa9a6f925bcb": {
+      "title": "Associate Technical Director, Pharma, Germany",
+      "company": "Sensient Technologies Corporation",
+      "first_seen": "2026-10-09T12:56:54.425713",
+      "score": 40.0
     }
   },
-  "last_run": "2026-10-08T13:11:12.437531",
+  "last_run": "2026-10-09T12:56:54.425718",
   "stats": {
-    "total_seen": 378,
-    "total_reported": 1572
+    "total_seen": 376,
+    "total_reported": 1582
   }
 }
