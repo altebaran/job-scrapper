@@ -1,73 +1,67 @@
-# 🎯 Daily Job Report — 2026-10-09
+# 🎯 Daily Job Report — 2026-10-10
 
-**10** new matches | **0** high relevance
+**9** new matches | **0** high relevance
 
 ---
 
-### 1. 🟡 Director of Business Development
-**Passion for People GmbH** · 📍 Stuttgart Region · Score: 60/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-of-business-development-at-passion-for-people-gmbh-4475953777)
-  - Title match: 'director of business development'
-  - Keywords (1): business development
-  - Location: 'stuttgart'
+### 1. 🟡 Head of Product (m/w/d)
+**DrAnsay** · 📍 Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-product-m-w-d-at-dransay-4476851688)
+  - Title match: 'head of product'
+  - Location: 'germany'
 
-### 2. 🟡 Director Indirect Sales & Partnerships (x/f/m)
-**Doctolib** · 📍 Berlin, Berlin, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-indirect-sales-partnerships-x-f-m-at-doctolib-4477674435)
+### 2. ⚪ Vice President Business Development & Commercial (m/w/d)
+**Pammys** · 📍 Hamburg, Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/vice-president-business-development-commercial-m-w-d-at-pammys-4477827032)
+  - Seniority match: 'vice president'
+  - Keywords (2): business development, commercial
+  - Location: 'germany'
+
+### 3. ⚪ Director Strategy & Development (m/w/d) – R&D Strategy, Technology Scouting, Partnerships
+**Gi Group Holding** · 📍 Munich, Bavaria, Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-strategy-development-m-w-d-%E2%80%93-r-d-strategy-technology-scouting-partnerships-at-gi-group-holding-4477808571)
   - Seniority match: 'director'
-  - Keywords (1): partnerships
-  - Location: 'germany'
-  - Target company: Doctolib
-
-### 3. 🟡 Head of Operations (all genders)
-**yummy** · 📍 Munich, Bavaria, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-operations-all-genders-at-yummy-4474815947)
-  - Title match: 'head of operations'
+  - Keywords (2): strategy, partnerships
   - Location: 'germany'
 
-### 4. 🟡 Director of Operations
-**Steneg** · 📍 North Rhine-Westphalia, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-of-operations-at-steneg-4474890999)
-  - Title match: 'director of operations'
+### 4. ⚪ RWE Strategy Lead, Developed Brands (GER)
+**UCB** · 📍 Mettmann, North Rhine-Westphalia, Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/rwe-strategy-lead-developed-brands-ger-at-ucb-4468830654)
+  - Seniority match: 'lead'
+  - Keywords (2): rwe, strategy
   - Location: 'germany'
 
-### 5. 🟡 Associate Director, Marketing Oncology - Germany
-**Genmab** · 📍 Munich, Bavaria, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-marketing-oncology-germany-at-genmab-4475994223)
-  - Title match: 'associate director'
-  - Location: 'germany'
-
-### 6. ⚪ Life Sciences New Business Development Director (home-based)
-**Careerwise** · 📍 Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/life-sciences-new-business-development-director-home-based-at-careerwise-4476271678)
-  - Seniority match: 'director'
-  - Keywords (2): life sciences, business development
-  - Location: 'germany'
-
-### 7. ⚪ @FICUS Health Chief Commercial Officer (CCO), starting ASAP (m/w/d)
-**Merantix Capital** · 📍 Berlin, Berlin, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/%40ficus-health-chief-commercial-officer-cco-starting-asap-m-w-d-at-merantix-capital-4474818820)
-  - Seniority match: 'chief'
-  - Keywords (1): commercial
-  - Location: 'germany'
-
-### 8. ⚪ EY-Parthenon Senior Manager Projektleitung Digitalprojekte - Strategy and Transactions (w/m/d)
-**EY-Parthenon** · 📍 Düsseldorf, North Rhine-Westphalia, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/ey-parthenon-senior-manager-projektleitung-digitalprojekte-strategy-and-transactions-w-m-d-at-ey-parthenon-4438410094)
+### 5. ⚪ EY-Parthenon Senior Manager Projektleitung Digitalprojekte - Strategy and Transactions (w/m/d)
+**EY-Parthenon** · 📍 Stuttgart, Baden-Württemberg, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/ey-parthenon-senior-manager-projektleitung-digitalprojekte-strategy-and-transactions-w-m-d-at-ey-parthenon-4438091947)
   - Seniority match: 'senior manager'
   - Keywords (1): strategy
   - Location: 'germany'
 
-### 9. ⚪ Regional Partnerships Director - EMEA
-**BridgeWise** · 📍 Frankfurt, Hesse, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/regional-partnerships-director-emea-at-bridgewise-4475940929)
+### 6. ⚪ Commercial Director - NRW (m/f/d)
+**Sanoptis** · 📍 North Rhine-Westphalia, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/commercial-director-nrw-m-f-d-at-sanoptis-4469153291)
   - Seniority match: 'director'
-  - Keywords (1): partnerships
+  - Keywords (1): commercial
   - Location: 'germany'
 
-### 10. ⚪ Associate Technical Director, Pharma, Germany
-**Sensient Technologies Corporation** · 📍 Geesthacht, Schleswig-Holstein, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-technical-director-pharma-germany-at-sensient-technologies-corporation-4476201752)
+### 7. ⚪ Head of Global Business Development & Distribution (m/w/d)
+**Hydrotechnik GmbH** · 📍 Limburg an der Lahn, Hesse, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-global-business-development-distribution-m-w-d-at-hydrotechnik-gmbh-4475279502)
+  - Seniority match: 'head of'
+  - Keywords (1): business development
+  - Location: 'germany'
+
+### 8. ⚪ Site Director | Clinical Research | Düsseldorf (m/f/d)
+**FutureMeds** · 📍 Düsseldorf, North Rhine-Westphalia, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/site-director-clinical-research-d%C3%BCsseldorf-m-f-d-at-futuremeds-4475217814)
   - Seniority match: 'director'
+  - Keywords (1): clinical
+  - Location: 'germany'
+
+### 9. ⚪ Head of D2C Brand Management (m/w/d)
+**Queisser Pharma GmbH & Co. KG** · 📍 Flensburg, Schleswig-Holstein, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-d2c-brand-management-m-w-d-at-queisser-pharma-gmbh-co-kg-4475267059)
+  - Seniority match: 'head of'
   - Keywords (1): pharma
   - Location: 'germany'

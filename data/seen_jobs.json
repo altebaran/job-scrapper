@@ -1,107 +1,5 @@
 {
   "seen": {
-    "0eebc17f859d6c5e1fed96af69ba59ef": {
-      "title": "Senior Strategy & Operations Manager",
-      "company": "Boehringer Ingelheim",
-      "first_seen": "2026-09-10T11:00:55.521949",
-      "score": 40.0
-    },
-    "eb22728a5c7370b4b3314ad5d766863b": {
-      "title": "Senior Manager Healthcare Intelligence Partnerships & Growth (m/f/d)",
-      "company": "PHOENIX group - Integrated Healthcare Provider",
-      "first_seen": "2026-09-10T11:00:55.521960",
-      "score": 50.0
-    },
-    "e656faf5f0fd0bedb806ed82027f7e36": {
-      "title": "Director Strategy Consulting \u2013 Technologie, Digitalisierung & Innovation (m/w/d)",
-      "company": "Statista Strategy",
-      "first_seen": "2026-09-10T11:00:55.521963",
-      "score": 45.0
-    },
-    "3d83e08b6049e48c9b90c378903b3bf4": {
-      "title": "Business Development Director (f/m/d)",
-      "company": "STD",
-      "first_seen": "2026-09-10T11:00:55.521965",
-      "score": 40.0
-    },
-    "c581601ab381fa63593710a54207f4ae": {
-      "title": "Principal, Real World Commercial Analytics - Pharma & Healthcare",
-      "company": "IQVIA",
-      "first_seen": "2026-09-10T11:00:55.521967",
-      "score": 50.0
-    },
-    "18600c35cc5f4e7f1ac986443b2d60a4": {
-      "title": "Ecosystem Business Development Director (all genders) - Salesforce",
-      "company": "Accenture DACH",
-      "first_seen": "2026-09-10T11:00:55.521969",
-      "score": 40.0
-    },
-    "2ac9a48caf7be15e2b06cfa29270a206": {
-      "title": "Director Operations (m/w/d) Bauberatung",
-      "company": "encoviva",
-      "first_seen": "2026-09-10T11:00:55.521971",
-      "score": 50.0
-    },
-    "697bdcbb86ba4f5a294cb7e0bf9ae2a2": {
-      "title": "Head Of Operations (all genders)",
-      "company": "Instaffo",
-      "first_seen": "2026-09-10T11:00:55.521973",
-      "score": 55.0
-    },
-    "e2f305bae69790cded31e18a7fba5746": {
-      "title": "Head of Project Management R&D, Innovation, NPI & Master Data (all genders)",
-      "company": "Merck Life Science",
-      "first_seen": "2026-09-10T11:00:55.521975",
-      "score": 40.0
-    },
-    "11ae614464b50bc8ae4060922f94fad4": {
-      "title": "Associate Director IT Procurement",
-      "company": "BioNTech SE",
-      "first_seen": "2026-09-10T11:00:55.521977",
-      "score": 55.0
-    },
-    "1d36dc15bda66eccb7f9e46963ce1283": {
-      "title": "Director Engineering, Retail Media& Marketplace",
-      "company": "Redcare Pharmacy",
-      "first_seen": "2026-09-10T11:00:55.521978",
-      "score": 40.0
-    },
-    "5727c64d688a7e5bb86fa01708cdc496": {
-      "title": "Teamlead (m/w/d) IT Projects & Automation",
-      "company": "Denk Pharma",
-      "first_seen": "2026-09-10T11:00:55.521980",
-      "score": 40.0
-    },
-    "bc108ee7dcc101cddfdd4ccc3cb9f00d": {
-      "title": "VP Commercial",
-      "company": "W Talent Switzerland",
-      "first_seen": "2026-09-10T11:00:55.521982",
-      "score": 60.0
-    },
-    "e196c225e6965ad5fa5c47f8846be40b": {
-      "title": "Venture Lead F\u00f6rderProfi und Energiegestalter (m/w/d)",
-      "company": "Viessmann Climate Solutions",
-      "first_seen": "2026-09-10T11:00:55.521984",
-      "score": 40.0
-    },
-    "164d21f0c1439d1aff1e3e2b3df244dd": {
-      "title": "Head of Partnerships (m/w/d)",
-      "company": "Superchat",
-      "first_seen": "2026-09-10T11:00:55.521986",
-      "score": 60.0
-    },
-    "12673792637d4c1d3d3ed0d8a86c92b4": {
-      "title": "Senior Manager Strategic Brand Partnerships (w/d/m) - Healthcare & Pharma",
-      "company": "SPORTFIVE",
-      "first_seen": "2026-09-10T11:00:55.521987",
-      "score": 50.0
-    },
-    "e0da646379bc23d8a58a8b89291f58e2": {
-      "title": "Senior Manager Premium Partnerships / Strategic Brand Partnerships (w/d/m) - Tech",
-      "company": "SPORTFIVE",
-      "first_seen": "2026-09-10T11:00:55.521989",
-      "score": 40.0
-    },
     "94b14154f2d5a58b3c9e9ab1f1682ae3": {
       "title": "Sr. Director/General Manager Pharma Segment Electron Microscopy",
       "company": "Thermo Fisher Scientific",
@@ -2255,11 +2153,65 @@
       "company": "Sensient Technologies Corporation",
       "first_seen": "2026-10-09T12:56:54.425713",
       "score": 40.0
+    },
+    "e5a0cb2fec83ff696070683fddc9bebd": {
+      "title": "Head of Product (m/w/d)",
+      "company": "DrAnsay",
+      "first_seen": "2026-10-10T12:15:41.858525",
+      "score": 55.0
+    },
+    "af7911688239e4052359e506ed119ab2": {
+      "title": "EY-Parthenon Senior Manager Projektleitung Digitalprojekte - Strategy and Transactions (w/m/d)",
+      "company": "EY-Parthenon",
+      "first_seen": "2026-10-10T12:15:41.858536",
+      "score": 40.0
+    },
+    "7ff2a8258aabacbecfe6f33391406de6": {
+      "title": "Commercial Director - NRW (m/f/d)",
+      "company": "Sanoptis",
+      "first_seen": "2026-10-10T12:15:41.858538",
+      "score": 40.0
+    },
+    "8803da45163fb197b2b13937a7d6a37c": {
+      "title": "Head of Global Business Development & Distribution (m/w/d)",
+      "company": "Hydrotechnik GmbH",
+      "first_seen": "2026-10-10T12:15:41.858539",
+      "score": 40.0
+    },
+    "80b3ab0b1411176faf4295283df53d7e": {
+      "title": "Site Director | Clinical Research | D\u00fcsseldorf (m/f/d)",
+      "company": "FutureMeds",
+      "first_seen": "2026-10-10T12:15:41.858540",
+      "score": 40.0
+    },
+    "ad4dd30765b0412d757f92ff93b1909f": {
+      "title": "Head of D2C Brand Management (m/w/d)",
+      "company": "Queisser Pharma GmbH & Co. KG",
+      "first_seen": "2026-10-10T12:15:41.858542",
+      "score": 40.0
+    },
+    "4e61e29cf7ecf1705569a478b190cc45": {
+      "title": "Vice President Business Development & Commercial (m/w/d)",
+      "company": "Pammys",
+      "first_seen": "2026-10-10T12:15:41.858543",
+      "score": 45.0
+    },
+    "89bd80c0a0e7b22a272e8e9dc0aa8373": {
+      "title": "Director Strategy & Development (m/w/d) \u2013 R&D Strategy, Technology Scouting, Partnerships",
+      "company": "Gi Group Holding",
+      "first_seen": "2026-10-10T12:15:41.858544",
+      "score": 45.0
+    },
+    "e6d6108ddd541fc651d1c4c30e924384": {
+      "title": "RWE Strategy Lead, Developed Brands (GER)",
+      "company": "UCB",
+      "first_seen": "2026-10-10T12:15:41.858545",
+      "score": 45.0
     }
   },
-  "last_run": "2026-10-09T12:56:54.425718",
+  "last_run": "2026-10-10T12:15:41.858550",
   "stats": {
-    "total_seen": 376,
-    "total_reported": 1582
+    "total_seen": 368,
+    "total_reported": 1591
   }
 }
