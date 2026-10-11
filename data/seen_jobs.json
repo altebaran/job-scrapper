@@ -1,71 +1,5 @@
 {
   "seen": {
-    "94b14154f2d5a58b3c9e9ab1f1682ae3": {
-      "title": "Sr. Director/General Manager Pharma Segment Electron Microscopy",
-      "company": "Thermo Fisher Scientific",
-      "first_seen": "2026-09-11T11:00:25.791618",
-      "score": 60.0
-    },
-    "75b744fcba043879bf9d2ffc5e377151": {
-      "title": "Senior Sales Manager (m/w/d) Life Sciences, Pharma & Chemistry DACH",
-      "company": "Siemens",
-      "first_seen": "2026-09-11T11:00:25.791628",
-      "score": 45.0
-    },
-    "0b759b8c8d64bf54603782f648c728af": {
-      "title": "Management Director",
-      "company": "Meet Life Sciences",
-      "first_seen": "2026-09-11T11:00:25.791631",
-      "score": 40.0
-    },
-    "a637ba661c6b0b845d7ab424168f0891": {
-      "title": "Head of Operation & People (m/w/d)",
-      "company": "NeuroNation - Mind & Brain Health Technology",
-      "first_seen": "2026-09-11T11:00:25.791633",
-      "score": 40.0
-    },
-    "643f11bc71e730ac5a31d8d5056727d2": {
-      "title": "Leiter Clinical Operations",
-      "company": "Apurano Pharmaceuticals GmbH",
-      "first_seen": "2026-09-11T11:00:25.791635",
-      "score": 50.0
-    },
-    "189d8903f4ce247b5f93742d1389aac1": {
-      "title": "Teamlead CRM (m/w/d)",
-      "company": "Redcare Pharmacy",
-      "first_seen": "2026-09-11T11:00:25.791637",
-      "score": 40.0
-    },
-    "dadbe1d808249af191dcc98a548f9cbf": {
-      "title": "Head of Industry Engagements and Partnerships (m/w/d)",
-      "company": "Hasso Plattner Institute",
-      "first_seen": "2026-09-11T11:00:25.791638",
-      "score": 40.0
-    },
-    "22a7876122a891bdc5b821c919e58bb5": {
-      "title": "Head of Channel & Partnerships | Up to \u20ac200K OTE + Equity | AI SaaS | Berlin",
-      "company": "Bluebird",
-      "first_seen": "2026-09-11T11:00:25.791640",
-      "score": 40.0
-    },
-    "01bd9c64286da5eb6b8dc7fc33e9155d": {
-      "title": "Ecosystem Business Development Director (all genders) - Anthropic",
-      "company": "Accenture DACH",
-      "first_seen": "2026-09-11T11:00:25.791642",
-      "score": 40.0
-    },
-    "610e84ce107aac918b8996c5d9c0b664": {
-      "title": "Clinical Development Lead CRM",
-      "company": "Boehringer Ingelheim",
-      "first_seen": "2026-09-11T11:00:25.791644",
-      "score": 55.0
-    },
-    "47e660982ee5fb4324419fd550618209": {
-      "title": "Candidate Guidance on AI Use",
-      "company": "AstraZeneca Innovation",
-      "first_seen": "2026-09-11T11:00:25.791645",
-      "score": 40.0
-    },
     "a587ec9c3cc662d7f6f4bc7884351754": {
       "title": "Business Lead Neurovascular Germany & Austria (m/w/d)",
       "company": "Johnson & Johnson MedTech",
@@ -2207,11 +2141,59 @@
       "company": "UCB",
       "first_seen": "2026-10-10T12:15:41.858545",
       "score": 45.0
+    },
+    "a31369af43828051f30ecf2e56a8af31": {
+      "title": "Head of Product and Strategy | ROB'E",
+      "company": "NLC Health Ventures",
+      "first_seen": "2026-10-11T12:29:53.551343",
+      "score": 65.0
+    },
+    "2cb0964b8c3ca3511207307ba0f7a69f": {
+      "title": "Interim Country Manager Deutschland (m/w/d) - H\u00f6rtechnologie",
+      "company": "Connected MedTech",
+      "first_seen": "2026-10-11T12:29:53.551356",
+      "score": 60.0
+    },
+    "fe56966ff05f0e1d1219705cd904c1fa": {
+      "title": "Country Manager Deutschland (m/w/d) - H\u00f6rtechnologie",
+      "company": "Connected MedTech",
+      "first_seen": "2026-10-11T12:29:53.551360",
+      "score": 60.0
+    },
+    "ba4c53533000fa6ca52167ebb80dd078": {
+      "title": "Business Development Director (f/m/d), Automotive Europe",
+      "company": "Hesai Technology",
+      "first_seen": "2026-10-11T12:29:53.551363",
+      "score": 40.0
+    },
+    "aa5d49d0d2680b0ee56e07b325907f01": {
+      "title": "Associate Director, Analytical Strategy",
+      "company": "CSL",
+      "first_seen": "2026-10-11T12:29:53.551366",
+      "score": 60.0
+    },
+    "b602087bb120b44024d7a7b6b2c6180c": {
+      "title": "Lead Cloud Software Architect - Pharma Solutions (w/m/x)",
+      "company": "NTT DATA Europe & Latam",
+      "first_seen": "2026-10-11T12:29:53.551369",
+      "score": 40.0
+    },
+    "707c5029202bc8d2a99e981eaa309e5d": {
+      "title": "Head of Department Innovation Planning (w/m/d)",
+      "company": "Endress+Hauser Group",
+      "first_seen": "2026-10-11T12:29:53.551373",
+      "score": 40.0
+    },
+    "47e660982ee5fb4324419fd550618209": {
+      "title": "Candidate Guidance on AI Use",
+      "company": "AstraZeneca Innovation",
+      "first_seen": "2026-10-11T12:29:53.551376",
+      "score": 40.0
     }
   },
-  "last_run": "2026-10-10T12:15:41.858550",
+  "last_run": "2026-10-11T12:29:53.551383",
   "stats": {
-    "total_seen": 368,
-    "total_reported": 1591
+    "total_seen": 365,
+    "total_reported": 1599
   }
 }
