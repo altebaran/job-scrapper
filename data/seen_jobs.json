@@ -1,71 +1,5 @@
 {
   "seen": {
-    "a587ec9c3cc662d7f6f4bc7884351754": {
-      "title": "Business Lead Neurovascular Germany & Austria (m/w/d)",
-      "company": "Johnson & Johnson MedTech",
-      "first_seen": "2026-09-12T10:27:47.014504",
-      "score": 40.0
-    },
-    "b5443d0a207dc97758f1f87eb8614b5f": {
-      "title": "Director, Product Strategy & Transformation",
-      "company": "Wolters Kluwer",
-      "first_seen": "2026-09-12T10:27:47.014515",
-      "score": 40.0
-    },
-    "e8ac874cfae68354d0597de33e55fb0b": {
-      "title": "Strategy Lead Key Account (x/f/m)",
-      "company": "Doctolib",
-      "first_seen": "2026-09-12T10:27:47.014518",
-      "score": 55.0
-    },
-    "3a9bd932a7743bae841f5481c3e258b0": {
-      "title": "Sales Director \u2013 Worldwide",
-      "company": "AIM - Access for Innovation in Medical technology",
-      "first_seen": "2026-09-12T10:27:47.014521",
-      "score": 40.0
-    },
-    "486b7c78214c0eaa46fffe3e81ebe0e2": {
-      "title": "Management Director",
-      "company": "Meet Life Sciences",
-      "first_seen": "2026-09-12T10:27:47.014523",
-      "score": 40.0
-    },
-    "4dd4bcffed19c82642016fe9cc6ac7f1": {
-      "title": "Ecosystem Business Development Director (all genders) - Workday",
-      "company": "Accenture DACH",
-      "first_seen": "2026-09-12T10:27:47.014526",
-      "score": 40.0
-    },
-    "c5cca2b80454b9f8081aac5d5ebb25fa": {
-      "title": "VP Business Development",
-      "company": "Canatu",
-      "first_seen": "2026-09-12T10:27:47.014529",
-      "score": 60.0
-    },
-    "19418620d20727e641b8eb10bc616f70": {
-      "title": "Sales Director Rare Disease Commercial EU4+UK Region",
-      "company": "Regeneron",
-      "first_seen": "2026-09-12T10:27:47.014531",
-      "score": 40.0
-    },
-    "eef385d08e7ccb03611d230e743cee44": {
-      "title": "Regional General Manager, DACH",
-      "company": "Notion",
-      "first_seen": "2026-09-12T10:27:47.014533",
-      "score": 55.0
-    },
-    "62f2aea7c3243f7c9a09d3f0d0135382": {
-      "title": "Head of Business Development, Sales & Service (m/w/d)",
-      "company": "emz - Hanauer GmbH & Co. KGaA",
-      "first_seen": "2026-09-12T10:27:47.014536",
-      "score": 60.0
-    },
-    "8b978d4b22c97c5fd333e4e7584e8c45": {
-      "title": "Senior Innovation Program / Project Lead (w/m/d)",
-      "company": "T\u00dcV S\u00dcD",
-      "first_seen": "2026-09-12T10:27:47.014538",
-      "score": 40.0
-    },
     "dfe776e5259e2e312d375feccb43b901": {
       "title": "Transformation & Efficiency (T&E) Lead (m/w/d)",
       "company": "AstraZeneca",
@@ -2189,11 +2123,89 @@
       "company": "AstraZeneca Innovation",
       "first_seen": "2026-10-11T12:29:53.551376",
       "score": 40.0
+    },
+    "1255a52e65ba7acc30f8001296964387": {
+      "title": "Chief of Staff (m/w/x)",
+      "company": "Doctorflix",
+      "first_seen": "2026-10-12T15:00:06.635985",
+      "score": 55.0
+    },
+    "42239744d2f46ddc781992f0e4ed4c9a": {
+      "title": "Chief of Staff to the CEO \u2013 FUTRUE Group",
+      "company": "FUTRUE",
+      "first_seen": "2026-10-12T15:00:06.635996",
+      "score": 55.0
+    },
+    "51ded21033396b8afefb7fce8cfec9fd": {
+      "title": "Manager Strategy Projects (f/m/d), Advanced Therapies",
+      "company": "Siemens Healthineers",
+      "first_seen": "2026-10-12T15:00:06.635998",
+      "score": 40.0
+    },
+    "487801a5b7c6bbcd452cbcd0af409be1": {
+      "title": "Enterprise AI Value Strategy Senior Manager (All Genders)",
+      "company": "Accenture DACH",
+      "first_seen": "2026-10-12T15:00:06.636000",
+      "score": 40.0
+    },
+    "46ec2ea982a5660dab1d3a1a9fffa512": {
+      "title": "Ecosystem Business Development Director (all genders) - Salesforce",
+      "company": "Accenture DACH",
+      "first_seen": "2026-10-12T15:00:06.636001",
+      "score": 40.0
+    },
+    "6d5317386cb13b73bd060981f762d21f": {
+      "title": "Ecosystem Business Development Director (all genders) - IBM",
+      "company": "Accenture DACH",
+      "first_seen": "2026-10-12T15:00:06.636003",
+      "score": 40.0
+    },
+    "7aaade745e6e5c4660e00a67c9816dbe": {
+      "title": "Business Development Director - Agency",
+      "company": "The Trade Desk",
+      "first_seen": "2026-10-12T15:00:06.636004",
+      "score": 40.0
+    },
+    "d7b5293bd82d143710bc0cc260cf31ef": {
+      "title": "Senior Manager - Business Platforms (m/f/d)",
+      "company": "Redcare Pharmacy",
+      "first_seen": "2026-10-12T15:00:06.636005",
+      "score": 40.0
+    },
+    "3c4d5a2fbba7816fd22cc598f3e99b50": {
+      "title": "Digital Product Lead (gn)",
+      "company": "Gi Life Sciences",
+      "first_seen": "2026-10-12T15:00:06.636007",
+      "score": 40.0
+    },
+    "cd2cd051a02f5d7066947beef59bdf18": {
+      "title": "Head of Partnerships (m/w/d) \u2013 HR\u2011Tech / Recruiting\u2011\u00d6kosystem",
+      "company": "Talention",
+      "first_seen": "2026-10-12T15:00:06.636008",
+      "score": 60.0
+    },
+    "0ed43f5d6fbc6e8a03d0e25d86039d8e": {
+      "title": "Ecosystem Business Development Director (all genders) - Workday",
+      "company": "Accenture DACH",
+      "first_seen": "2026-10-12T15:00:06.636010",
+      "score": 40.0
+    },
+    "48f11bbd46f78c7fde881aecadc3b851": {
+      "title": "Chief Strategy, Development & Innovation (m/w/d)",
+      "company": "LIMBOURG & ASSOCIATES Deutschland GmbH",
+      "first_seen": "2026-10-12T15:00:06.636016",
+      "score": 45.0
+    },
+    "9360c9b0e05fd00caf6938c14a0bc01a": {
+      "title": "Head of In Vitro Pharmacology",
+      "company": "PROTEROS biostructures GmbH",
+      "first_seen": "2026-10-12T15:00:06.636019",
+      "score": 40.0
     }
   },
-  "last_run": "2026-10-11T12:29:53.551383",
+  "last_run": "2026-10-12T15:00:06.636028",
   "stats": {
-    "total_seen": 365,
-    "total_reported": 1599
+    "total_seen": 367,
+    "total_reported": 1612
   }
 }
