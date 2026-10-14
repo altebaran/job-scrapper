@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Job Report — 2026-10-14</title>
+<style>
+    :root { --bg: #0f172a; --card: #1e293b; --text: #e2e8f0; --muted: #94a3b8; --accent: #38bdf8; }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: 'Inter', -apple-system, system-ui, sans-serif; background: var(--bg); color: var(--text); padding: 2rem; }
+    .container { max-width: 960px; margin: 0 auto; }
+    header { text-align: center; margin-bottom: 2rem; padding: 2rem; background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); border-radius: 16px; border: 1px solid #334155; }
+    header h1 { font-size: 1.8rem; margin-bottom: 0.5rem; background: linear-gradient(135deg, #38bdf8, #818cf8); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+    header p { color: var(--muted); font-size: 0.95rem; }
+    .stats { display: flex; gap: 1rem; justify-content: center; margin-top: 1rem; flex-wrap: wrap; }
+    .stat { background: #334155; padding: 0.5rem 1rem; border-radius: 8px; font-size: 0.85rem; }
+    .stat strong { color: var(--accent); }
+    .back-link { display: inline-block; margin-bottom: 1.5rem; color: var(--accent); text-decoration: none; font-size: 0.9rem; }
+    .back-link:hover { text-decoration: underline; }
+    table { width: 100%; border-collapse: collapse; }
+    .job-row { background: var(--card); cursor: pointer; transition: background 0.2s; }
+    .job-row:hover { background: #334155; }
+    .job-row td { padding: 1rem; border-bottom: 1px solid #334155; vertical-align: top; }
+    .rank { width: 40px; text-align: center; color: var(--muted); font-weight: 600; }
+    .title a { color: var(--accent); text-decoration: none; font-weight: 600; font-size: 1.05rem; }
+    .title a:hover { text-decoration: underline; }
+    .company { color: #f1f5f9; margin: 0.25rem 0; font-weight: 500; }
+    .meta { display: flex; flex-wrap: wrap; gap: 0.75rem; color: var(--muted); font-size: 0.8rem; margin-top: 0.4rem; }
+    .score { width: 42px; height: 42px; border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-weight: 700; font-size: 0.85rem; }
+    .reasons { display: none; margin-top: 0.6rem; font-size: 0.8rem; color: var(--muted); line-height: 1.6; }
+    .expanded .reasons { display: block; }
+    .empty { text-align: center; padding: 3rem; color: var(--muted); }
+    footer { text-align: center; margin-top: 2rem; color: var(--muted); font-size: 0.8rem; }
+</style>
+</head>
+<body>
+<div class="container">
+    <a href="index.html" class="back-link">← Dashboard</a>
+    <header>
+        <h1>🎯 Daily Job Report</h1>
+        <p>Healthcare · Digital Health · Pharma — Scale-ups & Innovation Centers</p>
+        <div class="stats">
+            <div class="stat"><strong>11</strong> new matches</div>
+            <div class="stat"><strong>2026-10-14</strong> 11:33</div>
+            <div class="stat"><strong>0</strong> high relevance</div>
+        </div>
+    </header>
+    <table>
+        <tbody>
+            
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">1</td>
+                <td>
+                    <div class="title"><a href="https://de.linkedin.com/jobs/view/regional-sales-manager-m-f-d-digital-health-solutions-region-dach-nordics-at-abbott-4479212536" target="_blank" rel="noopener">Regional Sales Manager (m/f/d) Digital Health Solutions, Region DACH & Nordics</a></div>
+                    <div class="company">Abbott</div>
+                    <div class="meta">
+                        <span class="location">📍 Wiesbaden, Hesse, Germany</span>
+                        <span class="source">via LinkedIn</span>
+                        
+                        <span class="date">📅 2026-10-13</span>
+                    </div>
+                    <div class="reasons">• Seniority match: 'regional'<br>• Keywords (1): digital health<br>• Location: 'germany'<br>• Target company: Abbott Digital Health</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #ca8a04">
+                        55
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">2</td>
+                <td>
+                    <div class="title"><a href="https://de.linkedin.com/jobs/view/chief-of-staff-future-founder-m-w-d-at-charkos-europe-4476639984" target="_blank" rel="noopener">Chief of Staff / Future Founder (m/w/d)</a></div>
+                    <div class="company">Charkos Europe</div>
+                    <div class="meta">
+                        <span class="location">📍 Hamburg, Hamburg, Germany</span>
+                        <span class="source">via LinkedIn</span>
+                        
+                        <span class="date">📅 2026-10-14</span>
+                    </div>
+                    <div class="reasons">• Title match: 'chief of staff'<br>• Location: 'germany'</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #ca8a04">
+                        55
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">3</td>
+                <td>
+                    <div class="title"><a href="https://de.linkedin.com/jobs/view/head-of-operations-m-w-d-at-michael-page-4479211103" target="_blank" rel="noopener">Head of Operations (m/w/d)</a></div>
+                    <div class="company">Michael Page</div>
+                    <div class="meta">
+                        <span class="location">📍 Cologne, North Rhine-Westphalia, Germany</span>
+                        <span class="source">via LinkedIn</span>
+                        
+                        <span class="date">📅 2026-10-13</span>
+                    </div>
+                    <div class="reasons">• Title match: 'head of operations'<br>• Location: 'germany'</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #ca8a04">
+                        55
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">4</td>
+                <td>
+                    <div class="title"><a href="https://de.linkedin.com/jobs/view/venture-building-and-commercial-lead-m-f-d-at-bugsense-diagnostics-4470557385" target="_blank" rel="noopener">Venture Building and Commercial Lead (m/f/d)</a></div>
+                    <div class="company">BugSense Diagnostics</div>
+                    <div class="meta">
+                        <span class="location">📍 Munich, Bavaria, Germany</span>
+                        <span class="source">via LinkedIn</span>
+                        
+                        <span class="date">📅 2026-10-14</span>
+                    </div>
+                    <div class="reasons">• Seniority match: 'lead'<br>• Keywords (3): diagnostics, commercial, venture<br>• Location: 'germany'</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #ca8a04">
+                        50
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">5</td>
+                <td>
+                    <div class="title"><a href="https://de.linkedin.com/jobs/view/digital-biomarker-science-technology-neuroscience-lead-at-roche-4479293587" target="_blank" rel="noopener">Digital Biomarker Science & Technology Neuroscience Lead</a></div>
+                    <div class="company">Roche</div>
+                    <div class="meta">
+                        <span class="location">📍 Mannheim, Baden-Württemberg, Germany</span>
+                        <span class="source">via LinkedIn</span>
+                        
+                        <span class="date">📅 2026-10-14</span>
+                    </div>
+                    <div class="reasons">• Seniority match: 'lead'<br>• Location: 'germany'<br>• Target company: Roche Digital Health</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #ca8a04">
+                        50
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">6</td>
+                <td>
+                    <div class="title"><a href="https://de.linkedin.com/jobs/view/director-business-development-oncology-at-tfs-healthscience-4479282977" target="_blank" rel="noopener">Director Business Development - Oncology</a></div>
+                    <div class="company">TFS HealthScience</div>
+                    <div class="meta">
+                        <span class="location">📍 Munich, Bavaria, Germany</span>
+                        <span class="source">via LinkedIn</span>
+                        
+                        <span class="date">📅 2026-10-14</span>
+                    </div>
+                    <div class="reasons">• Seniority match: 'director'<br>• Keywords (1): business development<br>• Location: 'germany'</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        40
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">7</td>
+                <td>
+                    <div class="title"><a href="https://de.linkedin.com/jobs/view/regional-business-development-head-dach-m-w-d-at-natuvion-4476606015" target="_blank" rel="noopener">Regional Business Development Head DACH (m/w/d)</a></div>
+                    <div class="company">Natuvion</div>
+                    <div class="meta">
+                        <span class="location">📍 Berlin, Berlin, Germany</span>
+                        <span class="source">via LinkedIn</span>
+                        
+                        <span class="date">📅 2026-10-13</span>
+                    </div>
+                    <div class="reasons">• Seniority match: 'regional'<br>• Keywords (1): business development<br>• Location: 'germany'</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        40
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">8</td>
+                <td>
+                    <div class="title"><a href="https://de.linkedin.com/jobs/view/vice-president-supply-chain-pharma-nutrition-m-f-d-at-fresenius-kabi-4478137898" target="_blank" rel="noopener">Vice President Supply Chain Pharma & Nutrition (m/f/d)</a></div>
+                    <div class="company">Fresenius Kabi</div>
+                    <div class="meta">
+                        <span class="location">📍 Bad Homburg, Hesse, Germany</span>
+                        <span class="source">via LinkedIn</span>
+                        
+                        <span class="date">📅 2026-10-13</span>
+                    </div>
+                    <div class="reasons">• Seniority match: 'vice president'<br>• Keywords (1): pharma<br>• Location: 'germany'</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        40
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">9</td>
+                <td>
+                    <div class="title"><a href="https://de.linkedin.com/jobs/view/senior-director-business-development-diid-dermatology-immunology-inflammatory-diseases-at-tfs-healthscience-4479283995" target="_blank" rel="noopener">Senior Director Business Development - DIID (Dermatology, Immunology & Inflammatory Diseases)</a></div>
+                    <div class="company">TFS HealthScience</div>
+                    <div class="meta">
+                        <span class="location">📍 Munich, Bavaria, Germany</span>
+                        <span class="source">via LinkedIn</span>
+                        
+                        <span class="date">📅 2026-10-14</span>
+                    </div>
+                    <div class="reasons">• Seniority match: 'director'<br>• Keywords (1): business development<br>• Location: 'germany'</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        40
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">10</td>
+                <td>
+                    <div class="title"><a href="https://de.linkedin.com/jobs/view/partnerships-executive-partnerships-manager-partnerships-director-at-jawoo-marketing-4476655364" target="_blank" rel="noopener">Partnerships Executive / Partnerships Manager / Partnerships Director</a></div>
+                    <div class="company">JAWOO Marketing</div>
+                    <div class="meta">
+                        <span class="location">📍 Germany</span>
+                        <span class="source">via LinkedIn</span>
+                        
+                        <span class="date">📅 2026-10-14</span>
+                    </div>
+                    <div class="reasons">• Seniority match: 'director'<br>• Keywords (1): partnerships<br>• Location: 'germany'</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        40
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">11</td>
+                <td>
+                    <div class="title"><a href="https://de.linkedin.com/jobs/view/senior-innovation-program-project-lead-w-m-d-at-t%C3%BCv-s%C3%BCd-4478113078" target="_blank" rel="noopener">Senior Innovation Program / Project Lead (w/m/d)</a></div>
+                    <div class="company">TÜV SÜD</div>
+                    <div class="meta">
+                        <span class="location">📍 Munich, Bavaria, Germany</span>
+                        <span class="source">via LinkedIn</span>
+                        
+                        <span class="date">📅 2026-10-13</span>
+                    </div>
+                    <div class="reasons">• Seniority match: 'lead'<br>• Keywords (1): innovation<br>• Location: 'germany'</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        40
+                    </div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <footer>
+        <p>Click any row to see match details · Auto-generated by JobScraper</p>
+    </footer>
+</div>
+</body>
+</html>

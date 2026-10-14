@@ -2231,11 +2231,77 @@
       "company": "Queisser Pharma GmbH & Co. KG",
       "first_seen": "2026-10-13T13:57:58.254939",
       "score": 40.0
+    },
+    "60e68e6b628a01425d80886e432d1f5e": {
+      "title": "Director Business Development - Oncology",
+      "company": "TFS HealthScience",
+      "first_seen": "2026-10-14T11:33:44.350665",
+      "score": 40.0
+    },
+    "a8fcebd1b3391e4ba31372e8cecad409": {
+      "title": "Venture Building and Commercial Lead (m/f/d)",
+      "company": "BugSense Diagnostics",
+      "first_seen": "2026-10-14T11:33:44.350676",
+      "score": 50.0
+    },
+    "4efe7eb15ade051eef2b91a8f336e0b0": {
+      "title": "Regional Business Development Head DACH (m/w/d)",
+      "company": "Natuvion",
+      "first_seen": "2026-10-14T11:33:44.350679",
+      "score": 40.0
+    },
+    "8fc04c3e8317617e4682067f48ba8d76": {
+      "title": "Regional Sales Manager (m/f/d) Digital Health Solutions, Region DACH & Nordics",
+      "company": "Abbott",
+      "first_seen": "2026-10-14T11:33:44.350680",
+      "score": 55.0
+    },
+    "f2bcb3ef1d5371bd9c173fed5e230ce1": {
+      "title": "Vice President Supply Chain Pharma & Nutrition (m/f/d)",
+      "company": "Fresenius Kabi",
+      "first_seen": "2026-10-14T11:33:44.350682",
+      "score": 40.0
+    },
+    "0fd4d6140659f86eaa14fa3bd1d00713": {
+      "title": "Chief of Staff / Future Founder (m/w/d)",
+      "company": "Charkos Europe",
+      "first_seen": "2026-10-14T11:33:44.350683",
+      "score": 55.0
+    },
+    "c3a6b776c0c49c6013fa1f4811555ec9": {
+      "title": "Head of Operations (m/w/d)",
+      "company": "Michael Page",
+      "first_seen": "2026-10-14T11:33:44.350685",
+      "score": 55.0
+    },
+    "cd9121bd357702391b262406c645e97d": {
+      "title": "Senior Director Business Development - DIID (Dermatology, Immunology & Inflammatory Diseases)",
+      "company": "TFS HealthScience",
+      "first_seen": "2026-10-14T11:33:44.350686",
+      "score": 40.0
+    },
+    "18d52f9d0817296b7c78d41a35e02f25": {
+      "title": "Partnerships Executive / Partnerships Manager / Partnerships Director",
+      "company": "JAWOO Marketing",
+      "first_seen": "2026-10-14T11:33:44.350687",
+      "score": 40.0
+    },
+    "d5fa06e258f3b37681f932fdc5109274": {
+      "title": "Digital Biomarker Science & Technology Neuroscience Lead",
+      "company": "Roche",
+      "first_seen": "2026-10-14T11:33:44.350689",
+      "score": 50.0
+    },
+    "6cb8a5a781f8195a6740915ab28b801b": {
+      "title": "Senior Innovation Program / Project Lead (w/m/d)",
+      "company": "T\u00dcV S\u00dcD",
+      "first_seen": "2026-10-14T11:33:44.350690",
+      "score": 40.0
     }
   },
-  "last_run": "2026-10-13T13:57:58.254946",
+  "last_run": "2026-10-14T11:33:44.350695",
   "stats": {
-    "total_seen": 372,
-    "total_reported": 1623
+    "total_seen": 383,
+    "total_reported": 1634
   }
 }
