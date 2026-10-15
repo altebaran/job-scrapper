@@ -1,89 +1,5 @@
 {
   "seen": {
-    "361d915129718e99801441e2d8b95abb": {
-      "title": "Head of Product Commercial Unit (m/w/d) - Jobbird.com",
-      "company": "Jobster",
-      "first_seen": "2026-09-14T12:22:53.818051",
-      "score": 60.0
-    },
-    "e8f07cb77986eb8747f576b87f7a25fc": {
-      "title": "Head of Strategic Partnerships (m/w/d) COO Track",
-      "company": "PsyCurio",
-      "first_seen": "2026-09-14T12:22:53.818067",
-      "score": 40.0
-    },
-    "14e8a76130cb2aa35e2793e9af6e2adb": {
-      "title": "Head of Data Strategy, Analytics & Engineering (m/w/d)",
-      "company": "Dr. Ausb\u00fcttel GmbH & Co. KG",
-      "first_seen": "2026-09-14T12:22:53.818071",
-      "score": 40.0
-    },
-    "c6c2baf072778442d1d40ba951a4bf92": {
-      "title": "Leiter\u202fVertrieb und Marketing (m/w/d) \u2013 Dental Innovation (100% Remote DE)",
-      "company": "Endodont GmbH",
-      "first_seen": "2026-09-14T12:22:53.818074",
-      "score": 40.0
-    },
-    "8ff8469c91acd0fe7370517a186cc0cd": {
-      "title": "Head of Production (m/f/d)",
-      "company": "ageneo Life Science Experts (Interim Solutions) GmbH",
-      "first_seen": "2026-09-14T12:22:53.818077",
-      "score": 55.0
-    },
-    "2042797c74769180aaf22d5056f41bbd": {
-      "title": "Regionaler Vertriebsleiter S\u00fcdwest (m/w/d)",
-      "company": "APONTIS PHARMA Deutschland GmbH & Co. KG",
-      "first_seen": "2026-09-14T12:22:53.818080",
-      "score": 40.0
-    },
-    "756871a8d2f2cee74bd878fd501b989a": {
-      "title": "Innovation Lab Manager / Emerging Technologies Director / Research Programs Lead",
-      "company": "Prime Legacy Properties Limited",
-      "first_seen": "2026-09-14T12:22:53.818082",
-      "score": 40.0
-    },
-    "3cdacdf06b630e59e1cf89af8717901a": {
-      "title": "Find jobs",
-      "company": "Philips Health Innovation",
-      "first_seen": "2026-09-14T12:22:53.818084",
-      "score": 40.0
-    },
-    "2f69dea773ee1adadb1bba01328e7bbe": {
-      "title": "Learn more about life at Philips",
-      "company": "Philips Health Innovation",
-      "first_seen": "2026-09-14T12:22:53.818086",
-      "score": 40.0
-    },
-    "047afe78e5855a43c4c0fc7996361fd7": {
-      "title": "Learn more about our culture",
-      "company": "Philips Health Innovation",
-      "first_seen": "2026-09-14T12:22:53.818089",
-      "score": 40.0
-    },
-    "0000a0861ab3b3aa4fc7488773099afa": {
-      "title": "Join our talent community",
-      "company": "Philips Health Innovation",
-      "first_seen": "2026-09-14T12:22:53.818091",
-      "score": 40.0
-    },
-    "26036b655d960ae395e65441c3efec96": {
-      "title": "Learn more",
-      "company": "Philips Health Innovation",
-      "first_seen": "2026-09-14T12:22:53.818094",
-      "score": 40.0
-    },
-    "08fd55a1fdbca2053cd34a24d3aa698c": {
-      "title": "Personal Information",
-      "company": "Philips Health Innovation",
-      "first_seen": "2026-09-14T12:22:53.818096",
-      "score": 40.0
-    },
-    "b8c8166b2e6bc28c652f135e82eca110": {
-      "title": "Career Site Cookie Settings",
-      "company": "Philips Health Innovation",
-      "first_seen": "2026-09-14T12:22:53.818099",
-      "score": 40.0
-    },
     "c10fafccf1071b3d9e1c01f0b9aa15e8": {
       "title": "Senior Manager Strategy Projects (w/m/d)",
       "company": "Siemens Healthineers",
@@ -2297,11 +2213,107 @@
       "company": "T\u00dcV S\u00dcD",
       "first_seen": "2026-10-14T11:33:44.350690",
       "score": 40.0
+    },
+    "f8bf1a23913554cbdea3f57fd4b7f44f": {
+      "title": "Director Tech Strategy & GenAI \u2013 Healthcare & Life Sciences (m/f/d)",
+      "company": "Simon-Kucher",
+      "first_seen": "2026-10-15T11:11:52.093002",
+      "score": 50.0
+    },
+    "b4295f622516f9353d57f2affc185039": {
+      "title": "Director Tech Strategy & GenAI \u2013 Healthcare & Life Sciences (m/f/d)",
+      "company": "Simon-Kucher",
+      "first_seen": "2026-10-15T11:11:52.093014",
+      "score": 50.0
+    },
+    "0dde6e7f25db2899d104d0d18c475824": {
+      "title": "Operations Director Pharma \u2013 Strategie & Performance (m/w/d)",
+      "company": "MCI Deutschland",
+      "first_seen": "2026-10-15T11:11:52.093018",
+      "score": 40.0
+    },
+    "5366d9d9c96d52c3571be5e52f1c0d16": {
+      "title": "Head of Doctor Partnerships (m/w/d)",
+      "company": "TeleClinic",
+      "first_seen": "2026-10-15T11:11:52.093020",
+      "score": 40.0
+    },
+    "b5c244bc7366af66b778052b978e706e": {
+      "title": "Senior Director, Commercial Clinical Next-Generation Sequencing, EMEA",
+      "company": "Thermo Fisher Scientific",
+      "first_seen": "2026-10-15T11:11:52.093025",
+      "score": 45.0
+    },
+    "35f76d8c351f356f50876e775bd3addf": {
+      "title": "Director Tech Strategy & GenAI \u2013 Healthcare & Life Sciences (m/f/d)",
+      "company": "Simon-Kucher",
+      "first_seen": "2026-10-15T11:11:52.093029",
+      "score": 50.0
+    },
+    "cabd33e9b8d4b33b9e1784cf176871a7": {
+      "title": "Director Tech Strategy & GenAI \u2013 Healthcare & Life Sciences (m/f/d)",
+      "company": "Simon-Kucher",
+      "first_seen": "2026-10-15T11:11:52.093033",
+      "score": 50.0
+    },
+    "7b23b467c479e51913a5a725eb474556": {
+      "title": "Head of Revenue & Growth (m/f/d)",
+      "company": "tesa",
+      "first_seen": "2026-10-15T11:11:52.093036",
+      "score": 45.0
+    },
+    "3ec101a01ad3b5532531e86945290fd6": {
+      "title": "Team Leader Business Development Manager Process Analytics - 100 % (w/m/d)",
+      "company": "Hamilton",
+      "first_seen": "2026-10-15T11:11:52.093038",
+      "score": 40.0
+    },
+    "12b32bab7676513894fe0dc631426c79": {
+      "title": "General Manager, Medinova GmbH",
+      "company": "DKSH",
+      "first_seen": "2026-10-15T11:11:52.093041",
+      "score": 55.0
+    },
+    "0f1b58cd22b6eeb4b957ff1c0ec754db": {
+      "title": "Head of Regulatory Affairs & ComplianceRemote / Europe",
+      "company": "Infermedica",
+      "first_seen": "2026-10-15T11:11:52.093044",
+      "score": 50.0
+    },
+    "3cdacdf06b630e59e1cf89af8717901a": {
+      "title": "Find jobs",
+      "company": "Philips Health Innovation",
+      "first_seen": "2026-10-15T11:11:52.093047",
+      "score": 40.0
+    },
+    "2f69dea773ee1adadb1bba01328e7bbe": {
+      "title": "Learn more about life at Philips",
+      "company": "Philips Health Innovation",
+      "first_seen": "2026-10-15T11:11:52.093049",
+      "score": 40.0
+    },
+    "047afe78e5855a43c4c0fc7996361fd7": {
+      "title": "Learn more about our culture",
+      "company": "Philips Health Innovation",
+      "first_seen": "2026-10-15T11:11:52.093052",
+      "score": 40.0
+    },
+    "0000a0861ab3b3aa4fc7488773099afa": {
+      "title": "Join our talent community",
+      "company": "Philips Health Innovation",
+      "first_seen": "2026-10-15T11:11:52.093054",
+      "score": 40.0
+    },
+    "26036b655d960ae395e65441c3efec96": {
+      "title": "Learn more",
+      "company": "Philips Health Innovation",
+      "first_seen": "2026-10-15T11:11:52.093057",
+      "score": 40.0
     }
   },
-  "last_run": "2026-10-14T11:33:44.350695",
+  "last_run": "2026-10-15T11:11:52.093064",
   "stats": {
-    "total_seen": 383,
-    "total_reported": 1634
+    "total_seen": 385,
+    "total_reported": 1650
   }
 }
