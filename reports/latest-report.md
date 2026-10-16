@@ -1,116 +1,90 @@
-# 🎯 Daily Job Report — 2026-10-15
+# 🎯 Daily Job Report — 2026-10-16
 
-**16** new matches | **0** high relevance
+**13** new matches | **0** high relevance
 
 ---
 
-### 1. 🟡 General Manager, Medinova GmbH
-**DKSH** · 📍 Mainz, Rhineland-Palatinate, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/general-manager-medinova-gmbh-at-dksh-4476665650)
-  - Title match: 'general manager'
+### 1. 🟡 Chief of Staff (m/w/x)
+**Doctorflix** · 📍 Berlin, Berlin, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/chief-of-staff-m-w-x-at-doctorflix-4477078637)
+  - Title match: 'chief of staff'
   - Location: 'germany'
 
-### 2. 🟡 Director Tech Strategy & GenAI – Healthcare & Life Sciences (m/f/d)
-**Simon-Kucher** · 📍 Cologne, North Rhine-Westphalia, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-tech-strategy-genai-%E2%80%93-healthcare-life-sciences-m-f-d-at-simon-kucher-4477068333)
-  - Seniority match: 'director'
-  - Keywords (3): life sciences, healthcare, strategy
+### 2. 🟡 Head of Operations
+**Tokura** · 📍 Berlin, Berlin, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-operations-at-tokura-4477355802)
+  - Title match: 'head of operations'
   - Location: 'germany'
 
-### 3. 🟡 Director Tech Strategy & GenAI – Healthcare & Life Sciences (m/f/d)
-**Simon-Kucher** · 📍 Frankfurt am Main, Hesse, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-tech-strategy-genai-%E2%80%93-healthcare-life-sciences-m-f-d-at-simon-kucher-4477072247)
-  - Seniority match: 'director'
-  - Keywords (3): life sciences, healthcare, strategy
+### 3. 🟡 Head of Operations - New Business (m/w/d)
+**Intraprenör** · 📍 Ruhr, North Rhine-Westphalia, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-operations-new-business-m-w-d-at-intrapren%C3%B6r-4477370177)
+  - Title match: 'head of operations'
   - Location: 'germany'
 
-### 4. 🟡 Director Tech Strategy & GenAI – Healthcare & Life Sciences (m/f/d)
-**Simon-Kucher** · 📍 Hamburg, Hamburg, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-tech-strategy-genai-%E2%80%93-healthcare-life-sciences-m-f-d-at-simon-kucher-4477061731)
-  - Seniority match: 'director'
-  - Keywords (3): life sciences, healthcare, strategy
+### 4. 🟡 Head of Operations
+**deeploi** · 📍 Berlin, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-operations-at-deeploi-4455576895)
+  - Title match: 'head of operations'
   - Location: 'germany'
 
-### 5. 🟡 Director Tech Strategy & GenAI – Healthcare & Life Sciences (m/f/d)
-**Simon-Kucher** · 📍 Bonn, North Rhine-Westphalia, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-tech-strategy-genai-%E2%80%93-healthcare-life-sciences-m-f-d-at-simon-kucher-4477063548)
-  - Seniority match: 'director'
-  - Keywords (3): life sciences, healthcare, strategy
+### 5. 🟡 Associate Director, Project Management (Europe - Remote)
+**Indero (formerly Innovaderm)** · 📍 Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-project-management-europe-remote-at-indero-formerly-innovaderm-4480325553)
+  - Title match: 'associate director'
   - Location: 'germany'
 
-### 6. 🟡 Head of Regulatory Affairs & ComplianceRemote / Europe
-**Infermedica** · 📍 Wroclaw (remote DE) · Score: 50/100
-🔗 [Direct (Infermedica)](https://infermedica.com/careers/careers/45)
-  - Seniority match: 'head of'
-  - Location: 'remote'
-  - Target company: Infermedica
+### 6. 🟡 Country Manager Neurology (f/m/d) - Germany
+**Regeneron** · 📍 Munich, Bavaria, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/country-manager-neurology-f-m-d-germany-at-regeneron-4479140084)
+  - Title match: 'country manager'
+  - Location: 'germany'
 
-### 7. ⚪ Senior Director, Commercial Clinical Next-Generation Sequencing, EMEA
-**Thermo Fisher Scientific** · 📍 Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-director-commercial-clinical-next-generation-sequencing-emea-at-thermo-fisher-scientific-4477045499)
+### 7. 🟡 Technology Leader Surgery - Germany & UK
+**Johnson & Johnson** · 📍 Norderstedt, Schleswig-Holstein, Germany · Score: 50/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/technology-leader-surgery-germany-uk-at-johnson-johnson-4479886029)
+  - Seniority match: 'lead'
+  - Location: 'germany'
+  - Target company: Johnson & Johnson Innovation
+
+### 8. ⚪ Senior Director, Commercial Clinical Next-Generation Sequencing
+**Jobgether** · 📍 Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-director-commercial-clinical-next-generation-sequencing-at-jobgether-4479142459)
   - Seniority match: 'director'
   - Keywords (2): clinical, commercial
   - Location: 'germany'
 
-### 8. ⚪ Head of Revenue & Growth (m/f/d)
-**tesa** · 📍 Hamburg, Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-revenue-growth-m-f-d-at-tesa-4460065674)
-  - Seniority match: 'head of'
-  - Keywords (2): growth, revenue
-  - Location: 'germany'
-
-### 9. ⚪ Operations Director Pharma – Strategie & Performance (m/w/d)
-**MCI Deutschland** · 📍 Munich, Bavaria, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/operations-director-pharma-%E2%80%93-strategie-performance-m-w-d-at-mci-deutschland-4477061398)
+### 9. ⚪ Business Development Director (m/w/d) - excel as entrepreneur through strategy, sales, and AI
+**Vicoland** · 📍 Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/business-development-director-m-w-d-excel-as-entrepreneur-through-strategy-sales-and-ai-at-vicoland-4477091823)
   - Seniority match: 'director'
-  - Keywords (1): pharma
+  - Keywords (2): business development, strategy
   - Location: 'germany'
 
-### 10. ⚪ Head of Doctor Partnerships (m/w/d)
-**TeleClinic** · 📍 Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-doctor-partnerships-m-w-d-at-teleclinic-4414739499)
+### 10. ⚪ Digital Health Director – Western Europe
+**Medtronic** · 📍 Berlin, Berlin, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/digital-health-director-%E2%80%93-western-europe-at-medtronic-4480310169)
+  - Seniority match: 'director'
+  - Keywords (1): digital health
+  - Location: 'germany'
+
+### 11. ⚪ Head of Marketing Healthcare IT (all genders)
+**sqior medical** · 📍 Munich, Bavaria, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-marketing-healthcare-it-all-genders-at-sqior-medical-4477365907)
   - Seniority match: 'head of'
-  - Keywords (1): partnerships
+  - Keywords (1): healthcare
   - Location: 'germany'
 
-### 11. ⚪ Team Leader Business Development Manager Process Analytics - 100 % (w/m/d)
-**Hamilton** · 📍 Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/team-leader-business-development-manager-process-analytics-100-%25-w-m-d-at-hamilton-4459562665)
+### 12. ⚪ Director Clinical Project Management & Transformation
+**BIOTRONIK** · 📍 Berlin, Berlin, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-clinical-project-management-transformation-at-biotronik-4479888202)
+  - Seniority match: 'director'
+  - Keywords (1): clinical
+  - Location: 'germany'
+
+### 13. ⚪ Life Sciences CRM Lead (all genders)
+**Accenture DACH** · 📍 Kronberg, Hesse, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/life-sciences-crm-lead-all-genders-at-accenture-dach-4479126911)
   - Seniority match: 'lead'
-  - Keywords (1): business development
+  - Keywords (1): life sciences
   - Location: 'germany'
-
-### 12. ⚪ Find jobs
-**Philips Health Innovation** · 📍 Hamburg (DE) · Score: 40/100
-🔗 [Direct (Philips Health Innovation)](https://www.careers.philips.com/na/en/search-results)
-  - Keywords (1): innovation
-  - Location: 'hamburg'
-  - Target company: Philips Health Innovation
-
-### 13. ⚪ Learn more about life at Philips
-**Philips Health Innovation** · 📍 Hamburg (DE) · Score: 40/100
-🔗 [Direct (Philips Health Innovation)](https://www.careers.philips.com/na/en/life-at-philips)
-  - Keywords (1): innovation
-  - Location: 'hamburg'
-  - Target company: Philips Health Innovation
-
-### 14. ⚪ Learn more about our culture
-**Philips Health Innovation** · 📍 Hamburg (DE) · Score: 40/100
-🔗 [Direct (Philips Health Innovation)](https://www.careers.philips.com/na/en/our-culture-philips-careers)
-  - Keywords (1): innovation
-  - Location: 'hamburg'
-  - Target company: Philips Health Innovation
-
-### 15. ⚪ Join our talent community
-**Philips Health Innovation** · 📍 Hamburg (DE) · Score: 40/100
-🔗 [Direct (Philips Health Innovation)](https://www.careers.philips.com/na/en/jointalentcommunity)
-  - Keywords (1): innovation
-  - Location: 'hamburg'
-  - Target company: Philips Health Innovation
-
-### 16. ⚪ Learn more
-**Philips Health Innovation** · 📍 Hamburg (DE) · Score: 40/100
-🔗 [Direct (Philips Health Innovation)](https://www.careers.philips.com/na/en/think-you-know-philips-)
-  - Keywords (1): innovation
-  - Location: 'hamburg'
-  - Target company: Philips Health Innovation
