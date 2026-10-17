@@ -1,65 +1,5 @@
 {
   "seen": {
-    "3b592c09f7af8a2ece7d25cb38ed9c9f": {
-      "title": "Head of Global Digital Transformation (m/f/d)",
-      "company": "Merz Therapeutics",
-      "first_seen": "2026-09-16T11:16:07.098212",
-      "score": 45.0
-    },
-    "30b6c9c0ed5329c7059e26c5e9edb57f": {
-      "title": "Head of Global Digital Transformation (m/f/d)",
-      "company": "Merz Therapeutics",
-      "first_seen": "2026-09-16T11:16:07.098225",
-      "score": 45.0
-    },
-    "b3679ff575445eab2c3ec73c967bddae": {
-      "title": "Senior Director, Strategic & Market Access - Germany",
-      "company": "Kintiga",
-      "first_seen": "2026-09-16T11:16:07.098229",
-      "score": 40.0
-    },
-    "23607f3f025a15d0773fda17b6877a44": {
-      "title": "Director of B2B Sales & Business Development (m/f/d)",
-      "company": "the bench",
-      "first_seen": "2026-09-16T11:16:07.098232",
-      "score": 40.0
-    },
-    "e9fa02f8f7429f057fa1dab9891b00b5": {
-      "title": "Business Development Director (m/w/d) - excel as entrepreneur through strategy, sales, and AI",
-      "company": "Vicoland",
-      "first_seen": "2026-09-16T11:16:07.098234",
-      "score": 45.0
-    },
-    "e65b55bb3ad59105c4952e0a6dba4795": {
-      "title": "Director, Translational Data Enablement (m/f/d)",
-      "company": "AstraZeneca",
-      "first_seen": "2026-09-16T11:16:07.098237",
-      "score": 50.0
-    },
-    "714dd98800ce42b0ea5459a06067e981": {
-      "title": "Associate Director, Medical Affairs",
-      "company": "Jobgether",
-      "first_seen": "2026-09-16T11:16:07.098240",
-      "score": 55.0
-    },
-    "9e0f27a9e7c7850375ed8175f3bdd04b": {
-      "title": "Chief Revenue Officer (m/w/d)",
-      "company": "p36 GmbH",
-      "first_seen": "2026-09-16T11:16:07.098243",
-      "score": 40.0
-    },
-    "832e0c6a056594e5097292ac1461b468": {
-      "title": "Head of KAM & New Business Development DACH\u201d (m/w/d)",
-      "company": "OnTarget-Search GmbH",
-      "first_seen": "2026-09-16T11:16:07.098246",
-      "score": 40.0
-    },
-    "e897427c0df4c13147c672cbb58b0586": {
-      "title": "Therapeutic Area & Community Lead (m/f/d)",
-      "company": "MSD Deutschland",
-      "first_seen": "2026-09-16T11:16:07.098249",
-      "score": 40.0
-    },
     "3f6b9741ff761d4935fa62595bc535d6": {
       "title": "EY-Parthenon Senior Manager Projektleitung Digitalprojekte - Strategy and Transactions (w/m/d)",
       "company": "EY-Parthenon",
@@ -2285,11 +2225,89 @@
       "company": "Regeneron",
       "first_seen": "2026-10-16T11:06:44.032938",
       "score": 55.0
+    },
+    "766cb06aaf5eb861bff09a919fc5e167": {
+      "title": "General Manager - DACH, Nordics & Benelux",
+      "company": "Hologic, Inc.",
+      "first_seen": "2026-10-17T10:26:20.501151",
+      "score": 55.0
+    },
+    "943f1288c2df2ca70332f44c88696fdd": {
+      "title": "Head of Operations, Germany",
+      "company": "Eucalyptus",
+      "first_seen": "2026-10-17T10:26:20.501161",
+      "score": 55.0
+    },
+    "cdfe1e9d48e2d459e1003ef09554212a": {
+      "title": "Director of Business Development m/w/d",
+      "company": "UPS",
+      "first_seen": "2026-10-17T10:26:20.501163",
+      "score": 60.0
+    },
+    "63f05a34d252b8e9f61cf07b36fef84f": {
+      "title": "Senior Director, Supplier Relationship Management 1",
+      "company": "Teva Pharmaceuticals",
+      "first_seen": "2026-10-17T10:26:20.501165",
+      "score": 45.0
+    },
+    "6975ebea65ad876002819bfcab98db2a": {
+      "title": "Head of Operations Germany (m/w/d)",
+      "company": "ASSA ABLOY Group",
+      "first_seen": "2026-10-17T10:26:20.501166",
+      "score": 55.0
+    },
+    "0cca71cc2ea6e4e52909f1bb5952ed71": {
+      "title": "Head of Sales & Product Management (m/w/d) \u2013 Postpress Packaging",
+      "company": "Heidelberger Druckmaschinen AG",
+      "first_seen": "2026-10-17T10:26:20.501168",
+      "score": 40.0
+    },
+    "91ecdb9291e204d7452d7377b1c90339": {
+      "title": "Principal Business Development Manager CMTS Cell Culture Media (x|f|m)",
+      "company": "Sartorius",
+      "first_seen": "2026-10-17T10:26:20.501169",
+      "score": 40.0
+    },
+    "e8d7c5f14277f3e7e0f9653cccd96878": {
+      "title": "Principal Business Development Manager CMTS Cell Culture Media (x|f|m)",
+      "company": "Sartorius",
+      "first_seen": "2026-10-17T10:26:20.501170",
+      "score": 40.0
+    },
+    "6de4d2a6091f5d71ec8d65af30f9ddb6": {
+      "title": "Vice President Business Development & Commercial (m/w/d)",
+      "company": "Pammys",
+      "first_seen": "2026-10-17T10:26:20.501171",
+      "score": 45.0
+    },
+    "b4a0dd56794e1fc02c6b422d54e8c903": {
+      "title": "Head of Corporate Research Partnerships (gn*)",
+      "company": "KLU K\u00fchne Logistics University",
+      "first_seen": "2026-10-17T10:26:20.501173",
+      "score": 40.0
+    },
+    "88e80376eef410556eca106302e6d4c3": {
+      "title": "Global Head of Strategy & Real Estate",
+      "company": "Merck Group",
+      "first_seen": "2026-10-17T10:26:20.501174",
+      "score": 60.0
+    },
+    "d757f44567e9214ae464743e03803c27": {
+      "title": "Head of AI Strategy (m/w/d)",
+      "company": "Dr. Wolff Group",
+      "first_seen": "2026-10-17T10:26:20.501175",
+      "score": 40.0
+    },
+    "7aca08c70bff71f4927e84747650c800": {
+      "title": "Innovation Project Lead (f/m/d) Cardiovascular Care Applications",
+      "company": "Siemens Healthineers",
+      "first_seen": "2026-10-17T10:26:20.501176",
+      "score": 55.0
     }
   },
-  "last_run": "2026-10-16T11:06:44.032946",
+  "last_run": "2026-10-17T10:26:20.501182",
   "stats": {
-    "total_seen": 381,
-    "total_reported": 1663
+    "total_seen": 384,
+    "total_reported": 1676
   }
 }
