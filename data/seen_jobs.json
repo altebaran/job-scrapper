@@ -1,107 +1,5 @@
 {
   "seen": {
-    "3f6b9741ff761d4935fa62595bc535d6": {
-      "title": "EY-Parthenon Senior Manager Projektleitung Digitalprojekte - Strategy and Transactions (w/m/d)",
-      "company": "EY-Parthenon",
-      "first_seen": "2026-09-17T11:23:53.533240",
-      "score": 40.0
-    },
-    "eff5a8f1b0e1ed602d0826f00abfbb34": {
-      "title": "EY-Parthenon Senior Manager Projektleitung Digitalprojekte - Strategy and Transactions (w/m/d)",
-      "company": "EY-Parthenon",
-      "first_seen": "2026-09-17T11:23:53.533253",
-      "score": 40.0
-    },
-    "106a906fd280262556eb760eb410400a": {
-      "title": "Business Development Director (m/w/d).",
-      "company": "UPS",
-      "first_seen": "2026-09-17T11:23:53.533256",
-      "score": 40.0
-    },
-    "978f7e3fea0d38333f4dc1a1aba24c58": {
-      "title": "Associate Director - Commercial Lead Germany (m/w/d)",
-      "company": "Inizio Engage",
-      "first_seen": "2026-09-17T11:23:53.533258",
-      "score": 60.0
-    },
-    "f757d7cc0d3110868c1a13e0ac02e6f2": {
-      "title": "Director OEM Partnerships Germany",
-      "company": "Robovision",
-      "first_seen": "2026-09-17T11:23:53.533260",
-      "score": 40.0
-    },
-    "a91462eb1dae2606cb635822f3d0dd4a": {
-      "title": "Business Development Director - Hamburg",
-      "company": "DNA Recruit",
-      "first_seen": "2026-09-17T11:23:53.533263",
-      "score": 40.0
-    },
-    "75dee100068dd9d865535d63ab56da1f": {
-      "title": "General Manager:in",
-      "company": "European Radiosurgery Center Munich (ERCM)",
-      "first_seen": "2026-09-17T11:23:53.533265",
-      "score": 55.0
-    },
-    "459dd8718c809b164efaedbb18eb4d3d": {
-      "title": "Country Manager DACH (m/w/d)",
-      "company": "Hays",
-      "first_seen": "2026-09-17T11:23:53.533267",
-      "score": 55.0
-    },
-    "22c54e79be17477f61ea59796070a35a": {
-      "title": "Director, Digital, Data & Informatics, Clinical Data Integration Operations",
-      "company": "BioNTech SE",
-      "first_seen": "2026-09-17T11:23:53.533269",
-      "score": 40.0
-    },
-    "695e371bb058431ae22bb572e2e817d2": {
-      "title": "Associate Director AI Security",
-      "company": "BioNTech SE",
-      "first_seen": "2026-09-17T11:23:53.533271",
-      "score": 55.0
-    },
-    "7965c31a7d4c4b422633c25206433e01": {
-      "title": "Senior Manager Digital Marketing (m/w/d) \u2013 Brand- und Agentursteuerung",
-      "company": "AVIA Pharma Germany",
-      "first_seen": "2026-09-17T11:23:53.533273",
-      "score": 40.0
-    },
-    "b0d017f051180de4bc32f8a066e54195": {
-      "title": "EY-Parthenon Senior Manager Projektleitung Digitalprojekte - Strategy and Transactions (w/m/d)",
-      "company": "EY-Parthenon",
-      "first_seen": "2026-09-17T11:23:53.533275",
-      "score": 40.0
-    },
-    "20071bed47a7ef4d23849d7ebcfcaf90": {
-      "title": "Head of Marketing & Sales Scientific (m/f/d) Infectious Diseases",
-      "company": "Abbott",
-      "first_seen": "2026-09-17T11:23:53.533277",
-      "score": 50.0
-    },
-    "32427729ba7af5529206f65651d87d9e": {
-      "title": "Regional Enterprise Sales Director Industrial AI Transformation DACH (m/f/d)",
-      "company": "Siemens",
-      "first_seen": "2026-09-17T11:23:53.533279",
-      "score": 50.0
-    },
-    "7370608378f48b27d7df80bde34d6177": {
-      "title": "Regional Enterprise Sales Director Industrial AI Transformation DACH (m/f/d)",
-      "company": "Siemens",
-      "first_seen": "2026-09-17T11:23:53.533281",
-      "score": 50.0
-    },
-    "8f2019c450c715ddaee4a7c6b3a97c1f": {
-      "title": "Country Manager Germany",
-      "company": "Animalis Talent Solutions",
-      "first_seen": "2026-09-17T11:23:53.533283",
-      "score": 55.0
-    },
-    "e0b54db3d4ad2bd0b9cfeeda46507fbb": {
-      "title": "Head of Global Research & Development and Technology\u202f (f/m/d)",
-      "company": "Siemens",
-      "first_seen": "2026-09-17T11:23:53.533285",
-      "score": 50.0
-    },
     "662d68efaaf87cb0ba77e1a046693b3a": {
       "title": "EY-Parthenon Senior Manager Projektleitung Digitalprojekte - Strategy and Transactions (w/m/d)",
       "company": "EY-Parthenon",
@@ -2303,11 +2201,53 @@
       "company": "Siemens Healthineers",
       "first_seen": "2026-10-17T10:26:20.501176",
       "score": 55.0
+    },
+    "1ae427cf0bbb419d8ac7a177c4d03257": {
+      "title": "Product Marketing Lead (x/f/m)",
+      "company": "Doctolib",
+      "first_seen": "2026-10-18T10:45:17.637044",
+      "score": 50.0
+    },
+    "74ba97b3360b553a21bcde045b570d76": {
+      "title": "Director Commercial (m/w/d)",
+      "company": "ZEINpharma I The Healthspan Company",
+      "first_seen": "2026-10-18T10:45:17.637055",
+      "score": 45.0
+    },
+    "ba8f2d11f3a12e8d29e3abaf6687acca": {
+      "title": "Head of Operations & Service - Dosimetry",
+      "company": "IBA Dosimetry",
+      "first_seen": "2026-10-18T10:45:17.637058",
+      "score": 55.0
+    },
+    "15bd626e16936a0f42c89da7ae5f0129": {
+      "title": "Senior Manager/Associate Director, Commercial Operations, Germany",
+      "company": "Acadia Pharmaceuticals",
+      "first_seen": "2026-10-18T10:45:17.637059",
+      "score": 70.0
+    },
+    "21abf1cd7da97ff146f7293879b51557": {
+      "title": "Regional Sales Supervisor \u2013 EMEA | Medical Devices | Arabic-Speaking",
+      "company": "ABA Medical Group",
+      "first_seen": "2026-10-18T10:45:17.637060",
+      "score": 40.0
+    },
+    "2ef7fe546ca83fb1395b7da5b254e549": {
+      "title": "Venture Lead F\u00f6rderProfi und Energiegestalter (m/w/d)",
+      "company": "Viessmann Climate Solutions",
+      "first_seen": "2026-10-18T10:45:17.637062",
+      "score": 40.0
+    },
+    "53239a660338e14944eb3ed8bd57ea90": {
+      "title": "Regional Market Access Manager Dermatology - Nord/Ost: Rostock, Berlin, Salzgitter, Braunschweig",
+      "company": "LEO Pharma",
+      "first_seen": "2026-10-18T10:45:17.637063",
+      "score": 45.0
     }
   },
-  "last_run": "2026-10-17T10:26:20.501182",
+  "last_run": "2026-10-18T10:45:17.637068",
   "stats": {
-    "total_seen": 384,
-    "total_reported": 1676
+    "total_seen": 374,
+    "total_reported": 1683
   }
 }

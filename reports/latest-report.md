@@ -1,94 +1,53 @@
-# 🎯 Daily Job Report — 2026-10-17
+# 🎯 Daily Job Report — 2026-10-18
 
-**13** new matches | **0** high relevance
+**7** new matches | **1** high relevance
 
 ---
 
-### 1. 🟡 Director of Business Development m/w/d
-**UPS** · 📍 Berlin, Germany · Score: 60/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-of-business-development-m-w-d-at-ups-4480397755)
-  - Title match: 'director of business development'
-  - Keywords (1): business development
+### 1. 🟢 Senior Manager/Associate Director, Commercial Operations, Germany
+**Acadia Pharmaceuticals** · 📍 Germany · Score: 70/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-manager-associate-director-commercial-operations-germany-at-acadia-pharmaceuticals-4442659638)
+  - Title match: 'associate director'
+  - Keywords (3): pharma, pharmaceutical, commercial
   - Location: 'germany'
 
-### 2. 🟡 Global Head of Strategy & Real Estate
-**Merck Group** · 📍 Darmstadt, Hesse, Germany · Score: 60/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/global-head-of-strategy-real-estate-at-merck-group-4462816620)
-  - Title match: 'head of strategy'
-  - Keywords (1): strategy
-  - Location: 'germany'
-
-### 3. 🟡 General Manager - DACH, Nordics & Benelux
-**Hologic, Inc.** · 📍 Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/general-manager-dach-nordics-benelux-at-hologic-inc-4479665788)
-  - Title match: 'general manager'
-  - Location: 'germany'
-
-### 4. 🟡 Head of Operations, Germany
-**Eucalyptus** · 📍 Berlin Metropolitan Area · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-operations-germany-at-eucalyptus-4461903503)
-  - Title match: 'head of operations'
-  - Location: 'berlin'
-
-### 5. 🟡 Head of Operations Germany (m/w/d)
-**ASSA ABLOY Group** · 📍 Dieburg, Hesse, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-operations-germany-m-w-d-at-assa-abloy-group-4477371796)
+### 2. 🟡 Head of Operations & Service - Dosimetry
+**IBA Dosimetry** · 📍 Nuremberg, Bavaria, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-operations-service-dosimetry-at-iba-dosimetry-4477790124)
   - Title match: 'head of operations'
   - Location: 'germany'
 
-### 6. 🟡 Innovation Project Lead (f/m/d) Cardiovascular Care Applications
-**Siemens Healthineers** · 📍 Forchheim, Bavaria, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/innovation-project-lead-f-m-d-cardiovascular-care-applications-at-siemens-healthineers-4476674644)
+### 3. 🟡 Product Marketing Lead (x/f/m)
+**Doctolib** · 📍 Berlin, Berlin, Germany · Score: 50/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/product-marketing-lead-x-f-m-at-doctolib-4454508614)
   - Seniority match: 'lead'
-  - Keywords (1): innovation
   - Location: 'germany'
-  - Target company: Siemens Healthineers Digital
+  - Target company: Doctolib
 
-### 7. ⚪ Senior Director, Supplier Relationship Management 1
-**Teva Pharmaceuticals** · 📍 Ulm, Baden-Württemberg, Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-director-supplier-relationship-management-1-at-teva-pharmaceuticals-4480362930)
+### 4. ⚪ Director Commercial (m/w/d)
+**ZEINpharma I The Healthspan Company** · 📍 Rüsselsheim, Hesse, Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-commercial-m-w-d-at-zeinpharma-i-the-healthspan-company-4478223180)
   - Seniority match: 'director'
-  - Keywords (2): pharma, pharmaceutical
+  - Keywords (2): pharma, commercial
   - Location: 'germany'
 
-### 8. ⚪ Vice President Business Development & Commercial (m/w/d)
-**Pammys** · 📍 Hamburg, Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/vice-president-business-development-commercial-m-w-d-at-pammys-4480387796)
-  - Seniority match: 'vice president'
-  - Keywords (2): business development, commercial
+### 5. ⚪ Regional Market Access Manager Dermatology - Nord/Ost: Rostock, Berlin, Salzgitter, Braunschweig
+**LEO Pharma** · 📍 Neu-Isenburg, Hesse, Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/regional-market-access-manager-dermatology-nord-ost-rostock-berlin-salzgitter-braunschweig-at-leo-pharma-4334740479)
+  - Seniority match: 'regional'
+  - Keywords (2): pharma, market access
   - Location: 'germany'
 
-### 9. ⚪ Head of Sales & Product Management (m/w/d) – Postpress Packaging
-**Heidelberger Druckmaschinen AG** · 📍 Wiesloch, Baden-Württemberg, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-sales-product-management-m-w-d-%E2%80%93-postpress-packaging-at-heidelberger-druckmaschinen-ag-4462413973)
-  - Seniority match: 'head of'
-  - Keywords (1): product management
+### 6. ⚪ Regional Sales Supervisor – EMEA | Medical Devices | Arabic-Speaking
+**ABA Medical Group** · 📍 Düsseldorf, North Rhine-Westphalia, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/regional-sales-supervisor-%E2%80%93-emea-medical-devices-arabic-speaking-at-aba-medical-group-4480872035)
+  - Seniority match: 'regional'
+  - Keywords (1): medical device
   - Location: 'germany'
 
-### 10. ⚪ Principal Business Development Manager CMTS Cell Culture Media (x|f|m)
-**Sartorius** · 📍 Baden-Württemberg, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/principal-business-development-manager-cmts-cell-culture-media-x-f-m-at-sartorius-4467722101)
-  - Seniority match: 'principal'
-  - Keywords (1): business development
-  - Location: 'germany'
-
-### 11. ⚪ Principal Business Development Manager CMTS Cell Culture Media (x|f|m)
-**Sartorius** · 📍 Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/principal-business-development-manager-cmts-cell-culture-media-x-f-m-at-sartorius-4467735051)
-  - Seniority match: 'principal'
-  - Keywords (1): business development
-  - Location: 'germany'
-
-### 12. ⚪ Head of Corporate Research Partnerships (gn*)
-**KLU Kühne Logistics University** · 📍 Hamburg, Hamburg, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-corporate-research-partnerships-gn-at-klu-k%C3%BChne-logistics-university-4477392269)
-  - Seniority match: 'head of'
-  - Keywords (1): partnerships
-  - Location: 'germany'
-
-### 13. ⚪ Head of AI Strategy (m/w/d)
-**Dr. Wolff Group** · 📍 Bielefeld, North Rhine-Westphalia, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-ai-strategy-m-w-d-at-dr-wolff-group-4480527266)
-  - Seniority match: 'head of'
-  - Keywords (1): strategy
+### 7. ⚪ Venture Lead FörderProfi und Energiegestalter (m/w/d)
+**Viessmann Climate Solutions** · 📍 Berlin, Berlin, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/venture-lead-f%C3%B6rderprofi-und-energiegestalter-m-w-d-at-viessmann-climate-solutions-4478211540)
+  - Seniority match: 'lead'
+  - Keywords (1): venture
   - Location: 'germany'
