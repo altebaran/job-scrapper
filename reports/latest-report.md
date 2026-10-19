@@ -1,53 +1,61 @@
-# 🎯 Daily Job Report — 2026-10-18
+# 🎯 Daily Job Report — 2026-10-19
 
-**7** new matches | **1** high relevance
+**8** new matches | **0** high relevance
 
 ---
 
-### 1. 🟢 Senior Manager/Associate Director, Commercial Operations, Germany
-**Acadia Pharmaceuticals** · 📍 Germany · Score: 70/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-manager-associate-director-commercial-operations-germany-at-acadia-pharmaceuticals-4442659638)
-  - Title match: 'associate director'
-  - Keywords (3): pharma, pharmaceutical, commercial
+### 1. 🟡 Head of Growth & Product Marketing (m/w/d)
+**myoact GmbH** · 📍 Frankfurt, Hesse, Germany · Score: 60/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-growth-product-marketing-m-w-d-at-myoact-gmbh-4480914176)
+  - Title match: 'head of growth'
+  - Keywords (1): growth
   - Location: 'germany'
 
-### 2. 🟡 Head of Operations & Service - Dosimetry
-**IBA Dosimetry** · 📍 Nuremberg, Bavaria, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-operations-service-dosimetry-at-iba-dosimetry-4477790124)
-  - Title match: 'head of operations'
-  - Location: 'germany'
-
-### 3. 🟡 Product Marketing Lead (x/f/m)
-**Doctolib** · 📍 Berlin, Berlin, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/product-marketing-lead-x-f-m-at-doctolib-4454508614)
-  - Seniority match: 'lead'
-  - Location: 'germany'
-  - Target company: Doctolib
-
-### 4. ⚪ Director Commercial (m/w/d)
-**ZEINpharma I The Healthspan Company** · 📍 Rüsselsheim, Hesse, Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-commercial-m-w-d-at-zeinpharma-i-the-healthspan-company-4478223180)
+### 2. 🟡 Business Unit Director | DePuy Synthes | Joints & Robotics | Germany (m/w/d)
+**Johnson & Johnson** · 📍 Hamburg, Hamburg, Germany · Score: 50/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/business-unit-director-depuy-synthes-joints-robotics-germany-m-w-d-at-johnson-johnson-4480953721)
   - Seniority match: 'director'
-  - Keywords (2): pharma, commercial
+  - Location: 'germany'
+  - Target company: Johnson & Johnson Innovation
+
+### 3. 🟡 Business Unit Director NV- GSA
+**Stryker** · 📍 Duisburg, North Rhine-Westphalia, Germany · Score: 50/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/business-unit-director-nv-gsa-at-stryker-4479989581)
+  - Seniority match: 'director'
+  - Location: 'germany'
+  - Target company: Stryker Digital
+
+### 4. ⚪ Teamleiter (m/w/d) für das M&A Team Healthcare & Life Sciences
+**SEHNER** · 📍 Hamburg, Hamburg, Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/teamleiter-m-w-d-f%C3%BCr-das-m-a-team-healthcare-life-sciences-at-sehner-4478257815)
+  - Seniority match: 'leiter'
+  - Keywords (2): life sciences, healthcare
   - Location: 'germany'
 
-### 5. ⚪ Regional Market Access Manager Dermatology - Nord/Ost: Rostock, Berlin, Salzgitter, Braunschweig
-**LEO Pharma** · 📍 Neu-Isenburg, Hesse, Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/regional-market-access-manager-dermatology-nord-ost-rostock-berlin-salzgitter-braunschweig-at-leo-pharma-4334740479)
-  - Seniority match: 'regional'
-  - Keywords (2): pharma, market access
+### 5. ⚪ Head of Transformation & Project Management Office
+**Karo Healthcare** · 📍 Düsseldorf, North Rhine-Westphalia, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-transformation-project-management-office-at-karo-healthcare-4478278017)
+  - Seniority match: 'head of'
+  - Keywords (1): healthcare
   - Location: 'germany'
 
-### 6. ⚪ Regional Sales Supervisor – EMEA | Medical Devices | Arabic-Speaking
-**ABA Medical Group** · 📍 Düsseldorf, North Rhine-Westphalia, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/regional-sales-supervisor-%E2%80%93-emea-medical-devices-arabic-speaking-at-aba-medical-group-4480872035)
-  - Seniority match: 'regional'
-  - Keywords (1): medical device
+### 6. ⚪ Director/Senior Director - Content Strategy EU
+**Veeva Systems** · 📍 Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-senior-director-content-strategy-eu-at-veeva-systems-4426042975)
+  - Seniority match: 'director'
+  - Keywords (1): strategy
   - Location: 'germany'
 
-### 7. ⚪ Venture Lead FörderProfi und Energiegestalter (m/w/d)
-**Viessmann Climate Solutions** · 📍 Berlin, Berlin, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/venture-lead-f%C3%B6rderprofi-und-energiegestalter-m-w-d-at-viessmann-climate-solutions-4478211540)
-  - Seniority match: 'lead'
-  - Keywords (1): venture
+### 7. ⚪ Director Business Development & M&A
+**FUTRUE** · 📍 Munich, Bavaria, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-business-development-m-a-at-futrue-4464796726)
+  - Seniority match: 'director'
+  - Keywords (1): business development
+  - Location: 'germany'
+
+### 8. ⚪ Team Lead/Director Clinical Operations
+**VERTANICAL** · 📍 Munich, Bavaria, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/team-lead-director-clinical-operations-at-vertanical-4464795702)
+  - Seniority match: 'director'
+  - Keywords (1): clinical
   - Location: 'germany'
