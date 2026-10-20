@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Job Report — 2026-10-20</title>
+<style>
+    :root { --bg: #0f172a; --card: #1e293b; --text: #e2e8f0; --muted: #94a3b8; --accent: #38bdf8; }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: 'Inter', -apple-system, system-ui, sans-serif; background: var(--bg); color: var(--text); padding: 2rem; }
+    .container { max-width: 960px; margin: 0 auto; }
+    header { text-align: center; margin-bottom: 2rem; padding: 2rem; background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); border-radius: 16px; border: 1px solid #334155; }
+    header h1 { font-size: 1.8rem; margin-bottom: 0.5rem; background: linear-gradient(135deg, #38bdf8, #818cf8); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+    header p { color: var(--muted); font-size: 0.95rem; }
+    .stats { display: flex; gap: 1rem; justify-content: center; margin-top: 1rem; flex-wrap: wrap; }
+    .stat { background: #334155; padding: 0.5rem 1rem; border-radius: 8px; font-size: 0.85rem; }
+    .stat strong { color: var(--accent); }
+    .back-link { display: inline-block; margin-bottom: 1.5rem; color: var(--accent); text-decoration: none; font-size: 0.9rem; }
+    .back-link:hover { text-decoration: underline; }
+    table { width: 100%; border-collapse: collapse; }
+    .job-row { background: var(--card); cursor: pointer; transition: background 0.2s; }
+    .job-row:hover { background: #334155; }
+    .job-row td { padding: 1rem; border-bottom: 1px solid #334155; vertical-align: top; }
+    .rank { width: 40px; text-align: center; color: var(--muted); font-weight: 600; }
+    .title a { color: var(--accent); text-decoration: none; font-weight: 600; font-size: 1.05rem; }
+    .title a:hover { text-decoration: underline; }
+    .company { color: #f1f5f9; margin: 0.25rem 0; font-weight: 500; }
+    .meta { display: flex; flex-wrap: wrap; gap: 0.75rem; color: var(--muted); font-size: 0.8rem; margin-top: 0.4rem; }
+    .score { width: 42px; height: 42px; border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-weight: 700; font-size: 0.85rem; }
+    .reasons { display: none; margin-top: 0.6rem; font-size: 0.8rem; color: var(--muted); line-height: 1.6; }
+    .expanded .reasons { display: block; }
+    .empty { text-align: center; padding: 3rem; color: var(--muted); }
+    footer { text-align: center; margin-top: 2rem; color: var(--muted); font-size: 0.8rem; }
+</style>
+</head>
+<body>
+<div class="container">
+    <a href="index.html" class="back-link">← Dashboard</a>
+    <header>
+        <h1>🎯 Daily Job Report</h1>
+        <p>Healthcare · Digital Health · Pharma — Scale-ups & Innovation Centers</p>
+        <div class="stats">
+            <div class="stat"><strong>11</strong> new matches</div>
+            <div class="stat"><strong>2026-10-20</strong> 11:15</div>
+            <div class="stat"><strong>1</strong> high relevance</div>
+        </div>
+    </header>
+    <table>
+        <tbody>
+            
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">1</td>
+                <td>
+                    <div class="title"><a href="https://de.linkedin.com/jobs/view/regional-general-manager-m-f-d-dach-benelux-molecular-diagnostics-at-abbott-4443014523" target="_blank" rel="noopener">Regional General Manager (m/f/d) DACH & BeNeLux, Molecular Diagnostics</a></div>
+                    <div class="company">Abbott</div>
+                    <div class="meta">
+                        <span class="location">📍 Wiesbaden, Hesse, Germany</span>
+                        <span class="source">via LinkedIn</span>
+                        
+                        <span class="date">📅 2026-10-20</span>
+                    </div>
+                    <div class="reasons">• Title match: 'general manager'<br>• Keywords (1): diagnostics<br>• Location: 'germany'<br>• Target company: Abbott Digital Health</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #16a34a">
+                        75
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">2</td>
+                <td>
+                    <div class="title"><a href="https://de.linkedin.com/jobs/view/associate-director-commercial-lead-germany-m-w-d-at-inizio-engage-4481562028" target="_blank" rel="noopener">Associate Director - Commercial Lead Germany (m/w/d)</a></div>
+                    <div class="company">Inizio Engage</div>
+                    <div class="meta">
+                        <span class="location">📍 North Rhine-Westphalia, Germany</span>
+                        <span class="source">via LinkedIn</span>
+                        
+                        <span class="date">📅 2026-10-20</span>
+                    </div>
+                    <div class="reasons">• Title match: 'associate director'<br>• Keywords (1): commercial<br>• Location: 'germany'</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #ca8a04">
+                        60
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">3</td>
+                <td>
+                    <div class="title"><a href="https://de.linkedin.com/jobs/view/associate-director-brand-marketing-media-m-f-d-at-redcare-pharmacy-4478293798" target="_blank" rel="noopener">Associate Director Brand Marketing & Media (m/f/d)</a></div>
+                    <div class="company">Redcare Pharmacy</div>
+                    <div class="meta">
+                        <span class="location">📍 Cologne, North Rhine-Westphalia, Germany</span>
+                        <span class="source">via LinkedIn</span>
+                        
+                        <span class="date">📅 2026-10-19</span>
+                    </div>
+                    <div class="reasons">• Title match: 'associate director'<br>• Keywords (1): pharma<br>• Location: 'germany'</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #ca8a04">
+                        60
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">4</td>
+                <td>
+                    <div class="title"><a href="https://de.linkedin.com/jobs/view/commercial-leader-%E2%80%93-acute-care-germany-monitoring-systems-anesthesia-m-w-d-at-ge-healthcare-4481253520" target="_blank" rel="noopener">Commercial Leader – Acute Care Germany (Monitoring Systems & Anesthesia) (m/w/d)</a></div>
+                    <div class="company">GE HealthCare</div>
+                    <div class="meta">
+                        <span class="location">📍 Bavaria, Germany</span>
+                        <span class="source">via LinkedIn</span>
+                        
+                        <span class="date">📅 2026-10-19</span>
+                    </div>
+                    <div class="reasons">• Seniority match: 'lead'<br>• Keywords (2): healthcare, commercial<br>• Location: 'germany'</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        45
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">5</td>
+                <td>
+                    <div class="title"><a href="https://de.linkedin.com/jobs/view/commercial-leader-%E2%80%93-acute-care-germany-monitoring-systems-anesthesia-m-w-d-at-ge-healthcare-4481243855" target="_blank" rel="noopener">Commercial Leader – Acute Care Germany (Monitoring Systems & Anesthesia) (m/w/d)</a></div>
+                    <div class="company">GE HealthCare</div>
+                    <div class="meta">
+                        <span class="location">📍 Freiburg, Baden-Württemberg, Germany</span>
+                        <span class="source">via LinkedIn</span>
+                        
+                        <span class="date">📅 2026-10-19</span>
+                    </div>
+                    <div class="reasons">• Seniority match: 'lead'<br>• Keywords (2): healthcare, commercial<br>• Location: 'germany'</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        45
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">6</td>
+                <td>
+                    <div class="title"><a href="https://de.linkedin.com/jobs/view/director-healthcare-technology-product-management-m-f-d-at-wolters-kluwer-4462960181" target="_blank" rel="noopener">Director, Healthcare Technology Product Management (m/f/d)</a></div>
+                    <div class="company">Wolters Kluwer</div>
+                    <div class="meta">
+                        <span class="location">📍 Berlin, Berlin, Germany</span>
+                        <span class="source">via LinkedIn</span>
+                        
+                        <span class="date">📅 2026-10-19</span>
+                    </div>
+                    <div class="reasons">• Seniority match: 'director'<br>• Keywords (2): healthcare, product management<br>• Location: 'germany'</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        45
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">7</td>
+                <td>
+                    <div class="title"><a href="https://de.linkedin.com/jobs/view/associate-solution-and-delivery-lead-healthcare-pharma-at-iqvia-4474994032" target="_blank" rel="noopener">Associate Solution and Delivery Lead, Healthcare & Pharma</a></div>
+                    <div class="company">IQVIA</div>
+                    <div class="meta">
+                        <span class="location">📍 Munich, Bavaria, Germany</span>
+                        <span class="source">via LinkedIn</span>
+                        
+                        <span class="date">📅 2026-10-19</span>
+                    </div>
+                    <div class="reasons">• Seniority match: 'lead'<br>• Keywords (2): pharma, healthcare<br>• Location: 'germany'</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        45
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">8</td>
+                <td>
+                    <div class="title"><a href="https://de.linkedin.com/jobs/view/senior-director-commercial-eu-center-at-bridgebio-4480239584" target="_blank" rel="noopener">Senior Director, Commercial, EU Center</a></div>
+                    <div class="company">BridgeBio</div>
+                    <div class="meta">
+                        <span class="location">📍 Germany</span>
+                        <span class="source">via LinkedIn</span>
+                        
+                        <span class="date">📅 2026-10-19</span>
+                    </div>
+                    <div class="reasons">• Seniority match: 'director'<br>• Keywords (1): commercial<br>• Location: 'germany'</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        40
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">9</td>
+                <td>
+                    <div class="title"><a href="https://de.linkedin.com/jobs/view/chief-operating-officer-at-startup-loft-4478609358" target="_blank" rel="noopener">Chief Operating Officer</a></div>
+                    <div class="company">Startup Loft</div>
+                    <div class="meta">
+                        <span class="location">📍 Magdeburg, Saxony-Anhalt, Germany</span>
+                        <span class="source">via LinkedIn</span>
+                        
+                        <span class="date">📅 2026-10-19</span>
+                    </div>
+                    <div class="reasons">• Seniority match: 'chief'<br>• Keywords (1): startup<br>• Location: 'germany'</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        40
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">10</td>
+                <td>
+                    <div class="title"><a href="https://de.linkedin.com/jobs/view/regional-research-director-europe-f-m-d-at-ge-healthcare-4481249636" target="_blank" rel="noopener">Regional Research Director Europe (f/m/d)</a></div>
+                    <div class="company">GE HealthCare</div>
+                    <div class="meta">
+                        <span class="location">📍 Bavaria, Germany</span>
+                        <span class="source">via LinkedIn</span>
+                        
+                        <span class="date">📅 2026-10-19</span>
+                    </div>
+                    <div class="reasons">• Seniority match: 'director'<br>• Keywords (1): healthcare<br>• Location: 'germany'</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        40
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">11</td>
+                <td>
+                    <div class="title"><a href="" target="_blank" rel="noopener">Senior Scientific Lead, Early Development – Topical Nucleic Acid Therapy m/f/d</a></div>
+                    <div class="company">Dermaliq Therapeutics GmbH</div>
+                    <div class="meta">
+                        <span class="location">📍 Heidelberg, Baden-Württemberg, Germany</span>
+                        <span class="source">via LinkedIn</span>
+                        
+                        <span class="date">📅 2026-10-20</span>
+                    </div>
+                    <div class="reasons">• Seniority match: 'lead'<br>• Keywords (1): therapeutic<br>• Location: 'germany'</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        40
+                    </div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <footer>
+        <p>Click any row to see match details · Auto-generated by JobScraper</p>
+    </footer>
+</div>
+</body>
+</html>

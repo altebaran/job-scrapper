@@ -1,41 +1,5 @@
 {
   "seen": {
-    "591db1b22a55cc7c920379d6fbe67dc2": {
-      "title": "Project Leader",
-      "company": "Forward Strategy",
-      "first_seen": "2026-09-20T11:04:00.711817",
-      "score": 40.0
-    },
-    "6e5d7af807da835b263e9b3b7b113cb1": {
-      "title": "Lead Consultant (all genders) Digital Transformation",
-      "company": "valantic",
-      "first_seen": "2026-09-20T11:04:00.711831",
-      "score": 40.0
-    },
-    "30dd014c5431fb9b2613e4899f2c3c5f": {
-      "title": "Lead Cloud Software Architect - Pharma Solutions (w/m/x)",
-      "company": "NTT DATA Europe & Latam",
-      "first_seen": "2026-09-20T11:04:00.711835",
-      "score": 40.0
-    },
-    "c83f9bb28e811beed522bda4e20c7c42": {
-      "title": "Lead Cloud Software Architect - Pharma Solutions (w/m/x)",
-      "company": "NTT DATA Europe & Latam",
-      "first_seen": "2026-09-20T11:04:00.711838",
-      "score": 40.0
-    },
-    "334e257c5632641bfaed194c0ab54b4f": {
-      "title": "Regional Sales Manager (m/w/d) Respiratory Acute Care | Deutschland Nord/Ost",
-      "company": "Fisher & Paykel Healthcare",
-      "first_seen": "2026-09-20T11:04:00.711842",
-      "score": 40.0
-    },
-    "0b937d2035905c6d6ede60b18bd92913": {
-      "title": "Chief Revenue Officer @PE-Backed B2B Services Platform",
-      "company": "Top Line Advisory",
-      "first_seen": "2026-09-20T11:04:00.711845",
-      "score": 40.0
-    },
     "257530ce9ec50cbc3ee10a1d3f5f837a": {
       "title": "Senior Director Commercial EMEA (C&I) (m/f/d)",
       "company": "Azenta Life Sciences",
@@ -2123,11 +2087,77 @@
       "company": "SEHNER",
       "first_seen": "2026-10-19T12:44:05.493064",
       "score": 45.0
+    },
+    "c427a41a88451bc21be7d8a0233f66c7": {
+      "title": "Commercial Leader \u2013 Acute Care Germany (Monitoring Systems & Anesthesia) (m/w/d)",
+      "company": "GE HealthCare",
+      "first_seen": "2026-10-20T11:15:05.063412",
+      "score": 45.0
+    },
+    "a4a1a947beb63bca6ac3789862a2b076": {
+      "title": "Commercial Leader \u2013 Acute Care Germany (Monitoring Systems & Anesthesia) (m/w/d)",
+      "company": "GE HealthCare",
+      "first_seen": "2026-10-20T11:15:05.063426",
+      "score": 45.0
+    },
+    "f4dc9ab2b8568a067fb7c0aa424acb9f": {
+      "title": "Regional General Manager (m/f/d) DACH & BeNeLux, Molecular Diagnostics",
+      "company": "Abbott",
+      "first_seen": "2026-10-20T11:15:05.063430",
+      "score": 75.0
+    },
+    "e6c689a4e1feb4f94a8323e497e4be12": {
+      "title": "Associate Director - Commercial Lead Germany (m/w/d)",
+      "company": "Inizio Engage",
+      "first_seen": "2026-10-20T11:15:05.063432",
+      "score": 60.0
+    },
+    "038456d78f7231e0209657a902e5a99b": {
+      "title": "Senior Director, Commercial, EU Center",
+      "company": "BridgeBio",
+      "first_seen": "2026-10-20T11:15:05.063434",
+      "score": 40.0
+    },
+    "aa040e288ea167caa362a315dfe81ec2": {
+      "title": "Chief Operating Officer",
+      "company": "Startup Loft",
+      "first_seen": "2026-10-20T11:15:05.063436",
+      "score": 40.0
+    },
+    "1a0da7a5c2097d06e51d0a15a4cc836f": {
+      "title": "Associate Director Brand Marketing & Media (m/f/d)",
+      "company": "Redcare Pharmacy",
+      "first_seen": "2026-10-20T11:15:05.063438",
+      "score": 60.0
+    },
+    "1e23b937b99f829fb8ceb5d6ade44d6b": {
+      "title": "Director, Healthcare Technology Product Management (m/f/d)",
+      "company": "Wolters Kluwer",
+      "first_seen": "2026-10-20T11:15:05.063440",
+      "score": 45.0
+    },
+    "f54910bb00c803eb42146ab357c24656": {
+      "title": "Associate Solution and Delivery Lead, Healthcare & Pharma",
+      "company": "IQVIA",
+      "first_seen": "2026-10-20T11:15:05.063442",
+      "score": 45.0
+    },
+    "43024a46a075594170ad903fb6c3b04f": {
+      "title": "Regional Research Director Europe (f/m/d)",
+      "company": "GE HealthCare",
+      "first_seen": "2026-10-20T11:15:05.063444",
+      "score": 40.0
+    },
+    "cc72697435667ee4ca8ab2b7a1649bd9": {
+      "title": "Senior Scientific Lead, Early Development \u2013 Topical Nucleic Acid Therapy m/f/d",
+      "company": "Dermaliq Therapeutics GmbH",
+      "first_seen": "2026-10-20T11:15:05.063446",
+      "score": 40.0
     }
   },
-  "last_run": "2026-10-19T12:44:05.493070",
+  "last_run": "2026-10-20T11:15:05.063452",
   "stats": {
-    "total_seen": 354,
-    "total_reported": 1691
+    "total_seen": 359,
+    "total_reported": 1702
   }
 }
