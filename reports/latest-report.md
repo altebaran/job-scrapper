@@ -1,83 +1,73 @@
-# 🎯 Daily Job Report — 2026-10-20
+# 🎯 Daily Job Report — 2026-10-21
 
-**11** new matches | **1** high relevance
+**10** new matches | **0** high relevance
 
 ---
 
-### 1. 🟢 Regional General Manager (m/f/d) DACH & BeNeLux, Molecular Diagnostics
-**Abbott** · 📍 Wiesbaden, Hesse, Germany · Score: 75/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/regional-general-manager-m-f-d-dach-benelux-molecular-diagnostics-at-abbott-4443014523)
-  - Title match: 'general manager'
-  - Keywords (1): diagnostics
+### 1. 🟡 Commercial Segment Lead B2B SaaS – Growth / P&L (alle Identitäten)
+**Caspar Health** · 📍 Berlin, Berlin, Germany · Score: 65/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/commercial-segment-lead-b2b-saas-%E2%80%93-growth-p-l-alle-identit%C3%A4ten-at-caspar-health-4478997248)
+  - Seniority match: 'lead'
+  - Keywords (3): commercial, growth, p&l
   - Location: 'germany'
-  - Target company: Abbott Digital Health
+  - Target company: Caspar Health
 
-### 2. 🟡 Associate Director - Commercial Lead Germany (m/w/d)
-**Inizio Engage** · 📍 North Rhine-Westphalia, Germany · Score: 60/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-commercial-lead-germany-m-w-d-at-inizio-engage-4481562028)
-  - Title match: 'associate director'
-  - Keywords (1): commercial
+### 2. 🟡 Head of Business Development
+**Walker Lovell** · 📍 Hesse, Germany · Score: 60/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-business-development-at-walker-lovell-4482062432)
+  - Title match: 'head of business development'
+  - Keywords (1): business development
   - Location: 'germany'
 
-### 3. 🟡 Associate Director Brand Marketing & Media (m/f/d)
-**Redcare Pharmacy** · 📍 Cologne, North Rhine-Westphalia, Germany · Score: 60/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-brand-marketing-media-m-f-d-at-redcare-pharmacy-4478293798)
+### 3. 🟡 Head of Operations (m/w/d) - Lich bei Gießen
+**CEVA Logistics** · 📍 Lich, Hesse, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-operations-m-w-d-lich-bei-gie%C3%9Fen-at-ceva-logistics-4478677858)
+  - Title match: 'head of operations'
+  - Location: 'germany'
+
+### 4. 🟡 Head of Operations (all genders) in North Germany
+**Dott** · 📍 Berlin, Berlin, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-operations-all-genders-in-north-germany-at-dott-4480497456)
+  - Title match: 'head of operations'
+  - Location: 'germany'
+
+### 5. 🟡 Associate Director - Sales Force Effectiveness (m/w/d)
+**IQVIA** · 📍 Dortmund, North Rhine-Westphalia, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-sales-force-effectiveness-m-w-d-at-iqvia-4480480939)
   - Title match: 'associate director'
+  - Location: 'germany'
+
+### 6. ⚪ Therapeutic Strategy Lead  - IMM/Cardiology/Oncology - (m/w/d) - Mandarin Speaker
+**IQVIA** · 📍 Frankfurt am Main, Hesse, Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/therapeutic-strategy-lead-imm-cardiology-oncology-m-w-d-mandarin-speaker-at-iqvia-4480730461)
+  - Seniority match: 'lead'
+  - Keywords (2): therapeutic, strategy
+  - Location: 'germany'
+
+### 7. ⚪ Marketing Lead (m/w/d) Diagnostics & Healthcare
+**SYNLAB Holding Deutschland GmbH** · 📍 Augsburg, Bavaria, Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/marketing-lead-m-w-d-diagnostics-healthcare-at-synlab-holding-deutschland-gmbh-4471887219)
+  - Seniority match: 'lead'
+  - Keywords (2): healthcare, diagnostics
+  - Location: 'germany'
+
+### 8. ⚪ Senior Medical Strategy Lead, Clinical Development - Rheumatology (m/w/d)
+**IQVIA** · 📍 Frankfurt am Main, Hesse, Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-medical-strategy-lead-clinical-development-rheumatology-m-w-d-at-iqvia-4476223174)
+  - Seniority match: 'lead'
+  - Keywords (2): clinical, strategy
+  - Location: 'germany'
+
+### 9. ⚪ Director, Pharmacovigilance Alliance Contracting and Management
+**Johnson & Johnson Innovative Medicine** · 📍 Neuss, North Rhine-Westphalia, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-pharmacovigilance-alliance-contracting-and-management-at-johnson-johnson-innovative-medicine-4481702853)
+  - Seniority match: 'director'
   - Keywords (1): pharma
   - Location: 'germany'
 
-### 4. ⚪ Commercial Leader – Acute Care Germany (Monitoring Systems & Anesthesia) (m/w/d)
-**GE HealthCare** · 📍 Bavaria, Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/commercial-leader-%E2%80%93-acute-care-germany-monitoring-systems-anesthesia-m-w-d-at-ge-healthcare-4481253520)
-  - Seniority match: 'lead'
-  - Keywords (2): healthcare, commercial
-  - Location: 'germany'
-
-### 5. ⚪ Commercial Leader – Acute Care Germany (Monitoring Systems & Anesthesia) (m/w/d)
-**GE HealthCare** · 📍 Freiburg, Baden-Württemberg, Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/commercial-leader-%E2%80%93-acute-care-germany-monitoring-systems-anesthesia-m-w-d-at-ge-healthcare-4481243855)
-  - Seniority match: 'lead'
-  - Keywords (2): healthcare, commercial
-  - Location: 'germany'
-
-### 6. ⚪ Director, Healthcare Technology Product Management (m/f/d)
-**Wolters Kluwer** · 📍 Berlin, Berlin, Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-healthcare-technology-product-management-m-f-d-at-wolters-kluwer-4462960181)
-  - Seniority match: 'director'
-  - Keywords (2): healthcare, product management
-  - Location: 'germany'
-
-### 7. ⚪ Associate Solution and Delivery Lead, Healthcare & Pharma
-**IQVIA** · 📍 Munich, Bavaria, Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-solution-and-delivery-lead-healthcare-pharma-at-iqvia-4474994032)
-  - Seniority match: 'lead'
-  - Keywords (2): pharma, healthcare
-  - Location: 'germany'
-
-### 8. ⚪ Senior Director, Commercial, EU Center
-**BridgeBio** · 📍 Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-director-commercial-eu-center-at-bridgebio-4480239584)
-  - Seniority match: 'director'
-  - Keywords (1): commercial
-  - Location: 'germany'
-
-### 9. ⚪ Chief Operating Officer
-**Startup Loft** · 📍 Magdeburg, Saxony-Anhalt, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/chief-operating-officer-at-startup-loft-4478609358)
-  - Seniority match: 'chief'
-  - Keywords (1): startup
-  - Location: 'germany'
-
-### 10. ⚪ Regional Research Director Europe (f/m/d)
-**GE HealthCare** · 📍 Bavaria, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/regional-research-director-europe-f-m-d-at-ge-healthcare-4481249636)
-  - Seniority match: 'director'
-  - Keywords (1): healthcare
-  - Location: 'germany'
-
-### 11. ⚪ Senior Scientific Lead, Early Development – Topical Nucleic Acid Therapy m/f/d
-**Dermaliq Therapeutics GmbH** · 📍 Heidelberg, Baden-Württemberg, Germany · Score: 40/100
-🔗 [LinkedIn]()
-  - Seniority match: 'lead'
-  - Keywords (1): therapeutic
+### 10. ⚪ Head of Media & Business Development Europe - LED-Tunnel
+**RheinVision** · 📍 Düsseldorf, North Rhine-Westphalia, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-media-business-development-europe-led-tunnel-at-rheinvision-4479539098)
+  - Seniority match: 'head of'
+  - Keywords (1): business development
   - Location: 'germany'
