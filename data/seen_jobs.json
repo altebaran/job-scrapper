@@ -1,59 +1,5 @@
 {
   "seen": {
-    "c05a20b540c0d83b9ff0f25be9371cdc": {
-      "title": "Head of IT Strategy & Operations (m/w/d)",
-      "company": "Amadeus Fire",
-      "first_seen": "2026-09-23T11:13:08.984097",
-      "score": 40.0
-    },
-    "e17f519b6cb1a24c4b20bb0265d017d5": {
-      "title": "Director Business Development - Oncology",
-      "company": "TFS HealthScience",
-      "first_seen": "2026-09-23T11:13:08.984106",
-      "score": 40.0
-    },
-    "297f50ba4bd4979ebd97412fe30af326": {
-      "title": "Commercial Director",
-      "company": "Stealth Space Startup",
-      "first_seen": "2026-09-23T11:13:08.984108",
-      "score": 45.0
-    },
-    "63a0f15f7b8ecb4591fffed59bfa89c1": {
-      "title": "Regional Sales Lead (w/m/d)",
-      "company": "Siemens Healthineers",
-      "first_seen": "2026-09-23T11:13:08.984110",
-      "score": 50.0
-    },
-    "5797ad766409004292a5dff84eb37df8": {
-      "title": "Regional Sales Lead (m/w/d)",
-      "company": "Siemens Healthineers",
-      "first_seen": "2026-09-23T11:13:08.984111",
-      "score": 50.0
-    },
-    "2c695379cd75811f871972fcb974d2a1": {
-      "title": "Leiter DMS / ECM | Vertrieb, Business Development, Delivery | bis 150.000 \u20ac + PKW (mwd)",
-      "company": "Vesterling AG",
-      "first_seen": "2026-09-23T11:13:08.984113",
-      "score": 40.0
-    },
-    "765c60b848021a966603f8d78c7ae1cb": {
-      "title": "Director Consulting Services - Commercial & Public (m/w/d)",
-      "company": "CGI",
-      "first_seen": "2026-09-23T11:13:08.984114",
-      "score": 40.0
-    },
-    "24b4a3e27d0158e43ffc5d0bab78434a": {
-      "title": "Head of Region North (m/w/d) Personaldienstleistung",
-      "company": "House of Healthcare",
-      "first_seen": "2026-09-23T11:13:08.984116",
-      "score": 40.0
-    },
-    "61c3f1874b27c6bd4bba3cd5e5b78f6c": {
-      "title": "Head of Region South (m/w/d) Personaldienstleistung",
-      "company": "House of Healthcare",
-      "first_seen": "2026-09-23T11:13:08.984117",
-      "score": 40.0
-    },
     "54f4949b92050416743f08758b812007": {
       "title": "Head of Global Digital Transformation & Omnichannel (m/w/d)  DE878473/LI",
       "company": "Morgan Philips Specialist Recruitment",
@@ -2081,11 +2027,119 @@
       "company": "Boehringer Ingelheim",
       "first_seen": "2026-10-22T11:32:06.124326",
       "score": 50.0
+    },
+    "2c9d970ce66ca5f952353218cf31453d": {
+      "title": "SVP Sales & Industry Solutions, Europe",
+      "company": "Topcon Healthcare",
+      "first_seen": "2026-10-23T11:21:26.074562",
+      "score": 40.0
+    },
+    "17cddc054e0a92cae112ce958e6ce9bb": {
+      "title": "German Speaking Head of Sales (MedTech) - Hybrid",
+      "company": "Ignite",
+      "first_seen": "2026-10-23T11:21:26.074572",
+      "score": 40.0
+    },
+    "85e4c04b16d969d46b46a385b53121c6": {
+      "title": "Senior Manager Growth - Europe",
+      "company": "Iterative Health",
+      "first_seen": "2026-10-23T11:21:26.074576",
+      "score": 40.0
+    },
+    "ede3e2802645578603e0ae3b538f6659": {
+      "title": "Chief of Staff (m/w/d)",
+      "company": "Smile Eyes",
+      "first_seen": "2026-10-23T11:21:26.074579",
+      "score": 55.0
+    },
+    "9f6a9683f918c64e1862980b59319ed2": {
+      "title": "Director Business Development",
+      "company": "TFS HealthScience",
+      "first_seen": "2026-10-23T11:21:26.074590",
+      "score": 40.0
+    },
+    "47e9914e8c36e59306b2ca558034b0c6": {
+      "title": "Director Business Development",
+      "company": "TFS HealthScience",
+      "first_seen": "2026-10-23T11:21:26.074593",
+      "score": 40.0
+    },
+    "ab3d6681329104f917663db4c0721f7b": {
+      "title": "German Speaking Head of Sales (MedTech) - Hybrid",
+      "company": "juucy",
+      "first_seen": "2026-10-23T11:21:26.074596",
+      "score": 40.0
+    },
+    "a18a1ee41f96ee361144cab5e05621a7": {
+      "title": "Commercial Lead/Head of Sales & Marketing (m/w/d)",
+      "company": "Personalberatung Rochus Mummert",
+      "first_seen": "2026-10-23T11:21:26.074598",
+      "score": 40.0
+    },
+    "a59f4c559d54e20bd5b4853675fc65c5": {
+      "title": "Head of Production (m/f/d) \u2013 Honext x WEPA",
+      "company": "PeopleX",
+      "first_seen": "2026-10-23T11:21:26.074601",
+      "score": 55.0
+    },
+    "76194d97b8cddf881ebbd23012886abd": {
+      "title": "Associate Director CTSM, Supply & Data Integration",
+      "company": "BioNTech SE",
+      "first_seen": "2026-10-23T11:21:26.074603",
+      "score": 55.0
+    },
+    "0ea5c9c405fbf5e8b693a9e7fb9e6ff9": {
+      "title": "Director, Team Lead, Software Engineering for Computational Pathology (m/f/d)",
+      "company": "AstraZeneca",
+      "first_seen": "2026-10-23T11:21:26.074605",
+      "score": 50.0
+    },
+    "47cbfc7e0b863cd5d0ca6936ee3903de": {
+      "title": "Associate Director, Clinical Trial Devices (Germany)",
+      "company": "UCB",
+      "first_seen": "2026-10-23T11:21:26.074608",
+      "score": 60.0
+    },
+    "6e81e2f95d894c0433e49a0991ba9646": {
+      "title": "European Cluster Lead - Anti Infectives - Germany",
+      "company": "Syneos Health Commercial Solutions",
+      "first_seen": "2026-10-23T11:21:26.074610",
+      "score": 40.0
+    },
+    "886bbf1455962256b481e8d802a60e90": {
+      "title": "European Cluster Lead - Anti Infectives - Germany",
+      "company": "Syneos Health Commercial Solutions",
+      "first_seen": "2026-10-23T11:21:26.074613",
+      "score": 40.0
+    },
+    "d972085791be58dc058e5140034a0709": {
+      "title": "Head of Commercial/Business Development",
+      "company": "Jobgether",
+      "first_seen": "2026-10-23T11:21:26.074616",
+      "score": 65.0
+    },
+    "13d674717e01ba0f3185266ad4388ba7": {
+      "title": "Country Cluster Lead - Endocrinology and Metabolic Health - Dach / Eastern Europe",
+      "company": "Syneos Health Commercial Solutions",
+      "first_seen": "2026-10-23T11:21:26.074618",
+      "score": 40.0
+    },
+    "1b4af407b817e4f65c0f11d186492fba": {
+      "title": "Country Cluster Lead - Endocrinology and Metabolic Health - Dach / Europe",
+      "company": "Syneos Health Commercial Solutions",
+      "first_seen": "2026-10-23T11:21:26.074621",
+      "score": 40.0
+    },
+    "0eebc17f859d6c5e1fed96af69ba59ef": {
+      "title": "Senior Strategy & Operations Manager",
+      "company": "Boehringer Ingelheim",
+      "first_seen": "2026-10-23T11:21:26.074623",
+      "score": 40.0
     }
   },
-  "last_run": "2026-10-22T11:32:06.124332",
+  "last_run": "2026-10-23T11:21:26.074629",
   "stats": {
-    "total_seen": 347,
-    "total_reported": 1723
+    "total_seen": 356,
+    "total_reported": 1741
   }
 }
