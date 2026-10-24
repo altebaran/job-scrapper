@@ -2135,11 +2135,83 @@
       "company": "Boehringer Ingelheim",
       "first_seen": "2026-10-23T11:21:26.074623",
       "score": 40.0
+    },
+    "3d4cfe5a63e471af4d6d551bb200eaf7": {
+      "title": "General Manager / Country Manager Germany",
+      "company": "Syneos Health Commercial Solutions",
+      "first_seen": "2026-10-24T10:41:21.327915",
+      "score": 60.0
+    },
+    "36c1009d8e0f455285bc30f09af1981a": {
+      "title": "General Manager / Country Manager Germany",
+      "company": "Syneos Health Commercial Solutions",
+      "first_seen": "2026-10-24T10:41:21.327933",
+      "score": 60.0
+    },
+    "d6535cc8d2753748a86c6746b22b80e9": {
+      "title": "Sales Director \u2013 New Business, Life Sciences",
+      "company": "Fusion Consulting",
+      "first_seen": "2026-10-24T10:41:21.327938",
+      "score": 40.0
+    },
+    "29ac304937c3426a0d3f37377fe791c7": {
+      "title": "German Speaking Head of Sales (MedTech) - Hybrid",
+      "company": "juucy",
+      "first_seen": "2026-10-24T10:41:21.327941",
+      "score": 40.0
+    },
+    "a87d78c7ab02ee936c27bc1fdcbbee3e": {
+      "title": "Transformation Program Director - German Speaker (f/m/d) - Remote Europe",
+      "company": "Otera",
+      "first_seen": "2026-10-24T10:41:21.327943",
+      "score": 55.0
+    },
+    "00b6613f30cd47eb8b335c51ed73e88c": {
+      "title": "General Manager / Country Manager Germany",
+      "company": "Syneos Health Commercial Solutions",
+      "first_seen": "2026-10-24T10:41:21.327946",
+      "score": 60.0
+    },
+    "ff6fd3fbb02047f336a779cb12d49885": {
+      "title": "Head of Manufacturing \u2013 Production Scale-Up | SpaceTech",
+      "company": "Demexios",
+      "first_seen": "2026-10-24T10:41:21.327949",
+      "score": 40.0
+    },
+    "fcda5c9a799b9f465d3ddad0a96c9596": {
+      "title": "Head of Manufacturing \u2013 Production Scale-Up | SpaceTech",
+      "company": "Demexios",
+      "first_seen": "2026-10-24T10:41:21.327951",
+      "score": 40.0
+    },
+    "9c374320294fc99f1cb228b74abb9ab6": {
+      "title": "Associate Director (m/f/d), DevOps & Software Engineering, Computational Pathology",
+      "company": "AstraZeneca",
+      "first_seen": "2026-10-24T10:41:21.327953",
+      "score": 70.0
+    },
+    "f157995fe7c8a5a033ca69d33225b3cf": {
+      "title": "Lead Value Engineer, Pharma",
+      "company": "Celonis",
+      "first_seen": "2026-10-24T10:41:21.327956",
+      "score": 40.0
+    },
+    "ca3ea0efbeb46304f6acbc44a0d687fb": {
+      "title": "Head of Competence Center Optimization (OPT) in Process Digital Twin (PRODT) Competence Center (CC)  (F/M/D)",
+      "company": "Siemens",
+      "first_seen": "2026-10-24T10:41:21.327958",
+      "score": 50.0
+    },
+    "7533d1158258c53dec06e6ccdd953a77": {
+      "title": "Head of Competence Center Optimization (OPT) in Process Digital Twin (PRODT) Competence Center (CC)  (F/M/D)",
+      "company": "Siemens",
+      "first_seen": "2026-10-24T10:41:21.327960",
+      "score": 50.0
     }
   },
-  "last_run": "2026-10-23T11:21:26.074629",
+  "last_run": "2026-10-24T10:41:21.327967",
   "stats": {
-    "total_seen": 356,
-    "total_reported": 1741
+    "total_seen": 368,
+    "total_reported": 1753
   }
 }
