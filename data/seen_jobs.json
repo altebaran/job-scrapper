@@ -1,77 +1,5 @@
 {
   "seen": {
-    "54f4949b92050416743f08758b812007": {
-      "title": "Head of Global Digital Transformation & Omnichannel (m/w/d)  DE878473/LI",
-      "company": "Morgan Philips Specialist Recruitment",
-      "first_seen": "2026-09-24T11:29:01.758008",
-      "score": 40.0
-    },
-    "9ffb560a3fba5cedf3741b9fa8bbc49a": {
-      "title": "Senior Manager Marketplace Data Analytics & Operational Excellence (m/f/d)",
-      "company": "Redcare Pharmacy",
-      "first_seen": "2026-09-24T11:29:01.758018",
-      "score": 40.0
-    },
-    "b1a0b15b85065e87383abd215f32d0d8": {
-      "title": "Director Product Management (gn) - Technology Platforms",
-      "company": "ageneo Life Science Experts (Interim Solutions) GmbH",
-      "first_seen": "2026-09-24T11:29:01.758021",
-      "score": 40.0
-    },
-    "fb471c94fc4550dc2ff0eea04fde3a72": {
-      "title": "Senior Manager Marketplace Data Analytics & Operational Excellence (m/f/d)",
-      "company": "Redcare Pharmacy",
-      "first_seen": "2026-09-24T11:29:01.758022",
-      "score": 40.0
-    },
-    "69620770e9df793ef5ad0e2022aea079": {
-      "title": "Director - LIMS Strategy - CPG & F&B",
-      "company": "Veeva Systems",
-      "first_seen": "2026-09-24T11:29:01.758024",
-      "score": 40.0
-    },
-    "6bd4ff38e57a118d2e047bb829639d1d": {
-      "title": "Head of Marketing Performance & AI (m/w/d)",
-      "company": "Denk Pharma",
-      "first_seen": "2026-09-24T11:29:01.758025",
-      "score": 40.0
-    },
-    "1141a419d47bf731e7a985ac0f7efede": {
-      "title": "Senior Business Development Director (f/m/d)",
-      "company": "Clariness",
-      "first_seen": "2026-09-24T11:29:01.758027",
-      "score": 40.0
-    },
-    "dc5a8d8628f0a911451cead4dfbbdf93": {
-      "title": "Director, Business Development (Europe, Comms)",
-      "company": "Syneos Health Commercial Solutions",
-      "first_seen": "2026-09-24T11:29:01.758029",
-      "score": 45.0
-    },
-    "ff40c2b77bbf2fd1ac10f2109a07894a": {
-      "title": "Regionalleitung Medizintechnik Region Niedersachsen, Bremen und Hamburg (m/w/d)",
-      "company": "Dr\u00e4ger",
-      "first_seen": "2026-09-24T11:29:01.758030",
-      "score": 50.0
-    },
-    "5350d3fe2880a8ae243bda47b5de6f9b": {
-      "title": "Head of Operations",
-      "company": "The Nutriment Company",
-      "first_seen": "2026-09-24T11:29:01.758031",
-      "score": 55.0
-    },
-    "8e9e5d5e2cb7cb11ff8a98304d938f7b": {
-      "title": "Head of Operations (m/w/d)",
-      "company": "mitte | Boutique Padel",
-      "first_seen": "2026-09-24T11:29:01.758033",
-      "score": 55.0
-    },
-    "034e9963e1535a95823ea0152d4bcaeb": {
-      "title": "Head of Marketing & Sales Scientific (m/f/d) DACH & Netherlands, Infectious Diseases",
-      "company": "Abbott",
-      "first_seen": "2026-09-24T11:29:01.758034",
-      "score": 50.0
-    },
     "789792f1991c03c6267f3fe926014b13": {
       "title": "(Senior) Director / Vice President Life Sciences Germany (m/w/d)",
       "company": "Capgemini Invent",
@@ -2207,11 +2135,59 @@
       "company": "Siemens",
       "first_seen": "2026-10-24T10:41:21.327960",
       "score": 50.0
+    },
+    "96a4a69130e473f7c50d80e4eae1a432": {
+      "title": "Head of Marketing - B2B SaaS Growth - Healthcare/ Start-Up- Hybrid",
+      "company": "Mediform",
+      "first_seen": "2026-10-25T11:04:53.722881",
+      "score": 45.0
+    },
+    "062784bb14c1c301ac8d8211bef064bf": {
+      "title": "Director Clinical Project Management & Transformation (m/w/d)",
+      "company": "BIOTRONIK",
+      "first_seen": "2026-10-25T11:04:53.722888",
+      "score": 40.0
+    },
+    "c0d660a0188b6927492b404f8322bb5d": {
+      "title": "Head of D2C Brand Management (m/w/d)",
+      "company": "Queisser Pharma GmbH & Co. KG",
+      "first_seen": "2026-10-25T11:04:53.722890",
+      "score": 40.0
+    },
+    "dbde8733b9f285963c6213effa51ada6": {
+      "title": "Head of Commercial (m/f/d)",
+      "company": "Tentamus Pharma & Med Deutschland GmbH",
+      "first_seen": "2026-10-25T11:04:53.722891",
+      "score": 65.0
+    },
+    "19418620d20727e641b8eb10bc616f70": {
+      "title": "Sales Director Rare Disease Commercial EU4+UK Region",
+      "company": "Regeneron",
+      "first_seen": "2026-10-25T11:04:53.722892",
+      "score": 40.0
+    },
+    "a14f6e21d38f1b28d4365ef664ac4c92": {
+      "title": "Head of Operations (m/w/d)",
+      "company": "altona Analytics GmbH",
+      "first_seen": "2026-10-25T11:04:53.722893",
+      "score": 55.0
+    },
+    "697bdcbb86ba4f5a294cb7e0bf9ae2a2": {
+      "title": "Head Of Operations (all genders)",
+      "company": "Instaffo",
+      "first_seen": "2026-10-25T11:04:53.722895",
+      "score": 55.0
+    },
+    "b04a714dc1c3a123bb742044fe3ebe12": {
+      "title": "General Manager, DACH",
+      "company": "Notion",
+      "first_seen": "2026-10-25T11:04:53.722896",
+      "score": 55.0
     }
   },
-  "last_run": "2026-10-24T10:41:21.327967",
+  "last_run": "2026-10-25T11:04:53.722901",
   "stats": {
-    "total_seen": 368,
-    "total_reported": 1753
+    "total_seen": 364,
+    "total_reported": 1761
   }
 }
