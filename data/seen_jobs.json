@@ -1,47 +1,5 @@
 {
   "seen": {
-    "c800e7d820313ca55400f5e7ee62f693": {
-      "title": "Manager / Senior Manager Inhouse Consulting - Data & AI Strategy",
-      "company": "Merck Group",
-      "first_seen": "2026-09-27T11:48:35.595152",
-      "score": 40.0
-    },
-    "d18109736b9006304ec59f4bc823f827": {
-      "title": "Manager / Senior Manager Inhouse Consulting - Healthcare/Life Science",
-      "company": "Merck Group",
-      "first_seen": "2026-09-27T11:48:35.595165",
-      "score": 40.0
-    },
-    "8b176c06b0d2f5e7e2b9f639de4a9c18": {
-      "title": "Leiter:in (m/w/d) Operations / Business Development & Strategie",
-      "company": "Aurivus",
-      "first_seen": "2026-09-27T11:48:35.595170",
-      "score": 40.0
-    },
-    "d3bf8769e7401cfb884f477e479e8a34": {
-      "title": "Director Consulting Services \u2013 Government & Commercial (m/w/d)",
-      "company": "CGI",
-      "first_seen": "2026-09-27T11:48:35.595173",
-      "score": 40.0
-    },
-    "ae153ef3843aa3b67325b38443612f4c": {
-      "title": "Head of Operations (m/w/d) | Health & Beauty Scale-up",
-      "company": "MY HEALTH & BEAUTY",
-      "first_seen": "2026-09-27T11:48:35.595176",
-      "score": 60.0
-    },
-    "a1071e5b3fe6a5682072d444e3bd5ec9": {
-      "title": "Senior Manager Business Development Defense (w/m/d)",
-      "company": "LANXESS",
-      "first_seen": "2026-09-27T11:48:35.595179",
-      "score": 40.0
-    },
-    "433273253f16f60ce1d1dc07e7bab3f9": {
-      "title": "CareersExplore opportunities to join our team and help tackle some of healthcare\u2019s most complex challenges.",
-      "company": "Aidence",
-      "first_seen": "2026-09-27T11:48:35.595182",
-      "score": 40.0
-    },
     "b0667580d2dac80af3296b93ab5275d7": {
       "title": "Director Clinical Strategy",
       "company": "VERTANICAL",
@@ -2105,11 +2063,77 @@
       "company": "AstraZeneca Innovation",
       "first_seen": "2026-10-26T12:38:26.492648",
       "score": 40.0
+    },
+    "f8a057c11160b6efc40a610b3c00e749": {
+      "title": "Commercial Director",
+      "company": "Exploris Health AG",
+      "first_seen": "2026-10-27T11:55:37.543647",
+      "score": 40.0
+    },
+    "bec5ddf1320b5f4040338eed4b4d4221": {
+      "title": "Management Director",
+      "company": "Meet Life Sciences",
+      "first_seen": "2026-10-27T11:55:37.543664",
+      "score": 40.0
+    },
+    "a5ce7c62173c7342342d3821be6c8e8c": {
+      "title": "Head of Operations Manager (m/w/d)  \u00b7 Remote",
+      "company": "Evolve Digital GmbH",
+      "first_seen": "2026-10-27T11:55:37.543668",
+      "score": 55.0
+    },
+    "408dd7fd1c511fe4853150b4b64bbcf9": {
+      "title": "COUNTRY MANAGER EN ALEMANIA",
+      "company": "ISPROX",
+      "first_seen": "2026-10-27T11:55:37.543671",
+      "score": 55.0
+    },
+    "5d39e9b5b91e231a0492ef9428998e93": {
+      "title": "Head of Operations (m/w/d)",
+      "company": "Bempflinger Lebensmittel",
+      "first_seen": "2026-10-27T11:55:37.543674",
+      "score": 55.0
+    },
+    "76609499be65439fb6ecce10a02d478f": {
+      "title": "Associate Director (m/f/d), EU Digital S&T Lead",
+      "company": "MSD Deutschland",
+      "first_seen": "2026-10-27T11:55:37.543677",
+      "score": 55.0
+    },
+    "14e8a76130cb2aa35e2793e9af6e2adb": {
+      "title": "Head of Data Strategy, Analytics & Engineering (m/w/d)",
+      "company": "Dr. Ausb\u00fcttel GmbH & Co. KG",
+      "first_seen": "2026-10-27T11:55:37.543680",
+      "score": 40.0
+    },
+    "648d3e1e2bbaa6015ba46ebc88854c6f": {
+      "title": "Head of Digital Growth & E-Commerce \u2013 D2C / Health & Wellness (w/m/d)",
+      "company": "Right Search",
+      "first_seen": "2026-10-27T11:55:37.543683",
+      "score": 40.0
+    },
+    "379a1569f3db4e032421c8103e5d591e": {
+      "title": "Senior Manager Quality Assurance Telematik und ePrescription (m/w/d)",
+      "company": "Redcare Pharmacy",
+      "first_seen": "2026-10-27T11:55:37.543686",
+      "score": 40.0
+    },
+    "d6fcbc6c208713c0c06df07a8e0d4fe2": {
+      "title": "Franchise Lead (m/w/d) Breast Cancer",
+      "company": "AstraZeneca",
+      "first_seen": "2026-10-27T11:55:37.543688",
+      "score": 50.0
+    },
+    "433273253f16f60ce1d1dc07e7bab3f9": {
+      "title": "CareersExplore opportunities to join our team and help tackle some of healthcare\u2019s most complex challenges.",
+      "company": "Aidence",
+      "first_seen": "2026-10-27T11:55:37.543691",
+      "score": 40.0
     }
   },
-  "last_run": "2026-10-26T12:38:26.492652",
+  "last_run": "2026-10-27T11:55:37.543698",
   "stats": {
-    "total_seen": 351,
-    "total_reported": 1789
+    "total_seen": 355,
+    "total_reported": 1800
   }
 }
