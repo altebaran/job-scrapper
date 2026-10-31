@@ -2135,11 +2135,107 @@
       "company": "OPTIMA pharma",
       "first_seen": "2026-10-30T12:32:30.891401",
       "score": 40.0
+    },
+    "82d3e037aa3c71f456bb7adf376e5cd4": {
+      "title": "VP, Interventional Commercial Leader",
+      "company": "GE HealthCare",
+      "first_seen": "2026-10-31T12:00:27.835899",
+      "score": 45.0
+    },
+    "eff5a8f1b0e1ed602d0826f00abfbb34": {
+      "title": "EY-Parthenon Senior Manager Projektleitung Digitalprojekte - Strategy and Transactions (w/m/d)",
+      "company": "EY-Parthenon",
+      "first_seen": "2026-10-31T12:00:27.835908",
+      "score": 40.0
+    },
+    "1521654a0e39a1cb84dcb2360c61310a": {
+      "title": "German Speaking Head of Sales (MedTech) - Hybrid",
+      "company": "juucy",
+      "first_seen": "2026-10-31T12:00:27.835911",
+      "score": 40.0
+    },
+    "199372b8322f26eb883d29f2f2f4101d": {
+      "title": "Team Lead Customer Success (x/f/m)",
+      "company": "Doctolib",
+      "first_seen": "2026-10-31T12:00:27.835912",
+      "score": 50.0
+    },
+    "d22ba261e8ba5e0951e871bf5e8caa5a": {
+      "title": "Sales Director \u2013 New Business, Life Sciences",
+      "company": "Fusion Consulting",
+      "first_seen": "2026-10-31T12:00:27.835914",
+      "score": 40.0
+    },
+    "d97de3cc2cca8098cf014a290d39f347": {
+      "title": "Director / Vice President / Senior Vice President Business Development \u2013 Europe (gn)",
+      "company": "PROTEROS biostructures GmbH",
+      "first_seen": "2026-10-31T12:00:27.835915",
+      "score": 40.0
+    },
+    "d6bcc178b3fa125806e2371a6a99b797": {
+      "title": "Head of Business Development",
+      "company": "Aspire Life Sciences Search",
+      "first_seen": "2026-10-31T12:00:27.835917",
+      "score": 65.0
+    },
+    "2eefe7ef9df7485dac65b0a1d79068a2": {
+      "title": "Sales Director SAP & Digital Transformation",
+      "company": "Hays",
+      "first_seen": "2026-10-31T12:00:27.835924",
+      "score": 40.0
+    },
+    "3c7f399440c38d35daa85e347c221a4a": {
+      "title": "Betriebsleiter / Head of Operations (m/w/d) \u2013 E-Commerce",
+      "company": "Instaffo",
+      "first_seen": "2026-10-31T12:00:27.835927",
+      "score": 55.0
+    },
+    "21016f38be04dc39349665deb53935ff": {
+      "title": "SVP Operations & Digital Transformation (m/w/d)",
+      "company": "Str\u00f6er Content Group Sales GmbH",
+      "first_seen": "2026-10-31T12:00:27.835930",
+      "score": 60.0
+    },
+    "6e2f7db1b14e4b8dea5d382205d4e98a": {
+      "title": "SVP Operations & Digital Transformation (m/w/d)",
+      "company": "Str\u00f6er SE & Co. KGaA",
+      "first_seen": "2026-10-31T12:00:27.835933",
+      "score": 60.0
+    },
+    "b8cfe346838bd2c413f442ff0c663792": {
+      "title": "Associate Director Global QA Electronic Systems",
+      "company": "BioNTech SE",
+      "first_seen": "2026-10-31T12:00:27.835936",
+      "score": 55.0
+    },
+    "a361cbf1aa757ab41a9b6aff6f94b495": {
+      "title": "Lead Cloud Software Architect - Pharma Solutions (w/m/x)",
+      "company": "NTT DATA Europe & Latam",
+      "first_seen": "2026-10-31T12:00:27.835939",
+      "score": 40.0
+    },
+    "afe1729b4540a0478fee0c6e32de0480": {
+      "title": "Head of (m/w/d) Master Data Management",
+      "company": "Rottendorf Pharma",
+      "first_seen": "2026-10-31T12:00:27.835941",
+      "score": 40.0
+    },
+    "91512323e196796b1bc4f86f951c7eed": {
+      "title": "Commercial Director (m/w/d) D-A-CH",
+      "company": "GEBO - FITS BETTER!",
+      "first_seen": "2026-10-31T12:00:27.835944",
+      "score": 40.0
+    },
+    "b68054b1d664949bbe91094b1bea13aa": {
+      "title": "Head of Partnerships (m/w/d)",
+      "company": "Superchat",
+      "first_seen": "2026-10-31T12:00:27.835947",
+      "score": 60.0
     }
   },
-  "last_run": "2026-10-30T12:32:30.891406",
+  "last_run": "2026-10-31T12:00:27.835954",
   "stats": {
-    "total_seen": 356,
-    "total_reported": 1839
+    "total_seen": 372,
+    "total_reported": 1855
   }
 }
