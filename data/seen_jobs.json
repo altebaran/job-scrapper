@@ -1,107 +1,5 @@
 {
   "seen": {
-    "0f1df85da40a203870bdb808d0de3189": {
-      "title": "Head of Product (m/w/d) im Gesundheitswesen",
-      "company": "proSenio",
-      "first_seen": "2026-10-01T12:52:08.775562",
-      "score": 55.0
-    },
-    "90a4b22b53032275593672bb392fcdfb": {
-      "title": "Manager Data, Artificial Intelligence & Digital Healthcare Solutions (m/w/d)",
-      "company": "AstraZeneca",
-      "first_seen": "2026-10-01T12:52:08.775574",
-      "score": 45.0
-    },
-    "7e601bfd9c022a9ba0a41c2f70422c0a": {
-      "title": "Head of Sales (m/w/d) - MedTech",
-      "company": "Michael Page",
-      "first_seen": "2026-10-01T12:52:08.775577",
-      "score": 40.0
-    },
-    "f660b19f5ba125273e8674a1f47c8d8c": {
-      "title": "Head of Operations (m/w/d)",
-      "company": "altona Analytics GmbH",
-      "first_seen": "2026-10-01T12:52:08.775579",
-      "score": 55.0
-    },
-    "d5ab99369d1bf37a9fba422bcda8f407": {
-      "title": "Director, Team Lead, Computational Pathology Products (m/f/d)",
-      "company": "AstraZeneca",
-      "first_seen": "2026-10-01T12:52:08.775581",
-      "score": 50.0
-    },
-    "695a594bd4110a0df1eb4c2ab04a1a58": {
-      "title": "Senior Director - Product Management - EU Veeva Nitro",
-      "company": "Veeva Systems",
-      "first_seen": "2026-10-01T12:52:08.775583",
-      "score": 40.0
-    },
-    "016cdc64ec31c234c796e8a6e61a1081": {
-      "title": "Director, Strategic Growth & Commercial (f/m/d)",
-      "company": "Cytiva",
-      "first_seen": "2026-10-02T12:15:59.116400",
-      "score": 45.0
-    },
-    "45064dc2c123c42fab95b008d927808a": {
-      "title": "Head of Health Economics & Market Access, Surgery - Germany",
-      "company": "Johnson & Johnson MedTech",
-      "first_seen": "2026-10-02T12:15:59.116412",
-      "score": 45.0
-    },
-    "1a7815e5d313d39fa652c893b3d132c8": {
-      "title": "ClinDev Operations Data & Analytics Lead",
-      "company": "Boehringer Ingelheim",
-      "first_seen": "2026-10-02T12:15:59.116415",
-      "score": 50.0
-    },
-    "5664dfd47301620620869d3fdce96293": {
-      "title": "Commercial Director",
-      "company": "Exploris Health AG",
-      "first_seen": "2026-10-02T12:15:59.116418",
-      "score": 40.0
-    },
-    "2366a06086c02883a5711347a1af51c8": {
-      "title": "Director/Senior Director, Business Development, Clinical Solutions, EMEA",
-      "company": "IQVIA",
-      "first_seen": "2026-10-02T12:15:59.116420",
-      "score": 45.0
-    },
-    "1ddb716c0e076d9d791f9ae8df151841": {
-      "title": "Head of Marketing & Sales Scientific DACH & Netherlands",
-      "company": "Proclinical Staffing",
-      "first_seen": "2026-10-02T12:15:59.116423",
-      "score": 40.0
-    },
-    "458b050d1bb0220a27cad6c4f74583ad": {
-      "title": "Head of Commercial & Operations (m/w/d)",
-      "company": "Nexobility GmbH",
-      "first_seen": "2026-10-02T12:15:59.116425",
-      "score": 60.0
-    },
-    "be2179463e3d839b69b9989a1776270b": {
-      "title": "Associate Director, Content & Omnichannel Capability Owner Germany (m/f/d)",
-      "company": "Bristol Myers Squibb EU Policy",
-      "first_seen": "2026-10-02T12:15:59.116428",
-      "score": 55.0
-    },
-    "305f00c0eb83c93ac67fe8fe07e79b22": {
-      "title": "Digital Transformation Lead (Corporate Platforms & Global Business Systems) (m/f/d)",
-      "company": "Daiichi Sankyo Europe GmbH",
-      "first_seen": "2026-10-02T12:15:59.116430",
-      "score": 40.0
-    },
-    "4248c1439a6c83cdaf1fac84dfbf14a2": {
-      "title": "Senior Manager, Strategic Partnerships and Adjacencies - Jobbird.com",
-      "company": "Jobster",
-      "first_seen": "2026-10-02T12:15:59.116433",
-      "score": 40.0
-    },
-    "5d0424b07b27b58b59e131e4d1d2167a": {
-      "title": "Head of Development AI Agent Platform (m/w/d)",
-      "company": "Strategy & Transformation Consulting GmbH",
-      "first_seen": "2026-10-02T12:15:59.116435",
-      "score": 40.0
-    },
     "0f5ed3256d0e04c5acccafcd004cbf80": {
       "title": "Principal Business Consultant - Commercial",
       "company": "Veeva Systems",
@@ -2231,11 +2129,83 @@
       "company": "Superchat",
       "first_seen": "2026-10-31T12:00:27.835947",
       "score": 60.0
+    },
+    "ad223cdd1646cbad6949aeb6b25615f5": {
+      "title": "Chief Revenue Officer (CRO) (m/w/d)",
+      "company": "Vivira Health Lab",
+      "first_seen": "2026-11-01T12:59:43.327819",
+      "score": 40.0
+    },
+    "63e8d506104fde05f6072cca2887070b": {
+      "title": "Chief Revenue Officer (CRO) (m/w/d)",
+      "company": "Vivira Health Lab",
+      "first_seen": "2026-11-01T12:59:43.327828",
+      "score": 40.0
+    },
+    "662d68efaaf87cb0ba77e1a046693b3a": {
+      "title": "EY-Parthenon Senior Manager Projektleitung Digitalprojekte - Strategy and Transactions (w/m/d)",
+      "company": "EY-Parthenon",
+      "first_seen": "2026-11-01T12:59:43.327830",
+      "score": 40.0
+    },
+    "bb63f1ae10fbde99c1729a78614ca361": {
+      "title": "Product Strategy Lead (x/f/m)",
+      "company": "Doctolib",
+      "first_seen": "2026-11-01T12:59:43.327832",
+      "score": 55.0
+    },
+    "81ac06365ef68e232b1c0d31a8c5a008": {
+      "title": "Product Marketing Lead (x/f/m)",
+      "company": "Doctolib",
+      "first_seen": "2026-11-01T12:59:43.327834",
+      "score": 50.0
+    },
+    "0fc0b015e2aabc160b3f7b2f51701ca8": {
+      "title": "Director, Clinical Study Management",
+      "company": "Alimentiv",
+      "first_seen": "2026-11-01T12:59:43.327835",
+      "score": 40.0
+    },
+    "b0c4637fb42d956290b902f60629f074": {
+      "title": "Director, Clinical Study Management",
+      "company": "Alimentiv",
+      "first_seen": "2026-11-01T12:59:43.327837",
+      "score": 40.0
+    },
+    "987847dd434c1772d4830a81b74cf27a": {
+      "title": "Associate Director, Market Access and Pricing \u2013 Germany",
+      "company": "Genmab",
+      "first_seen": "2026-11-01T12:59:43.327839",
+      "score": 60.0
+    },
+    "c83f9bb28e811beed522bda4e20c7c42": {
+      "title": "Lead Cloud Software Architect - Pharma Solutions (w/m/x)",
+      "company": "NTT DATA Europe & Latam",
+      "first_seen": "2026-11-01T12:59:43.327846",
+      "score": 40.0
+    },
+    "e22006a2c02ea0a2e88d8cf476bcbb13": {
+      "title": "Lead Cloud Software Architect - Pharma Solutions (w/m/x)",
+      "company": "NTT DATA Europe & Latam",
+      "first_seen": "2026-11-01T12:59:43.327849",
+      "score": 40.0
+    },
+    "aafaeaaf3761dc452ef0ba5233107d41": {
+      "title": "COMMERCIAL HEAD OF CYBER (M/W/D)",
+      "company": "Bureau Veritas | Marine & Offshore",
+      "first_seen": "2026-11-01T12:59:43.327852",
+      "score": 40.0
+    },
+    "6e5d7af807da835b263e9b3b7b113cb1": {
+      "title": "Lead Consultant (all genders) Digital Transformation",
+      "company": "valantic",
+      "first_seen": "2026-11-01T12:59:43.327855",
+      "score": 40.0
     }
   },
-  "last_run": "2026-10-31T12:00:27.835954",
+  "last_run": "2026-11-01T12:59:43.327863",
   "stats": {
-    "total_seen": 372,
-    "total_reported": 1855
+    "total_seen": 367,
+    "total_reported": 1867
   }
 }
