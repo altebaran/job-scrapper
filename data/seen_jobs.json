@@ -1,71 +1,5 @@
 {
   "seen": {
-    "0f5ed3256d0e04c5acccafcd004cbf80": {
-      "title": "Principal Business Consultant - Commercial",
-      "company": "Veeva Systems",
-      "first_seen": "2026-10-03T11:25:53.885872",
-      "score": 40.0
-    },
-    "5943da02ac524877f58c458394b130cd": {
-      "title": "Business Development Director, Integrated Solutions",
-      "company": "Repligen Corporation",
-      "first_seen": "2026-10-03T11:25:53.885885",
-      "score": 40.0
-    },
-    "c7c9957f68c85a0e53eea315ae447740": {
-      "title": "Director/Senior Director, Business Development, Biotech",
-      "company": "IQVIA",
-      "first_seen": "2026-10-03T11:25:53.885890",
-      "score": 45.0
-    },
-    "d040a99cb066dc51e6e851688386a7c9": {
-      "title": "Senior Business Development Director, Micronization",
-      "company": "Catalent",
-      "first_seen": "2026-10-03T11:25:53.885893",
-      "score": 40.0
-    },
-    "b52160984c5173139fd8df00f3da95fe": {
-      "title": "Associate Director, Content & Omnichannel Capability Owner Germany (m/f/d)",
-      "company": "Bristol Myers Squibb",
-      "first_seen": "2026-10-03T11:25:53.885895",
-      "score": 55.0
-    },
-    "605d0990da134cbbb37ca8a431dfa211": {
-      "title": "Associate Director, Enterprise Transformation Office (STEP) (m/w/d)",
-      "company": "Sandoz in Deutschland",
-      "first_seen": "2026-10-03T11:25:53.885898",
-      "score": 55.0
-    },
-    "b0b5bb3951c57fd9394c73f5a44e034f": {
-      "title": "Associate Director, Europe Business Analytics & Insights",
-      "company": "Corcept Therapeutics",
-      "first_seen": "2026-10-03T11:25:53.885901",
-      "score": 60.0
-    },
-    "cd16d37ae51544b8d5af87da6b845594": {
-      "title": "AI Technical Lead",
-      "company": "Teva Pharmaceuticals",
-      "first_seen": "2026-10-03T11:25:53.885904",
-      "score": 45.0
-    },
-    "b15bcbf7903f86202a22cd40f06603cf": {
-      "title": "Head of Sales (m/w/d) RX - Pharmaindustrie",
-      "company": "Michael Page",
-      "first_seen": "2026-10-03T11:25:53.885906",
-      "score": 40.0
-    },
-    "e98f03848af855fc7a05498d839466c1": {
-      "title": "COMMERCIAL HEAD OF CYBER (M/W/D)",
-      "company": "Bureau Veritas | Marine & Offshore",
-      "first_seen": "2026-10-03T11:25:53.885909",
-      "score": 40.0
-    },
-    "ba1e8317d75702332ebfbf9049558251": {
-      "title": "Head of Product & Innovation (All Genders)",
-      "company": "ahead\u00ae",
-      "first_seen": "2026-10-03T11:25:53.885911",
-      "score": 60.0
-    },
     "17b0b1a45cde2819c3a23bfc3f4af56c": {
       "title": "Healthcare Ecosystem Management Lead (all genders) (Vollzeit / unbefristet)",
       "company": "AbbVie",
@@ -2201,11 +2135,101 @@
       "company": "valantic",
       "first_seen": "2026-11-01T12:59:43.327855",
       "score": 40.0
+    },
+    "707cdabb8500d191912e814657264886": {
+      "title": "Chief Revenue Officer (CRO) (m/w/d)",
+      "company": "Vivira Health Lab",
+      "first_seen": "2026-11-02T15:18:42.144016",
+      "score": 40.0
+    },
+    "b4829febc06e3eb3ab30189555187021": {
+      "title": "Head of Digital Transformation CDMO Pharma (f/m/d)",
+      "company": "Aenova Group",
+      "first_seen": "2026-11-02T15:18:42.144030",
+      "score": 45.0
+    },
+    "9f1cca86853c065ee6323acfd62e3c5a": {
+      "title": "German Speaking Head of Sales (MedTech) - Hybrid",
+      "company": "Ignite",
+      "first_seen": "2026-11-02T15:18:42.144034",
+      "score": 40.0
+    },
+    "5ea2b470dc872f0a3c1c92e98a1ac451": {
+      "title": "Gruppenleiter Entwicklung Digitalisierung (m/w/d)",
+      "company": "OPTIMA pharma",
+      "first_seen": "2026-11-02T15:18:42.144037",
+      "score": 40.0
+    },
+    "8ae383f986b352685824721521a3e184": {
+      "title": "Gruppenleiter Entwicklung Digitalisierung (m/w/d)",
+      "company": "OPTIMA pharma",
+      "first_seen": "2026-11-02T15:18:42.144039",
+      "score": 40.0
+    },
+    "e4230c14b80d0f54115bec9b960e162a": {
+      "title": "German Speaking Head of Sales (MedTech) - Hybrid",
+      "company": "juucy",
+      "first_seen": "2026-11-02T15:18:42.144042",
+      "score": 40.0
+    },
+    "c6cdea0c2cb479c167c45f413e5e60d7": {
+      "title": "Director of Business Development",
+      "company": "CLM Search",
+      "first_seen": "2026-11-02T15:18:42.144045",
+      "score": 60.0
+    },
+    "8ae28103b97ee5e600d4321f33079bf4": {
+      "title": "Head of Region North (m/w/d) Personaldienstleistung",
+      "company": "House of Healthcare",
+      "first_seen": "2026-11-02T15:18:42.144047",
+      "score": 40.0
+    },
+    "060537ca8d075378cae1e10b479a2854": {
+      "title": "Head of Operations (m/w/d)",
+      "company": "altona Analytics GmbH",
+      "first_seen": "2026-11-02T15:18:42.144050",
+      "score": 55.0
+    },
+    "266ff3445d064f3e7933117ced13e538": {
+      "title": "Head of Operations",
+      "company": "Piper Maddox",
+      "first_seen": "2026-11-02T15:18:42.144052",
+      "score": 55.0
+    },
+    "20bc57a40532785058a46eafc50ba010": {
+      "title": "Sr. Director, VAR & Channel Partnerships",
+      "company": "Jobgether",
+      "first_seen": "2026-11-02T15:18:42.144055",
+      "score": 40.0
+    },
+    "855fd9d57f0e06d707221c95beecf926": {
+      "title": "Head of Partnerships (m/w/d)",
+      "company": "FC Viktoria Berlin",
+      "first_seen": "2026-11-02T15:18:42.144057",
+      "score": 60.0
+    },
+    "290319767bdca93bfa731d81e2c7c7d8": {
+      "title": "Gruppenleiter Entwicklung Digitalisierung (m/w/d)",
+      "company": "OPTIMA pharma",
+      "first_seen": "2026-11-02T15:18:42.144060",
+      "score": 40.0
+    },
+    "2e2f1999f2a4765586d231c1507449c1": {
+      "title": "Bereichsleiter Innovation- Start-up- & Foresightplatforms (m/w/d)",
+      "company": "Schwarz Digits",
+      "first_seen": "2026-11-02T15:18:42.144063",
+      "score": 40.0
+    },
+    "13fab65d3cac91283b3b726cffd09836": {
+      "title": "Managing Director des Ruhr Innovation Lab (m/w/d)",
+      "company": "Ruhr University Bochum",
+      "first_seen": "2026-11-02T15:18:42.144065",
+      "score": 40.0
     }
   },
-  "last_run": "2026-11-01T12:59:43.327863",
+  "last_run": "2026-11-02T15:18:42.144072",
   "stats": {
-    "total_seen": 367,
-    "total_reported": 1867
+    "total_seen": 371,
+    "total_reported": 1882
   }
 }
