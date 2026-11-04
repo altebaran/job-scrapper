@@ -2273,11 +2273,95 @@
       "company": "GE Vernova",
       "first_seen": "2026-11-03T13:57:17.925255",
       "score": 40.0
+    },
+    "a9e02ce4b44987ccb8ba5a6c350517ae": {
+      "title": "Chief of Staff (m/w/x)",
+      "company": "Doctorflix",
+      "first_seen": "2026-11-04T14:07:13.172654",
+      "score": 55.0
+    },
+    "a900454d2e9ecce68c9fb7888df26d1b": {
+      "title": "Chief of Staff\u00a0 (m/w/d)",
+      "company": "Vitaservices GmbH & Co. KG",
+      "first_seen": "2026-11-04T14:07:13.172666",
+      "score": 55.0
+    },
+    "1610bbbb922eea63a58f06841e36acbe": {
+      "title": "Growth Lead, New Brand, Germany",
+      "company": "Eucalyptus",
+      "first_seen": "2026-11-04T14:07:13.172669",
+      "score": 40.0
+    },
+    "393c1030a06b9b7ebead10a40ef2be02": {
+      "title": "Commercial Director",
+      "company": "Established Search",
+      "first_seen": "2026-11-04T14:07:13.172671",
+      "score": 40.0
+    },
+    "dd93c2aa3f0abfd563f022751fd24088": {
+      "title": "Head of Sales tpm & Patient Care Management (m/w/d)",
+      "company": "pfm medical",
+      "first_seen": "2026-11-04T14:07:13.172673",
+      "score": 40.0
+    },
+    "229d618083f2085437cf1dfd327f7181": {
+      "title": "Director Business Development (All genders)",
+      "company": "STARK",
+      "first_seen": "2026-11-04T14:07:13.172675",
+      "score": 40.0
+    },
+    "b1c6c9ca7d163a63f03b377ccf0a4ecd": {
+      "title": "Global Business Development Manager/Director\u2013 Europe",
+      "company": "X Square Robot (\u81ea\u53d8\u91cf\u673a\u5668\u4eba)",
+      "first_seen": "2026-11-04T14:07:13.172676",
+      "score": 40.0
+    },
+    "37c95a7b21bd0e3b82db6725d0587c59": {
+      "title": "Global Head of Operations (m/f/d)",
+      "company": "FutureLog AG",
+      "first_seen": "2026-11-04T14:07:13.172678",
+      "score": 55.0
+    },
+    "0668d86aa502ca780dff78a4c182484d": {
+      "title": "Director Strategy & Operations (m/w/d)",
+      "company": "The Associated Engineers Group",
+      "first_seen": "2026-11-04T14:07:13.172680",
+      "score": 40.0
+    },
+    "e290aa902659a2d0ce0c6faff371f1f2": {
+      "title": "Patient Operations Lead, Germany",
+      "company": "Eucalyptus",
+      "first_seen": "2026-11-04T14:07:13.172682",
+      "score": 40.0
+    },
+    "84ae882b461626f1c678bc35c55abfb7": {
+      "title": "General Manager - Germany",
+      "company": "Freenow",
+      "first_seen": "2026-11-04T14:07:13.172684",
+      "score": 55.0
+    },
+    "8b16bc5810d909cd68deb1ee1d79d1b3": {
+      "title": "Head of Healthcare - Quantum",
+      "company": "Personalberatung Rochus Mummert",
+      "first_seen": "2026-11-04T14:07:13.172686",
+      "score": 40.0
+    },
+    "69e87cb555c2c91850e456297276f051": {
+      "title": "Head of Strategic Partnerships & Business Development (m/w/d)",
+      "company": "Jobactive GmbH",
+      "first_seen": "2026-11-04T14:07:13.172687",
+      "score": 45.0
+    },
+    "0b8d0756e0291b755a30ce6e2d02381b": {
+      "title": "HEAD OF PRODUCTMANAGEMENT AND DEVELOPMENT - PROFILES",
+      "company": "SEMPERIT AG",
+      "first_seen": "2026-11-04T14:07:13.172689",
+      "score": 55.0
     }
   },
-  "last_run": "2026-11-03T13:57:17.925265",
+  "last_run": "2026-11-04T14:07:13.172695",
   "stats": {
-    "total_seen": 379,
-    "total_reported": 1899
+    "total_seen": 393,
+    "total_reported": 1913
   }
 }
