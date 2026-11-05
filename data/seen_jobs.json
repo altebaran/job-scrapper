@@ -1,125 +1,5 @@
 {
   "seen": {
-    "cb29c604e9bb24fb61fac184f8f6c3f8": {
-      "title": "Vice President (w/m/d) Commercial Excellence",
-      "company": "B. Braun Group",
-      "first_seen": "2026-10-05T14:11:26.141231",
-      "score": 40.0
-    },
-    "8468708fa70f890c817cd723f949cd7e": {
-      "title": "Director, Strategic Growth & Commercial Integration (f/m/d) - Jobbird.com",
-      "company": "Jobster",
-      "first_seen": "2026-10-05T14:11:26.141241",
-      "score": 45.0
-    },
-    "20b3c6ae97ab4f6689fbf4821f7317b4": {
-      "title": "Chief of Staff\u00a0 (m/w/d)",
-      "company": "Vitaservices GmbH & Co. KG",
-      "first_seen": "2026-10-05T14:11:26.141243",
-      "score": 55.0
-    },
-    "7df8a253b1dd79479731477ff318342e": {
-      "title": "Director Clinical Strategy",
-      "company": "VERTANICAL",
-      "first_seen": "2026-10-05T14:11:26.141245",
-      "score": 45.0
-    },
-    "205a483e51f472c6b768fc8a19ec49ae": {
-      "title": "Director of Business Development m/w/d",
-      "company": "UPS",
-      "first_seen": "2026-10-05T14:11:26.141246",
-      "score": 60.0
-    },
-    "2d741918e79b5b7c0e5d34557ecb9be4": {
-      "title": "Hospital Affairs Director, Germany",
-      "company": "Rhythm Pharmaceuticals Inc.",
-      "first_seen": "2026-10-05T14:11:26.141248",
-      "score": 45.0
-    },
-    "534aa85c91f701d540d81060481523d6": {
-      "title": "Growth Director",
-      "company": "COMBERA",
-      "first_seen": "2026-10-05T14:11:26.141249",
-      "score": 40.0
-    },
-    "0587c0d84a5621104ea468993cba8950": {
-      "title": "Gruppenleiter Entwicklung Digitalisierung (m/w/d)",
-      "company": "OPTIMA pharma",
-      "first_seen": "2026-10-05T14:11:26.141251",
-      "score": 40.0
-    },
-    "04e309c718d33240a2d9c2364b149862": {
-      "title": "Gruppenleiter Entwicklung Digitalisierung (m/w/d)",
-      "company": "OPTIMA pharma",
-      "first_seen": "2026-10-05T14:11:26.141252",
-      "score": 40.0
-    },
-    "cd761c20ea85de113a06097f0fccefae": {
-      "title": "Director Clinical Data Management & Biostatistics",
-      "company": "VERTANICAL",
-      "first_seen": "2026-10-05T14:11:26.141253",
-      "score": 40.0
-    },
-    "6b0260bee11aba403a3ecf3ce8489da5": {
-      "title": "Senior Manager Sales Business Development",
-      "company": "Hays",
-      "first_seen": "2026-10-05T14:11:26.141255",
-      "score": 40.0
-    },
-    "24f9ecffa537354fc86731158f1fb098": {
-      "title": "Gruppenleiter Entwicklung Digitalisierung (m/w/d)",
-      "company": "OPTIMA pharma",
-      "first_seen": "2026-10-05T14:11:26.141256",
-      "score": 40.0
-    },
-    "b29eae8e56608a810cc09f96039c5dba": {
-      "title": "Sr Director, Business Development, Heart Failure",
-      "company": "Edwards Lifesciences",
-      "first_seen": "2026-10-06T13:07:50.921443",
-      "score": 40.0
-    },
-    "1cbf4c76d6749fd88d2fbfe681d5f846": {
-      "title": "Vice President (w/m/d) Commercial Excellence",
-      "company": "B. Braun Group",
-      "first_seen": "2026-10-06T13:07:50.921456",
-      "score": 40.0
-    },
-    "e28669bd751ad9a9d0613a3548cc60f0": {
-      "title": "Senior Manager Strategy Projects (f/m/d)",
-      "company": "Siemens Healthineers",
-      "first_seen": "2026-10-06T13:07:50.921460",
-      "score": 75.0
-    },
-    "372d9b6e806f60a5b8fbfb70fd2fbab4": {
-      "title": "Director, Business Development DACH",
-      "company": "Cytel",
-      "first_seen": "2026-10-06T13:07:50.921463",
-      "score": 40.0
-    },
-    "922119f3bba814814335f22667cd8679": {
-      "title": "Sr. Director, Enterprise Sales, Public, Utilities, Life Sciences and Service Provider (PULS) Germany",
-      "company": "Genesys",
-      "first_seen": "2026-10-06T13:07:50.921466",
-      "score": 40.0
-    },
-    "ab27227fc4db7fa7d079b6967581996b": {
-      "title": "Pricing Director (m/f/d)",
-      "company": "Redcare Pharmacy",
-      "first_seen": "2026-10-06T13:07:50.921469",
-      "score": 40.0
-    },
-    "970b58ec9b14f3cd544085c5ae9f9567": {
-      "title": "Brand & Portfolio Marketing Lead Healthcare - DACH (m/w/d)",
-      "company": "Dexcom Deutschland GmbH",
-      "first_seen": "2026-10-06T13:07:50.921472",
-      "score": 40.0
-    },
-    "0022bc0428d7e55f808ceafbca8d7a9e": {
-      "title": "Head of Growth (Fokus Partnerships)",
-      "company": "gyde",
-      "first_seen": "2026-10-06T13:07:50.921475",
-      "score": 65.0
-    },
     "3667d8f89345743a8609f1913ae48577": {
       "title": "Abteilungsleitung (w/m/d) Versorgungsinnovationen / Head of Healthcare Innovation",
       "company": "Kassen\u00e4rztliche Vereinigung Nordrhein",
@@ -2357,11 +2237,89 @@
       "company": "SEMPERIT AG",
       "first_seen": "2026-11-04T14:07:13.172689",
       "score": 55.0
+    },
+    "76c7d24ed3dcea27b3d2ec8bde8e2304": {
+      "title": "Senior Director, Commercial Clinical Next-Generation Sequencing, EMEA",
+      "company": "Thermo Fisher Scientific",
+      "first_seen": "2026-11-05T14:27:06.689576",
+      "score": 45.0
+    },
+    "dc5a8d8628f0a911451cead4dfbbdf93": {
+      "title": "Director, Business Development (Europe, Comms)",
+      "company": "Syneos Health Commercial Solutions",
+      "first_seen": "2026-11-05T14:27:06.689590",
+      "score": 45.0
+    },
+    "6f6eb0c2d1f1bbb882d4884fbac4134c": {
+      "title": "Head of Customer and Commercial Excellence, Advanced Therapies (f/m/d)",
+      "company": "Siemens Healthineers",
+      "first_seen": "2026-11-05T14:27:06.689595",
+      "score": 55.0
+    },
+    "e8d4c2a524a306e44312dd85b23ccf6d": {
+      "title": "General Manager, Germany (m/f/d)",
+      "company": "LEO Pharma",
+      "first_seen": "2026-11-05T14:27:06.689598",
+      "score": 60.0
+    },
+    "bf7cc7ec9edc431166b42bec050e5572": {
+      "title": "Associate Director ERP Integration & Solution Architecture - Finance",
+      "company": "BioNTech SE",
+      "first_seen": "2026-11-05T14:27:06.689601",
+      "score": 55.0
+    },
+    "a7ca1e2ee563904fdffee6e9e3b51e9f": {
+      "title": "Associate Director ERP Integration & Solution Architecture - SCM",
+      "company": "BioNTech SE",
+      "first_seen": "2026-11-05T14:27:06.689603",
+      "score": 55.0
+    },
+    "b619aba11dd9ae851b4001c77b47be1e": {
+      "title": "Gruppenleiter Entwicklung Digitalisierung (m/w/d)",
+      "company": "OPTIMA pharma",
+      "first_seen": "2026-11-05T14:27:06.689604",
+      "score": 40.0
+    },
+    "62588faa9a66ff01bbd30a4fa91c8550": {
+      "title": "Gruppenleiter Entwicklung Digitalisierung (m/w/d)",
+      "company": "OPTIMA pharma",
+      "first_seen": "2026-11-05T14:27:06.689606",
+      "score": 40.0
+    },
+    "94cf7b38fd140689f49c73dc1278ec36": {
+      "title": "Head of Sales & Business Development (m/w/d) in Vollzeit",
+      "company": "Staeudle GmbH",
+      "first_seen": "2026-11-05T14:27:06.689608",
+      "score": 40.0
+    },
+    "2c695379cd75811f871972fcb974d2a1": {
+      "title": "Leiter DMS / ECM | Vertrieb, Business Development, Delivery | bis 150.000 \u20ac + PKW (mwd)",
+      "company": "Vesterling AG",
+      "first_seen": "2026-11-05T14:27:06.689609",
+      "score": 40.0
+    },
+    "e8e53b2d30402c67fbf3b8405cc6e824": {
+      "title": "Medical Director (m/f/d)",
+      "company": "Accord Healthcare",
+      "first_seen": "2026-11-05T14:27:06.689611",
+      "score": 40.0
+    },
+    "563d77cd9c1824f71d03c789f87d2d59": {
+      "title": "Regionalleitung Healthcare Region Nord",
+      "company": "Almirall",
+      "first_seen": "2026-11-05T14:27:06.689613",
+      "score": 40.0
+    },
+    "8281b952e0ddfafdeae407cf84b72fd1": {
+      "title": "Gruppenleiter Entwicklung Digitalisierung (m/w/d)",
+      "company": "OPTIMA pharma",
+      "first_seen": "2026-11-05T14:27:06.689615",
+      "score": 40.0
     }
   },
-  "last_run": "2026-11-04T14:07:13.172695",
+  "last_run": "2026-11-05T14:27:06.689620",
   "stats": {
-    "total_seen": 393,
-    "total_reported": 1913
+    "total_seen": 386,
+    "total_reported": 1926
   }
 }
