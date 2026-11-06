@@ -1,125 +1,5 @@
 {
   "seen": {
-    "3667d8f89345743a8609f1913ae48577": {
-      "title": "Abteilungsleitung (w/m/d) Versorgungsinnovationen / Head of Healthcare Innovation",
-      "company": "Kassen\u00e4rztliche Vereinigung Nordrhein",
-      "first_seen": "2026-10-07T13:02:36.683755",
-      "score": 45.0
-    },
-    "29a20edfd08ce80dbd5314858b26e4b6": {
-      "title": "Chief of Staff (m/w/x)",
-      "company": "Doctorflix",
-      "first_seen": "2026-10-07T13:02:36.683769",
-      "score": 55.0
-    },
-    "0c4b13628bb058902b9d590ae5f5121b": {
-      "title": "Director Tech Strategy & GenAI \u2013 Healthcare & Life Sciences (m/f/d)",
-      "company": "Simon-Kucher",
-      "first_seen": "2026-10-07T13:02:36.683772",
-      "score": 50.0
-    },
-    "dc71b00776743ea265013ce4d761cae8": {
-      "title": "Director, Strategic Growth & Commercial Integration (f/m/d)",
-      "company": "Cytiva",
-      "first_seen": "2026-10-07T13:02:36.683775",
-      "score": 45.0
-    },
-    "d871c909db2e42819335c6e4e84338e2": {
-      "title": "Director Tech Strategy & GenAI \u2013 Healthcare & Life Sciences (m/f/d)",
-      "company": "Simon-Kucher",
-      "first_seen": "2026-10-07T13:02:36.683777",
-      "score": 50.0
-    },
-    "494083dae5aa16e4b9a0942068e29163": {
-      "title": "Director, Strategic Growth & Commercial",
-      "company": "Cytiva",
-      "first_seen": "2026-10-07T13:02:36.683779",
-      "score": 45.0
-    },
-    "1df4f1562e4a260b3e01cdc20af81a6d": {
-      "title": "Lead Healthcare AI Strategy & Architecture (m/w/d/x)",
-      "company": "Deutsche Telekom",
-      "first_seen": "2026-10-07T13:02:36.683792",
-      "score": 45.0
-    },
-    "ddffed079e0f55070329c85248f58867": {
-      "title": "Lead Healthcare AI Strategy & Architecture (m/w/d/x)",
-      "company": "Deutsche Telekom",
-      "first_seen": "2026-10-07T13:02:36.683794",
-      "score": 45.0
-    },
-    "0300097b8cbbab8a55c10d861c61fc5e": {
-      "title": "Director Commercial Execution Germany - Digital Health (Silent Cloud)",
-      "company": "Sonova Group",
-      "first_seen": "2026-10-07T13:02:36.683795",
-      "score": 45.0
-    },
-    "74abad7b7203690f7f67f5f28a93d68a": {
-      "title": "Business Development Director \u2013 Supply Chain Center of Excellence (CoE)",
-      "company": "Cognite",
-      "first_seen": "2026-10-07T13:02:36.683796",
-      "score": 40.0
-    },
-    "5c0886a35e90b43565427bf19db92383": {
-      "title": "Business Development Director \u2013 Supply Chain Center of Excellence (CoE)",
-      "company": "Cognite",
-      "first_seen": "2026-10-07T13:02:36.683797",
-      "score": 40.0
-    },
-    "a661d437812861cb38bb4646d5059025": {
-      "title": "Head of Operations/Country Lead: Germany",
-      "company": "Pod Talent",
-      "first_seen": "2026-10-07T13:02:36.683799",
-      "score": 55.0
-    },
-    "0af660a4db0e6c0a49fef45a7c1b3a2a": {
-      "title": "Head of Operations - General Manager",
-      "company": "Approach People Recruitment",
-      "first_seen": "2026-10-07T13:02:36.683800",
-      "score": 55.0
-    },
-    "98c9b21d30e83d0ba8e8dc57aee2db2f": {
-      "title": "Head of Operations (m/w/d) - Berlin",
-      "company": "VARM",
-      "first_seen": "2026-10-07T13:02:36.683801",
-      "score": 55.0
-    },
-    "21d315b591cec526539045444f2d07b9": {
-      "title": "Gesch\u00e4ftsf\u00fchrer / General Manager (m/w/d) Life Sciences",
-      "company": "Page Executive",
-      "first_seen": "2026-10-07T13:02:36.683802",
-      "score": 60.0
-    },
-    "ab5a415c6a1e6e15fae6c2b16a38c231": {
-      "title": "Senior Manager/Associate Director - Commercial Excellence (1260)",
-      "company": "Axtria - Ingenious Insights",
-      "first_seen": "2026-10-07T13:02:36.683803",
-      "score": 60.0
-    },
-    "3ba4815fd9371735c2a7ebbe8ea2845d": {
-      "title": "Commercial Segment Lead B2B SaaS \u2013 Growth / P&L (alle Identit\u00e4ten)",
-      "company": "Caspar Health",
-      "first_seen": "2026-10-07T13:02:36.683805",
-      "score": 65.0
-    },
-    "22c5d32b5c09cbdaa8a56164a11429ac": {
-      "title": "Head of Business Development (m/f/d)",
-      "company": "ARX Robotics",
-      "first_seen": "2026-10-07T13:02:36.683806",
-      "score": 60.0
-    },
-    "5dbac4a21c0bbfed219caaefb77e85e5": {
-      "title": "Principal Business Development Manager CMTS Cell Culture Media (x|f|m)",
-      "company": "Sartorius",
-      "first_seen": "2026-10-07T13:02:36.683807",
-      "score": 40.0
-    },
-    "35fed6999469d2f6ff86ce6198b8b8b2": {
-      "title": "Lead Healthcare AI Strategy & Architecture (m/w/d/x)",
-      "company": "Deutsche Telekom",
-      "first_seen": "2026-10-07T13:02:36.683808",
-      "score": 45.0
-    },
     "a3e471dd178ef39685979dc61f3fd888": {
       "title": "Head of Digital, Pharmaceutical Technical Development - Pharma Technical Operations",
       "company": "Genentech",
@@ -2315,11 +2195,113 @@
       "company": "OPTIMA pharma",
       "first_seen": "2026-11-05T14:27:06.689615",
       "score": 40.0
+    },
+    "7aeaa8b603112bc9d6887ce551b9f9a9": {
+      "title": "Director, R&D \u2013 Surgical Intelligence",
+      "company": "Stryker",
+      "first_seen": "2026-11-06T14:02:49.435614",
+      "score": 50.0
+    },
+    "b9ef484c2763780b4ef5456349752527": {
+      "title": "Director, R&D \u2013 Surgical Intelligence",
+      "company": "Stryker",
+      "first_seen": "2026-11-06T14:02:49.435627",
+      "score": 50.0
+    },
+    "05573fb68e5bded3fefa5a2efca495cf": {
+      "title": "Chief of Staff (m/w/x)",
+      "company": "Doctorflix",
+      "first_seen": "2026-11-06T14:02:49.435631",
+      "score": 55.0
+    },
+    "4a76e35f8a29082e31940a9cc89edb53": {
+      "title": "Director Strategie Pharma - Transformation / Performance (m/w/d)",
+      "company": "MCI Deutschland",
+      "first_seen": "2026-11-06T14:02:49.435634",
+      "score": 40.0
+    },
+    "77e92e3dbc3b7c63c0f81b27069adffe": {
+      "title": "Strategy Director - OpenData",
+      "company": "Veeva Systems",
+      "first_seen": "2026-11-06T14:02:49.435636",
+      "score": 40.0
+    },
+    "04e8dd9face080bc4e81736854779e92": {
+      "title": "Director, Product Management",
+      "company": "coliquio",
+      "first_seen": "2026-11-06T14:02:49.435639",
+      "score": 40.0
+    },
+    "69620770e9df793ef5ad0e2022aea079": {
+      "title": "Director - LIMS Strategy - CPG & F&B",
+      "company": "Veeva Systems",
+      "first_seen": "2026-11-06T14:02:49.435642",
+      "score": 40.0
+    },
+    "d54f11678b00cd2486b831877f3eaa17": {
+      "title": "Country Manager-Germany",
+      "company": "BMC Medical",
+      "first_seen": "2026-11-06T14:02:49.435645",
+      "score": 55.0
+    },
+    "4c5fdb10f900e62dce81d2f2d9658130": {
+      "title": "(Senior) Regional Business Manager (m/w/d) im Bereich Electrophysiology Region Ostdeutschland und Berlin",
+      "company": "Johnson & Johnson MedTech",
+      "first_seen": "2026-11-06T14:02:49.435647",
+      "score": 40.0
+    },
+    "e35ceb459240aa4db6c1de8ce5d8804b": {
+      "title": "Head of Operations (m/w/x)",
+      "company": "Doctorflix",
+      "first_seen": "2026-11-06T14:02:49.435650",
+      "score": 55.0
+    },
+    "d2e47b8dd5295a110816d757b6755d08": {
+      "title": "Clinical Data Layer Lead (Germany)",
+      "company": "UCB",
+      "first_seen": "2026-11-06T14:02:49.435653",
+      "score": 40.0
+    },
+    "dff65303407da9d5220f5066b063c0f2": {
+      "title": "Director, Product Management",
+      "company": "coliquio",
+      "first_seen": "2026-11-06T14:02:49.435655",
+      "score": 40.0
+    },
+    "0d039c9230181ace5e113518cbcad901": {
+      "title": "Head of Channel & Partnerships (all genders)",
+      "company": "revel8",
+      "first_seen": "2026-11-06T14:02:49.435658",
+      "score": 40.0
+    },
+    "b40431bda4e0e5c9eb56aa9538f5f32e": {
+      "title": "Senior Director Early Clinical Development",
+      "company": "Novotech",
+      "first_seen": "2026-11-06T14:02:49.435661",
+      "score": 40.0
+    },
+    "357d39b0517fac003771dfd64756d7fc": {
+      "title": "(Senior) Director Market Access and Public Affairs (m/f/d)",
+      "company": "Idorsia Pharmaceuticals Ltd",
+      "first_seen": "2026-11-06T14:02:49.435663",
+      "score": 50.0
+    },
+    "3c4a682aab71c7c4beb1913c3a7a0493": {
+      "title": "Head of Preclinical Research & Development (m/f/d)",
+      "company": "Fresenius Kabi",
+      "first_seen": "2026-11-06T14:02:49.435666",
+      "score": 40.0
+    },
+    "5b7b8d9c2e5d005bb20a8f1c2de277d7": {
+      "title": "Head of Product & Innovation (f/m/x) - Nahrungserganzung | DTC & Retail",
+      "company": "BRAINEFFECT",
+      "first_seen": "2026-11-06T14:02:49.435668",
+      "score": 60.0
     }
   },
-  "last_run": "2026-11-05T14:27:06.689620",
+  "last_run": "2026-11-06T14:02:49.435676",
   "stats": {
-    "total_seen": 386,
-    "total_reported": 1926
+    "total_seen": 383,
+    "total_reported": 1943
   }
 }
