@@ -1,25 +1,34 @@
-# 🎯 Daily Job Report — 2026-11-07
+# 🎯 Daily Job Report — 2026-11-08
 
-**3** new matches | **0** high relevance
+**4** new matches | **1** high relevance
 
 ---
 
-### 1. 🟡 General Manager - Germany
-**Freenow** · 📍 Hamburg, Hamburg, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/general-manager-germany-at-freenow-4469054927)
-  - Title match: 'general manager'
+### 1. 🟢 Associate Director, Business Strategy & Portfolio (Senior Program Manager) (f/m/d)
+**AstraZeneca** · 📍 Munich, Bavaria, Germany · Score: 75/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-business-strategy-portfolio-senior-program-manager-f-m-d-at-astrazeneca-4487626451)
+  - Title match: 'associate director'
+  - Keywords (1): strategy
+  - Location: 'germany'
+  - Target company: AstraZeneca Innovation
+
+### 2. ⚪ Senior Manager, Life Sciences Consulting
+**Genioo** · 📍 Frankfurt, Hesse, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-manager-life-sciences-consulting-at-genioo-4434668493)
+  - Seniority match: 'senior manager'
+  - Keywords (1): life sciences
   - Location: 'germany'
 
-### 2. ⚪ Director Strategic Business Development (m/w/d)
-**GEERS** · 📍 Dortmund, North Rhine-Westphalia, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-strategic-business-development-m-w-d-at-geers-4488178366)
+### 3. ⚪ Commercial Excellence & Sales Enablement Leader - Fluid Connectors (m/f/d)
+**STÄUBLI** · 📍 Bayreuth, Bavaria, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/commercial-excellence-sales-enablement-leader-fluid-connectors-m-f-d-at-st%C3%A4ubli-4479389431)
+  - Seniority match: 'lead'
+  - Keywords (1): commercial
+  - Location: 'germany'
+
+### 4. ⚪ Senior Director Innovation Apparel - CD&I (m/f/d)
+**adidas** · 📍 Herzogenaurach, Bavaria, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-director-innovation-apparel-cd-i-m-f-d-at-adidas-4344689809)
   - Seniority match: 'director'
-  - Keywords (1): business development
-  - Location: 'germany'
-
-### 3. ⚪ Regional Business Head (m/w/d) Dermatology - München, Ulm, Nürnberg, Freiburg, Stuttgart
-**LEO Pharma** · 📍 Neu-Isenburg, Hesse, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/regional-business-head-m-w-d-dermatology-m%C3%BCnchen-ulm-n%C3%BCrnberg-freiburg-stuttgart-at-leo-pharma-4426551101)
-  - Seniority match: 'regional'
-  - Keywords (1): pharma
+  - Keywords (1): innovation
   - Location: 'germany'
