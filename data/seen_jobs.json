@@ -1,53 +1,5 @@
 {
   "seen": {
-    "a31369af43828051f30ecf2e56a8af31": {
-      "title": "Head of Product and Strategy | ROB'E",
-      "company": "NLC Health Ventures",
-      "first_seen": "2026-10-11T12:29:53.551343",
-      "score": 65.0
-    },
-    "2cb0964b8c3ca3511207307ba0f7a69f": {
-      "title": "Interim Country Manager Deutschland (m/w/d) - H\u00f6rtechnologie",
-      "company": "Connected MedTech",
-      "first_seen": "2026-10-11T12:29:53.551356",
-      "score": 60.0
-    },
-    "fe56966ff05f0e1d1219705cd904c1fa": {
-      "title": "Country Manager Deutschland (m/w/d) - H\u00f6rtechnologie",
-      "company": "Connected MedTech",
-      "first_seen": "2026-10-11T12:29:53.551360",
-      "score": 60.0
-    },
-    "ba4c53533000fa6ca52167ebb80dd078": {
-      "title": "Business Development Director (f/m/d), Automotive Europe",
-      "company": "Hesai Technology",
-      "first_seen": "2026-10-11T12:29:53.551363",
-      "score": 40.0
-    },
-    "aa5d49d0d2680b0ee56e07b325907f01": {
-      "title": "Associate Director, Analytical Strategy",
-      "company": "CSL",
-      "first_seen": "2026-10-11T12:29:53.551366",
-      "score": 60.0
-    },
-    "b602087bb120b44024d7a7b6b2c6180c": {
-      "title": "Lead Cloud Software Architect - Pharma Solutions (w/m/x)",
-      "company": "NTT DATA Europe & Latam",
-      "first_seen": "2026-10-11T12:29:53.551369",
-      "score": 40.0
-    },
-    "707c5029202bc8d2a99e981eaa309e5d": {
-      "title": "Head of Department Innovation Planning (w/m/d)",
-      "company": "Endress+Hauser Group",
-      "first_seen": "2026-10-11T12:29:53.551373",
-      "score": 40.0
-    },
-    "47e660982ee5fb4324419fd550618209": {
-      "title": "Candidate Guidance on AI Use",
-      "company": "AstraZeneca Innovation",
-      "first_seen": "2026-10-11T12:29:53.551376",
-      "score": 40.0
-    },
     "1255a52e65ba7acc30f8001296964387": {
       "title": "Chief of Staff (m/w/x)",
       "company": "Doctorflix",
@@ -2261,11 +2213,41 @@
       "company": "VERTANICAL",
       "first_seen": "2026-11-09T15:47:07.329076",
       "score": 40.0
+    },
+    "b3679ff575445eab2c3ec73c967bddae": {
+      "title": "Senior Director, Strategic & Market Access - Germany",
+      "company": "Kintiga",
+      "first_seen": "2026-11-10T14:40:41.213166",
+      "score": 40.0
+    },
+    "ac0154a4938286b484a0fdf1e316b4c9": {
+      "title": "Head of Operations (m/w/x)",
+      "company": "Doctorflix",
+      "first_seen": "2026-11-10T14:40:41.213177",
+      "score": 55.0
+    },
+    "5c6cc6fdb6310ef62b01e2991d807c5f": {
+      "title": "Head of Business Development",
+      "company": "Cencora | 3PL | DACH",
+      "first_seen": "2026-11-10T14:40:41.213180",
+      "score": 60.0
+    },
+    "1e196658ce8cd5cff55b031fdc7faaf1": {
+      "title": "Director Operations (m/w/d) Bauberatung",
+      "company": "encoviva",
+      "first_seen": "2026-11-10T14:40:41.213182",
+      "score": 50.0
+    },
+    "47e660982ee5fb4324419fd550618209": {
+      "title": "Candidate Guidance on AI Use",
+      "company": "AstraZeneca Innovation",
+      "first_seen": "2026-11-10T14:40:41.213183",
+      "score": 40.0
     }
   },
-  "last_run": "2026-11-09T15:47:07.329082",
+  "last_run": "2026-11-10T14:40:41.213190",
   "stats": {
-    "total_seen": 377,
-    "total_reported": 1968
+    "total_seen": 374,
+    "total_reported": 1973
   }
 }
