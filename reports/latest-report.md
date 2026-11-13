@@ -1,88 +1,69 @@
-# 🎯 Daily Job Report — 2026-11-12
+# 🎯 Daily Job Report — 2026-11-13
 
-**12** new matches | **0** high relevance
+**9** new matches | **0** high relevance
 
 ---
 
-### 1. 🟡 Head of Product Management & Innovation (m/w/d)
-**DSJ Global** · 📍 Freiburg, Baden-Württemberg, Germany · Score: 65/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-product-management-innovation-m-w-d-at-dsj-global-4490353286)
-  - Title match: 'head of product'
-  - Keywords (2): innovation, product management
-  - Location: 'germany'
-
-### 2. 🟡 Country Manager - Germany
-**3-D Matrix EMEA** · 📍 Berlin, Berlin, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/country-manager-germany-at-3-d-matrix-emea-4490313540)
-  - Title match: 'country manager'
-  - Location: 'germany'
-
-### 3. 🟡 Director, Commercial Capabilities - Europe 1
-**Teva Pharmaceuticals** · 📍 Ulm, Baden-Württemberg, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-commercial-capabilities-europe-1-at-teva-pharmaceuticals-4489957659)
-  - Seniority match: 'director'
-  - Keywords (3): pharma, pharmaceutical, commercial
-  - Location: 'germany'
-
-### 4. 🟡 Senior Manager Strategic Brand Partnerships (w/d/m) - Healthcare & Pharma
-**SPORTFIVE** · 📍 Hamburg, Hamburg, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-manager-strategic-brand-partnerships-w-d-m-healthcare-pharma-at-sportfive-4463511427)
-  - Seniority match: 'senior manager'
-  - Keywords (3): pharma, healthcare, partnerships
-  - Location: 'germany'
-
-### 5. ⚪ Managing Director & Business Development – Join an Impact Startup in Mobile Eye Care
-**Johannes Vegt / permo** · 📍 Berlin, Germany · Score: 45/100
-🔗 [LinkedIn]()
-  - Seniority match: 'director'
-  - Keywords (2): business development, startup
-  - Location: 'germany'
-
-### 6. ⚪ Director, Business Development, IQVIA Laboratories
-**IQVIA Laboratories** · 📍 Frankfurt am Main, Hesse, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-business-development-iqvia-laboratories-at-iqvia-laboratories-4489203621)
-  - Seniority match: 'director'
+### 1. 🟡 VP Business Development - Biologicals
+**Yara International** · 📍 Berlin, Germany · Score: 60/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/vp-business-development-biologicals-at-yara-international-4489503226)
+  - Title match: 'vp business development'
   - Keywords (1): business development
   - Location: 'germany'
 
-### 7. ⚪ Business Unit Director Healthcare – M/F
-**Alcimed** · 📍 Cologne, North Rhine-Westphalia, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/business-unit-director-healthcare-%E2%80%93-m-f-at-alcimed-4490342605)
+### 2. 🟡 Director Indirect Sales & Partnerships (x/f/m)
+**Doctolib** · 📍 Berlin, Berlin, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-indirect-sales-partnerships-x-f-m-at-doctolib-4490388668)
   - Seniority match: 'director'
-  - Keywords (1): healthcare
+  - Keywords (1): partnerships
   - Location: 'germany'
+  - Target company: Doctolib
 
-### 8. ⚪ Director Sales Enterprise Healthcare m/f/d
-**ATOSS Software SE** · 📍 Munich, Bavaria, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-sales-enterprise-healthcare-m-f-d-at-atoss-software-se-4489027004)
-  - Seniority match: 'director'
-  - Keywords (1): healthcare
-  - Location: 'germany'
-
-### 9. ⚪ Lead Solution Consultant - Life Sciences
-**Celonis** · 📍 Munich, Bavaria, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/lead-solution-consultant-life-sciences-at-celonis-4488256825)
+### 3. 🟡 Product Strategy Lead (x/f/m)
+**Doctolib** · 📍 Berlin, Berlin, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/product-strategy-lead-x-f-m-at-doctolib-4490381882)
   - Seniority match: 'lead'
-  - Keywords (1): life sciences
+  - Keywords (1): strategy
+  - Location: 'germany'
+  - Target company: Doctolib
+
+### 4. 🟡 Head of Operations & Retail (m/w/d)
+**HEY HOLY | B Corp** · 📍 Frankfurt, Hesse, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-operations-retail-m-w-d-at-hey-holy-b-corp-4488540282)
+  - Title match: 'head of operations'
   - Location: 'germany'
 
-### 10. ⚪ Head of Sales & Business Development – DACH / Benelux
-**Hanwha Defence Deutschland GmbH** · 📍 Berlin, Berlin, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-sales-business-development-%E2%80%93-dach-benelux-at-hanwha-defence-deutschland-gmbh-4488287968)
-  - Seniority match: 'head of'
-  - Keywords (1): business development
+### 5. 🟡 Lead AI Technology Consultant
+**Roche** · 📍 Mannheim, Baden-Württemberg, Germany · Score: 50/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/lead-ai-technology-consultant-at-roche-4490705636)
+  - Seniority match: 'lead'
   - Location: 'germany'
+  - Target company: Roche Digital Health
 
-### 11. ⚪ Head of In Vitro Pharmacology
-**PROTEROS biostructures GmbH** · 📍 Munich, Bavaria, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-in-vitro-pharmacology-at-proteros-biostructures-gmbh-4488535130)
-  - Seniority match: 'head of'
+### 6. ⚪ Director Strategie Pharma - Transformation / Performance (m/w/d)
+**MCI Deutschland** · 📍 Munich, Bavaria, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-strategie-pharma-transformation-performance-m-w-d-at-mci-deutschland-4488912816)
+  - Seniority match: 'director'
   - Keywords (1): pharma
   - Location: 'germany'
 
-### 12. ⚪ VP Product Innovation & Systems Engineering (m/w/d)
-**Kienbaum** · 📍 Baden-Württemberg, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/vp-product-innovation-systems-engineering-m-w-d-at-kienbaum-4488229870)
-  - Seniority match: 'vp'
-  - Keywords (1): innovation
+### 7. ⚪ Director Business Development - Oncology
+**TFS HealthScience** · 📍 Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-business-development-oncology-at-tfs-healthscience-4482482850)
+  - Seniority match: 'director'
+  - Keywords (1): business development
+  - Location: 'germany'
+
+### 8. ⚪ Director - Business Development
+**Rocket Lab** · 📍 Munich, Bavaria, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-business-development-at-rocket-lab-4488584543)
+  - Seniority match: 'director'
+  - Keywords (1): business development
+  - Location: 'germany'
+
+### 9. ⚪ Senior Director - Product Management - EU Veeva Nitro
+**Veeva Systems** · 📍 Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-director-product-management-eu-veeva-nitro-at-veeva-systems-4472522675)
+  - Seniority match: 'director'
+  - Keywords (1): product management
   - Location: 'germany'
