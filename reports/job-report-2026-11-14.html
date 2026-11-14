@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Job Report — 2026-11-14</title>
+<style>
+    :root { --bg: #0f172a; --card: #1e293b; --text: #e2e8f0; --muted: #94a3b8; --accent: #38bdf8; }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: 'Inter', -apple-system, system-ui, sans-serif; background: var(--bg); color: var(--text); padding: 2rem; }
+    .container { max-width: 960px; margin: 0 auto; }
+    header { text-align: center; margin-bottom: 2rem; padding: 2rem; background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); border-radius: 16px; border: 1px solid #334155; }
+    header h1 { font-size: 1.8rem; margin-bottom: 0.5rem; background: linear-gradient(135deg, #38bdf8, #818cf8); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+    header p { color: var(--muted); font-size: 0.95rem; }
+    .stats { display: flex; gap: 1rem; justify-content: center; margin-top: 1rem; flex-wrap: wrap; }
+    .stat { background: #334155; padding: 0.5rem 1rem; border-radius: 8px; font-size: 0.85rem; }
+    .stat strong { color: var(--accent); }
+    .back-link { display: inline-block; margin-bottom: 1.5rem; color: var(--accent); text-decoration: none; font-size: 0.9rem; }
+    .back-link:hover { text-decoration: underline; }
+    table { width: 100%; border-collapse: collapse; }
+    .job-row { background: var(--card); cursor: pointer; transition: background 0.2s; }
+    .job-row:hover { background: #334155; }
+    .job-row td { padding: 1rem; border-bottom: 1px solid #334155; vertical-align: top; }
+    .rank { width: 40px; text-align: center; color: var(--muted); font-weight: 600; }
+    .title a { color: var(--accent); text-decoration: none; font-weight: 600; font-size: 1.05rem; }
+    .title a:hover { text-decoration: underline; }
+    .company { color: #f1f5f9; margin: 0.25rem 0; font-weight: 500; }
+    .meta { display: flex; flex-wrap: wrap; gap: 0.75rem; color: var(--muted); font-size: 0.8rem; margin-top: 0.4rem; }
+    .score { width: 42px; height: 42px; border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-weight: 700; font-size: 0.85rem; }
+    .reasons { display: none; margin-top: 0.6rem; font-size: 0.8rem; color: var(--muted); line-height: 1.6; }
+    .expanded .reasons { display: block; }
+    .empty { text-align: center; padding: 3rem; color: var(--muted); }
+    footer { text-align: center; margin-top: 2rem; color: var(--muted); font-size: 0.8rem; }
+</style>
+</head>
+<body>
+<div class="container">
+    <a href="index.html" class="back-link">← Dashboard</a>
+    <header>
+        <h1>🎯 Daily Job Report</h1>
+        <p>Healthcare · Digital Health · Pharma — Scale-ups & Innovation Centers</p>
+        <div class="stats">
+            <div class="stat"><strong>22</strong> new matches</div>
+            <div class="stat"><strong>2026-11-14</strong> 13:17</div>
+            <div class="stat"><strong>0</strong> high relevance</div>
+        </div>
+    </header>
+    <table>
+        <tbody>
+            
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">1</td>
+                <td>
+                    <div class="title"><a href="https://de.linkedin.com/jobs/view/head-of-product-innovation-all-genders-at-ahead%C2%AE-4435842069" target="_blank" rel="noopener">Head of Product & Innovation (All Genders)</a></div>
+                    <div class="company">ahead®</div>
+                    <div class="meta">
+                        <span class="location">📍 Hamburg, Germany</span>
+                        <span class="source">via LinkedIn</span>
+                        
+                        <span class="date">📅 2026-11-14</span>
+                    </div>
+                    <div class="reasons">• Title match: 'head of product'<br>• Keywords (1): innovation<br>• Location: 'germany'</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #ca8a04">
+                        60
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">2</td>
+                <td>
+                    <div class="title"><a href="https://de.linkedin.com/jobs/view/chief-of-staff-m-w-x-at-doctorflix-4489329310" target="_blank" rel="noopener">Chief of Staff (m/w/x)</a></div>
+                    <div class="company">Doctorflix</div>
+                    <div class="meta">
+                        <span class="location">📍 Berlin, Berlin, Germany</span>
+                        <span class="source">via LinkedIn</span>
+                        
+                        <span class="date">📅 2026-11-14</span>
+                    </div>
+                    <div class="reasons">• Title match: 'chief of staff'<br>• Location: 'germany'</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #ca8a04">
+                        55
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">3</td>
+                <td>
+                    <div class="title"><a href="https://de.linkedin.com/jobs/view/head-of-operations-m-w-x-at-doctorflix-4489339037" target="_blank" rel="noopener">Head of Operations (m/w/x)</a></div>
+                    <div class="company">Doctorflix</div>
+                    <div class="meta">
+                        <span class="location">📍 Berlin, Berlin, Germany</span>
+                        <span class="source">via LinkedIn</span>
+                        
+                        <span class="date">📅 2026-11-14</span>
+                    </div>
+                    <div class="reasons">• Title match: 'head of operations'<br>• Location: 'germany'</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #ca8a04">
+                        55
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">4</td>
+                <td>
+                    <div class="title"><a href="https://de.linkedin.com/jobs/view/associate-director-safety-operations-at-biontech-se-4491040530" target="_blank" rel="noopener">Associate Director Safety Operations</a></div>
+                    <div class="company">BioNTech SE</div>
+                    <div class="meta">
+                        <span class="location">📍 Mainz, Rhineland-Palatinate, Germany</span>
+                        <span class="source">via LinkedIn</span>
+                        
+                        <span class="date">📅 2026-11-14</span>
+                    </div>
+                    <div class="reasons">• Title match: 'associate director'<br>• Location: 'germany'</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #ca8a04">
+                        55
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">5</td>
+                <td>
+                    <div class="title"><a href="https://de.linkedin.com/jobs/view/head-of-department-m-f-d-digitalization-industrial-ai-software-r-d-at-abb-4488610888" target="_blank" rel="noopener">Head of Department (m/f/d) Digitalization, Industrial AI & Software R&D</a></div>
+                    <div class="company">ABB</div>
+                    <div class="meta">
+                        <span class="location">📍 Mannheim, Baden-Württemberg, Germany</span>
+                        <span class="source">via LinkedIn</span>
+                        
+                        <span class="date">📅 2026-11-14</span>
+                    </div>
+                    <div class="reasons">• Seniority match: 'head of'<br>• Location: 'germany'<br>• Target company: Abbott Digital Health</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #ca8a04">
+                        50
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">6</td>
+                <td>
+                    <div class="title"><a href="https://infermedica.com/careers/careers/45" target="_blank" rel="noopener">Head of Regulatory Affairs & ComplianceRemote / Europe</a></div>
+                    <div class="company">Infermedica</div>
+                    <div class="meta">
+                        <span class="location">📍 Wroclaw (remote DE)</span>
+                        <span class="source">via Direct (Infermedica)</span>
+                        
+                        
+                    </div>
+                    <div class="reasons">• Seniority match: 'head of'<br>• Location: 'remote'<br>• Target company: Infermedica</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #ca8a04">
+                        50
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">7</td>
+                <td>
+                    <div class="title"><a href="https://de.linkedin.com/jobs/view/senior-manager-market-access-germany-m-w-d-at-merz-therapeutics-4481349710" target="_blank" rel="noopener">Senior Manager Market Access Germany (m/w/d)</a></div>
+                    <div class="company">Merz Therapeutics</div>
+                    <div class="meta">
+                        <span class="location">📍 Frankfurt, Hesse, Germany</span>
+                        <span class="source">via LinkedIn</span>
+                        
+                        <span class="date">📅 2026-11-13</span>
+                    </div>
+                    <div class="reasons">• Seniority match: 'senior manager'<br>• Keywords (2): therapeutic, market access<br>• Location: 'germany'</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        45
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">8</td>
+                <td>
+                    <div class="title"><a href="https://de.linkedin.com/jobs/view/regionalleiter-m-w-d-migr%C3%A4ne-innovative-medicine-region-s%C3%BCd-bayern-at-teva-pharmaceuticals-4490731746" target="_blank" rel="noopener">Regionalleiter (m/w/d) Migräne/Innovative Medicine - Region Süd/Bayern</a></div>
+                    <div class="company">Teva Pharmaceuticals</div>
+                    <div class="meta">
+                        <span class="location">📍 Bavaria, Germany</span>
+                        <span class="source">via LinkedIn</span>
+                        
+                        <span class="date">📅 2026-11-13</span>
+                    </div>
+                    <div class="reasons">• Seniority match: 'regional'<br>• Keywords (2): pharma, pharmaceutical<br>• Location: 'germany'</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        45
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">9</td>
+                <td>
+                    <div class="title"><a href="https://de.linkedin.com/jobs/view/director-%E2%80%93-strategy-data-ai-f-m-d-at-fusion-consulting-4490746024" target="_blank" rel="noopener">Director – Strategy, Data & AI (f/m/d)</a></div>
+                    <div class="company">Fusion Consulting</div>
+                    <div class="meta">
+                        <span class="location">📍 Frankfurt, Hesse, Germany</span>
+                        <span class="source">via LinkedIn</span>
+                        
+                        <span class="date">📅 2026-11-13</span>
+                    </div>
+                    <div class="reasons">• Seniority match: 'director'<br>• Keywords (1): strategy<br>• Location: 'germany'</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        40
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">10</td>
+                <td>
+                    <div class="title"><a href="https://de.linkedin.com/jobs/view/principal-s-4hana-transformation-consultant-f%C3%BCr-healthcare-m-w-d-at-atos-4480675027" target="_blank" rel="noopener">Principal S/4HANA Transformation Consultant für Healthcare (m/w/d)</a></div>
+                    <div class="company">Atos</div>
+                    <div class="meta">
+                        <span class="location">📍 Stuttgart, Baden-Württemberg, Germany</span>
+                        <span class="source">via LinkedIn</span>
+                        
+                        <span class="date">📅 2026-11-14</span>
+                    </div>
+                    <div class="reasons">• Seniority match: 'principal'<br>• Keywords (1): healthcare<br>• Location: 'germany'</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        40
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">11</td>
+                <td>
+                    <div class="title"><a href="https://de.linkedin.com/jobs/view/principal-s-4hana-transformation-consultant-f%C3%BCr-healthcare-m-w-d-at-atos-4480665479" target="_blank" rel="noopener">Principal S/4HANA Transformation Consultant für Healthcare (m/w/d)</a></div>
+                    <div class="company">Atos</div>
+                    <div class="meta">
+                        <span class="location">📍 Fürth, Bavaria, Germany</span>
+                        <span class="source">via LinkedIn</span>
+                        
+                        <span class="date">📅 2026-11-14</span>
+                    </div>
+                    <div class="reasons">• Seniority match: 'principal'<br>• Keywords (1): healthcare<br>• Location: 'germany'</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        40
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">12</td>
+                <td>
+                    <div class="title"><a href="https://de.linkedin.com/jobs/view/director-business-development-enterprise-dach-at-supermicro-4465872369" target="_blank" rel="noopener">Director, Business Development - Enterprise DACH</a></div>
+                    <div class="company">Supermicro</div>
+                    <div class="meta">
+                        <span class="location">📍 Munich, Bavaria, Germany</span>
+                        <span class="source">via LinkedIn</span>
+                        
+                        <span class="date">📅 2026-11-14</span>
+                    </div>
+                    <div class="reasons">• Seniority match: 'director'<br>• Keywords (1): business development<br>• Location: 'germany'</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        40
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">13</td>
+                <td>
+                    <div class="title"><a href="https://de.linkedin.com/jobs/view/head-of-clinical-operations-%E2%80%93-germany-associated-countries-m-f-d-at-gsk-4488954381" target="_blank" rel="noopener">Head of Clinical Operations – Germany & Associated Countries (m/f/d)</a></div>
+                    <div class="company">GSK</div>
+                    <div class="meta">
+                        <span class="location">📍 Munich, Bavaria, Germany</span>
+                        <span class="source">via LinkedIn</span>
+                        
+                        <span class="date">📅 2026-11-13</span>
+                    </div>
+                    <div class="reasons">• Seniority match: 'head of'<br>• Keywords (1): clinical<br>• Location: 'germany'</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        40
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">14</td>
+                <td>
+                    <div class="title"><a href="https://de.linkedin.com/jobs/view/digital-transformation-lead-corporate-platforms-global-business-systems-m-f-d-at-daiichi-sankyo-europe-gmbh-4472597098" target="_blank" rel="noopener">Digital Transformation Lead (Corporate Platforms & Global Business Systems) (m/f/d)</a></div>
+                    <div class="company">Daiichi Sankyo Europe GmbH</div>
+                    <div class="meta">
+                        <span class="location">📍 Munich, Bavaria, Germany</span>
+                        <span class="source">via LinkedIn</span>
+                        
+                        <span class="date">📅 2026-11-13</span>
+                    </div>
+                    <div class="reasons">• Seniority match: 'lead'<br>• Keywords (1): digital transformation<br>• Location: 'germany'</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        40
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">15</td>
+                <td>
+                    <div class="title"><a href="https://de.linkedin.com/jobs/view/head-of-ai-architecture-for-ddit-r-d-all-genders-at-merck-healthcare-4490742373" target="_blank" rel="noopener">Head of AI Architecture for DDIT R&D (all genders)</a></div>
+                    <div class="company">Merck Healthcare</div>
+                    <div class="meta">
+                        <span class="location">📍 Darmstadt, Hesse, Germany</span>
+                        <span class="source">via LinkedIn</span>
+                        
+                        <span class="date">📅 2026-11-13</span>
+                    </div>
+                    <div class="reasons">• Seniority match: 'head of'<br>• Keywords (1): healthcare<br>• Location: 'germany'</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        40
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">16</td>
+                <td>
+                    <div class="title"><a href="https://de.linkedin.com/jobs/view/head-of-revenue-germany-at-electra-4489575984" target="_blank" rel="noopener">Head of Revenue - Germany</a></div>
+                    <div class="company">Electra</div>
+                    <div class="meta">
+                        <span class="location">📍 Munich, Bavaria, Germany</span>
+                        <span class="source">via LinkedIn</span>
+                        
+                        <span class="date">📅 2026-11-13</span>
+                    </div>
+                    <div class="reasons">• Seniority match: 'head of'<br>• Keywords (1): revenue<br>• Location: 'germany'</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        40
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">17</td>
+                <td>
+                    <div class="title"><a href="https://de.linkedin.com/jobs/view/head-of-r-d-and-innovation-m-f-d-at-ge-vernova-4489594942" target="_blank" rel="noopener">Head of R&D and Innovation (m/f/d)</a></div>
+                    <div class="company">GE Vernova</div>
+                    <div class="meta">
+                        <span class="location">📍 Berlin, Berlin, Germany</span>
+                        <span class="source">via LinkedIn</span>
+                        
+                        <span class="date">📅 2026-11-13</span>
+                    </div>
+                    <div class="reasons">• Seniority match: 'head of'<br>• Keywords (1): innovation<br>• Location: 'germany'</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        40
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">18</td>
+                <td>
+                    <div class="title"><a href="https://www.careers.philips.com/na/en/search-results" target="_blank" rel="noopener">Find jobs</a></div>
+                    <div class="company">Philips Health Innovation</div>
+                    <div class="meta">
+                        <span class="location">📍 Hamburg (DE)</span>
+                        <span class="source">via Direct (Philips Health Innovation)</span>
+                        
+                        
+                    </div>
+                    <div class="reasons">• Keywords (1): innovation<br>• Location: 'hamburg'<br>• Target company: Philips Health Innovation</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        40
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">19</td>
+                <td>
+                    <div class="title"><a href="https://www.careers.philips.com/na/en/life-at-philips" target="_blank" rel="noopener">Learn more about life at Philips</a></div>
+                    <div class="company">Philips Health Innovation</div>
+                    <div class="meta">
+                        <span class="location">📍 Hamburg (DE)</span>
+                        <span class="source">via Direct (Philips Health Innovation)</span>
+                        
+                        
+                    </div>
+                    <div class="reasons">• Keywords (1): innovation<br>• Location: 'hamburg'<br>• Target company: Philips Health Innovation</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        40
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">20</td>
+                <td>
+                    <div class="title"><a href="https://www.careers.philips.com/na/en/our-culture-philips-careers" target="_blank" rel="noopener">Learn more about our culture</a></div>
+                    <div class="company">Philips Health Innovation</div>
+                    <div class="meta">
+                        <span class="location">📍 Hamburg (DE)</span>
+                        <span class="source">via Direct (Philips Health Innovation)</span>
+                        
+                        
+                    </div>
+                    <div class="reasons">• Keywords (1): innovation<br>• Location: 'hamburg'<br>• Target company: Philips Health Innovation</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        40
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">21</td>
+                <td>
+                    <div class="title"><a href="https://www.careers.philips.com/na/en/jointalentcommunity" target="_blank" rel="noopener">Join our talent community</a></div>
+                    <div class="company">Philips Health Innovation</div>
+                    <div class="meta">
+                        <span class="location">📍 Hamburg (DE)</span>
+                        <span class="source">via Direct (Philips Health Innovation)</span>
+                        
+                        
+                    </div>
+                    <div class="reasons">• Keywords (1): innovation<br>• Location: 'hamburg'<br>• Target company: Philips Health Innovation</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        40
+                    </div>
+                </td>
+            </tr>
+            <tr class="job-row" onclick="this.classList.toggle('expanded')">
+                <td class="rank">22</td>
+                <td>
+                    <div class="title"><a href="https://www.careers.philips.com/na/en/think-you-know-philips-" target="_blank" rel="noopener">Learn more</a></div>
+                    <div class="company">Philips Health Innovation</div>
+                    <div class="meta">
+                        <span class="location">📍 Hamburg (DE)</span>
+                        <span class="source">via Direct (Philips Health Innovation)</span>
+                        
+                        
+                    </div>
+                    <div class="reasons">• Keywords (1): innovation<br>• Location: 'hamburg'<br>• Target company: Philips Health Innovation</div>
+                </td>
+                <td>
+                    <div class="score" style="background-color: #94a3b8">
+                        40
+                    </div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <footer>
+        <p>Click any row to see match details · Auto-generated by JobScraper</p>
+    </footer>
+</div>
+</body>
+</html>

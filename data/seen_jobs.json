@@ -1,101 +1,5 @@
 {
   "seen": {
-    "f8bf1a23913554cbdea3f57fd4b7f44f": {
-      "title": "Director Tech Strategy & GenAI \u2013 Healthcare & Life Sciences (m/f/d)",
-      "company": "Simon-Kucher",
-      "first_seen": "2026-10-15T11:11:52.093002",
-      "score": 50.0
-    },
-    "b4295f622516f9353d57f2affc185039": {
-      "title": "Director Tech Strategy & GenAI \u2013 Healthcare & Life Sciences (m/f/d)",
-      "company": "Simon-Kucher",
-      "first_seen": "2026-10-15T11:11:52.093014",
-      "score": 50.0
-    },
-    "0dde6e7f25db2899d104d0d18c475824": {
-      "title": "Operations Director Pharma \u2013 Strategie & Performance (m/w/d)",
-      "company": "MCI Deutschland",
-      "first_seen": "2026-10-15T11:11:52.093018",
-      "score": 40.0
-    },
-    "5366d9d9c96d52c3571be5e52f1c0d16": {
-      "title": "Head of Doctor Partnerships (m/w/d)",
-      "company": "TeleClinic",
-      "first_seen": "2026-10-15T11:11:52.093020",
-      "score": 40.0
-    },
-    "b5c244bc7366af66b778052b978e706e": {
-      "title": "Senior Director, Commercial Clinical Next-Generation Sequencing, EMEA",
-      "company": "Thermo Fisher Scientific",
-      "first_seen": "2026-10-15T11:11:52.093025",
-      "score": 45.0
-    },
-    "35f76d8c351f356f50876e775bd3addf": {
-      "title": "Director Tech Strategy & GenAI \u2013 Healthcare & Life Sciences (m/f/d)",
-      "company": "Simon-Kucher",
-      "first_seen": "2026-10-15T11:11:52.093029",
-      "score": 50.0
-    },
-    "cabd33e9b8d4b33b9e1784cf176871a7": {
-      "title": "Director Tech Strategy & GenAI \u2013 Healthcare & Life Sciences (m/f/d)",
-      "company": "Simon-Kucher",
-      "first_seen": "2026-10-15T11:11:52.093033",
-      "score": 50.0
-    },
-    "7b23b467c479e51913a5a725eb474556": {
-      "title": "Head of Revenue & Growth (m/f/d)",
-      "company": "tesa",
-      "first_seen": "2026-10-15T11:11:52.093036",
-      "score": 45.0
-    },
-    "3ec101a01ad3b5532531e86945290fd6": {
-      "title": "Team Leader Business Development Manager Process Analytics - 100 % (w/m/d)",
-      "company": "Hamilton",
-      "first_seen": "2026-10-15T11:11:52.093038",
-      "score": 40.0
-    },
-    "12b32bab7676513894fe0dc631426c79": {
-      "title": "General Manager, Medinova GmbH",
-      "company": "DKSH",
-      "first_seen": "2026-10-15T11:11:52.093041",
-      "score": 55.0
-    },
-    "0f1b58cd22b6eeb4b957ff1c0ec754db": {
-      "title": "Head of Regulatory Affairs & ComplianceRemote / Europe",
-      "company": "Infermedica",
-      "first_seen": "2026-10-15T11:11:52.093044",
-      "score": 50.0
-    },
-    "3cdacdf06b630e59e1cf89af8717901a": {
-      "title": "Find jobs",
-      "company": "Philips Health Innovation",
-      "first_seen": "2026-10-15T11:11:52.093047",
-      "score": 40.0
-    },
-    "2f69dea773ee1adadb1bba01328e7bbe": {
-      "title": "Learn more about life at Philips",
-      "company": "Philips Health Innovation",
-      "first_seen": "2026-10-15T11:11:52.093049",
-      "score": 40.0
-    },
-    "047afe78e5855a43c4c0fc7996361fd7": {
-      "title": "Learn more about our culture",
-      "company": "Philips Health Innovation",
-      "first_seen": "2026-10-15T11:11:52.093052",
-      "score": 40.0
-    },
-    "0000a0861ab3b3aa4fc7488773099afa": {
-      "title": "Join our talent community",
-      "company": "Philips Health Innovation",
-      "first_seen": "2026-10-15T11:11:52.093054",
-      "score": 40.0
-    },
-    "26036b655d960ae395e65441c3efec96": {
-      "title": "Learn more",
-      "company": "Philips Health Innovation",
-      "first_seen": "2026-10-15T11:11:52.093057",
-      "score": 40.0
-    },
     "415af59ac42c69534b580d16b03af485": {
       "title": "Technology Leader Surgery - Germany & UK",
       "company": "Johnson & Johnson",
@@ -2219,11 +2123,143 @@
       "company": "Yara International",
       "first_seen": "2026-11-13T14:22:39.116793",
       "score": 60.0
+    },
+    "d5b3a8c8200a2294a6de63d7ded4d9ef": {
+      "title": "Chief of Staff (m/w/x)",
+      "company": "Doctorflix",
+      "first_seen": "2026-11-14T13:17:45.687102",
+      "score": 55.0
+    },
+    "f8ffff54bd5bfc6c4a6bb6c2b46918cb": {
+      "title": "Director \u2013 Strategy, Data & AI (f/m/d)",
+      "company": "Fusion Consulting",
+      "first_seen": "2026-11-14T13:17:45.687117",
+      "score": 40.0
+    },
+    "c8752a59184b6de43c679da5a0f2f693": {
+      "title": "Head of Operations (m/w/x)",
+      "company": "Doctorflix",
+      "first_seen": "2026-11-14T13:17:45.687121",
+      "score": 55.0
+    },
+    "4a217d75a7371ed6f4f9485c8f750978": {
+      "title": "Principal S/4HANA Transformation Consultant f\u00fcr Healthcare (m/w/d)",
+      "company": "Atos",
+      "first_seen": "2026-11-14T13:17:45.687124",
+      "score": 40.0
+    },
+    "1433b3b859c7e834631e49216e5e8953": {
+      "title": "Principal S/4HANA Transformation Consultant f\u00fcr Healthcare (m/w/d)",
+      "company": "Atos",
+      "first_seen": "2026-11-14T13:17:45.687127",
+      "score": 40.0
+    },
+    "d810699845ac99d41caaf02c4924704a": {
+      "title": "Director, Business Development - Enterprise DACH",
+      "company": "Supermicro",
+      "first_seen": "2026-11-14T13:17:45.687130",
+      "score": 40.0
+    },
+    "c84dcd31259054fba4c2a0a69392f9c1": {
+      "title": "Head of Clinical Operations \u2013 Germany & Associated Countries (m/f/d)",
+      "company": "GSK",
+      "first_seen": "2026-11-14T13:17:45.687133",
+      "score": 40.0
+    },
+    "305f00c0eb83c93ac67fe8fe07e79b22": {
+      "title": "Digital Transformation Lead (Corporate Platforms & Global Business Systems) (m/f/d)",
+      "company": "Daiichi Sankyo Europe GmbH",
+      "first_seen": "2026-11-14T13:17:45.687135",
+      "score": 40.0
+    },
+    "e2c7b03e2cf7e2a0db1d859d5c5bd7f2": {
+      "title": "Head of AI Architecture for DDIT R&D (all genders)",
+      "company": "Merck Healthcare",
+      "first_seen": "2026-11-14T13:17:45.687138",
+      "score": 40.0
+    },
+    "2604c4773b647d2f194c20c6994faa36": {
+      "title": "Associate Director Safety Operations",
+      "company": "BioNTech SE",
+      "first_seen": "2026-11-14T13:17:45.687141",
+      "score": 55.0
+    },
+    "cd4d263fca780e53ec7587cc8e4035b6": {
+      "title": "Head of Revenue - Germany",
+      "company": "Electra",
+      "first_seen": "2026-11-14T13:17:45.687143",
+      "score": 40.0
+    },
+    "ff29bd3906e6150448a7f83d56faf593": {
+      "title": "Senior Manager Market Access Germany (m/w/d)",
+      "company": "Merz Therapeutics",
+      "first_seen": "2026-11-14T13:17:45.687145",
+      "score": 45.0
+    },
+    "8826ad2a9d68d5858db12cec83bc98a4": {
+      "title": "Regionalleiter (m/w/d) Migr\u00e4ne/Innovative Medicine - Region S\u00fcd/Bayern",
+      "company": "Teva Pharmaceuticals",
+      "first_seen": "2026-11-14T13:17:45.687148",
+      "score": 45.0
+    },
+    "6098b2f608877e8cf2798ab901d54348": {
+      "title": "Head of R&D and Innovation (m/f/d)",
+      "company": "GE Vernova",
+      "first_seen": "2026-11-14T13:17:45.687151",
+      "score": 40.0
+    },
+    "8abc05c9094df5185b202ad6b6875c42": {
+      "title": "Head of Department (m/f/d) Digitalization, Industrial AI & Software R&D",
+      "company": "ABB",
+      "first_seen": "2026-11-14T13:17:45.687153",
+      "score": 50.0
+    },
+    "ba1e8317d75702332ebfbf9049558251": {
+      "title": "Head of Product & Innovation (All Genders)",
+      "company": "ahead\u00ae",
+      "first_seen": "2026-11-14T13:17:45.687156",
+      "score": 60.0
+    },
+    "0f1b58cd22b6eeb4b957ff1c0ec754db": {
+      "title": "Head of Regulatory Affairs & ComplianceRemote / Europe",
+      "company": "Infermedica",
+      "first_seen": "2026-11-14T13:17:45.687173",
+      "score": 50.0
+    },
+    "3cdacdf06b630e59e1cf89af8717901a": {
+      "title": "Find jobs",
+      "company": "Philips Health Innovation",
+      "first_seen": "2026-11-14T13:17:45.687176",
+      "score": 40.0
+    },
+    "2f69dea773ee1adadb1bba01328e7bbe": {
+      "title": "Learn more about life at Philips",
+      "company": "Philips Health Innovation",
+      "first_seen": "2026-11-14T13:17:45.687178",
+      "score": 40.0
+    },
+    "047afe78e5855a43c4c0fc7996361fd7": {
+      "title": "Learn more about our culture",
+      "company": "Philips Health Innovation",
+      "first_seen": "2026-11-14T13:17:45.687181",
+      "score": 40.0
+    },
+    "0000a0861ab3b3aa4fc7488773099afa": {
+      "title": "Join our talent community",
+      "company": "Philips Health Innovation",
+      "first_seen": "2026-11-14T13:17:45.687183",
+      "score": 40.0
+    },
+    "26036b655d960ae395e65441c3efec96": {
+      "title": "Learn more",
+      "company": "Philips Health Innovation",
+      "first_seen": "2026-11-14T13:17:45.687186",
+      "score": 40.0
     }
   },
-  "last_run": "2026-11-13T14:22:39.116799",
+  "last_run": "2026-11-14T13:17:45.687192",
   "stats": {
-    "total_seen": 370,
-    "total_reported": 2004
+    "total_seen": 376,
+    "total_reported": 2026
   }
 }
