@@ -1,83 +1,5 @@
 {
   "seen": {
-    "415af59ac42c69534b580d16b03af485": {
-      "title": "Technology Leader Surgery - Germany & UK",
-      "company": "Johnson & Johnson",
-      "first_seen": "2026-10-16T11:06:44.032891",
-      "score": 50.0
-    },
-    "89a402133a2476af0db760bc51364140": {
-      "title": "Digital Health Director \u2013 Western Europe",
-      "company": "Medtronic",
-      "first_seen": "2026-10-16T11:06:44.032904",
-      "score": 40.0
-    },
-    "49f753555285eba4c1918b0cb6e70af9": {
-      "title": "Chief of Staff (m/w/x)",
-      "company": "Doctorflix",
-      "first_seen": "2026-10-16T11:06:44.032908",
-      "score": 55.0
-    },
-    "e9bb21388e506c0f53090327447ae39f": {
-      "title": "Head of Marketing Healthcare IT (all genders)",
-      "company": "sqior medical",
-      "first_seen": "2026-10-16T11:06:44.032911",
-      "score": 40.0
-    },
-    "2cb8a00050eb8c5d2baa050f9e1f13e2": {
-      "title": "Director Clinical Project Management & Transformation",
-      "company": "BIOTRONIK",
-      "first_seen": "2026-10-16T11:06:44.032915",
-      "score": 40.0
-    },
-    "311bc3ea58114a3524a88ac0876c1e55": {
-      "title": "Senior Director, Commercial Clinical Next-Generation Sequencing",
-      "company": "Jobgether",
-      "first_seen": "2026-10-16T11:06:44.032919",
-      "score": 45.0
-    },
-    "b751a0ee81adfcde675e634785040e9f": {
-      "title": "Business Development Director (m/w/d) - excel as entrepreneur through strategy, sales, and AI",
-      "company": "Vicoland",
-      "first_seen": "2026-10-16T11:06:44.032921",
-      "score": 45.0
-    },
-    "7bf6ef97c72d1596ab1af0fbe4a33bd1": {
-      "title": "Head of Operations",
-      "company": "Tokura",
-      "first_seen": "2026-10-16T11:06:44.032924",
-      "score": 55.0
-    },
-    "760cff6bde72a1bab249c22614422fcb": {
-      "title": "Head of Operations - New Business (m/w/d)",
-      "company": "Intrapren\u00f6r",
-      "first_seen": "2026-10-16T11:06:44.032927",
-      "score": 55.0
-    },
-    "f6c2c65c3eea6f36fe106a16fb07102b": {
-      "title": "Head of Operations",
-      "company": "deeploi",
-      "first_seen": "2026-10-16T11:06:44.032930",
-      "score": 55.0
-    },
-    "67535955a0b87ccdfa950f7625bfb66b": {
-      "title": "Life Sciences CRM Lead (all genders)",
-      "company": "Accenture DACH",
-      "first_seen": "2026-10-16T11:06:44.032933",
-      "score": 40.0
-    },
-    "ff3b7f3e9a41758851ebbdd56f427e9e": {
-      "title": "Associate Director, Project Management (Europe - Remote)",
-      "company": "Indero (formerly Innovaderm)",
-      "first_seen": "2026-10-16T11:06:44.032935",
-      "score": 55.0
-    },
-    "863dccada10d515502aa1520604033eb": {
-      "title": "Country Manager Neurology (f/m/d) - Germany",
-      "company": "Regeneron",
-      "first_seen": "2026-10-16T11:06:44.032938",
-      "score": 55.0
-    },
     "766cb06aaf5eb861bff09a919fc5e167": {
       "title": "General Manager - DACH, Nordics & Benelux",
       "company": "Hologic, Inc.",
@@ -2255,11 +2177,71 @@
       "company": "Philips Health Innovation",
       "first_seen": "2026-11-14T13:17:45.687186",
       "score": 40.0
+    },
+    "7a65762a65f268ca982d15d6a11995e9": {
+      "title": "Director Strategy & Transformation (mensch)",
+      "company": "Omnicom Media Germany",
+      "first_seen": "2026-11-15T13:45:50.358101",
+      "score": 40.0
+    },
+    "17b0b1a45cde2819c3a23bfc3f4af56c": {
+      "title": "Healthcare Ecosystem Management Lead (all genders) (Vollzeit / unbefristet)",
+      "company": "AbbVie",
+      "first_seen": "2026-11-15T13:45:50.358110",
+      "score": 40.0
+    },
+    "5943da02ac524877f58c458394b130cd": {
+      "title": "Business Development Director, Integrated Solutions",
+      "company": "Repligen Corporation",
+      "first_seen": "2026-11-15T13:45:50.358112",
+      "score": 40.0
+    },
+    "bf0a9d34abd8f47486423622e9a3dced": {
+      "title": "Business Development Director (m/w/d) - excel as entrepreneur through strategy, sales, and AI",
+      "company": "Vicoland",
+      "first_seen": "2026-11-15T13:45:50.358114",
+      "score": 45.0
+    },
+    "a39c1caf1178fe6091b3f456d98d9ed2": {
+      "title": "Principal Venture Development Manager:in (w/m/d)",
+      "company": "Enpal",
+      "first_seen": "2026-11-15T13:45:50.358115",
+      "score": 40.0
+    },
+    "b0b5bb3951c57fd9394c73f5a44e034f": {
+      "title": "Associate Director, Europe Business Analytics & Insights",
+      "company": "Corcept Therapeutics",
+      "first_seen": "2026-11-15T13:45:50.358117",
+      "score": 60.0
+    },
+    "ab7983b76e736b9350ce1f87619ec8f6": {
+      "title": "Regional Clinical Manager (m/w/d) Deutschland West (Hannover, Bad Oeynhausen, Bremen, Osnabr\u00fcck)",
+      "company": "Johnson & Johnson MedTech",
+      "first_seen": "2026-11-15T13:45:50.358118",
+      "score": 45.0
+    },
+    "3b99eafade887b909686703b534b6580": {
+      "title": "Head of Department (m/f/d) Digitalization, Industrial AI & Software R&D",
+      "company": "ABB",
+      "first_seen": "2026-11-15T13:45:50.358119",
+      "score": 50.0
+    },
+    "61d585eae2450931b33ccc07b7b5a3e4": {
+      "title": "Leiter Business Development (m/w/d) - Produktentwicklung Bordnetz & Intelligente Sicherungen",
+      "company": "FEP Fahrzeugelektrik Pirna GmbH & Co. KG",
+      "first_seen": "2026-11-15T13:45:50.358121",
+      "score": 40.0
+    },
+    "72109f7f4ea27f89ab490b0916f62a6f": {
+      "title": "(Senior) Principal Innovation Management (f/m/d)",
+      "company": "NXP Semiconductors",
+      "first_seen": "2026-11-15T13:45:50.358122",
+      "score": 40.0
     }
   },
-  "last_run": "2026-11-14T13:17:45.687192",
+  "last_run": "2026-11-15T13:45:50.358127",
   "stats": {
-    "total_seen": 376,
-    "total_reported": 2026
+    "total_seen": 373,
+    "total_reported": 2036
   }
 }
