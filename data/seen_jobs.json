@@ -1,71 +1,5 @@
 {
   "seen": {
-    "c427a41a88451bc21be7d8a0233f66c7": {
-      "title": "Commercial Leader \u2013 Acute Care Germany (Monitoring Systems & Anesthesia) (m/w/d)",
-      "company": "GE HealthCare",
-      "first_seen": "2026-10-20T11:15:05.063412",
-      "score": 45.0
-    },
-    "a4a1a947beb63bca6ac3789862a2b076": {
-      "title": "Commercial Leader \u2013 Acute Care Germany (Monitoring Systems & Anesthesia) (m/w/d)",
-      "company": "GE HealthCare",
-      "first_seen": "2026-10-20T11:15:05.063426",
-      "score": 45.0
-    },
-    "f4dc9ab2b8568a067fb7c0aa424acb9f": {
-      "title": "Regional General Manager (m/f/d) DACH & BeNeLux, Molecular Diagnostics",
-      "company": "Abbott",
-      "first_seen": "2026-10-20T11:15:05.063430",
-      "score": 75.0
-    },
-    "e6c689a4e1feb4f94a8323e497e4be12": {
-      "title": "Associate Director - Commercial Lead Germany (m/w/d)",
-      "company": "Inizio Engage",
-      "first_seen": "2026-10-20T11:15:05.063432",
-      "score": 60.0
-    },
-    "038456d78f7231e0209657a902e5a99b": {
-      "title": "Senior Director, Commercial, EU Center",
-      "company": "BridgeBio",
-      "first_seen": "2026-10-20T11:15:05.063434",
-      "score": 40.0
-    },
-    "aa040e288ea167caa362a315dfe81ec2": {
-      "title": "Chief Operating Officer",
-      "company": "Startup Loft",
-      "first_seen": "2026-10-20T11:15:05.063436",
-      "score": 40.0
-    },
-    "1a0da7a5c2097d06e51d0a15a4cc836f": {
-      "title": "Associate Director Brand Marketing & Media (m/f/d)",
-      "company": "Redcare Pharmacy",
-      "first_seen": "2026-10-20T11:15:05.063438",
-      "score": 60.0
-    },
-    "1e23b937b99f829fb8ceb5d6ade44d6b": {
-      "title": "Director, Healthcare Technology Product Management (m/f/d)",
-      "company": "Wolters Kluwer",
-      "first_seen": "2026-10-20T11:15:05.063440",
-      "score": 45.0
-    },
-    "f54910bb00c803eb42146ab357c24656": {
-      "title": "Associate Solution and Delivery Lead, Healthcare & Pharma",
-      "company": "IQVIA",
-      "first_seen": "2026-10-20T11:15:05.063442",
-      "score": 45.0
-    },
-    "43024a46a075594170ad903fb6c3b04f": {
-      "title": "Regional Research Director Europe (f/m/d)",
-      "company": "GE HealthCare",
-      "first_seen": "2026-10-20T11:15:05.063444",
-      "score": 40.0
-    },
-    "cc72697435667ee4ca8ab2b7a1649bd9": {
-      "title": "Senior Scientific Lead, Early Development \u2013 Topical Nucleic Acid Therapy m/f/d",
-      "company": "Dermaliq Therapeutics GmbH",
-      "first_seen": "2026-10-20T11:15:05.063446",
-      "score": 40.0
-    },
     "704ff7921972eebb11ca8f1de8366e6c": {
       "title": "Commercial Segment Lead B2B SaaS \u2013 Growth / P&L (alle Identit\u00e4ten)",
       "company": "Caspar Health",
@@ -2249,11 +2183,113 @@
       "company": "R\u00f6chling Industrial",
       "first_seen": "2026-11-18T15:28:14.007676",
       "score": 45.0
+    },
+    "d871c909db2e42819335c6e4e84338e2": {
+      "title": "Director Tech Strategy & GenAI \u2013 Healthcare & Life Sciences (m/f/d)",
+      "company": "Simon-Kucher",
+      "first_seen": "2026-11-19T15:33:08.833041",
+      "score": 50.0
+    },
+    "bff26c7838bf52939bcdad1d629d3ec6": {
+      "title": "Director Strategie Pharma - Transformation / Performance (m/w/d)",
+      "company": "MCI Deutschland",
+      "first_seen": "2026-11-19T15:33:08.833055",
+      "score": 40.0
+    },
+    "b69a151359876d04a75ba0cd7df7309c": {
+      "title": "Principal Pharma (Boutique Strategieberatung)",
+      "company": "A-GAME | Executive Search",
+      "first_seen": "2026-11-19T15:33:08.833057",
+      "score": 40.0
+    },
+    "134deb091b0ccc8b73593de26f05248c": {
+      "title": "Head of Product Management & Workflow Management REF (m/f/x)",
+      "company": "ZEISS Group",
+      "first_seen": "2026-11-19T15:33:08.833059",
+      "score": 60.0
+    },
+    "a519d0eca6f9daa5d5c2b11f5b6484b6": {
+      "title": "Director, Product Strategy & Transformation",
+      "company": "Wolters Kluwer",
+      "first_seen": "2026-11-19T15:33:08.833060",
+      "score": 40.0
+    },
+    "a7d1ccb9139795bb57d5077111a92904": {
+      "title": "SAP Sales Director DACH (m/w/d) | Pharma & Life Sciences | Bis zu 250.000 \u20ac OTE",
+      "company": "ForTech Consulting GmbH",
+      "first_seen": "2026-11-19T15:33:08.833061",
+      "score": 45.0
+    },
+    "922119f3bba814814335f22667cd8679": {
+      "title": "Sr. Director, Enterprise Sales, Public, Utilities, Life Sciences and Service Provider (PULS) Germany",
+      "company": "Genesys",
+      "first_seen": "2026-11-19T15:33:08.833062",
+      "score": 40.0
+    },
+    "5c0886a35e90b43565427bf19db92383": {
+      "title": "Business Development Director \u2013 Supply Chain Center of Excellence (CoE)",
+      "company": "Cognite",
+      "first_seen": "2026-11-19T15:33:08.833064",
+      "score": 40.0
+    },
+    "9f644a18608f70ee391b5a3a4b99efeb": {
+      "title": "Associate Director C&IS Architecture",
+      "company": "BioNTech SE",
+      "first_seen": "2026-11-19T15:33:08.833065",
+      "score": 55.0
+    },
+    "b16e9a8b42e6af3b3f75aaba327f00dd": {
+      "title": "Director Engineering, Adtech & Marketplace",
+      "company": "Redcare Pharmacy",
+      "first_seen": "2026-11-19T15:33:08.833066",
+      "score": 40.0
+    },
+    "c6806fd6c45eac7834660977194270ed": {
+      "title": "Director Engineering, Adtech& Marketplace",
+      "company": "Redcare Pharmacy",
+      "first_seen": "2026-11-19T15:33:08.833067",
+      "score": 40.0
+    },
+    "73742628531a5b641e975e6bbd6a1530": {
+      "title": "Director Clinical Project Management & Transformation (m/w/d)",
+      "company": "BIOTRONIK",
+      "first_seen": "2026-11-19T15:33:08.833068",
+      "score": 40.0
+    },
+    "5ac53b39deb262d37bf7313af5e326df": {
+      "title": "Head of D2C Brand Management (m/w/d)",
+      "company": "Queisser Pharma GmbH & Co. KG",
+      "first_seen": "2026-11-19T15:33:08.833070",
+      "score": 40.0
+    },
+    "50de53b7d3733c421440b6512ea54305": {
+      "title": "Senior Manager, Business Development, Clinical Solutions - EMEA",
+      "company": "Integrated DNA Technologies",
+      "first_seen": "2026-11-19T15:33:08.833071",
+      "score": 45.0
+    },
+    "27b1842cecb4539054d06458d90ced49": {
+      "title": "Senior Director Business Development Industry EU (all genders)",
+      "company": "Viega Deutschland",
+      "first_seen": "2026-11-19T15:33:08.833072",
+      "score": 40.0
+    },
+    "a214001d917e9747a2b18ea339a2fb0f": {
+      "title": "Regionalleiter Au\u00dfendienst Neurologie (m/w/d) Region S\u00fcd",
+      "company": "Merz Therapeutics",
+      "first_seen": "2026-11-19T15:33:08.833074",
+      "score": 40.0
+    },
+    "1e31db89ca7ede341e075f7e5e935c67": {
+      "title": "Leiter (m/w/d) Technologie und Innovationsmanagement",
+      "company": "DVGW Deutscher Verein des Gas- und Wasserfaches",
+      "first_seen": "2026-11-19T15:33:08.833075",
+      "score": 40.0
     }
   },
-  "last_run": "2026-11-18T15:28:14.007680",
+  "last_run": "2026-11-19T15:33:08.833080",
   "stats": {
-    "total_seen": 375,
-    "total_reported": 2066
+    "total_seen": 381,
+    "total_reported": 2083
   }
 }
