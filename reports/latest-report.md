@@ -1,123 +1,96 @@
-# 🎯 Daily Job Report — 2026-11-19
+# 🎯 Daily Job Report — 2026-11-20
 
-**17** new matches | **0** high relevance
+**13** new matches | **0** high relevance
 
 ---
 
-### 1. 🟡 Head of Product Management & Workflow Management REF (m/f/x)
-**ZEISS Group** · 📍 Erfurt, Thuringia, Germany · Score: 60/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-product-management-workflow-management-ref-m-f-x-at-zeiss-group-4491338724)
-  - Title match: 'head of product'
+### 1. 🟡 Senior Manager/Associate Director - Commercial Excellence (1260)
+**Axtria - Ingenious Insights** · 📍 Frankfurt, Hesse, Germany · Score: 60/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-manager-associate-director-commercial-excellence-1260-at-axtria-ingenious-insights-4412158475)
+  - Title match: 'associate director'
+  - Keywords (1): commercial
+  - Location: 'germany'
+
+### 2. 🟡 Teamlead Product Management - Image to Report Host (w/m/d)
+**Siemens Healthineers** · 📍 Forchheim, Bavaria, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/teamlead-product-management-image-to-report-host-w-m-d-at-siemens-healthineers-4491635335)
+  - Seniority match: 'lead'
   - Keywords (1): product management
   - Location: 'germany'
+  - Target company: Siemens Healthineers Digital
 
-### 2. 🟡 Associate Director C&IS Architecture
-**BioNTech SE** · 📍 Frankfurt Rhine-Main Metropolitan Area · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-c-is-architecture-at-biontech-se-4492059607)
-  - Title match: 'associate director'
-  - Location: 'frankfurt'
-
-### 3. 🟡 Director Tech Strategy & GenAI – Healthcare & Life Sciences (m/f/d)
-**Simon-Kucher** · 📍 Berlin, Berlin, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-tech-strategy-genai-%E2%80%93-healthcare-life-sciences-m-f-d-at-simon-kucher-4417065520)
-  - Seniority match: 'director'
-  - Keywords (3): life sciences, healthcare, strategy
+### 3. 🟡 Head of Operations (m/w/x)
+**Instaffo** · 📍 Hamburg, Hamburg, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-operations-m-w-x-at-instaffo-4492786233)
+  - Title match: 'head of operations'
   - Location: 'germany'
 
-### 4. ⚪ SAP Sales Director DACH (m/w/d) | Pharma & Life Sciences | Bis zu 250.000 € OTE
-**ForTech Consulting GmbH** · 📍 Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/sap-sales-director-dach-m-w-d-pharma-life-sciences-bis-zu-250-000-%E2%82%AC-ote-at-fortech-consulting-gmbh-4491611010)
-  - Seniority match: 'director'
-  - Keywords (2): pharma, life sciences
+### 4. 🟡 Head of Operations (m/w/d)
+**gocomo** · 📍 Berlin, Berlin, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-operations-m-w-d-at-gocomo-4491922661)
+  - Title match: 'head of operations'
   - Location: 'germany'
 
-### 5. ⚪ Senior Manager, Business Development, Clinical Solutions - EMEA
-**Integrated DNA Technologies** · 📍 Düsseldorf, North Rhine-Westphalia, Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-manager-business-development-clinical-solutions-emea-at-integrated-dna-technologies-4482272560)
-  - Seniority match: 'senior manager'
-  - Keywords (2): clinical, business development
-  - Location: 'germany'
-
-### 6. ⚪ Director Strategie Pharma - Transformation / Performance (m/w/d)
-**MCI Deutschland** · 📍 Munich, Bavaria, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-strategie-pharma-transformation-performance-m-w-d-at-mci-deutschland-4491342532)
-  - Seniority match: 'director'
-  - Keywords (1): pharma
-  - Location: 'germany'
-
-### 7. ⚪ Principal Pharma (Boutique Strategieberatung)
-**A-GAME | Executive Search** · 📍 Berlin, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/principal-pharma-boutique-strategieberatung-at-a-game-executive-search-4492412596)
-  - Seniority match: 'principal'
-  - Keywords (1): pharma
-  - Location: 'germany'
-
-### 8. ⚪ Director, Product Strategy & Transformation
-**Wolters Kluwer** · 📍 Berlin, Berlin, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-product-strategy-transformation-at-wolters-kluwer-4492147281)
-  - Seniority match: 'director'
+### 5. 🟡 AISI Operations Lead (m/f/d)- AI Strategy, Portfolio & Business Operations
+**AstraZeneca** · 📍 Munich, Bavaria, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/aisi-operations-lead-m-f-d-ai-strategy-portfolio-business-operations-at-astrazeneca-4492530972)
+  - Seniority match: 'lead'
   - Keywords (1): strategy
   - Location: 'germany'
+  - Target company: AstraZeneca Innovation
 
-### 9. ⚪ Sr. Director, Enterprise Sales, Public, Utilities, Life Sciences and Service Provider (PULS) Germany
-**Genesys** · 📍 Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/sr-director-enterprise-sales-public-utilities-life-sciences-and-service-provider-puls-germany-at-genesys-4438305995)
-  - Seniority match: 'director'
-  - Keywords (1): life sciences
-  - Location: 'germany'
-
-### 10. ⚪ Business Development Director – Supply Chain Center of Excellence (CoE)
-**Cognite** · 📍 Frankfurt, Hesse, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/business-development-director-%E2%80%93-supply-chain-center-of-excellence-coe-at-cognite-4475198840)
-  - Seniority match: 'director'
-  - Keywords (1): business development
-  - Location: 'germany'
-
-### 11. ⚪ Director Engineering, Adtech & Marketplace
-**Redcare Pharmacy** · 📍 Cologne, North Rhine-Westphalia, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-engineering-adtech-marketplace-at-redcare-pharmacy-4466250799)
-  - Seniority match: 'director'
-  - Keywords (1): pharma
-  - Location: 'germany'
-
-### 12. ⚪ Director Engineering, Adtech& Marketplace
-**Redcare Pharmacy** · 📍 Berlin, Berlin, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-engineering-adtech-marketplace-at-redcare-pharmacy-4466252857)
-  - Seniority match: 'director'
-  - Keywords (1): pharma
-  - Location: 'germany'
-
-### 13. ⚪ Director Clinical Project Management & Transformation (m/w/d)
-**BIOTRONIK** · 📍 Berlin, Berlin, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-clinical-project-management-transformation-m-w-d-at-biotronik-4491348599)
-  - Seniority match: 'director'
-  - Keywords (1): clinical
-  - Location: 'germany'
-
-### 14. ⚪ Head of D2C Brand Management (m/w/d)
-**Queisser Pharma GmbH & Co. KG** · 📍 Flensburg, Schleswig-Holstein, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-d2c-brand-management-m-w-d-at-queisser-pharma-gmbh-co-kg-4491341570)
+### 6. ⚪ Head of Digital, Pharmaceutical Technical Development - Pharma Technical Operations
+**Genentech** · 📍 Penzberg, Bavaria, Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-digital-pharmaceutical-technical-development-pharma-technical-operations-at-genentech-4475784135)
   - Seniority match: 'head of'
-  - Keywords (1): pharma
+  - Keywords (2): pharma, pharmaceutical
   - Location: 'germany'
 
-### 15. ⚪ Senior Director Business Development Industry EU (all genders)
-**Viega Deutschland** · 📍 Attendorn, North Rhine-Westphalia, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-director-business-development-industry-eu-all-genders-at-viega-deutschland-4491866159)
+### 7. ⚪ Commercial Director (m/w/d) – Digital Health / DiGA
+**Vivira Health Lab** · 📍 Munich, Bavaria, Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/commercial-director-m-w-d-%E2%80%93-digital-health-diga-at-vivira-health-lab-4491662425)
   - Seniority match: 'director'
-  - Keywords (1): business development
+  - Keywords (2): digital health, commercial
   - Location: 'germany'
 
-### 16. ⚪ Regionalleiter Außendienst Neurologie (m/w/d) Region Süd
-**Merz Therapeutics** · 📍 Stuttgart, Baden-Württemberg, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/regionalleiter-au%C3%9Fendienst-neurologie-m-w-d-region-s%C3%BCd-at-merz-therapeutics-4440734899)
-  - Seniority match: 'regional'
-  - Keywords (1): therapeutic
+### 8. ⚪ Commercial Director (m/w/d) – Digital Health / DiGA
+**Vivira Health Lab** · 📍 Berlin, Berlin, Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/commercial-director-m-w-d-%E2%80%93-digital-health-diga-at-vivira-health-lab-4492564760)
+  - Seniority match: 'director'
+  - Keywords (2): digital health, commercial
   - Location: 'germany'
 
-### 17. ⚪ Leiter (m/w/d) Technologie und Innovationsmanagement
-**DVGW Deutscher Verein des Gas- und Wasserfaches** · 📍 Bonn, North Rhine-Westphalia, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/leiter-m-w-d-technologie-und-innovationsmanagement-at-dvgw-deutscher-verein-des-gas-und-wasserfaches-4491347494)
-  - Seniority match: 'leiter'
+### 9. ⚪ Director, Business Development- Quality and Compliance
+**ProPharma** · 📍 Berlin, Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-business-development-quality-and-compliance-at-propharma-4477128962)
+  - Seniority match: 'director'
+  - Keywords (2): pharma, business development
+  - Location: 'germany'
+
+### 10. ⚪ Director Business Development - Biopharma (m/f/d)
+**Fresenius Kabi** · 📍 Bad Homburg, Hesse, Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-business-development-biopharma-m-f-d-at-fresenius-kabi-4491629500)
+  - Seniority match: 'director'
+  - Keywords (2): pharma, business development
+  - Location: 'germany'
+
+### 11. ⚪ Vice President Innovation, R&D (m/f/d)
+**Budenheim** · 📍 Budenheim, Rhineland-Palatinate, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/vice-president-innovation-r-d-m-f-d-at-budenheim-4492750441)
+  - Seniority match: 'vice president'
   - Keywords (1): innovation
   - Location: 'germany'
+
+### 12. ⚪ Director, elluminate Business Development
+**Jobgether** · 📍 Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-elluminate-business-development-at-jobgether-4492531511)
+  - Seniority match: 'director'
+  - Keywords (1): business development
+  - Location: 'germany'
+
+### 13. ⚪ Chief Operating Officer (m/w/d) - Clinical Research Organisation
+**Constares GmbH** · 📍 Frankfurt Rhine-Main Metropolitan Area · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/chief-operating-officer-m-w-d-clinical-research-organisation-at-constares-gmbh-4492188007)
+  - Seniority match: 'chief'
+  - Keywords (1): clinical
+  - Location: 'frankfurt'

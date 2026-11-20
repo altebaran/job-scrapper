@@ -1,65 +1,5 @@
 {
   "seen": {
-    "704ff7921972eebb11ca8f1de8366e6c": {
-      "title": "Commercial Segment Lead B2B SaaS \u2013 Growth / P&L (alle Identit\u00e4ten)",
-      "company": "Caspar Health",
-      "first_seen": "2026-10-21T11:30:44.939411",
-      "score": 65.0
-    },
-    "6863671a7418742411348c72be1e03e5": {
-      "title": "Therapeutic Strategy Lead  - IMM/Cardiology/Oncology - (m/w/d) - Mandarin Speaker",
-      "company": "IQVIA",
-      "first_seen": "2026-10-21T11:30:44.939420",
-      "score": 45.0
-    },
-    "d0b19eaa10483e13ec9a7e01b76cd677": {
-      "title": "Marketing Lead (m/w/d) Diagnostics & Healthcare",
-      "company": "SYNLAB Holding Deutschland GmbH",
-      "first_seen": "2026-10-21T11:30:44.939423",
-      "score": 45.0
-    },
-    "9f97869492eef71f12e4a74db9ed742a": {
-      "title": "Head of Business Development",
-      "company": "Walker Lovell",
-      "first_seen": "2026-10-21T11:30:44.939425",
-      "score": 60.0
-    },
-    "68c800cb2ab232d25678ebd14083744d": {
-      "title": "Head of Operations (m/w/d) - Lich bei Gie\u00dfen",
-      "company": "CEVA Logistics",
-      "first_seen": "2026-10-21T11:30:44.939427",
-      "score": 55.0
-    },
-    "412c8b7d4dd3b385641a1e642b99f678": {
-      "title": "Head of Operations (all genders) in North Germany",
-      "company": "Dott",
-      "first_seen": "2026-10-21T11:30:44.939429",
-      "score": 55.0
-    },
-    "14f488978498e986adc8588743467895": {
-      "title": "Associate Director - Sales Force Effectiveness (m/w/d)",
-      "company": "IQVIA",
-      "first_seen": "2026-10-21T11:30:44.939431",
-      "score": 55.0
-    },
-    "832d6bd8c44aad2eeca6a2f2ed714b8e": {
-      "title": "Director, Pharmacovigilance Alliance Contracting and Management",
-      "company": "Johnson & Johnson Innovative Medicine",
-      "first_seen": "2026-10-21T11:30:44.939432",
-      "score": 40.0
-    },
-    "91b784a6dbadaddab3a0d469c9941be8": {
-      "title": "Head of Media & Business Development Europe - LED-Tunnel",
-      "company": "RheinVision",
-      "first_seen": "2026-10-21T11:30:44.939434",
-      "score": 40.0
-    },
-    "6371de7078fa30e71a184acbbdf9db10": {
-      "title": "Senior Medical Strategy Lead, Clinical Development - Rheumatology (m/w/d)",
-      "company": "IQVIA",
-      "first_seen": "2026-10-21T11:30:44.939436",
-      "score": 45.0
-    },
     "44b6734b1a24f5741ad8e90ad7a37688": {
       "title": "Executive Director, Strategic Delivery & Growth - General Medicine",
       "company": "Fortrea",
@@ -2285,11 +2225,89 @@
       "company": "DVGW Deutscher Verein des Gas- und Wasserfaches",
       "first_seen": "2026-11-19T15:33:08.833075",
       "score": 40.0
+    },
+    "a3e471dd178ef39685979dc61f3fd888": {
+      "title": "Head of Digital, Pharmaceutical Technical Development - Pharma Technical Operations",
+      "company": "Genentech",
+      "first_seen": "2026-11-20T15:11:31.420473",
+      "score": 45.0
+    },
+    "766aca05b369bab2aa84ba54de96a8ce": {
+      "title": "Commercial Director (m/w/d) \u2013 Digital Health / DiGA",
+      "company": "Vivira Health Lab",
+      "first_seen": "2026-11-20T15:11:31.420487",
+      "score": 45.0
+    },
+    "888f606aaebf2be168adda1caa35cac2": {
+      "title": "Commercial Director (m/w/d) \u2013 Digital Health / DiGA",
+      "company": "Vivira Health Lab",
+      "first_seen": "2026-11-20T15:11:31.420489",
+      "score": 45.0
+    },
+    "a325a9ce99b2bab25e9718e08b461b47": {
+      "title": "Vice President Innovation, R&D (m/f/d)",
+      "company": "Budenheim",
+      "first_seen": "2026-11-20T15:11:31.420491",
+      "score": 40.0
+    },
+    "9f8e549b13536754b389d28c13fd20ef": {
+      "title": "Teamlead Product Management - Image to Report Host (w/m/d)",
+      "company": "Siemens Healthineers",
+      "first_seen": "2026-11-20T15:11:31.420492",
+      "score": 55.0
+    },
+    "54e381bc28332239a3edc23185cb0a00": {
+      "title": "Director, Business Development- Quality and Compliance",
+      "company": "ProPharma",
+      "first_seen": "2026-11-20T15:11:31.420493",
+      "score": 45.0
+    },
+    "dd12e59b6f00bb5fd51f64d51e2956a5": {
+      "title": "Director, elluminate Business Development",
+      "company": "Jobgether",
+      "first_seen": "2026-11-20T15:11:31.420495",
+      "score": 40.0
+    },
+    "e9468cff60c0287881d25f893fa5ddc8": {
+      "title": "Director Business Development - Biopharma (m/f/d)",
+      "company": "Fresenius Kabi",
+      "first_seen": "2026-11-20T15:11:31.420496",
+      "score": 45.0
+    },
+    "86e7cf63c8dcb027a4d287a4acb04e76": {
+      "title": "Chief Operating Officer (m/w/d) - Clinical Research Organisation",
+      "company": "Constares GmbH",
+      "first_seen": "2026-11-20T15:11:31.420497",
+      "score": 40.0
+    },
+    "4aadad836824a95230fcf0aa421d59d3": {
+      "title": "Head of Operations (m/w/x)",
+      "company": "Instaffo",
+      "first_seen": "2026-11-20T15:11:31.420499",
+      "score": 55.0
+    },
+    "f13adb32fb4837f86f472684f48f6cb6": {
+      "title": "Head of Operations (m/w/d)",
+      "company": "gocomo",
+      "first_seen": "2026-11-20T15:11:31.420501",
+      "score": 55.0
+    },
+    "ab5a415c6a1e6e15fae6c2b16a38c231": {
+      "title": "Senior Manager/Associate Director - Commercial Excellence (1260)",
+      "company": "Axtria - Ingenious Insights",
+      "first_seen": "2026-11-20T15:11:31.420502",
+      "score": 60.0
+    },
+    "bea75dc5e2b100fc824df956f91c6732": {
+      "title": "AISI Operations Lead (m/f/d)- AI Strategy, Portfolio & Business Operations",
+      "company": "AstraZeneca",
+      "first_seen": "2026-11-20T15:11:31.420503",
+      "score": 55.0
     }
   },
-  "last_run": "2026-11-19T15:33:08.833080",
+  "last_run": "2026-11-20T15:11:31.420509",
   "stats": {
-    "total_seen": 381,
-    "total_reported": 2083
+    "total_seen": 384,
+    "total_reported": 2096
   }
 }
