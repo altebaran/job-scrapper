@@ -1,71 +1,5 @@
 {
   "seen": {
-    "44b6734b1a24f5741ad8e90ad7a37688": {
-      "title": "Executive Director, Strategic Delivery & Growth - General Medicine",
-      "company": "Fortrea",
-      "first_seen": "2026-10-22T11:32:06.124291",
-      "score": 40.0
-    },
-    "44d8c31440b84d02a17b9898ba7a8aec": {
-      "title": "European Business Development Director",
-      "company": "Caldera Medical",
-      "first_seen": "2026-10-22T11:32:06.124301",
-      "score": 40.0
-    },
-    "1b2159d768c3cd7a2b06545cb21b2764": {
-      "title": "Business Development Director - Micronization",
-      "company": "Catalent",
-      "first_seen": "2026-10-22T11:32:06.124303",
-      "score": 40.0
-    },
-    "8c6f888698064be0d75ba071b8515b67": {
-      "title": "Venture Building and Commercial Lead (m/f/d)",
-      "company": "BugSense Diagnostics",
-      "first_seen": "2026-10-22T11:32:06.124305",
-      "score": 50.0
-    },
-    "798df28c9eead4e6b8f1fd35da08a5f8": {
-      "title": "Head of Operations (m/w/d)",
-      "company": "altona Analytics GmbH",
-      "first_seen": "2026-10-22T11:32:06.124307",
-      "score": 55.0
-    },
-    "c63d9924116bfe4e87798251bf483dad": {
-      "title": "General Manager",
-      "company": "ALS",
-      "first_seen": "2026-10-22T11:32:06.124310",
-      "score": 55.0
-    },
-    "575159730bbb98bbd9b1c3bf4608f434": {
-      "title": "Director Clinical Project Management & Transformation (m/w/d)",
-      "company": "BIOTRONIK",
-      "first_seen": "2026-10-22T11:32:06.124319",
-      "score": 40.0
-    },
-    "2c3995b33a83dd8d56899fda50ce9c67": {
-      "title": "Head of D2C Brand Management (m/w/d)",
-      "company": "Queisser Pharma GmbH & Co. KG",
-      "first_seen": "2026-10-22T11:32:06.124321",
-      "score": 40.0
-    },
-    "ff9a46c531ffe8ca18c8b84538c16401": {
-      "title": "Head of M&A and Business Development (w/m/d)",
-      "company": "Eppendorf",
-      "first_seen": "2026-10-22T11:32:06.124323",
-      "score": 40.0
-    },
-    "7148de3e0f26c3ff3f5122c8ec083cac": {
-      "title": "Head of Engineering & Innovation (m/w/d)",
-      "company": "HAGER Executive Consulting GmbH",
-      "first_seen": "2026-10-22T11:32:06.124325",
-      "score": 40.0
-    },
-    "bf81c5cca9f381e2b18907c207991365": {
-      "title": "Device Lead",
-      "company": "Boehringer Ingelheim",
-      "first_seen": "2026-10-22T11:32:06.124326",
-      "score": 50.0
-    },
     "2c9d970ce66ca5f952353218cf31453d": {
       "title": "SVP Sales & Industry Solutions, Europe",
       "company": "Topcon Healthcare",
@@ -2303,11 +2237,65 @@
       "company": "AstraZeneca",
       "first_seen": "2026-11-20T15:11:31.420503",
       "score": 55.0
+    },
+    "23351cdb8e766cf4dfb40ea9e3f269ff": {
+      "title": "Head of Product Management & Workflow Management REF (m/f/x)",
+      "company": "ZEISS Group",
+      "first_seen": "2026-11-21T14:30:04.628704",
+      "score": 60.0
+    },
+    "4fda4fa7a088656385136d56ffd3355f": {
+      "title": "Head of Product Group Chromatography Consumables (x|f|m)",
+      "company": "Sartorius",
+      "first_seen": "2026-11-21T14:30:04.628718",
+      "score": 55.0
+    },
+    "8aa559252cd3d234f36686355f312f02": {
+      "title": "Associate Director - Digital Engagement Germany Hub",
+      "company": "Eli Lilly and Company",
+      "first_seen": "2026-11-21T14:30:04.628720",
+      "score": 55.0
+    },
+    "1fe2e3c8c4850c2cfc0e280d5160955c": {
+      "title": "Associate Director, Marketing Oncology - Germany",
+      "company": "Genmab",
+      "first_seen": "2026-11-21T14:30:04.628722",
+      "score": 55.0
+    },
+    "61607267812139eacc86c384aa15751c": {
+      "title": "Head of Data Operations, Systems & Standards - Clinical Data, Patient Safety",
+      "company": "Sandoz in Deutschland",
+      "first_seen": "2026-11-21T14:30:04.628723",
+      "score": 45.0
+    },
+    "39ea088426e5b5afedd04e32159187aa": {
+      "title": "Country Cluster Lead - Endocrinology and Metabolic Health - Eastern Europe",
+      "company": "Syneos Health Commercial Solutions",
+      "first_seen": "2026-11-21T14:30:04.628725",
+      "score": 40.0
+    },
+    "a543a9579c96dddb18bf27515f553a6f": {
+      "title": "Country Cluster Lead - Endocrinology and Metabolic Health - Eastern Europe",
+      "company": "Syneos Health Commercial Solutions",
+      "first_seen": "2026-11-21T14:30:04.628727",
+      "score": 40.0
+    },
+    "5e1153aa4a6fab2232fa299f4c4bfed1": {
+      "title": "Head of Sales and Business Development \u2013 DACH & Nordics (f/m/d)",
+      "company": "CSEE DE",
+      "first_seen": "2026-11-21T14:30:04.628728",
+      "score": 40.0
+    },
+    "321c9bac1a2a8923b47c4d56adf186bd": {
+      "title": "Strategic Partnerships Lead (all genders)",
+      "company": "getolo",
+      "first_seen": "2026-11-21T14:30:04.628730",
+      "score": 40.0
     }
   },
-  "last_run": "2026-11-20T15:11:31.420509",
+  "last_run": "2026-11-21T14:30:04.628736",
   "stats": {
-    "total_seen": 384,
-    "total_reported": 2096
+    "total_seen": 382,
+    "total_reported": 2105
   }
 }
