@@ -1,65 +1,74 @@
-# 🎯 Daily Job Report — 2026-11-21
+# 🎯 Daily Job Report — 2026-11-22
 
-**9** new matches | **0** high relevance
+**10** new matches | **0** high relevance
 
 ---
 
-### 1. 🟡 Head of Product Management & Workflow Management REF (m/f/x)
-**ZEISS Group** · 📍 Erfurt, Thuringia, Germany · Score: 60/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-product-management-workflow-management-ref-m-f-x-at-zeiss-group-4491964596)
-  - Title match: 'head of product'
-  - Keywords (1): product management
+### 1. 🟡 Head of Operations (m/w/d)
+**altona Analytics GmbH** · 📍 Hamburg, Hamburg, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-operations-m-w-d-at-altona-analytics-gmbh-4492359213)
+  - Title match: 'head of operations'
   - Location: 'germany'
 
-### 2. 🟡 Head of Product Group Chromatography Consumables (x|f|m)
-**Sartorius** · 📍 Göttingen, Lower Saxony, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-product-group-chromatography-consumables-x-f-m-at-sartorius-4492960989)
-  - Title match: 'head of product'
+### 2. 🟡 Director Health Policy (m/w/d)
+**Roche** · 📍 Berlin, Berlin, Germany · Score: 50/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-health-policy-m-w-d-at-roche-4477831103)
+  - Seniority match: 'director'
+  - Location: 'germany'
+  - Target company: Roche Digital Health
+
+### 3. ⚪ (Senior) Director / Vice President Life Sciences Germany (m/w/d)
+**Capgemini Invent** · 📍 Hamburg, Hamburg, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-director-vice-president-life-sciences-germany-m-w-d-at-capgemini-invent-4493305091)
+  - Seniority match: 'director'
+  - Keywords (1): life sciences
   - Location: 'germany'
 
-### 3. 🟡 Associate Director - Digital Engagement Germany Hub
-**Eli Lilly and Company** · 📍 Bad Homburg, Hesse, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-digital-engagement-germany-hub-at-eli-lilly-and-company-4492968238)
-  - Title match: 'associate director'
+### 4. ⚪ (Senior) Director / Vice President Life Sciences Germany (m/w/d)
+**Capgemini Invent** · 📍 Munich, Bavaria, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-director-vice-president-life-sciences-germany-m-w-d-at-capgemini-invent-4493293416)
+  - Seniority match: 'director'
+  - Keywords (1): life sciences
   - Location: 'germany'
 
-### 4. 🟡 Associate Director, Marketing Oncology - Germany
-**Genmab** · 📍 Munich, Bavaria, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-marketing-oncology-germany-at-genmab-4475994223)
-  - Title match: 'associate director'
+### 5. ⚪ Commercial Director - NRW (m/f/d)
+**Sanoptis** · 📍 North Rhine-Westphalia, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/commercial-director-nrw-m-f-d-at-sanoptis-4469153291)
+  - Seniority match: 'director'
+  - Keywords (1): commercial
   - Location: 'germany'
 
-### 5. ⚪ Head of Data Operations, Systems & Standards - Clinical Data, Patient Safety
-**Sandoz in Deutschland** · 📍 Holzkirchen, Bavaria, Germany · Score: 45/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-data-operations-systems-standards-clinical-data-patient-safety-at-sandoz-in-deutschland-4492967513)
+### 6. ⚪ (Senior) Director / Vice President Life Sciences Germany (m/w/d)
+**Capgemini Invent** · 📍 Berlin, Berlin, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-director-vice-president-life-sciences-germany-m-w-d-at-capgemini-invent-4493308029)
+  - Seniority match: 'director'
+  - Keywords (1): life sciences
+  - Location: 'germany'
+
+### 7. ⚪ Head of EU B2B Growth
+**Leatherman** · 📍 Ratingen, North Rhine-Westphalia, Germany · Score: 40/100
+🔗 [LinkedIn]()
   - Seniority match: 'head of'
-  - Keywords (2): clinical, patient
+  - Keywords (1): growth
   - Location: 'germany'
 
-### 6. ⚪ Country Cluster Lead - Endocrinology and Metabolic Health - Eastern Europe
-**Syneos Health Commercial Solutions** · 📍 Stuttgart, Baden-Württemberg, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/country-cluster-lead-endocrinology-and-metabolic-health-eastern-europe-at-syneos-health-commercial-solutions-4492957192)
-  - Seniority match: 'lead'
-  - Keywords (1): commercial
+### 8. ⚪ (Senior) Director / Vice President Life Sciences Germany (m/w/d)
+**Capgemini Invent** · 📍 Stuttgart, Baden-Württemberg, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-director-vice-president-life-sciences-germany-m-w-d-at-capgemini-invent-4493308030)
+  - Seniority match: 'director'
+  - Keywords (1): life sciences
   - Location: 'germany'
 
-### 7. ⚪ Country Cluster Lead - Endocrinology and Metabolic Health - Eastern Europe
-**Syneos Health Commercial Solutions** · 📍 Munich, Bavaria, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/country-cluster-lead-endocrinology-and-metabolic-health-eastern-europe-at-syneos-health-commercial-solutions-4492962134)
-  - Seniority match: 'lead'
-  - Keywords (1): commercial
+### 9. ⚪ (Senior) Director / Vice President Life Sciences Germany (m/w/d)
+**Capgemini Invent** · 📍 Cologne, North Rhine-Westphalia, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-director-vice-president-life-sciences-germany-m-w-d-at-capgemini-invent-4493294383)
+  - Seniority match: 'director'
+  - Keywords (1): life sciences
   - Location: 'germany'
 
-### 8. ⚪ Head of Sales and Business Development – DACH & Nordics (f/m/d)
-**CSEE DE** · 📍 Munich, Bavaria, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-sales-and-business-development-%E2%80%93-dach-nordics-f-m-d-at-csee-de-4491945528)
+### 10. ⚪ Head of Media & Business Development Europe - LED-Tunnel
+**RheinVision** · 📍 Düsseldorf, North Rhine-Westphalia, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-media-business-development-europe-led-tunnel-at-rheinvision-4479539098)
   - Seniority match: 'head of'
   - Keywords (1): business development
-  - Location: 'germany'
-
-### 9. ⚪ Strategic Partnerships Lead (all genders)
-**getolo** · 📍 Berlin, Berlin, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/strategic-partnerships-lead-all-genders-at-getolo-4492599934)
-  - Seniority match: 'lead'
-  - Keywords (1): partnerships
   - Location: 'germany'
