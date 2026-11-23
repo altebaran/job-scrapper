@@ -1,74 +1,65 @@
-# 🎯 Daily Job Report — 2026-11-22
+# 🎯 Daily Job Report — 2026-11-23
 
-**10** new matches | **0** high relevance
+**9** new matches | **0** high relevance
 
 ---
 
-### 1. 🟡 Head of Operations (m/w/d)
-**altona Analytics GmbH** · 📍 Hamburg, Hamburg, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-operations-m-w-d-at-altona-analytics-gmbh-4492359213)
+### 1. 🟡 Head of Product and Strategy | ROB'E
+**NLC Health Ventures** · 📍 Hamburg, Hamburg, Germany · Score: 65/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-product-and-strategy-rob-e-at-nlc-health-ventures-4410154378)
+  - Title match: 'head of product'
+  - Keywords (2): strategy, venture
+  - Location: 'germany'
+
+### 2. 🟡 Chief of Staff to the CEO – FUTRUE Group
+**FUTRUE** · 📍 Munich, Bavaria, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/chief-of-staff-to-the-ceo-%E2%80%93-futrue-group-at-futrue-4487159436)
+  - Title match: 'chief of staff'
+  - Location: 'germany'
+
+### 3. 🟡 Head of Operations - Administration (all genders)
+**Lingoda GmbH** · 📍 Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-operations-administration-all-genders-at-lingoda-gmbh-4492393909)
   - Title match: 'head of operations'
   - Location: 'germany'
 
-### 2. 🟡 Director Health Policy (m/w/d)
-**Roche** · 📍 Berlin, Berlin, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-health-policy-m-w-d-at-roche-4477831103)
-  - Seniority match: 'director'
+### 4. 🟡 Associate Director, Enterprise Transformation Office (STEP) (m/w/d)
+**Sandoz in Deutschland** · 📍 Holzkirchen, Bavaria, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-enterprise-transformation-office-step-m-w-d-at-sandoz-in-deutschland-4493683279)
+  - Title match: 'associate director'
+  - Location: 'germany'
+
+### 5. 🟡 Senior DMPK-PD Project Leader
+**Roche** · 📍 Penzberg, Bavaria, Germany · Score: 50/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-dmpk-pd-project-leader-at-roche-4450090708)
+  - Seniority match: 'lead'
   - Location: 'germany'
   - Target company: Roche Digital Health
 
-### 3. ⚪ (Senior) Director / Vice President Life Sciences Germany (m/w/d)
-**Capgemini Invent** · 📍 Hamburg, Hamburg, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-director-vice-president-life-sciences-germany-m-w-d-at-capgemini-invent-4493305091)
-  - Seniority match: 'director'
-  - Keywords (1): life sciences
+### 6. ⚪ Go-to-Market Lead Life Science (w/m/d)
+**Capgemini** · 📍 Berlin, Berlin, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/go-to-market-lead-life-science-w-m-d-at-capgemini-4493669987)
+  - Seniority match: 'lead'
+  - Keywords (1): go-to-market
   - Location: 'germany'
 
-### 4. ⚪ (Senior) Director / Vice President Life Sciences Germany (m/w/d)
-**Capgemini Invent** · 📍 Munich, Bavaria, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-director-vice-president-life-sciences-germany-m-w-d-at-capgemini-invent-4493293416)
-  - Seniority match: 'director'
-  - Keywords (1): life sciences
+### 7. ⚪ Senior Manager - Business Platforms (m/f/d)
+**Redcare Pharmacy** · 📍 Cologne, North Rhine-Westphalia, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-manager-business-platforms-m-f-d-at-redcare-pharmacy-4476000780)
+  - Seniority match: 'senior manager'
+  - Keywords (1): pharma
   - Location: 'germany'
 
-### 5. ⚪ Commercial Director - NRW (m/f/d)
-**Sanoptis** · 📍 North Rhine-Westphalia, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/commercial-director-nrw-m-f-d-at-sanoptis-4469153291)
-  - Seniority match: 'director'
-  - Keywords (1): commercial
-  - Location: 'germany'
-
-### 6. ⚪ (Senior) Director / Vice President Life Sciences Germany (m/w/d)
-**Capgemini Invent** · 📍 Berlin, Berlin, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-director-vice-president-life-sciences-germany-m-w-d-at-capgemini-invent-4493308029)
-  - Seniority match: 'director'
-  - Keywords (1): life sciences
-  - Location: 'germany'
-
-### 7. ⚪ Head of EU B2B Growth
-**Leatherman** · 📍 Ratingen, North Rhine-Westphalia, Germany · Score: 40/100
-🔗 [LinkedIn]()
+### 8. ⚪ Head of Cloud Growth (m/w/d)
+**secunet Security Networks AG** · 📍 Essen, North Rhine-Westphalia, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-cloud-growth-m-w-d-at-secunet-security-networks-ag-4492631127)
   - Seniority match: 'head of'
   - Keywords (1): growth
   - Location: 'germany'
 
-### 8. ⚪ (Senior) Director / Vice President Life Sciences Germany (m/w/d)
-**Capgemini Invent** · 📍 Stuttgart, Baden-Württemberg, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-director-vice-president-life-sciences-germany-m-w-d-at-capgemini-invent-4493308030)
-  - Seniority match: 'director'
-  - Keywords (1): life sciences
-  - Location: 'germany'
-
-### 9. ⚪ (Senior) Director / Vice President Life Sciences Germany (m/w/d)
-**Capgemini Invent** · 📍 Cologne, North Rhine-Westphalia, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-director-vice-president-life-sciences-germany-m-w-d-at-capgemini-invent-4493294383)
-  - Seniority match: 'director'
-  - Keywords (1): life sciences
-  - Location: 'germany'
-
-### 10. ⚪ Head of Media & Business Development Europe - LED-Tunnel
-**RheinVision** · 📍 Düsseldorf, North Rhine-Westphalia, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-media-business-development-europe-led-tunnel-at-rheinvision-4479539098)
+### 9. ⚪ Head of Cloud Growth (m/w/d)
+**secunet Security Networks AG** · 📍 Munich, Bavaria, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-cloud-growth-m-w-d-at-secunet-security-networks-ag-4492617707)
   - Seniority match: 'head of'
-  - Keywords (1): business development
+  - Keywords (1): growth
   - Location: 'germany'
