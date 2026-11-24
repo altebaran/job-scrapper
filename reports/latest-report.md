@@ -1,65 +1,44 @@
-# 🎯 Daily Job Report — 2026-11-23
+# 🎯 Daily Job Report — 2026-11-24
 
-**9** new matches | **0** high relevance
+**6** new matches | **0** high relevance
 
 ---
 
-### 1. 🟡 Head of Product and Strategy | ROB'E
-**NLC Health Ventures** · 📍 Hamburg, Hamburg, Germany · Score: 65/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-product-and-strategy-rob-e-at-nlc-health-ventures-4410154378)
-  - Title match: 'head of product'
-  - Keywords (2): strategy, venture
+### 1. 🟡 General Manager:in
+**Lovebetter Gesellschaft für männliche Sexualität** · 📍 Berlin, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/general-manager-in-at-lovebetter-gesellschaft-f%C3%BCr-m%C3%A4nnliche-sexualit%C3%A4t-4493012973)
+  - Title match: 'general manager'
   - Location: 'germany'
 
-### 2. 🟡 Chief of Staff to the CEO – FUTRUE Group
-**FUTRUE** · 📍 Munich, Bavaria, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/chief-of-staff-to-the-ceo-%E2%80%93-futrue-group-at-futrue-4487159436)
-  - Title match: 'chief of staff'
+### 2. 🟡 COUNTRY MANAGER EN ALEMANIA
+**ISPROX** · 📍 Frankfurt am Main, Hesse, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/country-manager-en-alemania-at-isprox-4493001079)
+  - Title match: 'country manager'
   - Location: 'germany'
 
-### 3. 🟡 Head of Operations - Administration (all genders)
-**Lingoda GmbH** · 📍 Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-operations-administration-all-genders-at-lingoda-gmbh-4492393909)
-  - Title match: 'head of operations'
+### 3. 🟡 General Manager EMEA - Industrial AI & Enterprise Software
+**Robert Vos International** · 📍 Munich, Bavaria, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/general-manager-emea-industrial-ai-enterprise-software-at-robert-vos-international-4494116550)
+  - Title match: 'general manager'
   - Location: 'germany'
 
-### 4. 🟡 Associate Director, Enterprise Transformation Office (STEP) (m/w/d)
-**Sandoz in Deutschland** · 📍 Holzkirchen, Bavaria, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-enterprise-transformation-office-step-m-w-d-at-sandoz-in-deutschland-4493683279)
-  - Title match: 'associate director'
+### 4. ⚪ Senior Manager / Director Data & AI Strategieberatung – Life Sciences & MedTech (w/m/d)
+**BRINK Group** · 📍 Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-manager-director-data-ai-strategieberatung-%E2%80%93-life-sciences-medtech-w-m-d-at-brink-group-4492694659)
+  - Seniority match: 'director'
+  - Keywords (2): medtech, life sciences
   - Location: 'germany'
 
-### 5. 🟡 Senior DMPK-PD Project Leader
-**Roche** · 📍 Penzberg, Bavaria, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-dmpk-pd-project-leader-at-roche-4450090708)
-  - Seniority match: 'lead'
-  - Location: 'germany'
-  - Target company: Roche Digital Health
-
-### 6. ⚪ Go-to-Market Lead Life Science (w/m/d)
-**Capgemini** · 📍 Berlin, Berlin, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/go-to-market-lead-life-science-w-m-d-at-capgemini-4493669987)
-  - Seniority match: 'lead'
-  - Keywords (1): go-to-market
-  - Location: 'germany'
-
-### 7. ⚪ Senior Manager - Business Platforms (m/f/d)
-**Redcare Pharmacy** · 📍 Cologne, North Rhine-Westphalia, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-manager-business-platforms-m-f-d-at-redcare-pharmacy-4476000780)
-  - Seniority match: 'senior manager'
-  - Keywords (1): pharma
-  - Location: 'germany'
-
-### 8. ⚪ Head of Cloud Growth (m/w/d)
-**secunet Security Networks AG** · 📍 Essen, North Rhine-Westphalia, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-cloud-growth-m-w-d-at-secunet-security-networks-ag-4492631127)
+### 5. ⚪ Head of Marketing  (m/w/d)
+**QUIRIS Healthcare GmbH & Co. KG** · 📍 Gütersloh, North Rhine-Westphalia, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-marketing-m-w-d-at-quiris-healthcare-gmbh-co-kg-4415260541)
   - Seniority match: 'head of'
-  - Keywords (1): growth
+  - Keywords (1): healthcare
   - Location: 'germany'
 
-### 9. ⚪ Head of Cloud Growth (m/w/d)
-**secunet Security Networks AG** · 📍 Munich, Bavaria, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-cloud-growth-m-w-d-at-secunet-security-networks-ag-4492617707)
-  - Seniority match: 'head of'
-  - Keywords (1): growth
+### 6. ⚪ Director Business Development Protein (m/w/d)
+**ProBioGen AG** · 📍 Berlin, Berlin, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-business-development-protein-m-w-d-at-probiogen-ag-4493022689)
+  - Seniority match: 'director'
+  - Keywords (1): business development
   - Location: 'germany'

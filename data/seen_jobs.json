@@ -1,53 +1,5 @@
 {
   "seen": {
-    "96a4a69130e473f7c50d80e4eae1a432": {
-      "title": "Head of Marketing - B2B SaaS Growth - Healthcare/ Start-Up- Hybrid",
-      "company": "Mediform",
-      "first_seen": "2026-10-25T11:04:53.722881",
-      "score": 45.0
-    },
-    "062784bb14c1c301ac8d8211bef064bf": {
-      "title": "Director Clinical Project Management & Transformation (m/w/d)",
-      "company": "BIOTRONIK",
-      "first_seen": "2026-10-25T11:04:53.722888",
-      "score": 40.0
-    },
-    "c0d660a0188b6927492b404f8322bb5d": {
-      "title": "Head of D2C Brand Management (m/w/d)",
-      "company": "Queisser Pharma GmbH & Co. KG",
-      "first_seen": "2026-10-25T11:04:53.722890",
-      "score": 40.0
-    },
-    "dbde8733b9f285963c6213effa51ada6": {
-      "title": "Head of Commercial (m/f/d)",
-      "company": "Tentamus Pharma & Med Deutschland GmbH",
-      "first_seen": "2026-10-25T11:04:53.722891",
-      "score": 65.0
-    },
-    "19418620d20727e641b8eb10bc616f70": {
-      "title": "Sales Director Rare Disease Commercial EU4+UK Region",
-      "company": "Regeneron",
-      "first_seen": "2026-10-25T11:04:53.722892",
-      "score": 40.0
-    },
-    "a14f6e21d38f1b28d4365ef664ac4c92": {
-      "title": "Head of Operations (m/w/d)",
-      "company": "altona Analytics GmbH",
-      "first_seen": "2026-10-25T11:04:53.722893",
-      "score": 55.0
-    },
-    "697bdcbb86ba4f5a294cb7e0bf9ae2a2": {
-      "title": "Head Of Operations (all genders)",
-      "company": "Instaffo",
-      "first_seen": "2026-10-25T11:04:53.722895",
-      "score": 55.0
-    },
-    "b04a714dc1c3a123bb742044fe3ebe12": {
-      "title": "General Manager, DACH",
-      "company": "Notion",
-      "first_seen": "2026-10-25T11:04:53.722896",
-      "score": 55.0
-    },
     "9cafe8def0f543d57c8820766abb8046": {
       "title": "Chief Commercial Officer",
       "company": "WhyBrilliant",
@@ -2225,11 +2177,47 @@
       "company": "Roche",
       "first_seen": "2026-11-23T17:48:26.003902",
       "score": 50.0
+    },
+    "b6cdc7704acc292d00d2ad2e8db57a49": {
+      "title": "Senior Manager / Director Data & AI Strategieberatung \u2013 Life Sciences & MedTech (w/m/d)",
+      "company": "BRINK Group",
+      "first_seen": "2026-11-24T17:21:20.755006",
+      "score": 45.0
+    },
+    "3d66d1379792fdc9e259c8fce3df7866": {
+      "title": "General Manager:in",
+      "company": "Lovebetter Gesellschaft f\u00fcr m\u00e4nnliche Sexualit\u00e4t",
+      "first_seen": "2026-11-24T17:21:20.755019",
+      "score": 55.0
+    },
+    "c0c16361e2a9267230ab7ad8a18f3558": {
+      "title": "Head of Marketing  (m/w/d)",
+      "company": "QUIRIS Healthcare GmbH & Co. KG",
+      "first_seen": "2026-11-24T17:21:20.755022",
+      "score": 40.0
+    },
+    "9b21da9292ae78a4492da512e8dea068": {
+      "title": "COUNTRY MANAGER EN ALEMANIA",
+      "company": "ISPROX",
+      "first_seen": "2026-11-24T17:21:20.755025",
+      "score": 55.0
+    },
+    "385b2b3d66f3cbf4d15108251e44d933": {
+      "title": "Director Business Development Protein (m/w/d)",
+      "company": "ProBioGen AG",
+      "first_seen": "2026-11-24T17:21:20.755027",
+      "score": 40.0
+    },
+    "d632e5173e40b8222f0bca72622ac8fb": {
+      "title": "General Manager EMEA - Industrial AI & Enterprise Software",
+      "company": "Robert Vos International",
+      "first_seen": "2026-11-24T17:21:20.755029",
+      "score": 55.0
     }
   },
-  "last_run": "2026-11-23T17:48:26.003909",
+  "last_run": "2026-11-24T17:21:20.755039",
   "stats": {
-    "total_seen": 371,
-    "total_reported": 2124
+    "total_seen": 369,
+    "total_reported": 2130
   }
 }
