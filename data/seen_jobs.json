@@ -1,71 +1,5 @@
 {
   "seen": {
-    "f8a057c11160b6efc40a610b3c00e749": {
-      "title": "Commercial Director",
-      "company": "Exploris Health AG",
-      "first_seen": "2026-10-27T11:55:37.543647",
-      "score": 40.0
-    },
-    "bec5ddf1320b5f4040338eed4b4d4221": {
-      "title": "Management Director",
-      "company": "Meet Life Sciences",
-      "first_seen": "2026-10-27T11:55:37.543664",
-      "score": 40.0
-    },
-    "a5ce7c62173c7342342d3821be6c8e8c": {
-      "title": "Head of Operations Manager (m/w/d)  \u00b7 Remote",
-      "company": "Evolve Digital GmbH",
-      "first_seen": "2026-10-27T11:55:37.543668",
-      "score": 55.0
-    },
-    "408dd7fd1c511fe4853150b4b64bbcf9": {
-      "title": "COUNTRY MANAGER EN ALEMANIA",
-      "company": "ISPROX",
-      "first_seen": "2026-10-27T11:55:37.543671",
-      "score": 55.0
-    },
-    "5d39e9b5b91e231a0492ef9428998e93": {
-      "title": "Head of Operations (m/w/d)",
-      "company": "Bempflinger Lebensmittel",
-      "first_seen": "2026-10-27T11:55:37.543674",
-      "score": 55.0
-    },
-    "76609499be65439fb6ecce10a02d478f": {
-      "title": "Associate Director (m/f/d), EU Digital S&T Lead",
-      "company": "MSD Deutschland",
-      "first_seen": "2026-10-27T11:55:37.543677",
-      "score": 55.0
-    },
-    "14e8a76130cb2aa35e2793e9af6e2adb": {
-      "title": "Head of Data Strategy, Analytics & Engineering (m/w/d)",
-      "company": "Dr. Ausb\u00fcttel GmbH & Co. KG",
-      "first_seen": "2026-10-27T11:55:37.543680",
-      "score": 40.0
-    },
-    "648d3e1e2bbaa6015ba46ebc88854c6f": {
-      "title": "Head of Digital Growth & E-Commerce \u2013 D2C / Health & Wellness (w/m/d)",
-      "company": "Right Search",
-      "first_seen": "2026-10-27T11:55:37.543683",
-      "score": 40.0
-    },
-    "379a1569f3db4e032421c8103e5d591e": {
-      "title": "Senior Manager Quality Assurance Telematik und ePrescription (m/w/d)",
-      "company": "Redcare Pharmacy",
-      "first_seen": "2026-10-27T11:55:37.543686",
-      "score": 40.0
-    },
-    "d6fcbc6c208713c0c06df07a8e0d4fe2": {
-      "title": "Franchise Lead (m/w/d) Breast Cancer",
-      "company": "AstraZeneca",
-      "first_seen": "2026-10-27T11:55:37.543688",
-      "score": 50.0
-    },
-    "433273253f16f60ce1d1dc07e7bab3f9": {
-      "title": "CareersExplore opportunities to join our team and help tackle some of healthcare\u2019s most complex challenges.",
-      "company": "Aidence",
-      "first_seen": "2026-10-27T11:55:37.543691",
-      "score": 40.0
-    },
     "80f3f1fb86083554005671907a98aa33": {
       "title": "Vice President Strategy (all genders)",
       "company": "Bayer",
@@ -2183,11 +2117,65 @@
       "company": "AstraZeneca Innovation",
       "first_seen": "2026-11-25T17:02:13.245137",
       "score": 40.0
+    },
+    "0116df5e8d83e5c365263a3769f1ff50": {
+      "title": "Head of Product Commercial Unit (m/w/d)",
+      "company": "CompuGroup Medical SE & Co. KGaA",
+      "first_seen": "2026-11-26T16:41:28.838058",
+      "score": 60.0
+    },
+    "f8bf1a23913554cbdea3f57fd4b7f44f": {
+      "title": "Director Tech Strategy & GenAI \u2013 Healthcare & Life Sciences (m/f/d)",
+      "company": "Simon-Kucher",
+      "first_seen": "2026-11-26T16:41:28.838068",
+      "score": 50.0
+    },
+    "cabd33e9b8d4b33b9e1784cf176871a7": {
+      "title": "Director Tech Strategy & GenAI \u2013 Healthcare & Life Sciences (m/f/d)",
+      "company": "Simon-Kucher",
+      "first_seen": "2026-11-26T16:41:28.838070",
+      "score": 50.0
+    },
+    "558750fdfa0582a75d2b6b70674b8af0": {
+      "title": "Head of Product Commercial Unit (m/w/d) - Jobbird.com",
+      "company": "Jobster",
+      "first_seen": "2026-11-26T16:41:28.838072",
+      "score": 60.0
+    },
+    "cc4610b1664e23f242d3cccdd318edca": {
+      "title": "Strategy Lead, Health",
+      "company": "Allianz Partners",
+      "first_seen": "2026-11-26T16:41:28.838073",
+      "score": 40.0
+    },
+    "a322ac951cae5325c1ef4ab42d7336b7": {
+      "title": "Senior Director of Operations",
+      "company": "Ovation Search",
+      "first_seen": "2026-11-26T16:41:28.838075",
+      "score": 55.0
+    },
+    "a30b8a1340a0c0d6e3d00e591716dafc": {
+      "title": "Senior Director, Business Development",
+      "company": "PSI CRO",
+      "first_seen": "2026-11-26T16:41:28.838076",
+      "score": 40.0
+    },
+    "18d48884c97d0e48a8d5bb029b6236e9": {
+      "title": "Director Business Development Protein (m/f/d)",
+      "company": "ProBioGen AG",
+      "first_seen": "2026-11-26T16:41:28.838078",
+      "score": 40.0
+    },
+    "433273253f16f60ce1d1dc07e7bab3f9": {
+      "title": "CareersExplore opportunities to join our team and help tackle some of healthcare\u2019s most complex challenges.",
+      "company": "Aidence",
+      "first_seen": "2026-11-26T16:41:28.838079",
+      "score": 40.0
     }
   },
-  "last_run": "2026-11-25T17:02:13.245142",
+  "last_run": "2026-11-26T16:41:28.838083",
   "stats": {
-    "total_seen": 364,
-    "total_reported": 2153
+    "total_seen": 362,
+    "total_reported": 2162
   }
 }
