@@ -1,53 +1,5 @@
 {
   "seen": {
-    "80f3f1fb86083554005671907a98aa33": {
-      "title": "Vice President Strategy (all genders)",
-      "company": "Bayer",
-      "first_seen": "2026-10-28T12:30:47.095969",
-      "score": 55.0
-    },
-    "3b592c09f7af8a2ece7d25cb38ed9c9f": {
-      "title": "Head of Global Digital Transformation (m/f/d)",
-      "company": "Merz Therapeutics",
-      "first_seen": "2026-10-28T12:30:47.095982",
-      "score": 45.0
-    },
-    "edf52fa2f39a9463419726bec847d38a": {
-      "title": "Senior Director AI Catalyst (all genders)",
-      "company": "Bayer",
-      "first_seen": "2026-10-28T12:30:47.095984",
-      "score": 50.0
-    },
-    "d5011799ead2bba44100a490f4a3da83": {
-      "title": "Head of Operations Germany | CCS1209",
-      "company": "CCS Cleaning",
-      "first_seen": "2026-10-28T12:30:47.095985",
-      "score": 55.0
-    },
-    "d4de500c95b2f804a71cd810cf44c206": {
-      "title": "Associate Director Computational Biology",
-      "company": "Haybury",
-      "first_seen": "2026-10-28T12:30:47.095987",
-      "score": 55.0
-    },
-    "7f9c4bc6b0b35e6448a33d223515bb0c": {
-      "title": "Head of Sales Germany (m/w/d)",
-      "company": "Merz Therapeutics",
-      "first_seen": "2026-10-28T12:30:47.095988",
-      "score": 40.0
-    },
-    "12a5226e44db7a89117696e330ad993a": {
-      "title": "Head of Biopharma Germany & Switzerland (m/f/d)",
-      "company": "Fresenius Kabi",
-      "first_seen": "2026-10-28T12:30:47.095989",
-      "score": 40.0
-    },
-    "fc020a55b65ff22c6fa38d65ead8a715": {
-      "title": "Country Manager - Germany",
-      "company": "Glenmark Europe",
-      "first_seen": "2026-10-28T12:30:47.095991",
-      "score": 55.0
-    },
     "5c410c987a30f032223025fd89cc7ba0": {
       "title": "Chief Commercial Officer (CCO) (m/w/d)",
       "company": "FICUS HEALTH",
@@ -2171,11 +2123,107 @@
       "company": "Aidence",
       "first_seen": "2026-11-26T16:41:28.838079",
       "score": 40.0
+    },
+    "b4295f622516f9353d57f2affc185039": {
+      "title": "Director Tech Strategy & GenAI \u2013 Healthcare & Life Sciences (m/f/d)",
+      "company": "Simon-Kucher",
+      "first_seen": "2026-11-27T16:26:52.701973",
+      "score": 50.0
+    },
+    "5366d9d9c96d52c3571be5e52f1c0d16": {
+      "title": "Head of Doctor Partnerships (m/w/d)",
+      "company": "TeleClinic",
+      "first_seen": "2026-11-27T16:26:52.701984",
+      "score": 40.0
+    },
+    "f5b8f72042a49c5e38ccd698923e3ee2": {
+      "title": "Head of Product - Growth (m/f/d)",
+      "company": "EGYM Wellpass DE",
+      "first_seen": "2026-11-27T16:26:52.701988",
+      "score": 60.0
+    },
+    "c445015af0bd628fcb08b1f094a2adc4": {
+      "title": "Director Group Digital Transformation & eBusiness (m/w/d) 100%",
+      "company": "Weleda AG",
+      "first_seen": "2026-11-27T16:26:52.701991",
+      "score": 40.0
+    },
+    "9785b8d5abfbd8a00a176f467418c994": {
+      "title": "Vice President Product Management \u2013 Revenue Cycle Management (RCM) (m/w/d)",
+      "company": "CompuGroup Medical SE & Co. KGaA",
+      "first_seen": "2026-11-27T16:26:52.701994",
+      "score": 45.0
+    },
+    "8a54e71c2ad938a6a428cb8eec7f1da3": {
+      "title": "Head of Site Operations (Germany - Munich)",
+      "company": "BioInnovation Institute (BII)",
+      "first_seen": "2026-11-27T16:26:52.701996",
+      "score": 40.0
+    },
+    "efc46e16071f20755aad6fa03a3cbfb4": {
+      "title": "Head of Supply Chain Management & Operations (m/w/d)",
+      "company": "UNITY Consulting & Innovation",
+      "first_seen": "2026-11-27T16:26:52.701999",
+      "score": 40.0
+    },
+    "35f2f59d70df507ca34a3e2234a49c57": {
+      "title": "Clinical Data Layer Lead (m/f/d) (Germany)",
+      "company": "UCB",
+      "first_seen": "2026-11-27T16:26:52.702002",
+      "score": 40.0
+    },
+    "e76447bf38bb92643be7fcbcde8ae617": {
+      "title": "Associate Director E2E Supply Chain - Launch & Projects",
+      "company": "BioNTech SE",
+      "first_seen": "2026-11-27T16:26:52.702004",
+      "score": 55.0
+    },
+    "76435a4fb3ff30f7b3296b057c39f3b1": {
+      "title": "Associate Director, Market Access",
+      "company": "Alexion Pharmaceuticals, Inc.",
+      "first_seen": "2026-11-27T16:26:52.702006",
+      "score": 70.0
+    },
+    "9194fa3cf18aac205daf047c2a28c23a": {
+      "title": "Vice President / Team Lead, Business Development",
+      "company": "Allucent",
+      "first_seen": "2026-11-27T16:26:52.702007",
+      "score": 40.0
+    },
+    "58668c37c7d128fe482ce49b0e607e1c": {
+      "title": "Head of Cloud Growth (m/w/d)",
+      "company": "secunet Security Networks AG",
+      "first_seen": "2026-11-27T16:26:52.702008",
+      "score": 40.0
+    },
+    "cf289812f9295ccfde2826728b0f541c": {
+      "title": "Senior Director, Business Development",
+      "company": "Jobgether",
+      "first_seen": "2026-11-27T16:26:52.702010",
+      "score": 40.0
+    },
+    "a018d475ac74a98a6d07310eefcfc562": {
+      "title": "Team Lead Product Management (f/m/d) - Robotic Surgery",
+      "company": "B. Braun Group",
+      "first_seen": "2026-11-27T16:26:52.702011",
+      "score": 40.0
+    },
+    "20cb171ebfaeb5e6e953c97da4118534": {
+      "title": "Senior Manager Biopharma Strategy Operations (m/f/d)",
+      "company": "Fresenius Kabi",
+      "first_seen": "2026-11-27T16:26:52.702013",
+      "score": 45.0
+    },
+    "22994584bc655ebe6a0937e01c284dd9": {
+      "title": "Various locationsSenior Manager Biopharma Strategy Operations (m/f/d)",
+      "company": "Fresenius Digital Health",
+      "first_seen": "2026-11-27T16:26:52.702014",
+      "score": 45.0
     }
   },
-  "last_run": "2026-11-26T16:41:28.838083",
+  "last_run": "2026-11-27T16:26:52.702019",
   "stats": {
-    "total_seen": 362,
-    "total_reported": 2162
+    "total_seen": 370,
+    "total_reported": 2178
   }
 }

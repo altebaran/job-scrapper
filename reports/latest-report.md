@@ -1,67 +1,116 @@
-# 🎯 Daily Job Report — 2026-11-26
+# 🎯 Daily Job Report — 2026-11-27
 
-**9** new matches | **0** high relevance
+**16** new matches | **1** high relevance
 
 ---
 
-### 1. 🟡 Head of Product Commercial Unit (m/w/d)
-**CompuGroup Medical SE & Co. KGaA** · 📍 Martinsried, Bavaria, Germany · Score: 60/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-product-commercial-unit-m-w-d-at-compugroup-medical-se-co-kgaa-4494950908)
-  - Title match: 'head of product'
-  - Keywords (1): commercial
+### 1. 🟢 Associate Director, Market Access
+**Alexion Pharmaceuticals, Inc.** · 📍 Munich, Bavaria, Germany · Score: 70/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-market-access-at-alexion-pharmaceuticals-inc-4470492183)
+  - Title match: 'associate director'
+  - Keywords (3): pharma, pharmaceutical, market access
   - Location: 'germany'
 
-### 2. 🟡 Head of Product Commercial Unit (m/w/d) - Jobbird.com
-**Jobster** · 📍 Planegg, Bavaria, Germany · Score: 60/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-product-commercial-unit-m-w-d-jobbird-com-at-jobster-4495003128)
+### 2. 🟡 Head of Product - Growth (m/f/d)
+**EGYM Wellpass DE** · 📍 Munich, Bavaria, Germany · Score: 60/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-product-growth-m-f-d-at-egym-wellpass-de-4495560068)
   - Title match: 'head of product'
-  - Keywords (1): commercial
+  - Keywords (1): growth
   - Location: 'germany'
 
-### 3. 🟡 Senior Director of Operations
-**Ovation Search** · 📍 Frankfurt, Hesse, Germany · Score: 55/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-director-of-operations-at-ovation-search-4495269722)
-  - Title match: 'director of operations'
+### 3. 🟡 Associate Director E2E Supply Chain - Launch & Projects
+**BioNTech SE** · 📍 Mainz, Rhineland-Palatinate, Germany · Score: 55/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/associate-director-e2e-supply-chain-launch-projects-at-biontech-se-4495804294)
+  - Title match: 'associate director'
   - Location: 'germany'
 
 ### 4. 🟡 Director Tech Strategy & GenAI – Healthcare & Life Sciences (m/f/d)
-**Simon-Kucher** · 📍 Cologne, North Rhine-Westphalia, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-tech-strategy-genai-%E2%80%93-healthcare-life-sciences-m-f-d-at-simon-kucher-4477068333)
+**Simon-Kucher** · 📍 Frankfurt am Main, Hesse, Germany · Score: 50/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-tech-strategy-genai-%E2%80%93-healthcare-life-sciences-m-f-d-at-simon-kucher-4477072247)
   - Seniority match: 'director'
   - Keywords (3): life sciences, healthcare, strategy
   - Location: 'germany'
 
-### 5. 🟡 Director Tech Strategy & GenAI – Healthcare & Life Sciences (m/f/d)
-**Simon-Kucher** · 📍 Bonn, North Rhine-Westphalia, Germany · Score: 50/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-tech-strategy-genai-%E2%80%93-healthcare-life-sciences-m-f-d-at-simon-kucher-4477063548)
-  - Seniority match: 'director'
-  - Keywords (3): life sciences, healthcare, strategy
+### 5. ⚪ Vice President Product Management – Revenue Cycle Management (RCM) (m/w/d)
+**CompuGroup Medical SE & Co. KGaA** · 📍 Coblenz, Rhineland-Palatinate, Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/vice-president-product-management-%E2%80%93-revenue-cycle-management-rcm-m-w-d-at-compugroup-medical-se-co-kgaa-4495080905)
+  - Seniority match: 'vice president'
+  - Keywords (2): product management, revenue
   - Location: 'germany'
 
-### 6. ⚪ Strategy Lead, Health
-**Allianz Partners** · 📍 Munich, Bavaria, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/strategy-lead-health-at-allianz-partners-4495284805)
+### 6. ⚪ Senior Manager Biopharma Strategy Operations (m/f/d)
+**Fresenius Kabi** · 📍 Bad Homburg, Hesse, Germany · Score: 45/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-manager-biopharma-strategy-operations-m-f-d-at-fresenius-kabi-4495306854)
+  - Seniority match: 'senior manager'
+  - Keywords (2): pharma, strategy
+  - Location: 'germany'
+
+### 7. ⚪ Various locationsSenior Manager Biopharma Strategy Operations (m/f/d)
+**Fresenius Digital Health** · 📍 Bad Homburg · Score: 45/100
+🔗 [Direct (Fresenius Digital Health)](https://karriere.fresenius.de/en-US/job-detail/59875f20-2a84-574f-92d4-245f6fdff100/senior-manager-biopharma-strategy-operations-m-f-d)
+  - Seniority match: 'senior manager'
+  - Keywords (3): digital health, pharma, strategy
+  - Target company: Fresenius Digital Health
+
+### 8. ⚪ Head of Doctor Partnerships (m/w/d)
+**TeleClinic** · 📍 Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-doctor-partnerships-m-w-d-at-teleclinic-4414739499)
+  - Seniority match: 'head of'
+  - Keywords (1): partnerships
+  - Location: 'germany'
+
+### 9. ⚪ Director Group Digital Transformation & eBusiness (m/w/d) 100%
+**Weleda AG** · 📍 Schwäbisch Gmünd, Baden-Württemberg, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-group-digital-transformation-ebusiness-m-w-d-100%25-at-weleda-ag-4495830327)
+  - Seniority match: 'director'
+  - Keywords (1): digital transformation
+  - Location: 'germany'
+
+### 10. ⚪ Head of Site Operations (Germany - Munich)
+**BioInnovation Institute (BII)** · 📍 Munich, Bavaria, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-site-operations-germany-munich-at-bioinnovation-institute-bii-4495076808)
+  - Seniority match: 'head of'
+  - Keywords (1): innovation
+  - Location: 'germany'
+
+### 11. ⚪ Head of Supply Chain Management & Operations (m/w/d)
+**UNITY Consulting & Innovation** · 📍 Stuttgart Region · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-supply-chain-management-operations-m-w-d-at-unity-consulting-innovation-4495303701)
+  - Seniority match: 'head of'
+  - Keywords (1): innovation
+  - Location: 'stuttgart'
+
+### 12. ⚪ Clinical Data Layer Lead (m/f/d) (Germany)
+**UCB** · 📍 Monheim, North Rhine-Westphalia, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/clinical-data-layer-lead-m-f-d-germany-at-ucb-4488149385)
   - Seniority match: 'lead'
-  - Keywords (1): strategy
+  - Keywords (1): clinical
   - Location: 'germany'
 
-### 7. ⚪ Senior Director, Business Development
-**PSI CRO** · 📍 Munich, Bavaria, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-director-business-development-at-psi-cro-4493832360)
+### 13. ⚪ Vice President / Team Lead, Business Development
+**Allucent** · 📍 Munich, Bavaria, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/vice-president-team-lead-business-development-at-allucent-4495814729)
+  - Seniority match: 'vice president'
+  - Keywords (1): business development
+  - Location: 'germany'
+
+### 14. ⚪ Head of Cloud Growth (m/w/d)
+**secunet Security Networks AG** · 📍 Essen, North Rhine-Westphalia, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/head-of-cloud-growth-m-w-d-at-secunet-security-networks-ag-4493888582)
+  - Seniority match: 'head of'
+  - Keywords (1): growth
+  - Location: 'germany'
+
+### 15. ⚪ Senior Director, Business Development
+**Jobgether** · 📍 Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/senior-director-business-development-at-jobgether-4495084478)
   - Seniority match: 'director'
   - Keywords (1): business development
   - Location: 'germany'
 
-### 8. ⚪ Director Business Development Protein (m/f/d)
-**ProBioGen AG** · 📍 Berlin, Berlin, Germany · Score: 40/100
-🔗 [LinkedIn](https://de.linkedin.com/jobs/view/director-business-development-protein-m-f-d-at-probiogen-ag-4493820341)
-  - Seniority match: 'director'
-  - Keywords (1): business development
+### 16. ⚪ Team Lead Product Management (f/m/d) - Robotic Surgery
+**B. Braun Group** · 📍 Tuttlingen, Baden-Württemberg, Germany · Score: 40/100
+🔗 [LinkedIn](https://de.linkedin.com/jobs/view/team-lead-product-management-f-m-d-robotic-surgery-at-b-braun-group-4495090553)
+  - Seniority match: 'lead'
+  - Keywords (1): product management
   - Location: 'germany'
-
-### 9. ⚪ CareersExplore opportunities to join our team and help tackle some of healthcare’s most complex challenges.
-**Aidence** · 📍 Amsterdam (remote DE) · Score: 40/100
-🔗 [Direct (Aidence)](https://deephealth.com/careers/)
-  - Keywords (1): healthcare
-  - Location: 'remote'
-  - Target company: Aidence
